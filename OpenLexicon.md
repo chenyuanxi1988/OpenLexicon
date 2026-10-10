@@ -1,4 +1,4 @@
-# OpenLegalLexicon
+# OpenLexicon
 
 *An English-first bilingual legal lexicon.*
 
