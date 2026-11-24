@@ -8,6 +8,19 @@ OpenLexicon is an English-first bilingual legal lexicon drafted for learning leg
 
 8,231 headwords (8,113 main entries and 118 abbreviations), 8,659 senses and 8,764 cross-references. The release contains 53 individually source-checked senses. The other senses await provenance and legal review. Read [source and licence notes](SOURCES.md) before reuse.
 
+## Read one entry over HTTP
+
+Open the [alphabetical index](index/) and choose the lowercase first letter of the English headword. Non-A–Z initials are in `other.tsv`. Each row gives the headword, permanent ID, JSONL line and inclusive byte range. Read the index and dictionary at the **same commit** because line numbers and offsets can change. A missing letter has no headwords in that group.
+
+For example, at the 2.3 content commit below, the row for **summary judgment** gives bytes 2391656–2392976. This request retrieves the complete record, including both jurisdictions:
+
+```sh
+curl --fail -sS --range 2391656-2392976 \
+  https://raw.githubusercontent.com/chenyuanxi1988/OpenLexicon/0a7bbb7d4ba9791d63e7a40cbd042662dcdc5622/OpenLexicon.jsonl
+```
+
+A successful partial response has HTTP status 206. Check that the returned ID is `lex-4331`. Clients without byte-range support can search the downloaded JSONL using the lookup below.
+
 ## Find and cite an entry
 
 [OpenLexicon.jsonl](OpenLexicon.jsonl) is the master dictionary. Browse the Markdown above or download the raw JSONL if GitHub's preview is limited. With a local checkout, the following commands require only Python 3:
@@ -40,3 +53,5 @@ Oxford University Press, *A Dictionary of Law*, 10th edition (2022), was used as
 ## License
 
 Project contributions that OpenLexicon is entitled to license are offered under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Rights in any third-party materials are unaffected. Reusers remain responsible for identifying applicable rights, giving attribution, indicating changes, and complying with the license where it applies.
+
+Regenerate the headword index with `python3 tools/index.py` after changing the master. Verify it with `python3 tools/index.py --check`.

@@ -1,0 +1,626 @@
+headword	id	line	start_byte	end_byte
+a coelo usque ad centrum	lex-0064	64	37118	37636
+a posteriori	lex-0256	256	144828	145271
+a priori	lex-0280	280	157894	158334
+ab initio	lex-0006	6	3959	4423
+ab intestato	lex-0007	7	4424	4823
+abandonment	lex-0001	1	0	1096
+abatement	lex-0002	2	1097	2497
+abduction	lex-0003	3	2498	3101
+abet	lex-0004	4	3102	3537
+ABH	lex-0005	5	3538	3958
+abortion	lex-0008	8	4824	5378
+Abroad	lex-7469	7453	3788829	3789214
+absconding	lex-0009	9	5379	5847
+absence	lex-0010	10	5848	6339
+absent parent	lex-0013	13	7157	7695
+absent-mindedness	lex-0012	12	6690	7156
+absente reo	lex-0011	11	6340	6689
+absolute	lex-0014	14	7696	8206
+absolute assignment	lex-0015	15	8207	8683
+absolute discharge	lex-0016	16	8684	9126
+Absolute Priority Rule	lex-5933	5918	3133184	3133665
+absolute privilege	lex-0017	17	9127	9704
+absolute right	lex-0018	18	9705	10667
+absolute theory of sovereign immunity	lex-0019	19	10668	11257
+absolute title	lex-0020	20	11258	12220
+Abstention	lex-5934	5919	3133666	3134111
+Abstract	lex-7744	7728	3907317	3907725
+abstract of title	lex-0023	23	13322	14267
+abstracting electricity	lex-0021	21	12221	12825
+abstraction of water	lex-0022	22	12826	13321
+Absurdity Doctrine	lex-5935	5920	3134112	3134587
+abus de droit	lex-0024	24	14268	15047
+abuse of a dominant position	lex-0025	25	15048	15820
+abuse of a position of trust	lex-0026	26	15821	16256
+Abuse Of Discretion	lex-5936	5921	3134588	3135044
+abuse of process	lex-0027	27	16257	16764
+abusive behaviour	lex-0028	28	16765	17242
+abutter	lex-0029	29	17243	17601
+ABWOR	lex-0030	30	17602	18053
+AC	lex-4855	4849	2683935	2684292
+ACAS	lex-0031	31	18054	18590
+acceleration	lex-0032	32	18591	19213
+acceleration of debt	lex-5144	5129	2795796	2796246
+acceptance	lex-0033	33	19214	19902
+acceptance of a bill	lex-0034	34	19903	20469
+acceptance supra protest	lex-0035	35	20470	21077
+acceptance testing	lex-5288	5273	2858785	2859214
+accepted credit card	lex-5937	5922	3135045	3135477
+Access	lex-5753	5738	3057922	3058322
+access land	lex-0037	37	21978	22476
+access to neighbouring land	lex-0040	40	24189	24709
+accession	lex-0036	36	21078	21977
+accessory	lex-0038	38	22477	23566
+Accessory After The Fact	lex-5938	5923	3135478	3135905
+accessory liability in breach of trust	lex-0039	39	23567	24188
+accident	lex-0041	41	24710	25349
+accomenda	lex-0042	42	25350	25763
+Accommodation	lex-7470	7454	3789215	3789638
+accommodation bill	lex-0043	43	25764	26251
+accomplice	lex-0044	44	26252	26855
+Accomplice Liability	lex-5939	5924	3135906	3136347
+accord and satisfaction	lex-0045	45	26856	27793
+account	lex-0046	46	27794	28221
+account monitoring order	lex-0050	50	29721	30235
+account of profits	lex-0051	51	30236	30706
+account pledge	lex-5145	5130	2796247	2796654
+Account Stated	lex-5940	5925	3136348	3136755
+Accounting	lex-5941	5926	3136756	3137167
+accounting period	lex-0047	47	28222	28713
+accounting practice	lex-0048	48	28714	29243
+accounting records	lex-0049	49	29244	29720
+accounts	lex-0052	52	30707	31492
+accreditation	lex-0053	53	31493	31889
+accredited investor	lex-5146	5131	2796655	2797117
+Accredited Representative	lex-7471	7455	3789639	3790104
+accretion	lex-0054	54	31890	32506
+Accrual	lex-5942	5927	3137168	3137548
+accrue	lex-0055	55	32507	32959
+accrued benefit	lex-5943	5928	3137549	3137966
+accruer	lex-0056	56	32960	33433
+accumulated disc income	lex-5944	5929	3137967	3138458
+accumulation	lex-0057	57	33434	33889
+accuracy principle	lex-5554	5539	2973258	2973664
+accusare nemo se debet	lex-0058	58	33890	34288
+accusatorial procedure	lex-0059	59	34289	34879
+accused	lex-5945	5930	3138459	3138823
+acid attacks	lex-0060	60	34880	35357
+acknowledgment	lex-0061	61	35358	35849
+acknowledgment and undertaking	lex-0062	62	35850	36364
+acknowledgment of service	lex-0063	63	36365	37117
+ACP Group	lex-0065	65	37637	38104
+acquiescence	lex-0066	66	38105	38672
+Acquired citizenship	lex-7472	7456	3790105	3790565
+acquired rights	lex-0067	67	38673	39139
+acquis communautaire	lex-0068	68	39140	39761
+acquisition cost	lex-5946	5931	3138824	3139232
+acquit	lex-5947	5932	3139233	3139625
+acquittal	lex-0069	69	39762	40459
+Acquitted	lex-5754	5739	3058323	3058706
+Act	lex-5948	5933	3139626	3139960
+act in pais	lex-0071	71	40833	41225
+act of a stranger	lex-0080	80	45218	45828
+act of God	lex-0081	81	45829	46317
+Act of Parliament	lex-0082	82	46318	47237
+act of state	lex-0083	83	47238	47754
+acte clair	lex-0070	70	40460	40832
+actio personalis moritur cum persona	lex-0073	73	41728	42233
+actio popularis	lex-0074	74	42234	42823
+actio quanti minoris	lex-0075	75	42824	43228
+action	lex-0072	72	41226	41727
+Action plan order	lex-5949	5934	3139961	3140413
+Active judge	lex-5950	5935	3140414	3140817
+active licensing expenses	lex-5951	5936	3140818	3141308
+active trust	lex-0076	76	43229	43694
+Activities of Transnational Corporations Treaty	lex-0077	77	43695	44154
+activity directions and conditions	lex-0078	78	44155	44714
+activity permissible for a national bank	lex-5952	5937	3141309	3141781
+activity requirement	lex-0079	79	44715	45217
+actual bodily harm	lex-0084	84	47755	48250
+Actual Innocence	lex-5953	5938	3141782	3142224
+Actual Malice	lex-5954	5939	3142225	3142637
+actual military service	lex-0085	85	48251	48736
+actual notice	lex-0086	86	48737	49273
+actual total loss	lex-0087	87	49274	49896
+actus non facit reum nisi mens sit rea	lex-0088	88	49897	50481
+actus reus	lex-0089	89	50482	51033
+ad colligenda bona	lex-0090	90	51034	51540
+ad hoc	lex-0096	96	54119	54501
+ad idem	lex-0097	97	54502	54986
+ad litem	lex-0104	104	58341	58979
+ad referendum	lex-0133	133	77475	77925
+ad valorem	lex-0136	136	78855	79394
+ad vitam aut culpam	lex-0149	149	86443	86865
+additional award	lex-5082	5067	2768836	2769235
+additional voluntary contribution	lex-0091	91	51541	52061
+Additur	lex-5955	5940	3142638	3143068
+Address for correspondence	lex-7745	7729	3907726	3908167
+address for service	lex-0092	92	52062	52621
+adduce	lex-0093	93	52622	52938
+ademption	lex-0094	94	52939	53614
+Adequacy	lex-5956	5941	3143069	3143478
+adequacy decision	lex-5555	5540	2973665	2974077
+Adequate And Independent State Ground	lex-5957	5942	3143479	3143990
+Adequate And Independent State Grounds	lex-5958	5943	3143991	3144475
+Adequate Assurance	lex-5959	5944	3144476	3144920
+Adequate Protection	lex-5960	5945	3144921	3145349
+Adequate Remedy At Law	lex-5961	5946	3145350	3145793
+adhesion contract	lex-0095	95	53615	54118
+ADIZ	lex-0098	98	54987	55481
+adjective law	lex-0099	99	55482	55954
+adjourn	lex-5962	5947	3145794	3146168
+Adjourn/Adjournment	lex-7473	7457	3790566	3790957
+adjournment	lex-0100	100	55955	56522
+adjournment proceedings	lex-4982	4967	2726813	2727253
+Adjudicate/Adjudication	lex-7474	7458	3790958	3791360
+adjudication	lex-0101	101	56523	57297
+adjudication order	lex-0102	102	57298	57768
+Adjudicative Facts	lex-5963	5948	3146169	3146581
+adjustable-rate mortgage	lex-8178	8162	4099436	4099874
+adjustable-rate mortgage index	lex-8179	8163	4099875	4100323
+adjusted gross foreign base company income	lex-5964	5949	3146582	3147066
+adjusted gross income	lex-5965	5950	3147067	3147501
+adjusted gross insurance income	lex-5966	5951	3147502	3147976
+adjusted leasing profit	lex-5967	5952	3147977	3148429
+adjusted licensing profit	lex-5968	5953	3148430	3148887
+adjusted net book income	lex-5969	5954	3148888	3149340
+adjusted net foreign base company income	lex-5970	5955	3149341	3149832
+adjusted net income	lex-5971	5956	3149833	3150261
+adjusted net insurance income	lex-5972	5957	3150262	3150731
+adjustment	lex-0103	103	57769	58340
+Adjustment of Status	lex-7475	7459	3791361	3791813
+Adjustment to immigrant status	lex-7476	7460	3791814	3792289
+Admin	lex-4856	4850	2684293	2684708
+administration	lex-0105	105	58980	60370
+administration action	lex-0106	106	60371	60861
+administration bond	lex-0107	107	60862	61277
+administration of poison	lex-0108	108	61278	61728
+administration order	lex-0109	109	61729	62555
+administration pending suit	lex-0110	110	62556	63059
+administration period	lex-0111	111	63060	63623
+Administrative Adjudication	lex-4983	4968	2727254	2727677
+administrative agent	lex-5147	5132	2797118	2797554
+Administrative Court	lex-0112	112	63624	64185
+administrative expense	lex-4984	4969	2727678	2728093
+Administrative Justice and Tribunals Council	lex-0113	113	64186	64716
+administrative law	lex-0114	114	64717	65529
+administrative letter	lex-0115	115	65530	65993
+Administrative offence	lex-5755	5740	3058707	3059118
+Administrative Office of the United States Courts (AO)	lex-4985	4970	2728094	2728591
+administrative powers	lex-0116	116	65994	66495
+administrative procedure	lex-4986	4971	2728592	2729003
+administrative receiver	lex-0117	117	66496	67143
+administrative review	lex-7935	7919	3990177	3990609
+Administrative Search	lex-4987	4972	2729004	2729437
+administrative tribunal	lex-0118	118	67144	68073
+administrator	lex-0119	119	68074	68916
+Admiralty Court	lex-0120	120	68917	69868
+Admiralty Jurisdiction	lex-7997	7981	4017793	4018204
+Admiralty law	lex-0121	121	69869	70300
+Admissibility	lex-7477	7461	3792290	3792690
+Admissibility Of Confessions	lex-5663	5648	3019085	3019505
+Admissibility Of Duplicates	lex-5664	5649	3019506	3019927
+admissibility of evidence	lex-0122	122	70301	71053
+admissibility of records	lex-0123	123	71054	71534
+Admissible	lex-5665	5650	3019928	3020302
+Admissible evidence	lex-5666	5651	3020303	3020692
+admission	lex-0124	124	71535	72399
+Admission Number or I-94 Number	lex-7478	7462	3792691	3793150
+Admission Withdrawal	lex-5973	5958	3150732	3151160
+Admonish	lex-5974	5959	3151161	3151526
+admonition	lex-0125	125	72400	72780
+Adopted decision	lex-7479	7463	3793151	3793565
+adoption	lex-0126	126	72781	74226
+adoption agency	lex-0127	127	74227	74718
+Adoption By Reference	lex-5756	5741	3059119	3059534
+adoption leave	lex-0128	128	74719	75564
+adoption service	lex-0129	129	75565	76059
+adoption society	lex-0130	130	76060	76429
+Adoptive Admission	lex-5975	5960	3151527	3151956
+adoptive relationship	lex-0131	131	76430	76972
+ADR	lex-0132	132	76973	77474
+adulteration	lex-0134	134	77926	78397
+adultery	lex-0135	135	78398	78854
+advance decision	lex-0137	137	79395	79819
+advance indication of sentence	lex-0138	138	79820	80340
+advance information	lex-0139	139	80341	80862
+Advance Parole	lex-7480	7464	3793566	3793994
+advancement	lex-0140	140	80863	81659
+adversary procedure	lex-0141	141	81660	82149
+Adversary proceeding	lex-5976	5961	3151957	3152400
+adverse inference	lex-0142	142	82150	82645
+adverse occupation	lex-0143	143	82646	83376
+adverse possession	lex-0144	144	83377	83788
+Adverse report	lex-7746	7730	3908168	3908605
+adverse witness	lex-0145	145	83789	84323
+advice on evidence	lex-0146	146	84324	84737
+Advisory Conciliation and Arbitration Service	lex-0147	147	84738	85829
+Advisory guidelines	lex-5757	5742	3059535	3059955
+advisory jurisdiction	lex-0148	148	85830	86442
+Advisory Jury	lex-5977	5962	3152401	3152788
+Advisory Opinion	lex-5978	5963	3152789	3153207
+advocacy qualification	lex-0150	150	86866	87350
+advocate	lex-0151	151	87351	88196
+Advocates-General	lex-0152	152	88197	88693
+advowson	lex-0153	153	88694	89183
+Aedpa Deference	lex-5979	5964	3153208	3153710
+aequitas est quasi aequalitas	lex-0154	154	89184	89649
+affidavit	lex-0155	155	89650	90360
+Affidavit of Support	lex-7481	7465	3793995	3794411
+affiliated domestic owner	lex-5980	5965	3153711	3154144
+affiliation order	lex-0156	156	90361	90857
+affinity	lex-0157	157	90858	91472
+affirm	lex-0158	158	91473	92550
+affirmation	lex-5981	5966	3154145	3154537
+Affirmative Action	lex-5982	5967	3154538	3154968
+Affirmative Defense	lex-5983	5968	3154969	3155402
+affirmative resolution	lex-0159	159	92551	93034
+Affirmed	lex-5984	5969	3155403	3155793
+affray	lex-0160	160	93035	93667
+affreightment	lex-0161	161	93668	94216
+African, Caribbean, Pacific Group	lex-0162	162	94217	94722
+AG	lex-4857	4851	2684709	2685081
+AGA	lex-0163	163	94723	95173
+age discrimination	lex-0164	164	95174	95918
+age of consent	lex-0169	169	98156	98548
+agency	lex-0165	165	95919	96467
+Agency Action	lex-5985	5970	3155794	3156224
+agency workers	lex-0166	166	96468	97058
+agent	lex-0167	167	97059	97689
+Agent Or Employee Statement	lex-5624	5609	3003073	3003509
+agent provocateur	lex-0168	168	97690	98155
+aggravated assault	lex-0170	170	98549	98987
+aggravated burglary	lex-0171	171	98988	99446
+aggravated damages	lex-0172	172	99447	100036
+Aggravated Identity Theft	lex-5986	5971	3156225	3156690
+aggravated trespass	lex-0173	173	100037	100495
+aggravated vehicle-taking	lex-0174	174	100496	100913
+Aggravating And Mitigating Factors	lex-5987	5972	3156691	3157133
+aggravating factors	lex-5988	5973	3157134	3157543
+aggregates levy	lex-0175	175	100914	101362
+aggression	lex-0176	176	101363	102424
+agreement	lex-0177	177	102425	102925
+agreement for a lease	lex-0178	178	102926	103543
+agricultural holding	lex-0180	180	104016	104608
+Agricultural Land and Drainage	lex-0181	181	104609	105172
+agricultural property relief	lex-0182	182	105173	105684
+Agricultural worker	lex-7482	7466	3794412	3794804
+agrément	lex-0179	179	103544	104015
+AI system deployer	lex-5556	5541	2974078	2974510
+AI system provider	lex-5557	5542	2974511	2974934
+AI-generated content	lex-5558	5543	2974935	2975361
+aid and abet	lex-0183	183	105685	106326
+Aiding And Abetting	lex-5989	5974	3157544	3157968
+Air Defence Identification Zone	lex-0184	184	106327	106862
+air force law	lex-0185	185	106863	107280
+air pollution	lex-0186	186	107281	107712
+air rage	lex-0187	187	107713	108111
+air waybill	lex-7936	7920	3990610	3991038
+airspace	lex-0188	188	108112	108795
+AJCL	lex-4858	4852	2685082	2685445
+AJIL	lex-4859	4853	2685446	2685811
+alcohol treatment requirement	lex-0189	189	108796	109411
+alderman	lex-0190	190	109412	109864
+aleatory contract	lex-0191	191	109865	110329
+Alford Plea	lex-5990	5975	3157969	3158426
+algorithmic discrimination	lex-5559	5544	2975362	2975767
+algorithmic transparency	lex-5560	5545	2975768	2976180
+alibi	lex-0192	192	110330	110718
+Alibi Defense	lex-5495	5480	2948785	2949195
+alien	lex-0193	193	110719	111330
+Alien Registration Number	lex-7483	7467	3794805	3795237
+Alien Tort Statute	lex-8224	8208	4118989	4119407
+alienable	lex-0194	194	111331	111813
+Alienated Parent	lex-5758	5743	3059956	3060364
+Alienating Parent	lex-5759	5744	3060365	3060770
+alienation	lex-0195	195	111814	112256
+alieni juris	lex-0196	196	112257	112716
+Alignment Project	lex-0197	197	112717	113258
+alimentary trust	lex-0198	198	113259	113717
+alimony	lex-0199	199	113718	114267
+aliunde	lex-0200	200	114268	114664
+All ER	lex-4860	4854	2685812	2686168
+All Writs Act	lex-5991	5976	3158427	3158840
+all-ports warning system	lex-0208	208	118909	119408
+allegation	lex-0201	201	114665	115265
+Allegations	lex-5760	5745	3060771	3061158
+alleged	lex-5992	5977	3158841	3159229
+allegiance	lex-0202	202	115266	115705
+Allen Charge	lex-5993	5978	3159230	3159677
+allocable investment expenses	lex-5994	5979	3159678	3160140
+allocation	lex-0203	203	115706	116569
+Allocation Of Burden	lex-5995	5980	3160141	3160582
+allocation of costs	lex-5083	5068	2769236	2769647
+allocation questionnaire	lex-0204	204	116570	117221
+allocution	lex-0205	205	117222	117624
+Allodial Title	lex-5996	5981	3160583	3160996
+allograph	lex-0206	206	117625	118075
+allotment	lex-0207	207	118076	118908
+alluvion	lex-0209	209	119409	119780
+ALRC	lex-7747	7731	3908606	3908988
+Alter Ego	lex-5997	5982	3160997	3161455
+alteration	lex-0210	210	119781	120310
+alteration of share capital	lex-0211	211	120311	120940
+Alternate juror	lex-5998	5983	3161456	3161862
+alternative dispute resolution	lex-0212	212	120941	121719
+Alternative dispute resolution (ADR)	lex-5084	5069	2769648	2770122
+alternative finance arrangements	lex-0213	213	121720	122240
+Alternative Investment Market	lex-0214	214	122241	122724
+Alternative Liability	lex-5999	5984	3161863	3162308
+Alternative Pleading	lex-7998	7982	4018205	4018658
+alternative verdict	lex-0215	215	122725	123201
+ambiguity	lex-0216	216	123202	123649
+ambulatory	lex-0217	217	123650	124074
+ameliorating waste	lex-0218	218	124075	124503
+amend	lex-4988	4973	2729438	2729825
+Amended Pleading	lex-7999	7983	4018659	4019079
+amendment	lex-0219	219	124504	125562
+Amendment As Of Course	lex-6000	5985	3162309	3162742
+Amendment At Trial	lex-8000	7984	4019080	4019504
+Amendment Of Pleadings	lex-8001	7985	4019505	4019917
+amenity	lex-6001	5986	3162743	3163157
+Amerasian (Vietnam)	lex-7484	7468	3795238	3795692
+Amerasian Act	lex-7485	7469	3795693	3796138
+amerce	lex-0220	220	125563	125936
+AMERICAN RULE (ATTORNEY FEES)	lex-6002	5987	3163158	3163623
+AMHP	lex-0221	221	125937	126416
+amicus curiae	lex-0222	222	126417	126822
+amnesty	lex-0223	223	126823	127286
+amortizing loan	lex-6003	5988	3163624	3164054
+Amount In Controversy	lex-6004	5989	3164055	3164482
+Amsterdam Treaty	lex-0224	224	127287	128003
+analytical jurisprudence	lex-0225	225	128004	128487
+Ancient Document	lex-6005	5990	3164483	3164915
+ancient lights	lex-0226	226	128488	129040
+ancillary credit business	lex-0227	227	129041	129737
+Ancillary Jurisdiction	lex-8002	7986	4019918	4020343
+ancillary probate	lex-0228	228	129738	130131
+ancillary relief	lex-0229	229	130132	130784
+ancillary restraint	lex-0230	230	130785	131251
+angary	lex-0231	231	131252	131795
+Anglo-Am LR	lex-4861	4855	2686169	2686526
+animals	lex-0232	232	131796	132432
+animus	lex-0233	233	132433	132901
+animus testandi	lex-0234	234	132902	133374
+annexation	lex-0235	235	133375	133920
+annual general meeting	lex-0236	236	133921	134592
+annual return	lex-0237	237	134593	135082
+annual value of land	lex-0238	238	135083	135558
+annualized gross income	lex-6006	5991	3164916	3165343
+annuity	lex-0239	239	135559	135922
+annul	lex-6007	5992	3165344	3165732
+annulment	lex-0240	240	135923	137133
+annulment of award	lex-5085	5070	2770123	2770533
+annus et dies	lex-0241	241	137134	137542
+Anonymous Tip	lex-6008	5993	3165733	3166127
+answer	lex-0242	242	137543	138062
+answer charge hearing	lex-6009	5994	3166128	3166575
+ante litem motam	lex-0244	244	138611	139006
+antecedent report	lex-6010	5995	3166576	3167025
+antecedents	lex-0243	243	138063	138610
+antenuptial agreement	lex-0245	245	139007	139455
+antenuptial settlement	lex-0246	246	139456	139903
+Anti-Assignment Clause	lex-6011	5996	3167026	3167461
+anti-avoidance provisions	lex-0247	247	139904	140556
+anti-bribery compliance	lex-5214	5199	2826037	2826454
+anti-circumvention investigation	lex-7937	7921	3991039	3991495
+anti-dilution protection	lex-5393	5378	2904033	2904479
+anti-dumping duty	lex-7938	7922	3991496	3991902
+Anti-Injunction Act	lex-8003	7987	4020344	4020781
+anti-money laundering	lex-5215	5200	2826455	2826878
+Anti-Slapp	lex-6012	5997	3167462	3167909
+Anti-Suit Injunction	lex-8004	7988	4020782	4021185
+Anti-Trust Injury	lex-6013	5998	3167910	3168321
+anticipatory breach	lex-0248	248	140557	141033
+Anticipatory Repudiation	lex-5289	5274	2859215	2859657
+anticipatory self-defence	lex-0249	249	141034	141669
+Anticompetitive Merger	lex-5394	5379	2904480	2904891
+anticompetitive practice	lex-0250	250	141670	142356
+antidumping	lex-0251	251	142357	142782
+antisocial behaviour order	lex-0252	252	142783	143250
+Antitrust	lex-6014	5999	3168322	3168747
+Antitrust Injunction	lex-8005	7989	4021186	4021593
+antitrust law	lex-0253	253	143251	143695
+Antitrust Standing	lex-6015	6000	3168748	3169206
+Anton Piller order	lex-0254	254	143696	144156
+apec business	lex-6016	6001	3169207	3169663
+apology	lex-0255	255	144157	144827
+App no	lex-4862	4856	2686527	2686956
+Apparent Authority	lex-6017	6002	3169664	3170094
+appeal	lex-0257	257	145272	146099
+Appeal As Of Right	lex-8006	7990	4021594	4022003
+appeal in Revenue matters	lex-0258	258	146100	146506
+Appeal Of Release Or Detention Order	lex-8007	7991	4022004	4022454
+Appeal Tribunal	lex-0260	260	146963	147545
+appeals system	lex-0259	259	146507	146962
+Appearance	lex-6019	6003	3170095	3170505
+Appearance and defence	lex-6020	6004	3170506	3170945
+appellant	lex-0261	261	147546	147938
+Appellate	lex-6022	6006	3171339	3171706
+Appellate Committee	lex-0262	262	147939	148399
+appellate court	lex-6021	6005	3170946	3171338
+Appellate Court Powers	lex-6023	6007	3171707	3172159
+appellate jurisdiction	lex-0263	263	148400	149907
+Appellee	lex-6024	6008	3172160	3172564
+applicable law	lex-0264	264	149908	150295
+applicant	lex-0265	265	150296	150642
+application	lex-6025	6009	3172565	3172950
+Application Support Center	lex-7486	7470	3796139	3796599
+applying the proviso	lex-0266	266	150643	151113
+appointed day	lex-0267	267	151114	151496
+appointee	lex-0268	268	151497	152054
+appointment	lex-0269	269	152055	152494
+appointment of arbitrator	lex-5086	5071	2770534	2770952
+Appointments Clause	lex-6026	6010	3172951	3173409
+appointor	lex-0270	270	152495	152926
+Apportionment	lex-6027	6011	3173410	3173845
+Appraisal Rights	lex-6028	6012	3173846	3174312
+Apprehension	lex-7487	7471	3796600	3796998
+approbate and reprobate	lex-0271	271	152927	153337
+appropriation	lex-0272	272	153338	154243
+appropriation of payments	lex-0273	273	154244	154636
+appropriations in aid	lex-0274	274	154637	155200
+approved clinician	lex-0275	275	155201	155778
+approved mental health professional	lex-0276	276	155779	156343
+Approved Premises	lex-0277	277	156344	156808
+approximation of laws	lex-0278	278	156809	157289
+Appurtenance	lex-6029	6013	3174313	3174700
+appurtenant	lex-0279	279	157290	157893
+Arbitrability	lex-6030	6014	3174701	3175116
+arbitral award	lex-5087	5072	2770953	2771344
+arbitral jurisdiction	lex-5088	5073	2771345	2771774
+arbitral tribunal	lex-5089	5074	2771775	2772182
+Arbitrary And Capricious	lex-6031	6015	3175117	3175583
+arbitrary punishment	lex-0281	281	158335	158770
+arbitration	lex-0282	282	158771	159712
+arbitration agreement	lex-0283	283	159713	160160
+Arbitration Award	lex-5090	5075	2772183	2772603
+arbitration clause	lex-0284	284	160161	160618
+archipelago	lex-0285	285	160619	161094
+Area, the	lex-0286	286	161095	161528
+arguendo	lex-0287	287	161529	161908
+argumentative affidavit	lex-0288	288	161909	162372
+Arising Under Jurisdiction	lex-8008	7992	4022455	4022918
+armchair principle	lex-0289	289	162373	162845
+Armed Career Criminal	lex-5496	5481	2949196	2949636
+arraign	lex-0290	290	162846	163454
+Arraignment	lex-6032	6016	3175584	3175992
+arranged marriage	lex-5761	5746	3061159	3061553
+arrangement	lex-0291	291	163455	164402
+array	lex-0292	292	164403	164829
+arrears	lex-6033	6017	3175993	3176363
+arrest	lex-0293	293	164830	166001
+Arrest Warrant	lex-5497	5482	2949637	2950053
+arrestable offence	lex-0294	294	166002	166486
+arrested development	lex-0295	295	166487	166982
+Arrival-Departure Record (Form I-94/I-94A)	lex-7488	7472	3796999	3797466
+arrived ship	lex-0296	296	166983	167423
+arson	lex-0297	297	167424	167861
+art	lex-4863	4857	2686957	2687276
+article	lex-0298	298	167862	168321
+Article 101	lex-0300	300	169130	169831
+Article 102	lex-0301	301	169832	170609
+Article 267	lex-0302	302	170610	171199
+Article 50	lex-0299	299	168322	169129
+Article Iii	lex-6034	6018	3176364	3176796
+Article III judge	lex-6035	6019	3176797	3177244
+articles of association	lex-0303	303	171200	171575
+artificial insemination	lex-0304	304	171576	172034
+artificial nutrition and hydration	lex-0305	305	172035	172759
+artificial person	lex-0306	306	172760	173199
+As-Applied Challenge	lex-6036	6020	3177245	3177683
+ASBO	lex-0307	307	173200	173794
+ascertained goods	lex-0308	308	173795	174668
+asportation	lex-0309	309	174669	175106
+assault	lex-0310	310	175107	175905
+assault by penetration	lex-0311	311	175906	176578
+assault of a child under 13 by penetration	lex-0312	312	176579	177212
+assault on a police constable in the execution of his duty	lex-0313	313	177213	177637
+Assembly	lex-6037	6021	3177684	3178077
+Assembly of the European Communities	lex-0314	314	177638	178133
+assent	lex-0315	315	178134	178598
+assent procedure	lex-0316	316	178599	179344
+Assessment	lex-5762	5747	3061554	3061948
+assessment of costs	lex-0317	317	179345	179963
+assessor	lex-0318	318	179964	180483
+asset class	lex-6038	6022	3178078	3178490
+asset depreciation period	lex-6039	6023	3178491	3178935
+asset freeze	lex-5216	5201	2826879	2827294
+asset guideline class	lex-6040	6024	3178936	3179395
+asset purchase agreement	lex-5395	5380	2904892	2905331
+assets	lex-0319	319	180484	181315
+Assignee	lex-7748	7732	3908989	3909347
+assignment	lex-0320	320	181316	182190
+assignment and novation	lex-5290	5275	2859658	2860094
+Assignment of rights	lex-7749	7733	3909348	3909755
+Assignment/assign	lex-7750	7734	3909756	3910139
+Assignor/assignee	lex-7751	7735	3910140	3910571
+assisted reproduction	lex-0321	321	182191	182854
+assisted suicide	lex-0322	322	182855	183629
+assize	lex-0323	323	183630	184119
+associated operations	lex-0324	324	184120	184662
+association agreement	lex-0325	325	184663	185057
+Associational Standing	lex-6041	6025	3179396	3179845
+Assume	lex-6042	6026	3179846	3180270
+assumpsit	lex-0326	326	185058	185515
+ASSUMPTION (BANKRUPTCY)	lex-7709	7693	3892860	3893276
+Assumption Of Risk	lex-6043	6027	3180271	3180679
+assurance	lex-0327	327	185516	185921
+assured agricultural occupancy	lex-0328	328	185922	186554
+assured shorthold tenancy	lex-0329	329	186555	187135
+assured tenancy	lex-0330	330	187136	187944
+Asylee	lex-7489	7473	3797467	3797845
+asylum	lex-0331	331	187945	188612
+at large	lex-6044	6028	3180680	3181038
+at sea	lex-0332	332	188613	189057
+attachment	lex-0333	333	189058	189501
+attachment of earnings	lex-0334	334	189502	189893
+Attacking hearsay declarant's credibility	lex-5667	5652	3020693	3021164
+Attainder	lex-6045	6029	3181039	3181463
+attempt	lex-0335	335	189894	190374
+Attempted Monopolization	lex-6046	6030	3181464	3181907
+attendance centre	lex-0336	336	190375	191013
+Attenuation Doctrine	lex-6047	6031	3181908	3182378
+attestation	lex-0337	337	191014	191729
+attestation clause	lex-6048	6032	3182379	3182789
+attorney	lex-0338	338	191730	192147
+Attorney For The Government	lex-4989	4974	2729826	2730225
+Attorney General	lex-0339	339	192148	193111
+Attorney of Record	lex-6049	6033	3182790	3183186
+Attorney Work Product	lex-6050	6034	3183187	3183621
+Attorney-Client Privilege	lex-5668	5653	3021165	3021611
+attornment	lex-0340	340	193112	193563
+Attractive Nuisance	lex-8225	8209	4119408	4119869
+Au Pair Program	lex-7490	7474	3797846	3798290
+auction	lex-0341	341	193564	193925
+auction ring	lex-0342	342	193926	194299
+audi alteram partem	lex-0343	343	194300	194760
+Audit Commission	lex-0344	344	194761	195536
+audit exemption	lex-0345	345	195537	195924
+audit rights	lex-5291	5276	2860095	2860502
+auditor	lex-0346	346	195925	196434
+Auer Deference	lex-6051	6035	3183622	3184072
+Australian Consumer Law	lex-6052	6036	3184073	3184542
+Australian Official Journal of Patents (AOJP)	lex-7752	7736	3910572	3911063
+Australian Statistical Geography Standard (ASGS)	lex-5763	5748	3061949	3062428
+Australian Trade Mark Search	lex-7753	7737	3911064	3911541
+aut punire aut dedere	lex-0356	356	201540	201959
+Authenticated document	lex-7754	7738	3911542	3911952
+authentication	lex-0347	347	196435	196877
+AUTHENTICATION (GENERAL REQUIREMENT)	lex-5669	5654	3021612	3022053
+Authentication By Distinctive Characteristics	lex-5670	5655	3022054	3022496
+Authorised user	lex-7755	7739	3911953	3912388
+Authorities	lex-6053	6037	3184543	3184941
+authority	lex-0348	348	196878	197718
+Authorized Admission	lex-6054	6038	3184942	3185349
+authorized capital	lex-0349	349	197719	198453
+authorized guarantee agreement	lex-0350	350	198454	198973
+authorized investments	lex-0351	351	198974	199452
+Authorized provider	lex-7491	7475	3798291	3798769
+authorized securities	lex-0352	352	199453	199919
+automated decision system	lex-5561	5546	2976181	2976597
+automated individual decision-making	lex-5562	5547	2976598	2977034
+automatic reservation	lex-0353	353	199920	200578
+Automatic stay	lex-7710	7694	3893277	3893672
+automatism	lex-0354	354	200579	201116
+Automobile Exception	lex-6055	6039	3185350	3185810
+Autonomy	lex-6056	6040	3185811	3186185
+autopsy	lex-0355	355	201117	201539
+autre vie	lex-0359	359	203423	203903
+autrefois acquit	lex-0357	357	201960	202686
+autrefois convict	lex-0358	358	202687	203422
+auxiliary jurisdiction	lex-0360	360	203904	204387
+AVC	lex-0361	361	204388	204854
+aver	lex-0362	362	204855	205202
+average	lex-0363	363	205203	205827
+average prime offer rate	lex-6057	6041	3186186	3186650
+average sort loss	lex-6058	6042	3186651	3187114
+avoid	lex-0364	364	205828	206257
+Avoidance	lex-6059	6043	3187115	3187542
+avoidance of contract	lex-7939	7923	3991903	3992397
+avoidance of disposition order	lex-0365	365	206258	206678
+avulsion	lex-0366	366	206679	207126
+Awaiting examination	lex-7756	7740	3912389	3912833
+Awaiting formalities	lex-7757	7741	3912834	3913256
+award	lex-0367	367	207127	207514

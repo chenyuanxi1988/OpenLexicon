@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3 retrieval update · 2026-11-24
+
+- Added a generated alphabetical headword index giving the stable ID, line and inclusive byte range for each of the 8,231 records. A range-capable client can retrieve one record directly from the canonical JSONL. Dictionary content and source-review counts remain at version 2.3.
+
 ## 2.3 · 2026-11-24
 
 - Reviewed nine existing headwords: contract of sale, sale of goods, price, future goods, specific goods, ascertained goods, unascertained goods, sale by description and sale by sample. Replaced nine inherited senses and added eight scoped senses.
