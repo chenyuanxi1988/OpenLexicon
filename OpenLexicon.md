@@ -3,10 +3,10 @@
 *An English-first bilingual legal lexicon drafted for learning legal English.*
 
 - **Entries:** 8,231 (8,113 main entries + 118 abbreviations)
-- **Senses:** 8,651
+- **Senses:** 8,659
 - **Cross-references:** 8,764
 - **Review:** Source-checked senses carry a citation. Other senses await review.
-- **Version:** 2.2 · 2026-11-24
+- **Version:** 2.3 · 2026-11-24
 - **License and provenance:** [SOURCES.md](SOURCES.md)
 
 ---
@@ -2418,9 +2418,12 @@
    - Anti-Social Behaviour Order: a former order banning conduct that causes or threatens harassment, alarm, or distress.
    - *See also:* civil injunctions; Criminal Behaviour Orders
 
-504. **ascertained goods** — 已确定货物
+504. **ascertained goods** — 已特定化的货物；已确定货物
 
-   - Goods identified and agreed upon as the subject of a contract.
+   1. **已特定化的货物：** Goods identified as the particular goods to fulfil the contract, including goods identified after the parties contracted. Once the goods are ascertained, when ownership passes depends on the parties’ intention.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, ss 16–18](https://www.legislation.gov.uk/ukpga/1979/54/section/17) · source-checked · 2026-11-24
    - *See also:* unascertained goods
 
 505. **asportation** — 体育运动 *(n.)*
@@ -7708,9 +7711,16 @@
    - A judgment or recognizance entered in a court's record, creating a debt by the entry rather than by agreement.
    - *See also:* court of record
 
-1631. **contract of sale** — 销售合同
+1631. **contract of sale** — 买卖合同；销售合同
 
-   - See sale; sale of goods.
+   1. **买卖合同：** A contract under which the seller transfers ownership of goods for a monetary price or undertakes to do so. An agreement to sell becomes a sale when the agreed time arrives or the condition for transfer is met.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 2(1), (4)–(6)](https://www.legislation.gov.uk/ukpga/1979/54/section/2) · source-checked · 2026-11-24
+   2. **买卖合同：** In Article 2, the term “contract for sale” covers a transaction that passes title now and an agreement to sell goods later.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-106(1)](https://www.nysenate.gov/legislation/laws/UCC/2-106) · source-checked · 2026-11-24
    - *See also:* sale; sale of goods
 
 1632. **contract of service** — 服务合同
@@ -15579,7 +15589,14 @@
 
 3281. **future goods** — 未来货物
 
-   - Goods a seller will make or acquire after the sale contract is agreed, as opposed to goods the seller already owns.
+   1. **未来货物：** Goods that the seller will manufacture or acquire after contracting. An attempted immediate sale of them takes effect as an agreement to sell.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 5(1), (3)](https://www.legislation.gov.uk/ukpga/1979/54/section/5) · source-checked · 2026-11-24
+   2. **未来货物：** Goods are future goods until they both exist and are identified to the contract. Even if the parties purport to sell them immediately, their transaction operates as a contract to sell.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-105(2)](https://www.nysenate.gov/legislation/laws/UCC/2-105) · source-checked · 2026-11-24
 
 3282. **future interest** — 未来利息
 
@@ -27147,9 +27164,16 @@
    - *Labels:* (in the law of evidence)
    - *See also:* hearsay evidence
 
-5726. **price** — 价格 *(n.)*
+5726. **price** — 价款；价格 *(n.)*
 
-   - In a sale, the money paid to transfer ownership, fixed by the contract or a reasonable sum.
+   1. **价款：** The amount payable for the goods. It may be fixed in the contract, set by an agreed method, or established by prior dealings. If none determines it, the buyer owes a reasonable amount in the circumstances.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 8(1)–(3)](https://www.legislation.gov.uk/ukpga/1979/54/section/8) · source-checked · 2026-11-24
+   2. **价款：** The return owed for goods can consist of money, other goods or another form of payment. If goods form part or all of the price, each party is a seller of the goods it undertakes to transfer.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-304(1)](https://www.nysenate.gov/legislation/laws/UCC/2-304) · source-checked · 2026-11-24
    - *See also:* consideration; sale of goods
 
 5727. **price adjustment mechanism** — 价格调整机制 *(n.)*
@@ -31494,24 +31518,53 @@
    - A contract for selling goods or transferring land.
    - *See also:* sale of goods
 
-6638. **sale by description** — 按描述销售
+6638. **sale by description** — 凭说明买卖；按描述销售
 
-   - A sale where goods must match the description given in the contract.
+   1. **凭说明买卖：** A sale in which a description identifies what the seller undertakes to supply. Where this section applies, the goods must conform to the description even if they also match an agreed sample. Consumer contracts covered by Part 1 Chapter 2 of the 2015 Act have a separate rule.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 13(1)–(2), (5)](https://www.legislation.gov.uk/ukpga/1979/54/section/13) · source-checked · 2026-11-24
+   2. **凭说明买卖：** Where a trader supplies goods by description, the consumer contract requires conformity with that description. Matching a sample alone is insufficient when the sale is also by description.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 11(1)–(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/11) · source-checked · 2026-11-24
+   3. **凭说明买卖：** A description forming part of the basis of the bargain creates an express warranty that the goods will conform to it.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-313(1)(b)](https://www.nysenate.gov/legislation/laws/UCC/2-313) · source-checked · 2026-11-24
    - *See also:* implied condition
 
-6639. **sale by sample** — 样品销售
+6639. **sale by sample** — 凭样品买卖；样品销售
 
-   - A sale where the bulk goods must match the sample provided by the seller.
+   1. **凭样品买卖：** A sale on an express or implied sample term. Where this section applies, the bulk must match the sample in quality and must be free of defects that make quality unsatisfactory and would escape reasonable examination of the sample.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 15(1)–(2), (5)](https://www.legislation.gov.uk/ukpga/1979/54/section/15) · source-checked · 2026-11-24
+   2. **凭样品买卖：** Where the consumer sees or examines a sample and contracts by reference to it, the goods must match except for differences pointed out before contracting. Defects that reasonable examination of the sample would miss must not render the goods unsatisfactory.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 13(1)–(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/13) · source-checked · 2026-11-24
+   3. **凭样品买卖：** A sample or model forming part of the basis of the bargain creates an express warranty that the entire delivery will conform to it.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-313(1)(c)](https://www.nysenate.gov/legislation/laws/UCC/2-313) · source-checked · 2026-11-24
    - *See also:* implied condition
 
 6640. **Sale Free And Clear** — 无负担出售
 
    1. **无负担出售：** A bankruptcy sale transferring property free of specified interests when statutory conditions and protections are satisfied.
 
-6641. **sale of goods** — 货物销售
+6641. **sale of goods** — 货物买卖；货物销售
 
-   - A contract transferring ownership of goods for a money price, with implied terms.
-   - *See also:* express terms; implied condition; satisfactory quality
+   1. **货物买卖：** In a completed sale, ownership of goods passes from seller to buyer for a monetary price. If ownership is to pass later or on fulfilment of a condition, the parties have an agreement to sell.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 2(1), (4)–(5)](https://www.legislation.gov.uk/ukpga/1979/54/section/2) · source-checked · 2026-11-24
+   2. **货物买卖：** A sale occurs when title to goods passes from seller to buyer in return for a price. It is a present sale if the parties accomplish that transfer by making the contract.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-106(1)](https://www.nysenate.gov/legislation/laws/UCC/2-106) · source-checked · 2026-11-24
+   - *See also:* express term; implied condition; satisfactory quality
 
 6642. **sale on approval** — 批准后销售
 
@@ -33473,7 +33526,10 @@
 
 7059. **specific goods** — 特定货物
 
-   - Goods identified at the time the sale contract is made.
+   1. **特定货物：** Goods picked out and agreed upon by the parties when they make the sale contract. A specified fraction or percentage of those identified goods also qualifies.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 61(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/61) · source-checked · 2026-11-24
    - *See also:* unascertained goods
 
 7060. **specific intent** — 特定意图
@@ -36402,9 +36458,12 @@
 
    1. **一致裁决：** A verdict on which all required jurors agree, subject to any legally permitted alternative arrangement.
 
-7677. **unascertained goods** — 特定货物
+7677. **unascertained goods** — 尚未特定化的货物
 
-   - Goods not identified when a sale contract is made, ownership passing only once they are set aside.
+   1. **尚未特定化的货物：** Goods described by the contract whose individual identity has yet to be fixed. Ordinarily ownership cannot pass until identification. Section 20A allows a buyer who has paid for some or all of a specified quantity from an identified bulk to acquire an undivided share, unless otherwise agreed.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, ss 16 and 20A](https://www.legislation.gov.uk/ukpga/1979/54/section/16) · source-checked · 2026-11-24
    - *See also:* specific goods
 
 7678. **unauthorized camping** — 未经授权的露营

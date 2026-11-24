@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.3 · 2026-11-24
+
+- Reviewed nine existing headwords: contract of sale, sale of goods, price, future goods, specific goods, ascertained goods, unascertained goods, sale by description and sale by sample. Replaced nine inherited senses and added eight scoped senses.
+- Corrected the Chinese rendering of unascertained goods, previously identical to specific goods. Distinguished identification at formation from later ascertainment, and recorded the statutory exception for purchases out of an identified bulk.
+- Separated UK commercial and consumer conformity rules from the New York express-warranty rules. The price entry now covers non-monetary payment under New York law.
+- Checked all 12 outgoing references on the nine records and aligned the plural display label for express term with its existing target.
+- 8,231 headwords and 8,659 senses. Of these, 53 senses have individual sources and 8,606 await review.
+
 ## 2.2 · 2026-11-24
 
 - Reviewed buyer (lex-0524), consideration (lex-0903), goods (lex-1952) and seller (lex-4015). Replaced five inherited senses using official sources and added five jurisdiction-specific senses. The earlier consumer-contract sense of goods retains its number and text.
