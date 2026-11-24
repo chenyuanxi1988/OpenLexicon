@@ -12,6 +12,7 @@ The JSONL source object provides the authority, pinpoint, official URL and consu
 
 | Area | Authorities used in this release |
 |---|---|
+| Contract formation, sales and disposal consideration | *Barnes v The Eastenders Group* [2014] UKSC 26 para 104, *Hamer v Sidway* 124 NY 538, UK Sale of Goods Act 1979 s 61(1), N.Y. U.C.C. §§ 2-103 and 2-105, HMRC CG14500 and [Taxation of Chargeable Gains Act 1992 s 17](https://www.legislation.gov.uk/ukpga/1992/12/section/17) |
 | Consumer contracts, companies, data protection | UK Consumer Rights Act 2015 s 2, Companies Act 2006 ss 250–251, Data Protection Act 2018 s 3 |
 | Civil procedure and evidence | England and Wales CPR 24.3, U.S. Federal Rule of Civil Procedure 56(a), Federal Rules of Evidence 401 and 801 |
 | Crime, tort, land and trusts | Theft Act 1968 s 1, *Barton and Booth* [2020] EWCA Crim 575, Occupiers’ Liability Act 1957 s 2, Law of Property Act 1925 s 1, Trustee Act 2000 s 3 |

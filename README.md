@@ -4,9 +4,9 @@ OpenLexicon is an English-first bilingual legal lexicon drafted for learning leg
 
 **[Read the dictionary → OpenLexicon.md](OpenLexicon.md)**
 
-## Version 2.1 · 2026-11-24
+## Version 2.2 · 2026-11-24
 
-8,231 headwords (8,113 main entries and 118 abbreviations), 8,646 senses and 8,764 cross-references. The release contains 26 individually source-checked senses. The other senses await provenance and legal review. Read [source and licence notes](SOURCES.md) before reuse.
+8,231 headwords (8,113 main entries and 118 abbreviations), 8,651 senses and 8,764 cross-references. The release contains 36 individually source-checked senses. The other senses await provenance and legal review. Read [source and licence notes](SOURCES.md) before reuse.
 
 ## Find and cite an entry
 
@@ -19,7 +19,7 @@ python3 tools/lookup.py lex-4331
 python3 tools/lookup.py 商业秘密
 ```
 
-The lookup returns the JSONL line number and original record, including all senses. Cite the commit printed by Git, the stable ID and the sense number. For example, **OpenLexicon 2.1, lex-4331, sense 2** identifies the U.S. federal summary-judgment sense. Its legal authority is Fed. R. Civ. P. 56(a). Sense 1 is the England and Wales rule.
+The lookup returns the JSONL line number and original record, including all senses. Cite the commit printed by Git, the stable ID and the sense number. For example, **OpenLexicon 2.2, lex-4331, sense 2** identifies the U.S. federal summary-judgment sense. Its legal authority is Fed. R. Civ. P. 56(a). Sense 1 is the England and Wales rule.
 
 [AI retrieval and editing rules](AGENTS.md) · [Sources and reuse](SOURCES.md) · [Change history](CHANGELOG.md) · [Development plan](DEVELOPMENT_PLAN.md)
 

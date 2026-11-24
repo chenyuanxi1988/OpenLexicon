@@ -44,7 +44,7 @@ def render(records):
              f"- **Entries:** {len(records):,} ({counts['main_entry']:,} main entries + {counts['abbreviation_appendix']} abbreviations)",
              f'- **Senses:** {senses:,}', f'- **Cross-references:** {refs:,}',
              '- **Review:** Source-checked senses carry a citation. Other senses await review.',
-             '- **Version:** 2.1 · 2026-11-24',
+             '- **Version:** 2.2 · 2026-11-24',
              '- **License and provenance:** [SOURCES.md](SOURCES.md)', '', '---', '']
     def sort_key(record):
         term = record['term_en'].casefold()

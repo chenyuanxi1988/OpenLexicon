@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.2 · 2026-11-24
+
+- Reviewed buyer (lex-0524), consideration (lex-0903), goods (lex-1952) and seller (lex-4015). Replaced five inherited senses using official sources and added five jurisdiction-specific senses. The earlier consumer-contract sense of goods retains its number and text.
+- Distinguished English contract consideration and the UK capital gains meaning from the New York holding on forbearance. Distinguished UK and New York statutory definitions in sales contracts, including the Scottish wording for goods.
+- Checked all seven outgoing references from the four records. Corrected the goods reference from the general headword chose to Chose In Action (lex-6167).
+- 8,231 headwords, 8,651 senses, 36 source-checked senses and 8,615 pending. The 8,764 cross-references include 792 whose display label differs from the target headword.
+
 ## 2.1 · 2026-11-24
 
 - Added four headwords: trader, digital content, improper means and employ. Reviewed 26 senses across 25 headwords against named authorities. The other 8,620 senses retain their inherited review status.

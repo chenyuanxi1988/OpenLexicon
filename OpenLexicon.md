@@ -3,10 +3,10 @@
 *An English-first bilingual legal lexicon drafted for learning legal English.*
 
 - **Entries:** 8,231 (8,113 main entries + 118 abbreviations)
-- **Senses:** 8,646
+- **Senses:** 8,651
 - **Cross-references:** 8,764
 - **Review:** Source-checked senses carry a citation. Other senses await review.
-- **Version:** 2.1 · 2026-11-24
+- **Version:** 2.2 · 2026-11-24
 - **License and provenance:** [SOURCES.md](SOURCES.md)
 
 ---
@@ -4113,7 +4113,14 @@
 
 868. **buyer** — 买方 *(n.)*
 
-   - The party to a sale of goods who acquires the goods and pays the price.
+   1. **买方：** The person purchasing the goods, including someone who has agreed to purchase them even though the sale is still to be completed.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 61(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/61) · source-checked · 2026-11-24
+   2. **买方：** Under Article 2, the purchasing party in either a completed sale of goods or a contract for their purchase.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-103(1)(a)](https://www.nysenate.gov/legislation/laws/UCC/2-103) · source-checked · 2026-11-24
    - *See also:* purchaser
 
 869. **buyer's right to cure** — 买方补救权
@@ -7227,10 +7234,20 @@
 
    1. **保全措施：** Temporary directions preserving assets, evidence, or existing conditions while a dispute remains unresolved.
 
-1531. **consideration** — 对价；处分实际取得的价款 *(n.)*
+1531. **consideration** — 对价；资产处置对价 *(n.)*
 
-   1. **对价：** The price given by one contracting party for the other's promise, without which an informal agreement is not binding.
-   2. **处分实际取得的价款：** For certain taxes, the sum actually obtained when an asset is disposed of, whether in cash or its equivalent.
+   1. **对价：** What the promisee gives in exchange for a contractual promise. The exchange can consist of a return promise or an act.
+      - *Sense labels:* contract formation
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Barnes v The Eastenders Group [2014] UKSC 26, para 104](https://supremecourt.uk/uploads/uksc_2013_0006_judgment_6f3896353e.pdf) · source-checked · 2026-11-24
+   2. **资产处置对价：** The value received for disposing of an asset, including non-cash benefits such as relief from a debt. A statutory valuation rule can substitute market value, for example on a non-arm’s-length disposal within section 17.
+      - *Sense labels:* capital gains taxation
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [HMRC Capital Gains Manual, CG14500; Taxation of Chargeable Gains Act 1992, s 17(1)(a)](https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14500) · source-checked · 2026-11-24
+   3. **对价：** What is given or undertaken in exchange for a promise. Giving up the exercise of a legal right at the promisor’s request can suffice even if the promisor gains no financial benefit.
+      - *Sense labels:* contract formation
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [Hamer v Sidway, 124 NY 538, 545–46 (1891)](https://www.nycourts.gov/REPORTER/archives/hamer_sidway.htm) · source-checked · 2026-11-24
    - *See also:* bill of exchange; disposal
 
 1532. **consistory court** — 长老会法庭
@@ -16002,12 +16019,23 @@
 
 3371. **goods** — 货物 *(pl. n.)*
 
-   1. Personal property other than land, money and choses in action, including items agreed to be severed from land before sale.
+   1. **货物：** Under the 1979 Act, goods include personal chattels other than money and choses in action. The definition also covers cultivated crops, things attached to land that the parties agree to sever before or under the sale contract, and undivided shares in goods.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* England and Wales; Northern Ireland
+      - *Source:* [Sale of Goods Act 1979, s 61(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/61) · source-checked · 2026-11-24
    2. **货物：** Under Part 1, movable physical items. Water, gas and electricity fall within the definition when offered in a measured quantity or limited volume.
       - *Sense labels:* consumer contracts
       - *Sense jurisdiction:* United Kingdom
       - *Source:* [Consumer Rights Act 2015, s 2(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/2) · source-checked · 2026-11-24
-   - *See also:* choses; emblements; services
+   3. **货物：** The Scottish limb of the 1979 Act covers corporeal moveables apart from money. The Act expressly includes undivided shares in goods, cultivated crops and items attached to land that the parties agree to sever before or under the sale contract.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* Scotland
+      - *Source:* [Sale of Goods Act 1979, s 61(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/61) · source-checked · 2026-11-24
+   4. **货物：** Article 2 covers items movable when identified to the sale contract, including custom-made items. The payment currency, investment securities and choses in action are excluded. The definition also covers unborn livestock, growing crops and certain items to be severed from land.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-105(1)](https://www.nysenate.gov/legislation/laws/UCC/2-105) · source-checked · 2026-11-24
+   - *See also:* Chose In Action; emblements; services
 
 3372. **goodwill** — 商誉 *(n.)*
 
@@ -32109,7 +32137,14 @@
 
 6778. **seller** — 卖方 *(n.)*
 
-   - The person who, under a sale-of-goods contract, hands over the goods or promises to do so to the buyer.
+   1. **卖方：** The person selling the goods, including someone who has agreed to sell them for later transfer.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Sale of Goods Act 1979, s 61(1)](https://www.legislation.gov.uk/ukpga/1979/54/section/61) · source-checked · 2026-11-24
+   2. **卖方：** Under Article 2, the party selling the goods or entering into a contract to sell them.
+      - *Sense labels:* sale of goods
+      - *Sense jurisdiction:* New York (US)
+      - *Source:* [N.Y. U.C.C. § 2-103(1)(d)](https://www.nysenate.gov/legislation/laws/UCC/2-103) · source-checked · 2026-11-24
    - *See also:* sale of goods
 
 6779. **Seller’s Property Information Form** — 卖方财产信息表
