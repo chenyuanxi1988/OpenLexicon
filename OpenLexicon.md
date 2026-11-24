@@ -2,12 +2,12 @@
 
 *An English-first bilingual legal lexicon drafted for learning legal English.*
 
-- **Entries:** 8,227 (8,109 main entries + 118 abbreviations)
-- **Senses:** 8,633
-- **Cross-references:** 8,790
-- **Chinese:** working translations pending editorial review.
-- **Version:** 2 · 2026-10-11
-- **License:** CC BY-SA 4.0.
+- **Entries:** 8,231 (8,113 main entries + 118 abbreviations)
+- **Senses:** 8,646
+- **Cross-references:** 8,764
+- **Review:** Source-checked senses carry a citation. Other senses await review.
+- **Version:** 2.1 · 2026-11-24
+- **License and provenance:** [SOURCES.md](SOURCES.md)
 
 ---
 
@@ -53,13 +53,13 @@
 6. **ab initio** — 自始；自始即
 
    - Latin for 'from the beginning'; a contract void ab initio is treated as never having existed.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* mistake
 
 7. **ab intestato** — 无遗嘱继承
 
    - Latin for 'from an intestate'; used of an estate inherited where the deceased left no valid will.
-   - *Language:* Latin
+   - *Language:* la
 
 8. **abortion** — 堕胎；人工流产 *(n.)*
 
@@ -85,7 +85,7 @@
 12. **absente reo** — 被告缺席
 
    - Latin phrase describing a defendant who is absent.
-   - *Language:* Latin
+   - *Language:* la
 
 13. **absent-mindedness** — 心不在焉 *(n.)*
 
@@ -166,9 +166,9 @@
 29. **abus de droit** — 权利滥用
 
    - French for 'abuse of right'; a civil-law notion barring the exercise of a right purely to gain an improper advantage.
-   - *Jurisdiction:* England and Wales
    - *Language:* fr
    - *Expands to:* European Court of Justice
+   - *Jurisdiction:* England and Wales
    - *See also:* civil law; European Court of Justice; General Anti-Abuse Rule; purpose
 
 30. **abuse of a dominant position** — 滥用市场支配地位
@@ -230,7 +230,7 @@
 42. **acceptance supra protest** — 参加承兑；拒付后承兑
 
    - Where a non-liable party accepts a traded bill, with the holder's consent, to protect the reputation of a drawer or endorser.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* acceptance of a bill; protest
 
 43. **acceptance testing** — 验收测试
@@ -372,7 +372,7 @@
 72. **accretion** — 增生 *(n.)*
 
    - The gradual, almost imperceptible addition of new land formed by a shift in a water channel's flow.
-   - *See also:* avulsion; thalweg, rule of the; avulsion
+   - *See also:* avulsion; thalweg, rule of the
 
 73. **Accrual** — 请求权发生 *(n.)*
 
@@ -408,7 +408,7 @@
 80. **accusare nemo se debet** — 没有人一定会指责自己
 
    - Latin maxim meaning nobody can be compelled to incriminate themselves.
-   - *Language:* Latin
+   - *Language:* la
 
 81. **accusatorial procedure** — 指控程序
 
@@ -443,7 +443,7 @@
 87. **a coelo usque ad centrum** — 从天堂到地心
 
    - Latin phrase meaning that land ownership extends from the sky down to the earth's core.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* cuius est solum, eius est usque ad coelum et ad inferos
 
 88. **ACP Group** — ACP 集团
@@ -495,12 +495,12 @@
 98. **acte clair** — 明确的观点
 
    - A law-French term for a point so clear that it needs no legal argument.
-   - *Language:* Latin
+   - *Language:* la
 
 99. **act in pais** — 以派斯行事
 
    - Law-French phrase for something done outside court and not recorded as a matter of record.
-   - *Language:* Latin
+   - *Language:* la
 
 100. **action** — 诉讼 *(n.)*
 
@@ -514,20 +514,20 @@
 102. **actio personalis moritur cum persona** — 个人行为与有关人员一起死亡
 
    - Latin maxim meaning a personal action ends with the death of the person concerned.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* defamation
 
 103. **actio popularis** — 公益诉讼
 
    - Latin for an action brought in the public interest to protect a right shared by the community.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* International Court of Justice; erga omnes obligations
 
 104. **actio quanti minoris** — 少多少的行动
 
    - Latin for an action allowing a buyer to claim a price reduction for a defect in the goods.
-   - *Language:* Latin
+   - *Language:* la
 
 105. **Active judge** — 现职法官
 
@@ -614,19 +614,19 @@
 122. **actus non facit reum nisi mens sit rea** — 无犯罪心态即无犯罪行为
 
    - Latin maxim stating that conduct is not criminal unless accompanied by a guilty state of mind.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* actus reus; mens rea
 
 123. **actus reus** — 犯罪行为
 
    - Latin for 'guilty act'; the prohibited conduct, circumstances, and consequences that make up a crime's external element.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* mens rea; omission
 
 124. **ad colligenda bona** — 收集货物
 
    - Latin for 'to collect the goods'; a limited grant of administration to preserve or sell perishable estate assets.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* letters of administration
 
 125. **additional award** — 补充裁决
@@ -698,12 +698,12 @@
 140. **ad hoc** — 为此
 
    - Latin for 'for this'; denoting something arranged for one particular purpose or occasion only.
-   - *Language:* Latin
+   - *Language:* la
 
 141. **ad idem** — 意思表示一致
 
    - **意思表示一致：** Latin for 'towards the same'; it shows that parties have reached a shared understanding.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* consensus ad idem
 
 142. **ADIZ** — 防空识别区
@@ -739,9 +739,13 @@
 
    1. **裁定；裁决：** Making an official determination of an application, claim, or dispute.
 
-149. **adjudication** — 裁决 *(n.)*
+149. **adjudication** — 裁决；行政裁决程序 *(n.)*
 
-   - A formal ruling issued by a court or tribunal.
+   1. A formal ruling issued by a court or tribunal.
+   2. **行政裁决程序：** Under the Administrative Procedure Act, the agency process leading to an order, including a licensing disposition.
+      - *Sense labels:* administrative procedure
+      - *Sense jurisdiction:* US federal
+      - *Source:* [5 U.S.C. § 551(6)–(7)](https://uscode.house.gov/us/usc/119-124/t5/s551/) · source-checked · 2026-11-24
 
 150. **adjudication order** — 裁决令
 
@@ -815,7 +819,7 @@
 166. **ad litem** — 诉讼中的
 
    - **诉讼中的：** Latin for 'as regards the action'; describes an appointment to represent an estate in litigation.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* family provision; litigation friend; children’s guardian
 
 167. **administration** — 管理 *(n.)*
@@ -1005,7 +1009,7 @@
    1. The legal process transferring parental rights and duties for a minor to new parents.
    2. A court's reliance on an international-law rule that never became part of domestic law but does not contradict it.
    3. A local authority's choice to activate, within its area, an enabling statute that grants optional powers.
-   - *See also:* child arrangements order; parental responsibility; children’s guardian; adoption service; parental responsibility; care order; placement order; child arrangements order; special guardianship order; contact order; post-adoption contact
+   - *See also:* child arrangements order; parental responsibility; children’s guardian; adoption service; care order; placement order; special guardianship order; contact order; post-adoption contact
 
 207. **adoption agency** — 收养机构
 
@@ -1019,7 +1023,7 @@
 209. **adoption leave** — 收养假
 
    - Time off work for parents following the placement of a newly adopted child.
-   - *See also:* paternity leave; maternity rights; employment tribunal; dependants’ leave; parental leave; paternity leave
+   - *See also:* paternity leave; maternity rights; employment tribunal; dependants’ leave; parental leave
 
 210. **adoption service** — 收养服务
 
@@ -1047,7 +1051,7 @@
 215. **ad referendum** — 尚待批准；待批准
 
    - **尚待批准；待批准：** Latin for 'subject to reference'; describes a contract or matter awaiting others' agreement and final details.
-   - *Language:* Latin
+   - *Language:* la
 
 216. **adulteration** — 掺假 *(n.)*
 
@@ -1062,7 +1066,7 @@
 218. **ad valorem** — 从价
 
    - Latin for 'according to value'; describes a tax or duty charged in proportion to value.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* stamp duty land tax; value-added tax
 
 219. **advance decision** — 预先决定
@@ -1151,7 +1155,7 @@
 237. **ad vitam aut culpam** — 终身或直至责备
 
    - Latin for 'for life or until blame'; the rule that some officeholders can be removed only for misconduct.
-   - *Language:* Latin
+   - *Language:* la
 
 238. **advocacy qualification** — 辩护资格
 
@@ -1181,7 +1185,7 @@
 243. **aequitas est quasi aequalitas** — 平等即公平
 
    - Latin maxim meaning equity is like equality; see equality is equity.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* equality is equity
 
 244. **affidavit** — 宣誓书 *(n.)*
@@ -1278,7 +1282,7 @@
 263. **agent** — 代理人 *(n.)*
 
    - A person appointed to act for another, the principal, often negotiating contracts with third parties.
-   - *See also:* commercial agent; commercial agent; mercantile agent
+   - *See also:* commercial agent; mercantile agent
 
 264. **Agent Or Employee Statement** — 代理人或雇员陈述 *(n.)*
 
@@ -1379,7 +1383,7 @@
 283. **agrément** — 协议 *(n.)*
 
    - A state's formal notification that it accepts a proposed foreign diplomat as acceptable to receive.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* persona non grata
 
 284. **aid and abet** — 援助和教唆
@@ -1465,7 +1469,7 @@
 301. **alibi** — 不在场 *(n.)*
 
    - Latin for 'elsewhere'; a defence that the accused was not at the scene when the offence occurred.
-   - *Language:* Latin
+   - *Language:* la
 
 302. **Alibi Defense** — 不在场辩护
 
@@ -1497,7 +1501,7 @@
 308. **alieni juris** — 他人的权利
 
    - Latin for 'of another's right'; describing a person who lacks full age and capacity.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* sui juris
 
 309. **Alien Registration Number** — 外国人登记号码 *(n.)*
@@ -1528,7 +1532,7 @@
 314. **aliunde** — 来自其他地方 *(adj.)*
 
    - Latin for 'from elsewhere'; describing evidence drawn from outside the document in question.
-   - *Language:* Latin
+   - *Language:* la
 
 315. **allegation** — 指控 *(n.)*
 
@@ -1718,7 +1722,7 @@
 356. **amerce** — 一个古老的术语，意思是罚款 *(vb.)*
 
    - An old term meaning to punish someone with a fine.
-   - *Language:* Latin
+   - *Language:* la
 
 357. **AMERICAN RULE (ATTORNEY FEES)** — 律师费各自承担规则
 
@@ -1732,7 +1736,7 @@
 359. **amicus curiae** — 法庭或法庭之友
 
    - Latin for 'friend of the court'; a non-party who assists the court with argument or expertise.
-   - *Language:* Latin
+   - *Language:* la
 
 360. **amnesty** — 大赦 *(n.)*
 
@@ -1802,13 +1806,13 @@
 374. **animus** — 故意；意图 *(n.)*
 
    - **故意；意图：** Latin for intention, used in compounds such as animus furandi, the intent to steal.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* domicile
 
 375. **animus testandi** — 立遗嘱的意图
 
    - **立遗嘱的意图：** Latin for 'a mind to make a will'; see testamentary intention.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* testamentary intention
 
 376. **annexation** — 吞并 *(n.)*
@@ -1862,7 +1866,7 @@
 385. **annus et dies** — 一年零一天
 
    - Latin for 'a year and a day'; formerly the period during which the Crown could exploit a felon's lands.
-   - *Language:* Latin
+   - *Language:* la
 
 386. **Anonymous Tip** — 匿名线索
 
@@ -1889,7 +1893,7 @@
 391. **ante litem motam** — 争议发生前
 
    - Latin for 'before controversy moved'; describing words or acts that precede litigation.
-   - *Language:* Latin
+   - *Language:* la
 
 392. **antenuptial agreement** — 婚前协议
 
@@ -2013,7 +2017,7 @@
 419. **a posteriori** — 后验
 
    - Latin for reasoning from observed effects back to causes; inductive reasoning.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* a priori
 
 420. **Apparent Authority** — 表见代理权 *(n.)*
@@ -2205,7 +2209,7 @@
 460. **a priori** — 先验
 
    - Latin for reasoning from abstract premises to effects; deductive reasoning.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* a posteriori
 
 461. **Arbitrability** — 可仲裁性 *(n.)*
@@ -2266,7 +2270,7 @@
 473. **arguendo** — 为了论证 *(adv.)*
 
    - A term used to explore a point's implications without conceding that it is true.
-   - *Language:* Latin
+   - *Language:* la
 
 474. **argumentative affidavit** — 论证性宣誓书
 
@@ -2357,26 +2361,26 @@
    - One provision within a document; the plural usually denotes the document as a whole.
    - *See also:* articles of association
 
-492. **Article 50** — 第 50 条
-
-   - The treaty provision setting out how a member state may withdraw from the European Union.
-   - *See also:* Treaty on European Union; notice; Referendum on Continued Membership of the European Union; Miller’s case (No. 1); Brexit
-
-493. **Article 101** — 第 101 条
+492. **Article 101** — 第 101 条
 
    - The EU treaty provision banning anticompetitive agreements that affect trade between member states.
    - *See also:* competition law; Community legislation; cartels; block exemption
 
-494. **Article 102** — 第 102 条
+493. **Article 102** — 第 102 条
 
    - The EU treaty provision banning abuse of a dominant market position.
    - *See also:* Community legislation; abuses of a dominant position; predatory pricing; intellectual property; abuse of a dominant position
 
-495. **Article 267** — 第 267 条
+494. **Article 267** — 第 267 条
 
    - The EU treaty provision letting national courts ask the Court of Justice about points of EU law.
    - *Jurisdiction:* European Union
    - *See also:* Treaty on the Functioning of the European Union; acte clair
+
+495. **Article 50** — 第 50 条
+
+   - The treaty provision setting out how a member state may withdraw from the European Union.
+   - *See also:* Treaty on European Union; notice; Referendum on Continued Membership of the European Union; Miller’s case (No. 1); Brexit
 
 496. **Article Iii** — 美国宪法第三条
 
@@ -2562,7 +2566,7 @@
 536. **assumpsit** — 承诺之诉 *(n.)*
 
    - Latin for he has undertaken; an old action for damages for breach of a promise.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* breach of contract
 
 537. **ASSUMPTION (BANKRUPTCY)** — 承接（破产）
@@ -2706,7 +2710,7 @@
 567. **audi alteram partem** — 奥迪alteram patem
 
    - Latin for hear the other side; the rule that both parties must be heard.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* natural justice
 
 568. **Audit Commission** — 审计委员会
@@ -2855,7 +2859,7 @@
 599. **aut punire aut dedere** — 要么惩罚，要么投降
 
    - Latin for either punish or surrender; the rule that a state must try or extradite an offender.
-   - *Language:* Latin
+   - *Language:* la
 
 600. **autrefois acquit** — 曾经无罪抗辩
 
@@ -2872,7 +2876,7 @@
 602. **autre vie** — 以他人生存期为限
 
    - French for the life of another; an estate lasting during a third person's lifetime.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estate pur (or per) autre vie
 
 603. **auxiliary jurisdiction** — 辅助管辖权
@@ -3097,7 +3101,7 @@
 652. **Banks v Goodfellow test** — 班克斯诉古德费洛遗嘱能力测试
 
    - The test for whether a person has the mental capacity to make a valid will.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* testamentary capacity
 
 653. **banning order** — 禁止令
@@ -3466,9 +3470,12 @@
       - *Sense labels:* 大写用法
    - *See also:* bill of exchange; bill of indictment; bill of lading; bill of costs; Act of Parliament
 
-729. **Bill Of Attainder** — 褫夺公权法案 *(n.)*
+729. **Bill Of Attainder** — 剥夺公权法案 *(n.)*
 
-   1. **褫夺公权法案：** Legislation imposing punishment on identified persons or groups without a judicial trial.
+   1. **剥夺公权法案：** A legislative act that singles out identifiable persons for punishment without a judicial trial. Article I prohibits both Congress and the states from passing such acts.
+      - *Sense labels:* constitutional law
+      - *Sense jurisdiction:* US federal
+      - *Source:* [U.S. Const. art. I, § 9, cl. 3 and § 10, cl. 1; Constitution Annotated](https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf) · source-checked · 2026-11-24
 
 730. **bill of costs** — 费用清单
 
@@ -3497,7 +3504,7 @@
 735. **bill of rights** — 权利法案
 
    - A document listing fundamental rights and enabling courts to enforce them.
-   - *See also:* European Convention on Human Rights; Human Rights Act; European Convention on Human Rights
+   - *See also:* European Convention on Human Rights; Human Rights Act
 
 736. **bill of sale** — 销售单
 
@@ -3664,7 +3671,7 @@
 772. **bona vacantia** — 无主财产
 
    - **无主财产：** Latin for empty goods; ownerless property that passes to the Crown or a Duchy.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* vesting order
 
 773. **bond** — 债券 *(n.)*
@@ -3949,7 +3956,7 @@
 833. **brutum fulmen** — 无效威胁；空泛威胁
 
    - **无效威胁；空泛威胁：** Latin for senseless thunderbolt; a threat or order that cannot be enforced.
-   - *Language:* Latin
+   - *Language:* la
 
 834. **Bryan Treaties** — 布莱恩条约
 
@@ -4104,112 +4111,107 @@
 
    1. **若无则不因果关系：** Causation established when the outcome would not have occurred without the act or omission in question.
 
-868. **“but for” test** — “但是”测试
-
-   - The test asking whether harm would have occurred without the defendant's act.
-   - *See also:* causation
-
-869. **buyer** — 买方 *(n.)*
+868. **buyer** — 买方 *(n.)*
 
    - The party to a sale of goods who acquires the goods and pays the price.
    - *See also:* purchaser
 
-870. **buyer's right to cure** — 买方补救权
+869. **buyer's right to cure** — 买方补救权
 
    1. **买方补救权：** Any contractual or statutory opportunity for a buyer to correct its own defective performance before specified remedies become available.
 
-871. **Buyout** — 买断
+870. **Buyout** — 买断
 
    1. **买断：** Acquisition of an ownership interest sufficient to purchase another person's stake or control a business.
 
-872. **byelaw** — 附法 *(n.)*
+871. **byelaw** — 附法 *(n.)*
 
    - A local law made by a body such as a council under delegated powers.
    - *See also:* delegated legislation; ultra vires
 
-873. **bylaws** — 内部规章
+872. **bylaws** — 内部规章
 
    1. **内部规章：** Rules adopted by an organization to govern its internal management and procedures.
 
 ## C
 
-874. **Cabinet** — 内阁 *(n.)*
+873. **Cabinet** — 内阁 *(n.)*
 
    - The group of senior ministers, led by the Prime Minister, that sets government policy.
    - *See also:* ministers; Prime Minister
 
-875. **Cabinet Office** — 内阁办公室
+874. **Cabinet Office** — 内阁办公室
 
    - The ministry that assists the Prime Minister and the Cabinet and coordinates government business.
 
-876. **cabotage** — 沿海运输 *(n.)*
+875. **cabotage** — 沿海运输 *(n.)*
 
    - Transport operations within one EU state by a carrier based in another.
    - *See also:* implementation period
 
-877. **CAC** — 中央仲裁委员会
+876. **CAC** — 中央仲裁委员会
 
    - Central Arbitration Committee: a body resolving collective labour disputes.
    - *See also:* Central Arbitration Committee
 
-878. **Cafa Jurisdiction** — 集体诉讼公平法管辖权 *(n.)*
+877. **Cafa Jurisdiction** — 集体诉讼公平法管辖权 *(n.)*
 
    1. **集体诉讼公平法管辖权：** Federal jurisdiction over qualifying class or mass actions under the Class Action Fairness Act.
 
-879. **Cafa Removal** — 集体诉讼公平法移送 *(n.)*
+878. **Cafa Removal** — 集体诉讼公平法移送 *(n.)*
 
    1. **集体诉讼公平法移送：** Transfer of an eligible state-court class action to federal court under the Class Action Fairness Act.
 
-880. **Cafcass** — 儿童与家庭法院咨询和支持服务局（缩写）
+879. **Cafcass** — 儿童与家庭法院咨询和支持服务局（缩写）
 
    - A body that advises courts and protects children's interests in family proceedings.
    - *See also:* Children and Family Court Advisory and Support Service
 
-881. **Calderbank letter** — 卡尔德班克和解信
+880. **Calderbank letter** — 卡尔德班克和解信
 
    - A settlement offer that the court may consider when deciding costs.
    - *See also:* Civil Procedure Rules; Part 36 offers
 
-882. **Calendar** — 案件日程表
+881. **Calendar** — 案件日程表
 
    1. **案件日程表：** A court's schedule or list of matters awaiting hearing or other procedural action.
 
-883. **Calendar Days** — 日历日
+882. **Calendar Days** — 日历日
 
    1. **日历日：** Consecutive days counted without ordinarily excluding weekends or holidays.
 
-884. **California Rules of Court** — 加利福尼亚法院规则
+883. **California Rules of Court** — 加利福尼亚法院规则
 
    1. **加利福尼亚法院规则：** Rules adopted for the administration and procedure of California's state courts.
 
-885. **call** — 电话 *(n.)*
+884. **call** — 电话 *(n.)*
 
    1. The ceremony that admits trainee barristers to the Bar.
    2. A company's demand requiring members to pay up the value of their shares.
    - *See also:* paid-up capital
 
-886. **calling the jury** — 召集陪审团
+885. **calling the jury** — 召集陪审团
 
    - Reading out, after a ballot, the names of people chosen for jury service.
 
-887. **call option** — 买入选择权 *(n.)*
+886. **call option** — 买入选择权 *(n.)*
 
    1. **买入选择权：** A right to purchase an asset or securities on specified terms within an agreed period.
 
-888. **callover** — 案件点名排期 *(n.)*
+887. **callover** — 案件点名排期 *(n.)*
 
    1. **案件点名排期：** A court session reviewing listed cases to ascertain readiness and arrange their further progress.
 
-889. **Calvo clause** — 卡尔沃条款
+888. **Calvo clause** — 卡尔沃条款
 
    - A contract clause confining disputes to local remedies and excluding diplomatic protection.
    - *See also:* condition
 
-890. **Canadian Patent Office Record (CPOR)** — 加拿大专利局公报
+889. **Canadian Patent Office Record (CPOR)** — 加拿大专利局公报
 
    1. **加拿大专利局公报：** The official Canadian publication announcing patent-related notices and bibliographic information.
 
-891. **cancellation** — 取消 *(n.)*
+890. **cancellation** — 取消 *(n.)*
 
    1. A court order ending the effect of specified documents, as where their continued existence invites improper claims.
       - *Sense labels:* (in equity)
@@ -4218,242 +4220,242 @@
    - *Labels:* (in equity); (in commercial law)
    - *See also:* distance selling; consumer
 
-892. **cannabis** — 大麻 *(n.)*
+891. **cannabis** — 大麻 *(n.)*
 
    - A Class B controlled drug, permitted in limited medical cases under prescription.
    - *See also:* controlled drug
 
-893. **cannon-shot rule** — 炮弹规则
+892. **cannon-shot rule** — 炮弹规则
 
    - The old rule that a state's sovereignty reaches sea three miles from shore.
    - *See also:* territorial waters
 
-894. **canonical disability** — 典型残疾
+893. **canonical disability** — 典型残疾
 
    - A ground of nullity in church law involving incapacity for marriage.
    - *See also:* impotence
 
-895. **canon law** — 教会法
+894. **canon law** — 教会法
 
    - Church law that binds clergy and holders of ecclesiastical office.
    - *See also:* legislation; custom; ecclesiastical courts
 
-896. **Canon Of Construction** — 法律解释准则 *(n.)*
+895. **Canon Of Construction** — 法律解释准则 *(n.)*
 
    1. **法律解释准则：** A recognized interpretive principle used to determine the meaning of legal text.
 
-897. **CAP** — 共同农业政策
+896. **CAP** — 共同农业政策
 
    - Common Agricultural Policy: the EU system of farm subsidies and market rules.
    - *See also:* Common Agricultural Policy
 
-898. **Capable Of Repetition Yet Evading Review** — 可重复却规避审查
+897. **Capable Of Repetition Yet Evading Review** — 可重复却规避审查
 
    1. **可重复却规避审查：** A mootness exception for disputes likely to recur against the same party yet too brief for full judicial review.
 
-899. **Capacity** — 法律能力 *(n.)*
+898. **Capacity** — 法律能力 *(n.)*
 
    1. **法律能力：** A person's legal ability to hold rights, undertake obligations, or perform a legally effective act.
 
-900. **capacity of a child in criminal law** — 刑法中儿童的行为能力
+899. **capacity of a child in criminal law** — 刑法中儿童的行为能力
 
    - Whether a child is old enough to be held criminally responsible.
    - *See also:* doli capax
 
-901. **capacity to consent to medical treatment** — 同意接受医疗的能力
+900. **capacity to consent to medical treatment** — 同意接受医疗的能力
 
    - A patient's ability to decide about their own medical treatment.
    - *See also:* competent patient; incompetent patient
 
-902. **capacity to contract** — 签订合同的能力
+901. **capacity to contract** — 签订合同的能力
 
    - Competence to make a binding agreement; absent in minors, people with mental disorder, those who are drunk, and certain corporations.
    - *See also:* necessaries; ratification; restitution; rescission; ultra vires
 
-903. **Capacity To Sue Or Be Sued** — 起诉或应诉能力 *(n.)*
+902. **Capacity To Sue Or Be Sued** — 起诉或应诉能力 *(n.)*
 
    1. **起诉或应诉能力：** Legal eligibility to participate in litigation as a claimant or defendant.
 
-904. **Cap-gap extension** — 身份衔接期延长 *(n.)*
+903. **Cap-gap extension** — 身份衔接期延长 *(n.)*
 
    1. **身份衔接期延长：** An extension bridging eligible student status or work authorization to the start of approved specialty-worker status.
 
-905. **capias** — 您所采取的 *(n.)*
+904. **capias** — 您所采取的 *(n.)*
 
    - Latin for that you take; an old writ empowering a sheriff to enforce a judgment.
-   - *Language:* Latin
+   - *Language:* la
 
-906. **Capias Ad Respondendum** — 拘人应诉令
+905. **Capias Ad Respondendum** — 拘人应诉令
 
    1. **拘人应诉令：** A historical writ directing arrest of a defendant to secure appearance in a civil action.
 
-907. **Capias Ad Satisfaciendum** — 拘人清偿令
+906. **Capias Ad Satisfaciendum** — 拘人清偿令
 
    1. **拘人清偿令：** A historical writ authorizing imprisonment of a judgment debtor until the judgment debt is satisfied.
 
-908. **capital** — 资本
+907. **capital** — 资本
 
    1. Money that members put into a company in exchange for shares.
    2. Money a company borrows, such as debentures and loans.
    - *See also:* shares; limited company; memorandum of association; authorized capital; loan capital
 
-909. **capital allowance** — 资本津贴
+908. **capital allowance** — 资本津贴
 
    - A tax deduction for capital spending on assets used in a business.
    - *See also:* machinery and plant
 
-910. **capital asset** — 资本资产
+909. **capital asset** — 资本资产
 
    - A long-term asset held for use rather than resale.
    - *See also:* fixed asset
 
-911. **capital gains tax** — 资本利得税
+910. **capital gains tax** — 资本利得税
 
    - A tax on gains made from disposing of assets.
    - *Expands to:* capital gains tax
    - *See also:* chargeable gains; disposals; assets; business asset; holdover relief; rollover relief
 
-912. **capitalization issue** — 资本发行
+911. **capitalization issue** — 资本发行
 
    - Free shares issued to members in proportion to their existing holdings.
    - *See also:* bonus issue
 
-913. **capital money** — 资本金
+912. **capital money** — 资本金
 
    - Funds produced by selling or mortgaging land held on trust or as settled land.
    - *See also:* trust of land; settled land; tenant for life
 
-914. **Capital offense** — 可判死刑罪行
+913. **Capital offense** — 可判死刑罪行
 
    1. **可判死刑罪行：** An offense for which death is an authorized punishment under the governing law.
 
-915. **capital punishment** — 死刑
+914. **capital punishment** — 死刑
 
    - The death penalty as a sentence for a criminal offence.
    - *See also:* piracy; treason; European Convention on Human Rights; Human Rights Act
 
-916. **capital redemption reserve** — 资本赎回储备金
+915. **capital redemption reserve** — 资本赎回储备金
 
    - A fund protecting creditors when a company redeems or buys back its shares.
    - *See also:* capital
 
-917. **capital stock and surplus** — 股本及盈余
+916. **capital stock and surplus** — 股本及盈余
 
    1. **股本及盈余：** A bank's capital stock together with qualifying surplus amounts used in applying financial or regulatory limits.
 
-918. **capitulation** — 投降 *(n.)*
+917. **capitulation** — 投降 *(n.)*
 
    1. A bargain by which a fighting force surrenders on set terms.
    2. A former system of extraterritorial jurisdiction over foreign citizens, now obsolete.
 
-919. **Caption Requirements** — 案首记载要求
+918. **Caption Requirements** — 案首记载要求
 
    1. **案首记载要求：** Procedural rules specifying identifying information that must appear at the beginning of a court document.
 
-920. **care and control** — 照顾和控制
+919. **care and control** — 照顾和控制
 
    - Historically, the entitlement to control a child's daily life and physical whereabouts.
    - *See also:* child arrangements order; parental responsibility; section 8 orders
 
-921. **care and protection order** — 照护与保护令 *(n.)*
+920. **care and protection order** — 照护与保护令 *(n.)*
 
    1. **照护与保护令：** A court order arranging protective care or supervision for a child whose welfare requires intervention.
 
-922. **care contact order** — 照顾联系令
+921. **care contact order** — 照顾联系令
 
    - A court order letting a council restrict a child's contact with others while in care.
    - *See also:* contact; care order
 
-923. **careless and inconsiderate driving** — 粗心和不顾及别人的驾驶
+922. **careless and inconsiderate driving** — 粗心和不顾及别人的驾驶
 
    - The offence of driving below the standard of a competent and careful driver, or without consideration for others.
    - *See also:* summary offence; fine; totting-up; disqualification; causing death by careless or inconsiderate driving
 
-924. **careless statement** — 粗心陈述
+923. **careless statement** — 粗心陈述
 
    - A false statement made carelessly rather than dishonestly.
    - *See also:* negligent misstatement
 
-925. **care order** — 照顾令
+924. **care order** — 照顾令
 
    - An order committing a child to local authority care after proof of significant harm.
    - *See also:* care plan; supervision order; section 8 order; family life; parental responsibility; voluntary accommodation
 
-926. **care plan** — 护理计划
+925. **care plan** — 护理计划
 
    - A plan a local authority must prepare for each child in its care.
    - *See also:* care order; supervision order
 
-927. **care proceedings** — 护理诉讼
+926. **care proceedings** — 护理诉讼
 
    - Court proceedings seeking a care order.
    - *See also:* care order
 
-928. **Care Quality Commission for England** — 英格兰护理质量委员会
+927. **Care Quality Commission for England** — 英格兰护理质量委员会
 
    - An independent body regulating health services and adult care in England.
 
-929. **carer’s allowance** — 照顾者津贴
+928. **carer’s allowance** — 照顾者津贴
 
    - A taxable benefit for a working-age person who gives substantial care to a severely disabled relative.
 
-930. **Care Standards Tribunal** — 护理标准法庭
+929. **Care Standards Tribunal** — 护理标准法庭
 
    - A tribunal hearing appeals about those working with children, now part of the First-tier Tribunal.
    - *See also:* children’s barred list
 
-931. **cargo** — 货物 *(n.)*
+930. **cargo** — 货物 *(n.)*
 
    - Freight consisting of goods, rather than passengers' personal luggage, moved by vessel or plane.
 
-932. **Carjacking** — 劫车
+931. **Carjacking** — 劫车
 
    1. **劫车：** Taking a motor vehicle from another person by force, violence, or intimidation.
 
-933. **Carltona principle** — 卡尔托纳原则
+932. **Carltona principle** — 卡尔托纳原则
 
    - The doctrine letting officials act for a minister without being formally delegated.
 
-934. **Carriage and Insurance Paid To** — 运费和保险费付至
+933. **Carriage and Insurance Paid To** — 运费和保险费付至
 
    1. **运费和保险费付至：** An Incoterms rule requiring seller-paid carriage and insurance to destination while risk passes upon delivery to the agreed carrier.
 
-935. **carriage of goods by air** — 国际民用航空组织
+934. **carriage of goods by air** — 国际民用航空组织
 
    - The transport of goods by air, largely governed by international conventions.
    - *Expands to:* International Civil Aviation Organization; International Maritime Dangerous Goods
    - *See also:* carrier
 
-936. **Carriage Paid To** — 运费付至
+935. **Carriage Paid To** — 运费付至
 
    1. **运费付至：** An Incoterms rule allocating carriage costs to the seller but transferring risk when goods are delivered to the agreed carrier.
 
-937. **carriageway** — 车道
+936. **carriageway** — 车道
 
    - A road where the public may travel by vehicle, on foot, or with livestock.
    - *See also:* highway; bridleway; driftway; footpath
 
-938. **carrier** — 承运人 *(n.)*
+937. **carrier** — 承运人 *(n.)*
 
    - A person who transports people or goods, sometimes strictly liable as a common carrier.
    - *See also:* inherent vice
 
-939. **Carrier documentation** — 承运人登机证明 *(n.)*
+938. **Carrier documentation** — 承运人登机证明 *(n.)*
 
    1. **承运人登机证明：** Documentation enabling an eligible permanent resident without usual travel evidence to board transportation to the United States.
 
-940. **carrier’s lien** — 承运人留置权
+939. **carrier’s lien** — 承运人留置权
 
    - A common carrier's right to keep carried goods until freight is paid.
    - *See also:* carrier
 
-941. **cartel** — 卡特尔 *(n.)*
+940. **cartel** — 卡特尔 *(n.)*
 
    1. An agreement between competitors to limit competition, such as by fixing prices.
    2. An agreement between warring states on non-hostile matters such as prisoners.
    - *See also:* monopoly; Article 101; Treaty on the Functioning of the European Union
 
-942. **case** — 案件 *(n.)*
+941. **case** — 案件 *(n.)*
 
    1. A court action.
    2. A legal dispute.
@@ -4461,157 +4463,157 @@
    4. A historical form of action abolished over a century ago.
    - *See also:* action
 
-943. **Case file** — 案件卷宗
+942. **Case file** — 案件卷宗
 
    1. **案件卷宗：** The collection of documents and records maintained for a particular legal proceeding.
 
-944. **Case In Chief** — 本方主要举证
+943. **Case In Chief** — 本方主要举证
 
    1. **本方主要举证：** A party's initial presentation of evidence supporting its claims or defenses before rebuttal.
 
-945. **case law** — 判例法
+944. **case law** — 判例法
 
    - The law developed through judicial decisions rather than legislation.
    - *See also:* statute law; precedent
 
-946. **Caseload** — 案件负荷
+945. **Caseload** — 案件负荷
 
    1. **案件负荷：** The number or volume of cases assigned to a court, judge, or legal office.
 
-947. **case management** — 民事诉讼规则
+946. **case management** — 民事诉讼规则
 
    - The court's handling of civil cases under procedural rules introduced in 1999.
    - *Expands to:* Civil Procedure Rules
    - *See also:* Civil Procedure Rules; small claims track; fast track; multi-track; pre-action protocols; Practice Directions
 
-948. **case management conference** — 案件管理会议
+947. **case management conference** — 案件管理会议
 
    - A hearing where the judge checks how a case is being prepared and gives fresh directions.
    - *Expands to:* case management conference
    - *See also:* Civil Procedure Rules; case management; Practice Directions; pre-action protocols; pretrial review; plea and case management hearing
 
-949. **Case Or Controversy** — 案件或争议
+948. **Case Or Controversy** — 案件或争议
 
    1. **案件或争议：** A concrete judicial dispute satisfying constitutional limits on the exercise of federal judicial power.
 
-950. **case stated** — 案件陈述
+949. **case stated** — 案件陈述
 
    - A written record of facts sent by a lower court or tribunal to a higher court for a ruling.
    - *See also:* appellate jurisdiction
 
-951. **Cash Collateral** — 现金担保物 *(n.)*
+950. **Cash Collateral** — 现金担保物 *(n.)*
 
    1. **现金担保物：** Cash or cash equivalents in which a bankruptcy estate and another entity share an interest.
 
-952. **cash sweep** — 现金清偿机制
+951. **cash sweep** — 现金清偿机制
 
    1. **现金清偿机制：** A financing requirement applying specified surplus cash toward repayment of outstanding debt.
 
-953. **Casual domestic employment** — 偶发性家政雇佣 *(n.)*
+952. **Casual domestic employment** — 偶发性家政雇佣 *(n.)*
 
    1. **偶发性家政雇佣：** Occasional household work performed without a regular continuing employment arrangement.
 
-954. **casus belli** — 宣战理由
+953. **casus belli** — 宣战理由
 
    - Latin for occasion for war; something that provokes or justifies conflict.
-   - *Language:* Latin
+   - *Language:* la
 
-955. **casus foederis** — 联盟的理由
+954. **casus foederis** — 联盟的理由
 
    - Latin meaning the event that obliges one ally to help another.
-   - *Language:* Latin
+   - *Language:* la
 
-956. **casus omissus** — 普通法或成文法未规定的情况
+955. **casus omissus** — 普通法或成文法未规定的情况
 
    - Latin for an omission; a situation left uncovered by statute or common law.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
-957. **Catalyst Theory** — 催化剂理论
+956. **Catalyst Theory** — 催化剂理论
 
    1. **催化剂理论：** A fee-recovery theory treating litigation as successful when it causes the defendant to provide the requested relief voluntarily.
 
-958. **catching bargain** — 讨价还价
+957. **catching bargain** — 讨价还价
 
    - An unconscionable agreement whose terms are grossly unfair and which equity may set aside.
 
-959. **Categorical Approach** — 类别比较法
+958. **Categorical Approach** — 类别比较法
 
    1. **类别比较法：** A method comparing statutory offense elements with a legal category rather than examining the defendant's particular conduct.
 
-960. **categories of offence** — 罪行类别 *(n.)*
+959. **categories of offence** — 罪行类别 *(n.)*
 
    1. **罪行类别：** Legally defined groupings of offenses that determine applicable courts, procedures, or sentencing powers.
 
-961. **caucus** — 议员党团
+960. **caucus** — 议员党团
 
    1. **议员党团：** A group of legislators belonging to the same political party or sharing a legislative interest.
 
-962. **causa causans** — 导致原因
+961. **causa causans** — 导致原因
 
    - Latin for the operative or principal cause of an event.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* causation
 
-963. **causa sine qua non** — 必要原因
+962. **causa sine qua non** — 必要原因
 
    - A cause without which an event could not have happened.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* causation
 
-964. **causation** — 因果关系 *(n.)*
+963. **causation** — 因果关系 *(n.)*
 
    - The link between what a defendant did and the harm that followed.
    - *See also:* negligence
 
-965. **cause** — 原因 *(n.)*
+964. **cause** — 原因 *(n.)*
 
    1. A court action.
    2. The connection between conduct and its consequence.
    - *See also:* action; causation
 
-966. **Cause Book** — 诉讼簿
+965. **Cause Book** — 诉讼簿
 
    - The Central Office register noting when claim forms are issued and later procedural steps.
    - *See also:* Central Office
 
-967. **Cause In Fact** — 事实因果关系
+966. **Cause In Fact** — 事实因果关系
 
    1. **事实因果关系：** The factual connection established when conduct is necessary to an outcome or otherwise meets a recognized factual causation test.
 
-968. **Cause List** — 原因列表
+967. **Cause List** — 原因列表
 
    - A schedule of matters awaiting hearing, posted at a court.
 
-969. **cause of action** — 案由
+968. **cause of action** — 案由
 
    - The facts giving a person the right to sue.
    - *See also:* trespass; negligence
 
-970. **causing a child to watch a sexual act** — 导致儿童观看性行为
+969. **causing a child to watch a sexual act** — 导致儿童观看性行为
 
    - An offence of making a child watch sexual activity for the offender's gratification.
 
-971. **causing death by careless** — 因粗心
+970. **causing death by careless** — 因粗心
 
    - An offence of causing a death through driving that falls below the proper standard of care.
 
-972. **causing death by careless driving when under the influence of drink** — 酒后不小心驾驶致人死亡
+971. **causing death by careless driving when under the influence of drink** — 酒后不小心驾驶致人死亡
 
    - An offence of causing death through careless driving by a motorist who is over the drink or drug limit.
    - *See also:* drunken driving; careless and inconsiderate driving; causing death by careless or inconsiderate driving; causing death by dangerous driving; disqualification
 
-973. **causing death by dangerous driving** — 危险驾驶致人死亡
+972. **causing death by dangerous driving** — 危险驾驶致人死亡
 
    - An offence where dangerous driving causes another person's death.
    - *See also:* dangerous driving; manslaughter; disqualification
 
-974. **causing loss by unlawful means** — 以非法手段造成损失
+973. **causing loss by unlawful means** — 以非法手段造成损失
 
    - A tort of using unlawful acts against a third party to cause the claimant loss.
    - *See also:* intimidation; inducing breach of contract; interfering with trade or business
 
-975. **caution** — 警告 *(n.)*
+974. **caution** — 警告 *(n.)*
 
    1. A police warning to a suspect about the right to silence and the use of answers.
       - *Sense labels:* (in criminal law)
@@ -4620,423 +4622,423 @@
    - *Labels:* (in criminal law); (in land law)
    - *See also:* right of silence; notices
 
-976. **caution against first registration** — 首次注册警告
+975. **caution against first registration** — 首次注册警告
 
    - A registry entry protecting a claim over unregistered land before it is registered.
 
-977. **caveat** — 中止通知；异议通知 *(n.)*
+976. **caveat** — 中止通知；异议通知 *(n.)*
 
    - **中止通知；异议通知：** Latin for let him beware; an entry requiring a person be told before action is taken.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* grant of representation
 
-978. **caveat actor** — 行为者自负
+977. **caveat actor** — 行为者自负
 
    - **行为者自负：** A warning that the person who acts must bear the risk.
-   - *Language:* Latin
+   - *Language:* la
 
-979. **caveat emptor** — 买者自负
+978. **caveat emptor** — 买者自负
 
    - Latin for let the buyer beware; the rule that buyers take goods subject to defects.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* condition; title
 
-980. **caveat subscriptor** — 签署人自负
+979. **caveat subscriptor** — 签署人自负
 
    - **签署人自负：** Latin for let the signer be on his guard.
-   - *Language:* Latin
+   - *Language:* la
 
-981. **caveat venditor** — 卖者自负
+980. **caveat venditor** — 卖者自负
 
    - **卖者自负：** A warning that the seller must take care.
-   - *Language:* Latin
+   - *Language:* la
 
-982. **CBO** — 犯罪行为令
+981. **CBO** — 犯罪行为令
 
    - Criminal Behaviour Order: an order imposed on a convicted offender to prevent further offences.
    - *See also:* Criminal Behaviour Order
 
-983. **CBP** — 美国海关与边境保护局
+982. **CBP** — 美国海关与边境保护局
 
    1. **美国海关与边境保护局：** United States Customs and Border Protection.
 
-984. **cc.** — 抄送
+983. **cc.** — 抄送
 
    1. **抄送：** An abbreviation indicating copies of a document sent to additional recipients.
 
-985. **CCGs** — 临床调试组
+984. **CCGs** — 临床调试组
 
    - Clinical Commissioning Groups: NHS bodies that commissioned most health services.
    - *See also:* Clinical Commissioning Groups
 
-986. **CCRC** — 刑事案件审查委员会
+985. **CCRC** — 刑事案件审查委员会
 
    - Criminal Cases Review Commission: a body that refers suspected miscarriages of justice to appeal courts.
    - *See also:* Criminal Cases Review Commission
 
-987. **CE** — 欧盟合格标志（CE标志）
+986. **CE** — 欧盟合格标志（CE标志）
 
    - A product marking showing compliance with applicable EU directives, from French for European Community.
    - *Language:* fr
    - *See also:* electromagnetic compatibility
 
-988. **Cease** — 权利终止
+987. **Cease** — 权利终止
 
    1. **权利终止：** The ending of an intellectual property registration or right through expiry, nonrenewal, or another statutory event.
 
-989. **Cease And Desist Order** — 停止及禁止令 *(n.)*
+988. **Cease And Desist Order** — 停止及禁止令 *(n.)*
 
    1. **停止及禁止令：** An enforceable direction requiring specified unlawful conduct to stop and not resume.
 
-990. **Ceiling** — 上限
+989. **Ceiling** — 上限
 
    1. **上限：** A maximum limit set on an amount, payment, or entitlement under a scheme.
 
-991. **Census** — 人口普查
+990. **Census** — 人口普查
 
    1. **人口普查：** An official enumeration of a population, often collecting demographic information for governmental purposes.
 
-992. **Central Arbitration Committee** — 中央仲裁委员会
+991. **Central Arbitration Committee** — 中央仲裁委员会
 
    - A statutory body that resolves collective labour disputes and union recognition issues.
    - *Expands to:* Central Arbitration Committee
    - *See also:* Advisory Conciliation and Arbitration Service (ACAS); trade disputes; disclosure of information; collective bargaining; recognition procedure
 
-993. **Central Criminal Court** — 中央刑事法院
+992. **Central Criminal Court** — 中央刑事法院
 
    - London's main Crown Court, commonly called the Old Bailey.
    - *See also:* Crown Court; Common Serjeant
 
-994. **Central Office** — 中央办公室
+993. **Central Office** — 中央办公室
 
    - The London office of the Senior Courts from which claims are issued.
    - *See also:* Senior Courts; Masters of the High Court
 
-995. **Cercla Liability** — 综合环境响应赔偿责任法责任 *(n.)*
+994. **Cercla Liability** — 综合环境响应赔偿责任法责任 *(n.)*
 
    1. **综合环境响应赔偿责任法责任：** Responsibility under federal hazardous-substance cleanup law for response costs or related environmental damage.
 
-996. **certainty** — 确定性 *(n.)*
+995. **certainty** — 确定性 *(n.)*
 
    - In contract law, the rule that a vague or incomplete agreement cannot be enforced.
       - *Sense labels:* (in contract law)
    - *Labels:* (in contract law)
    - *See also:* custom; usage
 
-997. **certificate credit rate** — 抵免凭证比率 *(n.)*
+996. **certificate credit rate** — 抵免凭证比率 *(n.)*
 
    1. **抵免凭证比率：** The percentage stated on a mortgage credit certificate used to calculate qualifying mortgage-interest tax credits.
 
-998. **Certificate Of Appealability** — 可上诉证明 *(n.)*
+997. **Certificate Of Appealability** — 可上诉证明 *(n.)*
 
    1. **可上诉证明：** Judicial authorization required for certain appeals challenging detention through federal postconviction or habeas proceedings.
 
-999. **Certificate of Citizenship** — 公民身份证明书 *(n.)*
+998. **Certificate of Citizenship** — 公民身份证明书 *(n.)*
 
    1. **公民身份证明书：** An official document evidencing citizenship acquired or derived under nationality law.
 
-1000. **Certificate of Eligibility for Exchange Visitor (J-1) Status (Form DS-2019)** — 交流访问者资格证明表
+999. **Certificate of Eligibility for Exchange Visitor (J-1) Status (Form DS-2019)** — 交流访问者资格证明表
 
    1. **交流访问者资格证明表：** The program sponsor's document supporting an application for exchange-visitor immigration classification.
 
-1001. **Certificate of Eligibility for Nonimmigrant (F-1) Student Status** — 非移民学生资格证明
+1000. **Certificate of Eligibility for Nonimmigrant (F-1) Student Status** — 非移民学生资格证明
 
    1. **非移民学生资格证明：** A school-issued document confirming eligibility for an academic student immigration classification.
 
-1002. **certificate of incorporation** — 公司注册证书
+1001. **certificate of incorporation** — 公司注册证书
 
    - A paper issued by the Registrar confirming that a company now exists as a body corporate.
    - *See also:* registration of a company; incorporation; limited company; public company
 
-1003. **Certificate of Naturalization** — 入籍证书 *(n.)*
+1002. **Certificate of Naturalization** — 入籍证书 *(n.)*
 
    1. **入籍证书：** An official certificate establishing that its holder became a citizen through naturalization.
 
-1004. **certificate of origin** — 原产地证书
+1003. **certificate of origin** — 原产地证书
 
    1. **原产地证书：** A document certifying the country of origin of goods for customs or commercial purposes.
 
-1005. **certificate of title** — 产权证明书
+1004. **certificate of title** — 产权证明书
 
    1. **产权证明书：** An official document certifying recorded ownership of specified property.
 
-1006. **Certificate of Translation** — 翻译证明 *(n.)*
+1005. **Certificate of Translation** — 翻译证明 *(n.)*
 
    1. **翻译证明：** A translator's certification that a translation is accurate and that the translator is competent in the relevant languages.
 
-1007. **certificates of readiness** — 准备就绪证明
+1006. **certificates of readiness** — 准备就绪证明
 
    - Crown Court forms confirming that a case may proceed to trial.
    - *See also:* pretrial review
 
-1008. **Certification** — 认证 *(n.)*
+1007. **Certification** — 认证 *(n.)*
 
    1. **认证：** Formal confirmation that a fact, document, person, or procedure satisfies specified requirements.
 
-1009. **Certification mark** — 证明商标
+1008. **Certification mark** — 证明商标
 
    1. **证明商标：** A mark indicating that goods or services meet standards certified by someone other than their supplier.
 
-1010. **Certification Officer** — 认证官员
+1009. **Certification Officer** — 认证官员
 
    - An official who certifies trade unions' independence and oversees their affairs.
    - *Expands to:* Certification Officer
 
-1011. **Certification Of Questions** — 法律问题移请裁定
+1010. **Certification Of Questions** — 法律问题移请裁定
 
    1. **法律问题移请裁定：** A court's referral of a legal question to another court authorized to answer it.
 
-1012. **Certified** — 经审查认证的 *(adj.)*
+1011. **Certified** — 经审查认证的 *(adj.)*
 
    1. **经审查认证的：** For an Australian registered design, examined and confirmed as meeting the requirements necessary for enforcement.
 
-1013. **CERTIFIED COPIES OF PUBLIC RECORDS (SELF-AUTHENTICATION)** — 公共记录核证副本（自我认证）
+1012. **CERTIFIED COPIES OF PUBLIC RECORDS (SELF-AUTHENTICATION)** — 公共记录核证副本（自我认证）
 
    1. **公共记录核证副本（自我认证）：** Official certified copies of public records that are self-authenticating.
    - *Jurisdiction:* US
 
-1014. **certified copy** — 经核证副本
+1013. **certified copy** — 经核证副本
 
    1. **经核证副本：** A copy officially verified as accurately reproducing an original document.
 
-1015. **Certified Interlocutory Appeal** — 获认证的中间上诉 *(n.)*
+1014. **Certified Interlocutory Appeal** — 获认证的中间上诉 *(n.)*
 
    1. **获认证的中间上诉：** An appeal before final judgment permitted through the required trial-court certification and appellate authorization.
 
-1016. **Certified list** — 经核定案件表
+1015. **Certified list** — 经核定案件表
 
    1. **经核定案件表：** A court list formally confirmed as ready or eligible for the procedural step it identifies.
 
-1017. **Certified Question** — 移请裁定的法律问题 *(n.)*
+1016. **Certified Question** — 移请裁定的法律问题 *(n.)*
 
    1. **移请裁定的法律问题：** A legal question formally submitted by one court for authoritative resolution by another.
 
-1018. **CERTIFIED QUESTIONS (SUPREME COURT)** — 最高法院移请裁定问题
+1017. **CERTIFIED QUESTIONS (SUPREME COURT)** — 最高法院移请裁定问题
 
    1. **最高法院移请裁定问题：** Questions of law formally referred by an authorized lower court to the Supreme Court for instructions.
 
-1019. **certiorari** — 调卷 *(n.)*
+1018. **certiorari** — 调卷 *(n.)*
 
    - Latin for to be informed; another name for a quashing order.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* quashing order
 
-1020. **CERTIORARI (FEDERAL COURTS)** — 联邦法院调卷审查
+1019. **CERTIORARI (FEDERAL COURTS)** — 联邦法院调卷审查
 
    1. **联邦法院调卷审查：** Discretionary review obtained through a writ directing transmission of a lower court's record.
 
-1021. **CERTIORARI (STATE COURTS)** — 州法院调卷审查
+1020. **CERTIORARI (STATE COURTS)** — 州法院调卷审查
 
    1. **州法院调卷审查：** A state-law procedure for superior-court review of a lower tribunal's decision or jurisdiction.
 
-1022. **certum est quod certum reddi potest** — 可确定者视为确定
+1021. **certum est quod certum reddi potest** — 可确定者视为确定
 
    - Latin meaning that whatever can be made certain counts as certain.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* distress
 
-1023. **cessante ratione legis, cessat lex ipsa** — 当法律的理由停止时，法律本身也停止
+1022. **cessante ratione legis, cessat lex ipsa** — 当法律的理由停止时，法律本身也停止
 
    - Latin meaning that a law falls away once its underlying purpose disappears.
-   - *Language:* Latin
+   - *Language:* la
 
-1024. **cessate grant** — 终止补助金
+1023. **cessate grant** — 终止补助金
 
    1. A fresh grant reviving one that has already lapsed.
    2. A fresh grant of representation replacing a conditional or limited earlier grant.
    - *See also:* grant of representation; de bonis non administratis; letters of administration; grant for the use and benefit
 
-1025. **cesser** — 终止 *(n.)*
+1024. **cesser** — 终止 *(n.)*
 
    - The premature ending of a right or interest.
 
-1026. **cesser clause** — 终止条款
+1025. **cesser clause** — 终止条款
 
    - A charterparty term that ends the hirer's freight liability once cargo is loaded.
 
-1027. **cession** — 割让 *(n.)*
+1026. **cession** — 割让 *(n.)*
 
    - The giving up of sovereign control over territory under a treaty.
    - *See also:* derivative title
 
-1028. **cestui que trust** — 信托受益人
+1027. **cestui que trust** — 信托受益人
 
    - **信托受益人：** Norman French for the person entitled to the benefit of a trust.
    - *Language:* fr
 
-1029. **cestui que use** — 用益受益人
+1028. **cestui que use** — 用益受益人
 
    - **用益受益人：** Norman French for someone whose benefit land was held by another; now the beneficiary.
    - *Language:* fr
    - *See also:* beneficiary; use
 
-1030. **cestui que vie** — 生存期受益人
+1029. **cestui que vie** — 生存期受益人
 
    - **生存期受益人：** Norman French for the individual whose lifetime fixes how long an estate lasts.
    - *Language:* fr
    - *See also:* estate pur (or per) autre vie
 
-1031. **CFP** — 共同渔业政策
+1030. **CFP** — 共同渔业政策
 
    - Common Fisheries Policy: the EU system for managing fishing.
    - *See also:* Common Fisheries Policy
 
-1032. **CFR** — 美国联邦法规汇编
+1031. **CFR** — 美国联邦法规汇编
 
    1. **美国联邦法规汇编：** Code of Federal Regulations.
 
-1033. **CFSP** — 共同外交和安全政策
+1032. **CFSP** — 共同外交和安全政策
 
    - The EU policy framework covering foreign affairs and security; see European Union.
    - *Expands to:* common foreign and security policy
    - *See also:* European Union; Maastricht Treaty
 
-1034. **CGT** — 资本利得税
+1033. **CGT** — 资本利得税
 
    - Capital gains tax: a tax on gains made from disposing of assets.
    - *See also:* capital gains tax
 
-1035. **Chain Of Custody** — 保管链
+1034. **Chain Of Custody** — 保管链
 
    1. **保管链：** The documented sequence showing who handled evidence from collection to court.
 
-1036. **chain of executorship** — 遗嘱执行人链条
+1035. **chain of executorship** — 遗嘱执行人链条
 
    - A rule by which an executor's executor becomes executor of the original testator too.
    - *See also:* de bonis non administratis
 
-1037. **chain of title** — 所有权链
+1036. **chain of title** — 所有权链
 
    - The series of documents showing successive transfers of title to property.
    - *See also:* real property
 
-1038. **Chair** — 主席
+1037. **Chair** — 主席
 
    1. **主席：** The person who presides over a meeting and directs its proceedings.
 
-1039. **Challenge for Cause** — 有因回避申请
+1038. **Challenge for Cause** — 有因回避申请
 
    1. **有因回避申请：** A request to exclude a prospective juror because a specific ground undermines eligibility or impartiality.
 
-1040. **challenge to arbitrator** — 仲裁员异议 *(n.)*
+1039. **challenge to arbitrator** — 仲裁员异议 *(n.)*
 
    1. **仲裁员异议：** A request to remove or disqualify an arbitrator for alleged lack of independence, impartiality, or qualifications.
 
-1041. **challenge to jury** — 对陪审团提出质疑
+1040. **challenge to jury** — 对陪审团提出质疑
 
    - A procedure for objecting to a juror or the jury panel before it is sworn.
 
-1042. **Chamber** — 议院 *(n.)*
+1041. **Chamber** — 议院 *(n.)*
 
    1. **议院：** A legislative assembly, or the room in which it conducts business.
 
-1043. **chambers** — 会议室 *(pl. n.)*
+1042. **chambers** — 会议室 *(pl. n.)*
 
    1. The offices of a barrister or a group of barristers.
    2. A judge's private room, where interim matters are often heard without the public.
    3. A smaller panel of three judges within the International Court of Justice.
    - *See also:* interim proceedings; International Court of Justice
 
-1044. **champerty** — 围殴行为 *(n.)*
+1043. **champerty** — 围殴行为 *(n.)*
 
    - Aiding litigation in return for a share of its proceeds, formerly unlawful.
    - *See also:* maintenance and champerty
 
-1045. **Chancellor** — 衡平法官 *(n.)*
+1044. **Chancellor** — 衡平法官 *(n.)*
 
    1. **衡平法官：** A judicial officer traditionally presiding over a court of equity.
 
-1046. **Chancellor of the Exchequer** — 财政大臣
+1045. **Chancellor of the Exchequer** — 财政大臣
 
    - The minister heading the Treasury and responsible for taxation and public spending.
 
-1047. **Chancery Division** — 衡平法院
+1046. **Chancery Division** — 衡平法院
 
    - The High Court division handling trusts, land, company, and intellectual property matters.
    - *See also:* High Court of Justice; Court of Chancery; intellectual property; appeals; Vice Chancellor; appellate jurisdiction; Companies Court
 
-1048. **Chancery Masters** — 大法官法官
+1047. **Chancery Masters** — 大法官法官
 
    - Judicial officers who manage procedural matters in the Chancery Division.
    - *See also:* Masters of the High Court
 
-1049. **change of circumstances** — 情势变更
+1048. **change of circumstances** — 情势变更
 
    - In contract law, a major change in position after formation, which may frustrate the contract.
       - *Sense labels:* (in contract law)
    - *Labels:* (in contract law)
    - *See also:* frustration; force majeure; representation
 
-1050. **change of control clause** — 控制权变更条款
+1049. **change of control clause** — 控制权变更条款
 
    1. **控制权变更条款：** A provision giving specified consequences to a change in ownership or control of a contracting party.
 
-1051. **change of name** — 更改姓名
+1050. **change of name** — 更改姓名
 
    - The adoption of a new surname, which a person may do simply by consistent use.
    - *See also:* surname; juristic person
 
-1052. **Change of Plea** — 变更答辩
+1051. **Change of Plea** — 变更答辩
 
    1. **变更答辩：** Replacement of a criminal defendant's existing plea with a different plea through the prescribed court procedure.
 
-1053. **change of position** — 立场变更
+1052. **change of position** — 立场变更
 
    - A restitution defence reducing liability by the extent the defendant was disenriched.
 
-1054. **Change of residence** — 居住地变更 *(n.)*
+1053. **Change of residence** — 居住地变更 *(n.)*
 
    1. **居住地变更：** A relocation of a child or party that may require court approval.
 
-1055. **Change Of Venue** — 审判地点变更
+1054. **Change Of Venue** — 审判地点变更
 
    1. **审判地点变更：** Moving proceedings to another geographic venue under the applicable procedural rules.
 
-1056. **change request procedure** — 变更请求程序
+1055. **change request procedure** — 变更请求程序
 
    1. **变更请求程序：** Agreed steps for proposing, assessing, approving, and implementing changes to contractual performance.
 
-1057. **Chapter 7** — 第7章
-
-   1. **第7章：** A liquidation chapter of the Bankruptcy Code providing for asset sale and discharge.
-   - *Jurisdiction:* US
-
-1058. **Chapter 7 trustee** — 第7章受托人 *(n.)*
-
-   1. **第7章受托人：** A trustee appointed in a Chapter 7 case to liquidate the estate for creditors.
-   - *Jurisdiction:* US
-
-1059. **Chapter 9** — 破产法第九章
-
-   1. **破产法第九章：** The federal bankruptcy procedure governing debt adjustment by eligible municipalities.
-
-1060. **Chapter 11** — 第11章
+1056. **Chapter 11** — 第11章
 
    1. **第11章：** A reorganization chapter of the Bankruptcy Code for debtors to restructure debts.
    - *Jurisdiction:* US
 
-1061. **Chapter 12** — 破产法第十二章
+1057. **Chapter 12** — 破产法第十二章
 
    1. **破产法第十二章：** A federal bankruptcy procedure allowing eligible family farmers and fishers to reorganize debts through a repayment plan.
 
-1062. **Chapter 13** — 破产法第十三章
+1058. **Chapter 13** — 破产法第十三章
 
    1. **破产法第十三章：** A federal bankruptcy procedure allowing eligible individuals with regular income to repay debts under a court-approved plan.
 
-1063. **Chapter 13 trustee** — 第十三章破产受托人 *(n.)*
+1059. **Chapter 13 trustee** — 第十三章破产受托人 *(n.)*
 
    1. **第十三章破产受托人：** The official administering an individual debtor's repayment plan and distributing payments to creditors.
 
-1064. **Chapter 15** — 破产法第十五章
+1060. **Chapter 15** — 破产法第十五章
 
    1. **破产法第十五章：** The federal bankruptcy framework for recognizing foreign insolvency proceedings and coordinating cross-border relief.
 
-1065. **Chapter VII** — 第七章
+1061. **Chapter 7** — 第7章
+
+   1. **第7章：** A liquidation chapter of the Bankruptcy Code providing for asset sale and discharge.
+   - *Jurisdiction:* US
+
+1062. **Chapter 7 trustee** — 第7章受托人 *(n.)*
+
+   1. **第7章受托人：** A trustee appointed in a Chapter 7 case to liquidate the estate for creditors.
+   - *Jurisdiction:* US
+
+1063. **Chapter 9** — 破产法第九章
+
+   1. **破产法第九章：** The federal bankruptcy procedure governing debt adjustment by eligible municipalities.
+
+1064. **Chapter VII** — 第七章
 
    - The UN Charter chapter that lets the Security Council counter threats to peace.
    - *See also:* collective security; Military Staff Committee; self-defence; customary international law; war crimes; enforcement action
 
-1066. **character** — 性格 *(n.)*
+1065. **character** — 性格 *(n.)*
 
    1. A witness's or party's standing for truthfulness.
       - *Sense labels:* (in the law of evidence)
@@ -5044,14 +5046,18 @@
    - *Labels:* (in the law of evidence)
    - *See also:* defamation; antecedents
 
-1067. **Character Evidence** — 品格证据 *(n.)*
+1066. **Character Evidence** — 品格证据 *(n.)*
 
    1. **品格证据：** Evidence of a person's trait of character offered to prove conduct.
    - *Jurisdiction:* US
 
-1068. **Character For Truthfulness** — 诚实品格 *(n.)*
+1067. **Character For Truthfulness** — 诚实品格 *(n.)*
 
    1. **诚实品格：** A person's reputation or disposition for truthfulness, relevant within evidentiary limits to witness credibility.
+
+1068. **chargé d’affaires** — 临时代办
+
+   - The embassy official who leads the mission when the ambassador is absent.
 
 1069. **charge** — 指控 *(n.)*
 
@@ -5105,418 +5111,417 @@
    - An order making a judgment debtor's property security for the debt.
    - *See also:* Civil Procedure Rules
 
-1080. **chargé d’affaires** — 临时代办
-
-   - The embassy official who leads the mission when the ambassador is absent.
-
-1081. **Charitable Immunity** — 慈善机构豁免 *(n.)*
+1080. **Charitable Immunity** — 慈善机构豁免 *(n.)*
 
    1. **慈善机构豁免：** A historically recognized protection limiting charitable organizations' liability for certain civil wrongs.
 
-1082. **charitable trust** — 慈善信托
+1081. **charitable trust** — 慈善信托
 
    - A trust for purposes the law treats as charitable, enjoying tax and other advantages.
    - *See also:* gift aid; beneficiary principle; rule against perpetual trusts
 
-1083. **charity** — 慈善机构 *(n.)*
+1082. **charity** — 慈善机构 *(n.)*
 
    - A body set up for a charitable purpose, generally entered on the Charity Commission register.
    - *See also:* charitable trust; Charity Commission
 
-1084. **Charity Commission** — 慈善委员会
+1083. **Charity Commission** — 慈善委员会
 
    - The statutory regulator of charities for England and Wales.
    - *Jurisdiction:* England and Wales
    - *See also:* Charity Tribunal
 
-1085. **Charity Tribunal** — 慈善法庭
+1084. **Charity Tribunal** — 慈善法庭
 
    - A body hearing appeals from Charity Commission decisions and references on charity law.
 
-1086. **charter** — 章程 *(n.)*
+1085. **charter** — 章程 *(n.)*
 
    1. A document that confers rights or privileges, often from the Crown.
    2. A constitution, such as that of the United Nations.
 
-1087. **charter for demise** — 消亡租船
+1086. **charter for demise** — 消亡租船
 
    - A ship hire where the hirer takes full control and may acquire the vessel.
    - *See also:* bareboat charter
 
-1088. **Charter of Fundamental Rights** — 基本权利宪章
+1087. **Charter of Fundamental Rights** — 基本权利宪章
 
    - The EU charter gathering fundamental rights, binding on member states from 2009.
    - *See also:* European Convention on Human Rights; Lisbon Treaty; Constitutional Treaty; Equality Act 2010
 
-1089. **Charter Party** — 租船合同
+1088. **Charter Party** — 租船合同
 
    1. **租船合同：** An agreement governing the hire of a vessel or its cargo-carrying capacity.
 
-1090. **charterparty** — 租船合同 *(n.)*
+1089. **charterparty** — 租船合同 *(n.)*
 
    - A contract by which a charterer hires a vessel, or part of one, to carry goods by sea.
    - *See also:* bareboat charter; bill of lading; cesser clause
 
-1091. **charterparty bill of lading** — 租船提单
+1090. **charterparty bill of lading** — 租船提单
 
    1. **租船提单：** A bill of lading issued for goods carried under a charterparty and potentially incorporating its terms.
 
-1092. **chastisement** — 惩罚 *(n.)*
+1091. **chastisement** — 惩罚 *(n.)*
 
    - Corporal punishment used to discipline someone.
    - *See also:* in loco parentis; offences against the person
 
-1093. **chattel** — 动产 *(n.)*
+1092. **chattel** — 动产 *(n.)*
 
    - Personal property, as opposed to land or interests in land.
    - *See also:* real property
 
-1094. **cheat** — 欺骗 *(n.)*
+1093. **cheat** — 欺骗 *(n.)*
 
    - An old common-law offence now confined to cheating the public revenue.
 
-1095. **Check** — 支票
+1094. **Check** — 支票
 
    1. **支票：** A written order directing a bank to pay a specified sum from the drawer's account.
 
-1096. **check-off** — 结账 *(n.)*
+1095. **check-off** — 结账 *(n.)*
 
    - An arrangement deducting union subscriptions from wages and paying them to the union.
 
-1097. **cheque** — 支票 *(n.)*
+1096. **cheque** — 支票 *(n.)*
 
    - A written order directing a bank to pay a sum on demand.
    - *See also:* bill of exchange
 
-1098. **cheque card** — 支票卡
+1097. **cheque card** — 支票卡
 
    - A bank card promising that a signed cheque up to a set amount will be paid.
 
-1099. **Chevron Deference** — 雪佛龙尊重原则 *(n.)*
+1098. **Chevron Deference** — 雪佛龙尊重原则 *(n.)*
 
    1. **雪佛龙尊重原则：** A former federal doctrine requiring acceptance of reasonable agency interpretations of statutory ambiguity within delegated authority.
 
-1100. **Chicago School** — 芝加哥学派
+1099. **Chicago School** — 芝加哥学派
 
    1. A movement applying economic reasoning to legal rules.
    2. A school explaining crime through scientific and social causes.
    - *See also:* economic analysis of law; positivist school of criminology
 
-1101. **chief constable** — 警长
+1100. **chief constable** — 警长
 
    - The top post in a UK police force, other than the two London forces.
 
-1102. **Chief Electoral Officer of Canada** — 加拿大首席选举官
+1101. **Chief Electoral Officer of Canada** — 加拿大首席选举官
 
    1. **加拿大首席选举官：** The independent official responsible for administering federal elections in Canada.
 
-1103. **Chief judge** — 首席法官
+1102. **Chief judge** — 首席法官
 
    1. **首席法官：** The judge holding principal administrative responsibilities for a court.
 
-1104. **chief rent** — 主要租金
+1103. **chief rent** — 主要租金
 
    - A periodic rent charged on freehold land.
    - *See also:* rentcharge
 
-1105. **child** — 孩子 *(n.)*
+1104. **child** — 孩子 *(n.)*
 
    1. A young person; the age at which childhood ends depends on the relevant statute.
    2. An offspring of parents; the term generally includes illegitimate and adopted children.
    - *See also:* infant; illegitimacy; child of the family; qualifying child
 
-1106. **child abduction** — 诱拐儿童
+1105. **child abduction** — 诱拐儿童
 
    - Offences of taking or keeping a child from lawful control, or removing a child abroad without consent.
    - *See also:* parental responsibility; child arrangements order; specific issue order; all-ports warning system; Hague Convention on the Civil Aspects of International Child Abduction
 
-1107. **child abuse** — 虐待儿童
+1106. **child abuse** — 虐待儿童
 
    - Harm to a child, including physical, sexual, and emotional abuse and neglect.
    - *See also:* abuse of a position of trust; assault of a child under 13 by penetration; causing a child to watch a sexual act; child cruelty; child subjected to physical abuse; engaging in sexual activity in the presence of a child; familial child sexual offences; rape of a child under 13; sexual activity with a child; sexual assault of a child under 13
 
-1108. **child arrangements order** — 儿童安排令
+1107. **child arrangements order** — 儿童安排令
 
    - An order setting where a child lives and with whom, and what contact they have.
    - *See also:* residence order; contact order; welfare principle; activity directions and conditions; section 1(2A) presumption; parental responsibility
 
-1109. **child assessment order** — 儿童评估令
+1108. **child assessment order** — 儿童评估令
 
    - An order allowing a child to be examined where parents refuse, without granting parental responsibility.
    - *See also:* parental responsibility; emergency protection order
 
-1110. **child being looked after by a local authority** — 儿童正在由地方当局照顾
+1109. **child being looked after by a local authority** — 儿童正在由地方当局照顾
 
    - A child in the care or accommodation of a local authority.
    - *See also:* looked-after child
 
-1111. **child cruelty** — 虐待儿童
+1110. **child cruelty** — 虐待儿童
 
    - An offence of wilfully assaulting, ill-treating, neglecting, abandoning, or exposing a child.
    - *See also:* child subjected to physical abuse
 
-1112. **Child Custody** — 子女监护
+1111. **Child Custody** — 子女监护
 
    1. **子女监护：** The legal allocation of care and control of a child between parents.
 
-1113. **child destruction** — 儿童毁灭
+1112. **child destruction** — 儿童毁灭
 
    - An offence of destroying a fetus able to survive outside the womb.
    - *See also:* viable; abortion
 
-1114. **child employee** — 童工
+1113. **child employee** — 童工
 
    - Someone below school-leaving age who is in paid employment, generally prohibited.
 
-1115. **child in care** — 受照顾的儿童
+1114. **child in care** — 受照顾的儿童
 
    - A child for whom a care order has been made.
    - *See also:* care order; voluntary accommodation; looked-after child
 
-1116. **child maintenance order** — 子女抚养费令 *(n.)*
+1115. **child maintenance order** — 子女抚养费令 *(n.)*
 
    1. **子女抚养费令：** A court order requiring financial contributions toward a child's living and care expenses.
 
-1117. **Child Maintenance Service** — 儿童抚养服务
+1116. **Child Maintenance Service** — 儿童抚养服务
 
    - The state body that assesses and collects child maintenance.
    - *See also:* child support maintenance
 
-1118. **child of the family** — 家庭子女
+1117. **child of the family** — 家庭子女
 
    - A child treated by a couple as their own, whether or not born or adopted by them.
    - *See also:* family proceedings
 
-1119. **Child of the marriage** — 婚生子女 *(n.)*
+1118. **Child of the marriage** — 婚生子女 *(n.)*
 
    1. **婚生子女：** A child entitled to support under divorce law, including adopted dependent children.
    - *Jurisdiction:* Canada
 
-1120. **child of unmarried parents** — 未婚父母的子女
+1119. **child of unmarried parents** — 未婚父母的子女
 
    - A child whose parents were not married to each other.
    - *See also:* illegitimacy
 
-1121. **Child Protection Conference** — 儿童保护会议
+1120. **Child Protection Conference** — 儿童保护会议
 
    - A meeting deciding what action a local authority should take for a child at risk.
 
-1122. **child protection in divorce** — 离婚中的儿童保护
+1121. **child protection in divorce** — 离婚中的儿童保护
 
    - The rules safeguarding children when their parents divorce.
    - *See also:* children of the family; section 8 orders
 
-1123. **Children and Family Court Advisory and Support Service** — 儿童和家庭法庭咨询和支持服务
+1122. **Children and Family Court Advisory and Support Service** — 儿童和家庭法庭咨询和支持服务
 
    - A service that protects the interests of children in court cases and advises the court.
    - *Expands to:* Children and Family Court Advisory and Support Service
 
-1124. **children and young people’s plan** — 儿童和青少年计划
+1123. **children and young people’s plan** — 儿童和青少年计划
 
    - A local authority document listing the services open to children locally.
 
-1125. **children in care** — 受照顾的儿童
+1124. **children in care** — 受照顾的儿童
 
    - Children who are subjects of care orders.
    - *See also:* child in care; care order
 
-1126. **children in need** — 有需要的儿童
+1125. **children in need** — 有需要的儿童
 
    - Children the law identifies as needing special local authority support and services.
    - *See also:* local authority; support services
 
-1127. **children’s barred list** — 儿童禁止名单
+1126. **children’s barred list** — 儿童禁止名单
 
    - A list of people unsuitable to work with children because of past convictions or cautions.
 
-1128. **Children’s Commissioner** — 儿童专员
+1127. **Children’s Commissioner** — 儿童专员
 
    - An independent official who promotes children's views and interests.
 
-1129. **children’s guardian** — 儿童监护人
+1128. **children’s guardian** — 儿童监护人
 
    - Someone named by a court to safeguard a child's interests in legal proceedings.
 
-1130. **child safety order** — 儿童安全令
+1129. **child safety order** — 儿童安全令
 
    - An order allowing action when a child below ten behaves antisocially.
    - *See also:* parenting order
 
-1131. **child subjected to physical abuse** — 遭受身体虐待的儿童
+1130. **child subjected to physical abuse** — 遭受身体虐待的儿童
 
    - A child harmed physically by a caregiver, protected by various court orders.
    - *See also:* non-molestation; supervision order; care order; emergency protection; threshold criteria; child cruelty; neglect
 
-1132. **Child support** — 子女抚养费
+1131. **Child support** — 子女抚养费
 
    1. **子女抚养费：** Periodic payments from a parent to cover a child's living expenses.
 
-1133. **child support maintenance** — 子女赡养费
+1132. **child support maintenance** — 子女赡养费
 
    - Money a non-resident parent pays towards a child's upkeep, assessed by formula.
    - *See also:* qualifying child
 
-1134. **child tax credit** — 儿童税收抵免
+1133. **child tax credit** — 儿童税收抵免
 
    - A means-tested state payment for families with children.
    - *See also:* tax credit
 
-1135. **child witness** — 儿童证人
+1134. **child witness** — 儿童证人
 
    - A child giving evidence, subject to special protections.
    - *See also:* competence; video evidence; witness
 
-1136. **Chilling Effect** — 寒蝉效应
+1135. **Chilling Effect** — 寒蝉效应
 
    1. **寒蝉效应：** Deterrence of lawful expression or conduct through fear of legal penalties or other adverse consequences.
 
-1137. **Chiltern Hundreds, stewardship of the** — 奇尔特恩百户管事职位
+1136. **Chiltern Hundreds, stewardship of the** — 奇尔特恩百户管事职位
 
    - A nominal office used by members of Parliament to resign their seats.
 
-1138. **Choice Of Law** — 法律选择
+1137. **Choice Of Law** — 法律选择
 
    1. **法律选择：** Determination of which jurisdiction's substantive law governs a dispute.
 
-1139. **chose** — 选择了 *(n.)*
+1138. **chose** — 选择了 *(n.)*
 
    - A thing, divided into choses in possession (tangible) and choses in action (rights).
 
-1140. **Chose In Action** — 诉权财产 *(n.)*
+1139. **Chose In Action** — 诉权财产 *(n.)*
 
    1. **诉权财产：** An intangible property right enforceable through legal proceedings rather than physical possession.
 
-1141. **Church of England** — 英国国教
+1140. **Church of England** — 英国国教
 
    - England's national church, whose supreme governor is the sovereign.
    - *See also:* ecclesiastical courts
 
-1142. **CIF** — 成本保险费加运费
+1141. **CIF** — 成本保险费加运费
 
    1. **成本保险费加运费：** A trade term meaning cost, insurance, and freight paid to a destination port.
 
-1143. **CIF contract** — 成本、保险、货运合同
+1142. **CIF contract** — 成本、保险、货运合同
 
    - A sale contract where the seller supplies goods, arranges carriage and insurance, and delivers documents.
    - *Expands to:* cost, insurance, freight contract
    - *See also:* bill of lading; Incoterm
 
-1144. **circuit administrator** — 巡回行政人员
+1143. **circuit administrator** — 巡回行政人员
 
    - A civil servant managing court administration in a circuit.
    - *See also:* circuit system; presiding judge
 
-1145. **circuit judge** — 巡回法官
+1144. **circuit judge** — 巡回法官
 
    - A judge who sits in both the county and Crown Courts.
    - *See also:* advocacy qualification; recorders; county courts; Crown Court
 
-1146. **Circuit layout rights** — 集成电路布图设计权
+1145. **Circuit layout rights** — 集成电路布图设计权
 
    1. **集成电路布图设计权：** Rights protecting qualifying layouts of electronic components and connections in an integrated circuit.
 
-1147. **Circuit Split** — 巡回上诉法院分歧
+1146. **Circuit Split** — 巡回上诉法院分歧
 
    1. **巡回上诉法院分歧：** Conflicting interpretations of federal law among federal appellate circuits.
 
-1148. **circuit system** — 巡回系统
+1147. **circuit system** — 巡回系统
 
    - The division of England and Wales into regions for court administration.
    - *Jurisdiction:* England and Wales
    - *See also:* circuit administrator; presiding judges; circuit judge
 
-1149. **Circumstances importing an obligation of confidence** — 产生保密义务的情形 *(n.)*
+1148. **Circumstances importing an obligation of confidence** — 产生保密义务的情形 *(n.)*
 
    1. **产生保密义务的情形：** Conditions making a recipient legally responsible for keeping disclosed information confidential.
 
-1150. **circumstantial evidence** — 间接证据
+1149. **circumstantial evidence** — 间接证据
 
    - Evidence allowing a fact to be inferred rather than proved outright.
    - *See also:* direct evidence
 
-1151. **CISG** — 联合国国际货物销售合同公约
+1150. **CISG** — 《联合国国际货物销售合同公约》
 
-   - United Nations Convention on Contracts for the International Sale of Goods, the treaty governing cross-border sales.
+   1. **《联合国国际货物销售合同公约》：** The 1980 United Nations treaty governing qualifying international sales of goods. Article 1 uses the parties’ places of business to determine internationality. Its scope is subject to exclusions, and parties may exclude its application.
+      - *Sense labels:* international sales
+      - *Sense jurisdiction:* International treaty
+      - *Source:* [CISG, arts 1–6 (UNCITRAL Digest, 2012)](https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/cisg-digest-2012-e.pdf) · source-checked · 2026-11-24
    - *See also:* United Nations Convention on Contracts for the International Sale of Goods
 
-1152. **citation** — 引文 *(n.)*
+1151. **citation** — 引文 *(n.)*
 
    1. A court paper requiring a party to explain why something should not happen.
    2. A pointer to a case, statute, or other legal authority.
 
-1153. **Citation, citeable** — 引证；可供引证的
+1152. **Citation, citeable** — 引证；可供引证的
 
    1. **引证；可供引证的：** Prior material relied upon, or capable of being relied upon, to challenge an application's eligibility for protection.
 
-1154. **citator** — 引用者 *(n.)*
+1153. **citator** — 引用者 *(n.)*
 
    - A publication showing how later cases have treated an earlier decision.
 
-1155. **Citizen** — 公民 *(n.)*
+1154. **Citizen** — 公民 *(n.)*
 
    1. **公民：** A person possessing a state's citizenship and its associated rights and obligations.
 
-1156. **citizen of the European Union** — 欧盟公民
+1155. **citizen of the European Union** — 欧盟公民
 
    - A citizenship status held automatically by nationals of member states.
    - *See also:* Maastricht Treaty
 
-1157. **citizen’s arrest** — 公民被捕
+1156. **citizen’s arrest** — 公民被捕
 
    - A lawful arrest made by someone who is not a police officer.
    - *See also:* arrest
 
-1158. **Citizenship** — 公民身份 *(n.)*
+1157. **Citizenship** — 公民身份 *(n.)*
 
    1. **公民身份：** Legal membership of a state carrying the rights and responsibilities assigned by its nationality law.
 
-1159. **citizenship of the UK and Colonies** — 英国和殖民地公民身份
+1158. **citizenship of the UK and Colonies** — 英国和殖民地公民身份
 
    - A former citizenship status replaced in 1983 by the current forms of British nationality.
    - *See also:* British citizenship; British Overseas Territories citizenship; British Overseas citizenship
 
-1160. **City Code on Takeovers and Mergers** — 城市收购和合并准则
+1159. **City Code on Takeovers and Mergers** — 城市收购和合并准则
 
    - Rules governing how public companies are taken over or merged.
    - *See also:* takeovers; mergers
 
-1161. **City of London** — 伦敦市
+1160. **City of London** — 伦敦市
 
    - The district of Greater London administered by the City of London Corporation.
    - *See also:* Greater London; aldermen
 
-1162. **Civil bill** — 民事起诉书
+1161. **Civil bill** — 民事起诉书
 
    1. **民事起诉书：** A document commencing specified civil proceedings and stating the claim and relief sought.
 
-1163. **Civil Contempt** — 民事藐视法庭
+1162. **Civil Contempt** — 民事藐视法庭
 
    1. **民事藐视法庭：** Noncompliance with a court order addressed through coercive or compensatory measures rather than purely punitive punishment.
 
-1164. **civil contingencies** — 民事意外事件
+1163. **civil contingencies** — 民事意外事件
 
    - Measures to shield the public from war or disaster and to aid recovery.
    - *See also:* emergency powers
 
-1165. **civil court** — 民事法院
+1164. **civil court** — 民事法院
 
    - A court dealing with civil disputes rather than crimes.
    - *See also:* courts of first instance; county courts; High Court; Magistrates’ courts
 
-1166. **Civil Death** — 民事死亡 *(n.)*
+1165. **Civil Death** — 民事死亡 *(n.)*
 
    1. **民事死亡：** A historical legal status depriving a living person of most civil rights.
 
-1167. **Civil Forfeiture** — 民事没收
+1166. **Civil Forfeiture** — 民事没收
 
    1. **民事没收：** A civil proceeding transferring property to the government because of its legally established connection to prohibited conduct.
 
-1168. **civil injunction** — 民事禁令
+1167. **civil injunction** — 民事禁令
 
    - An order requiring or forbidding conduct, used against antisocial behaviour.
    - *See also:* ASBOs; Criminal Behaviour Order
 
-1169. **civil law** — 民法
+1168. **civil law** — 民法
 
    1. The law of a particular state; municipal law.
    2. Roman law.
@@ -5524,668 +5529,668 @@
    4. Private law, as distinct from public, military, and ecclesiastical law.
    - *See also:* municipal law; common law; Private law; public law
 
-1170. **civil liability contribution** — 民事责任分摊
+1169. **civil liability contribution** — 民事责任分摊
 
    - A wrongdoer's right to recover a share from others answerable for the same harm.
 
-1171. **Civil List** — 民事清单
+1170. **Civil List** — 民事清单
 
    - Public money funding the royal household and allowances to some royals.
    - *See also:* Consolidated Fund
 
-1172. **civil partnership** — 民事伴侣关系
+1171. **civil partnership** — 民事伴侣关系
 
    - A legal relationship giving couples rights akin to marriage, now open to any couple.
    - *See also:* prohibited degrees; divorce; financial relief; home rights; step-parent; parental responsibility; inheritance tax; Marriage
 
-1173. **Civil Procedure Rules** — 民事诉讼规则
+1172. **Civil Procedure Rules** — 民事诉讼规则
 
    - The procedural code governing civil litigation in England and Wales since 1999.
    - *Expands to:* Civil Procedure Rules
    - *See also:* Rules of the Supreme Court; Practice Directions; pre-action protocols
 
-1174. **civil remedy** — 民事救济
+1173. **civil remedy** — 民事救济
 
    - A non-criminal remedy, such as damages or an injunction.
    - *See also:* remedy
 
-1175. **Civil Rico** — 民事反有组织犯罪诉讼
+1174. **Civil Rico** — 民事反有组织犯罪诉讼
 
    1. **民事反有组织犯罪诉讼：** A civil action seeking remedies for injury caused by conduct prohibited under federal racketeering law.
 
-1176. **Civil Rights** — 公民权利
+1175. **Civil Rights** — 公民权利
 
    1. **公民权利：** Legally protected rights to equal treatment, participation, and freedom from specified governmental or private interference.
 
-1177. **civil servant** — 公务员
+1176. **civil servant** — 公务员
 
    1. **公务员：** A person employed in the civilian public administration of a government.
 
-1178. **Civil Service** — 公务员
+1177. **Civil Service** — 公务员
 
    - The permanent, politically impartial staff who carry out government policy.
    - *See also:* Crown servants; executive agencies
 
-1179. **Civil Service Commission** — 公务员委员会
+1178. **Civil Service Commission** — 公务员委员会
 
    - An independent body ensuring Civil Service appointments are made on merit openly.
 
-1180. **Civil surgeon** — 移民体检指定医师
+1179. **Civil surgeon** — 移民体检指定医师
 
    1. **移民体检指定医师：** A physician designated to conduct medical examinations for United States immigration applications filed domestically.
 
-1181. **Civil Union** — 民事结合
+1180. **Civil Union** — 民事结合
 
    1. **民事结合：** A legally recognized partnership conferring specified relationship rights and duties outside marriage.
 
-1182. **civil wrong** — 民事错误
+1181. **civil wrong** — 民事错误
 
    - A breach of someone's rights that can be redressed by a civil action.
    - *See also:* torts; breaches of contract
 
-1183. **claim** — 索赔 *(n.)*
+1182. **claim** — 索赔 *(n.)*
 
    - An assertion of a right or request for relief, especially the right to sue.
    - *See also:* claim form; Part 20 claim
 
-1184. **claimant** — 索赔人 *(n.)*
+1183. **claimant** — 索赔人 *(n.)*
 
    - A person seeking relief against another in court proceedings.
    - *See also:* Civil Procedure Rules; defendant
 
-1185. **Claim Construction** — 权利要求解释 *(n.)*
+1184. **Claim Construction** — 权利要求解释 *(n.)*
 
    1. **权利要求解释：** Judicial determination of the meaning and scope of patent claims.
 
-1186. **claim form** — 索赔表
+1185. **claim form** — 索赔表
 
    - The document that begins civil proceedings, naming parties and the remedy sought.
       - *Sense labels:* (in civil proceedings)
    - *Labels:* (in civil proceedings)
    - *See also:* Civil Procedure Rules; Part 8 claim form; statement of case
 
-1187. **claim for preferential tariff treatment** — 优惠关税待遇申请 *(n.)*
+1186. **claim for preferential tariff treatment** — 优惠关税待遇申请 *(n.)*
 
    1. **优惠关税待遇申请：** A request that imported goods receive a preferential tariff based on satisfaction of the applicable origin and procedural requirements.
 
-1188. **Claim notice** — 请求通知书
+1187. **Claim notice** — 请求通知书
 
    1. **请求通知书：** A formal notice stating a legal demand and the basis for the relief sought.
 
-1189. **claim of origin** — 原产地声明
+1188. **claim of origin** — 原产地声明
 
    1. **原产地声明：** A representation identifying where goods originate for customs, preferential treatment, or labeling purposes.
 
-1190. **claim of privilege** — 特权声明
+1189. **claim of privilege** — 特权声明
 
    - An assertion that information need not be disclosed.
    - *See also:* privilege
 
-1191. **Claim Preclusion** — 请求排除效力 *(n.)*
+1190. **Claim Preclusion** — 请求排除效力 *(n.)*
 
    1. **请求排除效力：** The effect of a qualifying final judgment barring later litigation of claims covered by that judgment.
 
-1192. **CLAIM PRECLUSION (RES JUDICATA)** — 既判力之请求排除
+1191. **CLAIM PRECLUSION (RES JUDICATA)** — 既判力之请求排除
 
    1. **既判力之请求排除：** A rule preventing a party from relitigating a claim resolved by a qualifying final judgment.
 
-1193. **Claim Production Centre** — 索赔制作中心
+1192. **Claim Production Centre** — 索赔制作中心
 
    - The county court office producing summonses for large-scale court users.
    - *Expands to:* Claim Production Centre; County Court Bulk Centre
    - *See also:* county courts
 
-1194. **Claims** — 权利要求
+1193. **Claims** — 权利要求
 
    1. **权利要求：** The numbered statements defining the invention for which patent protection is sought or granted.
 
-1195. **Claims-Made Policy** — 索赔提出制保单 *(n.)*
+1194. **Claims-Made Policy** — 索赔提出制保单 *(n.)*
 
    1. **索赔提出制保单：** Insurance covering claims first made within a specified period, subject to the policy's conditions.
 
-1196. **Class –** — 类别
+1195. **Class –** — 类别
 
    1. **类别：** A numbered product grouping used to organize designs within an official classification system.
 
-1197. **Class action** — 集体诉讼 *(n.)*
+1196. **Class action** — 集体诉讼 *(n.)*
 
    1. **集体诉讼：** A representative proceeding in which named parties litigate on behalf of a legally defined class.
 
-1198. **Class Action Case** — 集体诉讼案件
+1197. **Class Action Case** — 集体诉讼案件
 
    1. **集体诉讼案件：** A proceeding where one or more sue on behalf of a larger group.
 
-1199. **Class Action Prerequisites** — 集体诉讼先决条件
+1198. **Class Action Prerequisites** — 集体诉讼先决条件
 
    1. **集体诉讼先决条件：** The required characteristics of the proposed class and representation that must be established before certification.
 
-1200. **Class Certification** — 集体诉讼认证 *(n.)*
+1199. **Class Certification** — 集体诉讼认证 *(n.)*
 
    1. **集体诉讼认证：** A judicial determination that a proposed class action satisfies the requirements for representative litigation.
 
-1201. **Classes** — 分类类别
+1200. **Classes** — 分类类别
 
    1. **分类类别：** The separate goods, services, or product groupings used to organize intellectual property filings.
 
-1202. **class gift** — 班级礼物
+1201. **class gift** — 班级礼物
 
    - A gift made to members of a described group, not named individuals.
 
-1203. **classical school of criminology** — 犯罪学经典流派
+1202. **classical school of criminology** — 犯罪学经典流派
 
    - A school seeing crime as freely chosen and deterred by swift, certain punishment.
    - *See also:* criminology; utilitarianism; punishment; positivist school of criminology
 
-1204. **Classification** — 分类 *(n.)*
+1203. **Classification** — 分类 *(n.)*
 
    1. **分类：** Assigning an invention, design, or trademark specification to an established search or registration category.
 
-1205. **classification of animals** — 动物分类
+1204. **classification of animals** — 动物分类
 
    - The division of animals by law into categories affecting liability.
    - *See also:* animals; dangerous animals
 
-1206. **class rights** — 类别权利
+1205. **class rights** — 类别权利
 
    - Rights belonging to a distinct category of shares.
    - *See also:* shares; dividends; winding-up; articles of association
 
-1207. **Class Waiver** — 集体诉讼权放弃 *(n.)*
+1206. **Class Waiver** — 集体诉讼权放弃 *(n.)*
 
    1. **集体诉讼权放弃：** An agreement to pursue claims individually rather than through class proceedings, where enforceable.
 
-1208. **clause** — 子句 *(n.)*
+1207. **clause** — 子句 *(n.)*
 
    1. A distinct part of a document that states a term or provision.
    2. One part of a draft Bill.
    - *See also:* Bill
 
-1209. **Clawback Order** — 追回披露材料令 *(n.)*
+1208. **Clawback Order** — 追回披露材料令 *(n.)*
 
    1. **追回披露材料令：** An order permitting recovery of disclosed material and preserving privilege or protection under specified conditions.
 
-1210. **CLAWBACK PROVISION (DISCOVERY)** — 证据披露追回条款
+1209. **CLAWBACK PROVISION (DISCOVERY)** — 证据披露追回条款
 
    1. **证据披露追回条款：** A provision governing return or restricted use of inadvertently disclosed protected material without necessarily resolving privilege waiver.
 
-1211. **clean bill of lading** — 清洁提单
+1210. **clean bill of lading** — 清洁提单
 
    1. **清洁提单：** A bill of lading containing no adverse notation about the goods' or packaging's apparent condition when received.
 
-1212. **clean break** — 一刀两断
+1211. **clean break** — 一刀两断
 
    - The principle that divorce should leave the spouses financially independent.
    - *See also:* child support maintenance
 
-1213. **clean hands** — 干净的手
+1212. **clean hands** — 干净的手
 
    - The equitable maxim that a claimant must not be tainted by fraud in the claim.
    - *See also:* maxim of equity
 
-1214. **clearance** — 清关 *(n.)*
+1213. **clearance** — 清关 *(n.)*
 
    1. A certificate that a ship meets customs requirements.
    2. A Revenue ruling confirming that a tax anti-avoidance rule will not bite on a planned transaction.
    - *See also:* anti-avoidance provision
 
-1215. **Clear And Convincing Evidence** — 明确且令人信服的证据 *(n.)*
+1214. **Clear And Convincing Evidence** — 明确且令人信服的证据 *(n.)*
 
    1. **明确且令人信服的证据：** A heightened standard of proof exceeding a balance of probabilities.
    - *Jurisdiction:* US
 
-1216. **Clear Error** — 明显错误 *(n.)*
+1215. **Clear Error** — 明显错误 *(n.)*
 
    1. **明显错误：** A factual error leaving a reviewing court firmly convinced that the lower court made a mistake.
 
-1217. **Clear Error Standard** — 明显错误审查标准
+1216. **Clear Error Standard** — 明显错误审查标准
 
    1. **明显错误审查标准：** A deferential appellate standard permitting reversal of factual findings only upon a firm conviction of mistake.
 
-1218. **Clear Line of Sight Project** — 清晰视线项目
+1217. **Clear Line of Sight Project** — 清晰视线项目
 
    - A project changing how government spending is presented in accounts.
    - *Expands to:* Clear Line of Sight Project
    - *See also:* Alignment Project
 
-1219. **Clearly Erroneous** — 明显错误的 *(adj.)*
+1218. **Clearly Erroneous** — 明显错误的 *(adj.)*
 
    1. **明显错误的：** Describing a factual finding that produces a firm conviction of mistake despite supporting evidence.
 
-1220. **Clearly Established Federal Law** — 已明确确立的联邦法律
+1219. **Clearly Established Federal Law** — 已明确确立的联邦法律
 
    1. **已明确确立的联邦法律：** Controlling Supreme Court holdings relevant to assessing a state-court decision in federal habeas review.
 
-1221. **CLEARLY ESTABLISHED (QUALIFIED IMMUNITY)** — 已明确确立的权利
+1220. **CLEARLY ESTABLISHED (QUALIFIED IMMUNITY)** — 已明确确立的权利
 
    1. **已明确确立的权利：** A right sufficiently clear that a reasonable official would understand the challenged conduct violates it.
 
-1222. **Clear Statement Rule** — 明确表述规则
+1221. **Clear Statement Rule** — 明确表述规则
 
    1. **明确表述规则：** An interpretive rule requiring unmistakable legislative language before attributing certain consequential intentions to a statute.
 
-1223. **Clerical Mistake** — 文书笔误
+1222. **Clerical Mistake** — 文书笔误
 
    1. **文书笔误：** An accidental recording, transcription, or calculation error that does not reflect a substantive judicial decision.
 
-1224. **Clerk of court** — 法院书记官
+1223. **Clerk of court** — 法院书记官
 
    1. **法院书记官：** The official responsible for court records, filings, and specified administrative functions.
 
-1225. **Clerk of the House** — 众议院书记官
+1224. **Clerk of the House** — 众议院书记官
 
    - The most senior permanent official of the Commons.
 
-1226. **Clerk of the House of Commons** — 下议院书记官
+1225. **Clerk of the House of Commons** — 下议院书记官
 
    1. **下议院书记官：** The chief procedural adviser and senior administrative officer of a House of Commons.
 
-1227. **Clerk of the Parliaments** — 议会书记官
+1226. **Clerk of the Parliaments** — 议会书记官
 
    - The most senior permanent official of the Lords.
 
-1228. **Clerk of the Senate and Clerk of the Parliaments** — 参议院书记官兼议会书记官
+1227. **Clerk of the Senate and Clerk of the Parliaments** — 参议院书记官兼议会书记官
 
    1. **参议院书记官兼议会书记官：** The Canadian Senate's senior procedural officer, who also performs parliamentary recordkeeping duties.
 
-1229. **clerk to the justices** — 法官书记员
+1228. **clerk to the justices** — 法官书记员
 
    - A legally qualified official who advises magistrates on law and procedure.
    - *See also:* magistrates’ court
 
-1230. **client** — 客户 *(n.)*
+1229. **client** — 客户 *(n.)*
 
    - Someone who instructs a solicitor to act on their behalf.
    - *See also:* fiduciary; undue influence
 
-1231. **climate change levy** — 气候变化税
+1230. **climate change levy** — 气候变化税
 
    - A tax on energy used by businesses, aimed at cutting emissions.
    - *See also:* environmental taxes
 
-1232. **Clinical Commissioning Groups** — 临床委托小组
+1231. **Clinical Commissioning Groups** — 临床委托小组
 
    - NHS bodies that commissioned most health services from 2013.
    - *Expands to:* Clinical Commissioning Groups; Primary Care Trusts
    - *See also:* National Health Service; Primary Care Trusts
 
-1233. **Clinic model** — 诊所模式
+1232. **Clinic model** — 诊所模式
 
    1. **诊所模式：** A setup providing supervised legal services to clients by students or nonprofits.
 
-1234. **clog or fetter on the equitable right to redeem** — 对衡平法赎回权的阻碍或束缚
+1233. **clog or fetter on the equitable right to redeem** — 对衡平法赎回权的阻碍或束缚
 
    - A mortgage term that prevents redemption, which is generally void.
    - *See also:* mortgage; debentures; restraint of trade
 
-1235. **cloning** — 克隆 *(n.)*
+1234. **cloning** — 克隆 *(n.)*
 
    - Creating a genetically identical human being without sexual reproduction.
    - *See also:* Human Fertilization and Embryology Authority
 
-1236. **CLOS** — 清晰视线项目的缩写
+1235. **CLOS** — 清晰视线项目的缩写
 
    - Clear Line of Sight Project.
    - *See also:* Alignment Project
 
-1237. **close** — 关闭 *(n.)*
+1236. **close** — 关闭 *(n.)*
 
    - A piece of enclosed land.
 
-1238. **close company** — 关闭公司
+1237. **close company** — 关闭公司
 
    - A company run by its directors or a handful of participators.
    - *See also:* loan creditors
 
-1239. **closed court** — 不公开法庭
+1238. **closed court** — 不公开法庭
 
    1. **不公开法庭：** A hearing from which the public is excluded under lawful confidentiality or protective restrictions.
 
-1240. **closed-shop agreement** — 闭店协议
+1239. **closed-shop agreement** — 闭店协议
 
    - An agreement requiring employees to be union members, now unenforceable.
    - *See also:* employment tribunal; inadmissible reason; compensation; trade dispute
 
-1241. **closely integrated administrative control** — 紧密整合的行政控制
+1240. **closely integrated administrative control** — 紧密整合的行政控制
 
    1. **紧密整合的行政控制：** Operational integration enabling an express carrier to control shipments and maintain reliable customs information throughout pickup and delivery.
 
-1242. **close of pleadings** — 诉状结束
+1241. **close of pleadings** — 诉状结束
 
    - Formerly the point in High Court pleading reached after the last reply or defence.
    - *See also:* case management; allocation
 
-1243. **Closing Argument** — 结案陈词 *(n.)*
+1242. **Closing Argument** — 结案陈词 *(n.)*
 
    1. **结案陈词：** A party's final argument explaining how the evidence supports the requested decision.
 
-1244. **closing conditions** — 交割条件
+1243. **closing conditions** — 交割条件
 
    1. **交割条件：** Requirements that must be fulfilled or waived before a transaction is completed.
 
-1245. **closing deliverables** — 交割交付文件
+1244. **closing deliverables** — 交割交付文件
 
    1. **交割交付文件：** Documents, payments, and other items required to be exchanged at completion of a transaction.
 
-1246. **closure** — 结束 *(n.)*
+1245. **closure** — 结束 *(n.)*
 
    - A procedure ending debate in the Commons so a vote can be taken at once.
    - *See also:* guillotine
 
-1247. **Cloud On Title** — 产权瑕疵疑云
+1246. **Cloud On Title** — 产权瑕疵疑云
 
    1. **产权瑕疵疑云：** An apparent competing claim or defect that casts doubt on otherwise valid property title.
 
-1248. **CLS** — 批判性法律研究
+1247. **CLS** — 批判性法律研究
 
    - Critical Legal Studies: a movement questioning law's claimed neutrality.
    - *See also:* critical legal studies
 
-1249. **club** — 俱乐部 *(n.)*
+1248. **club** — 俱乐部 *(n.)*
 
    - An association whose members are bound by its rules as a contract.
    - *See also:* limited company
 
-1250. **CMA** — 竞争和市场管理局
+1249. **CMA** — 竞争和市场管理局
 
    - Competition and Markets Authority: the UK competition regulator.
    - *See also:* Competition and Markets Authority
 
-1251. **CMC** — 案例管理会议
+1250. **CMC** — 案例管理会议
 
    - Case management conference: a hearing where a judge reviews a case's progress.
    - *See also:* case management conference
 
-1252. **Coase theorem** — 科斯定理
+1251. **Coase theorem** — 科斯定理
 
    - An idea that clear rights and low transaction costs yield efficient outcomes whatever the legal rule.
    - *See also:* economic analysis of law; tort; Pareto efficiency; Kaldor-Hicks efficiency
 
-1253. **coastal waters** — 沿海水域
+1252. **coastal waters** — 沿海水域
 
    - The sea areas next to a state's coast over which it claims rights.
    - *See also:* exclusive economic zone; fishery limits; territorial waters
 
-1254. **Co-Conspirator** — 共同共谋人 *(n.)*
+1253. **Co-Conspirator** — 共同共谋人 *(n.)*
 
    1. **共同共谋人：** A person participating with others in an agreement to commit an unlawful act.
 
-1255. **Co-Conspirator Statement** — 共谋人陈述 *(n.)*
+1254. **Co-Conspirator Statement** — 共谋人陈述 *(n.)*
 
    1. **共谋人陈述：** A statement made during and in furtherance of a conspiracy, potentially admissible against another participant.
 
-1256. **Coconspirator Statement** — 共同共谋人陈述 *(n.)*
+1255. **Coconspirator Statement** — 共同共谋人陈述 *(n.)*
 
    1. **共同共谋人陈述：** A conspirator's statement advancing the conspiracy during its existence, subject to special admissibility requirements.
 
-1257. **code** — 代码 *(n.)*
+1256. **code** — 代码 *(n.)*
 
    - A complete written statement of a whole area of law, such as a codifying statute.
    - *Jurisdiction:* England and Wales
    - *See also:* codifying statute
 
-1258. **codecision procedure** — 决策程序
+1257. **codecision procedure** — 决策程序
 
    - A former EU legislative process in which Parliament could veto proposals and a conciliation committee sought compromise between the Council and Parliament.
    - *See also:* Maastricht Treaty; European Parliament; Council of the European Union; Lisbon Treaty; ordinary legislative procedure; assent procedure; cooperation procedure
 
-1259. **Code for Crown Prosecutors** — 皇家检察官守则
+1258. **Code for Crown Prosecutors** — 皇家检察官守则
 
    - Guidance for Crown Prosecutors on prosecution decisions, requiring enough evidence for a realistic conviction prospect and a public-interest test.
    - *See also:* Crown Prosecution Service
 
-1260. **Code of Federal Regulations** — 美国联邦法规汇编
+1259. **Code of Federal Regulations** — 美国联邦法规汇编
 
    1. **美国联邦法规汇编：** The subject-organized compilation of general and permanent regulations issued by United States federal agencies.
 
-1261. **code of practice** — 业务守则
+1260. **code of practice** — 业务守则
 
    1. Guidance rules or professional standards that carry no legal force, such as the Highway Code.
    2. One of the Home Secretary's codes approved by Parliament, governing police powers over search, detention, and questioning.
    - *See also:* Office of Fair Trading; ACAS
 
-1262. **Code Pleading** — 法典式诉辩
+1261. **Code Pleading** — 法典式诉辩
 
    1. **法典式诉辩：** A pleading system requiring allegations of facts constituting a legally recognized cause of action under a procedural code.
 
-1263. **codicil** — 遗嘱附录 *(n.)*
+1262. **codicil** — 遗嘱附录 *(n.)*
 
    - A document executed like a will that adds to, alters, or revokes provisions in an existing will.
    - *See also:* execution of will; proving a will; republication of will
 
-1264. **codifying statute** — 编纂成文法
+1263. **codifying statute** — 编纂成文法
 
    - A statute that restates all the law, statutory and judge-made, on a given topic.
    - *See also:* consolidating statute; interpretation
 
-1265. **coercion** — 胁迫 *(n.)*
+1264. **coercion** — 胁迫 *(n.)*
 
    - A former defence for wives who committed crimes while pressured by their husbands, abolished in 2017.
    - *See also:* duress
 
-1266. **cognates** — 同源 *(pl. n.)*
+1265. **cognates** — 同源 *(pl. n.)*
 
    - People descended from the same ancestor.
 
-1267. **Cognitive Bias** — 认知偏差
+1266. **Cognitive Bias** — 认知偏差
 
    1. **认知偏差：** A systematic tendency in judgment that can distort evaluation of evidence, risk, or competing explanations.
 
-1268. **Cognovit Note** — 认诺判决票据
+1267. **Cognovit Note** — 认诺判决票据
 
    1. **认诺判决票据：** A promissory note authorizing entry of judgment against the debtor without ordinary contested proceedings.
 
-1269. **cohabitants** — 同居者 *(pl. n.)*
+1268. **cohabitants** — 同居者 *(pl. n.)*
 
    - Unmarried partners living together in a stable long-term relationship, whom English law generally treats like strangers.
    - *Jurisdiction:* England and Wales
    - *See also:* illegitimacy; unmarried father; domestic violence
 
-1270. **cohabitation** — 同居 *(n.)*
+1269. **cohabitation** — 同居 *(n.)*
 
    1. **同居：** Living together in a shared domestic relationship without necessarily being married.
 
-1271. **co-imperium** — 共同帝国 *(n.)*
+1270. **co-imperium** — 共同帝国 *(n.)*
 
    - Shared sovereignty of two or more states over a territory with a distinct international status.
    - *See also:* condominium
 
-1272. **collaborative law** — 合作法
+1271. **collaborative law** — 合作法
 
    - A family dispute process in which the parties and their lawyers agree to settle without litigation and to make full disclosure.
 
-1273. **collateral** — 并列 *(adj.)*
+1272. **collateral** — 并列 *(adj.)*
 
    1. In family law, describing relatives who share an ancestor but descend through different lines.
    2. Subordinate or ancillary to a main matter yet connected to it.
    3. Additional security for a debt beyond the principal security.
    - *See also:* consanguinity
 
-1274. **collateral advantage** — 附带优势
+1273. **collateral advantage** — 附带优势
 
    - An extra benefit, often disproportionate, gained by a party through superior bargaining power beyond the contract's main terms.
    - *See also:* option to purchase; solus tie; equitable right to redeem
 
-1275. **Collateral Attack** — 附带攻击判决
+1274. **Collateral Attack** — 附带攻击判决
 
    1. **附带攻击判决：** A challenge to a judgment's validity made outside the ordinary direct appeal process.
 
-1276. **COLLATERAL ATTACK (FEDERAL CUSTODY)** — 联邦羁押附带审查
+1275. **COLLATERAL ATTACK (FEDERAL CUSTODY)** — 联邦羁押附带审查
 
    1. **联邦羁押附带审查：** A postconviction proceeding challenging the legality of federal custody outside direct appellate review.
 
-1277. **COLLATERAL ATTACK (VOID JUDGMENT)** — 对无效判决的附带攻击
+1276. **COLLATERAL ATTACK (VOID JUDGMENT)** — 对无效判决的附带攻击
 
    1. **对无效判决的附带攻击：** A challenge to a judgment's validity brought outside its ordinary direct-review process.
 
-1278. **collateral benefits** — 附带福利
+1277. **collateral benefits** — 附带福利
 
    - Benefits, such as insurance, sick pay, or state support, that an injured person receives from third parties because of the injury.
 
-1279. **Collateral Consequence** — 附随后果 *(n.)*
+1278. **Collateral Consequence** — 附随后果 *(n.)*
 
    1. **附随后果：** A legal disadvantage flowing from a conviction or judgment beyond its direct sentence or order.
 
-1280. **Collateral Consequences** — 附带法律后果
+1279. **Collateral Consequences** — 附带法律后果
 
    1. **附带法律后果：** Additional legal restrictions arising from a conviction or judgment apart from the punishment expressly imposed.
 
-1281. **collateral contract** — 附属合同
+1280. **collateral contract** — 附属合同
 
    - A side agreement that leads someone to make a main contract.
 
-1282. **Collateral Estoppel** — 争点禁反言
+1281. **Collateral Estoppel** — 争点禁反言
 
    1. **争点禁反言：** A rule preventing relitigation of an issue already conclusively determined between relevant parties.
 
-1283. **Collateral Order** — 附带裁定 *(n.)*
+1282. **Collateral Order** — 附带裁定 *(n.)*
 
    1. **附带裁定：** An order addressing an issue separate from the merits that may qualify for immediate appeal.
 
-1284. **Collateral Order Doctrine** — 附带裁定原则
+1283. **Collateral Order Doctrine** — 附带裁定原则
 
    1. **附带裁定原则：** An exception permitting immediate appeal of certain conclusive, separate decisions that effective review cannot await final judgment.
 
-1285. **Collateral Source Rule** — 附带来源规则
+1284. **Collateral Source Rule** — 附带来源规则
 
    1. **附带来源规则：** A rule generally preventing a wrongdoer from reducing damages by benefits the claimant receives from independent sources.
 
-1286. **collective bargaining** — 集体谈判
+1285. **collective bargaining** — 集体谈判
 
    - Negotiation of employment terms and conditions between trade unions and employers or their associations.
    - *See also:* statement of terms of employment; Equality Act; independent trade union; disclosure of information; recognition procedure
 
-1287. **Collective mark** — 集体商标
+1286. **Collective mark** — 集体商标
 
    1. **集体商标：** A mark used by members of an association to indicate membership or a shared commercial origin.
 
-1288. **collective redundancy** — 集体裁员
+1287. **collective redundancy** — 集体裁员
 
    - A plan to dismiss twenty or more employees as redundant, requiring disclosure of information and consultation with representatives.
    - *See also:* disclosure of information; protective award
 
-1289. **collective responsibility** — 集体责任
+1288. **collective responsibility** — 集体责任
 
    - See Cabinet.
    - *See also:* Cabinet
 
-1290. **collective security** — 集体安全
+1289. **collective security** — 集体安全
 
    - A system of international rules, embodied in the UN Charter, for the collective use of force to keep or restore peace.
    - *See also:* Chapter VII; enforcement action
 
-1291. **collective trespass** — 集体侵入
+1290. **collective trespass** — 集体侵入
 
    - See trespass.
    - *See also:* trespass
 
-1292. **collision clause** — 碰撞条款
+1291. **collision clause** — 碰撞条款
 
    - A marine insurance term obliging underwriters to cover the insured's liability for collision damage caused to another ship.
 
-1293. **collusion** — 串通 *(n.)*
+1292. **collusion** — 串通 *(n.)*
 
    1. The comparison of evidence by witnesses that taints it, whether intended or accidental.
    2. An improper arrangement in which parties agree that one will sue the other.
    3. An agreement among businesses to fix prices or restrict competition, which may breach competition law.
    - *See also:* restrictive trade practices; competition law; cartel
 
-1294. **colony** — 殖民地 *(n.)*
+1293. **colony** — 殖民地 *(n.)*
 
    - A territory of the Crown situated outside the UK whose foreign affairs the UK government controls.
 
-1295. **Colorado River Abstention** — 科罗拉多河回避原则 *(n.)*
+1294. **Colorado River Abstention** — 科罗拉多河回避原则 *(n.)*
 
    1. **科罗拉多河回避原则：** Exceptional federal-court deferral to parallel state proceedings based on considerations of judicial administration.
 
-1296. **Color Of Law** — 以法律权力名义
+1295. **Color Of Law** — 以法律权力名义
 
    1. **以法律权力名义：** Purported exercise of governmental authority, including misuse of power made possible by official position.
 
-1297. **colourable** — 可着色 *(adj.)*
+1296. **colourable** — 可着色 *(adj.)*
 
    - Describing something that appears to be one thing but is in substance another.
 
-1298. **combat immunity** — 战斗豁免权
+1297. **combat immunity** — 战斗豁免权
 
    - The Crown's freedom from tort claims over injuries to service personnel on active duty.
 
-1299. **comfort letter** — 安慰信
+1298. **comfort letter** — 安慰信
 
    - Formerly, a letter from the European Commission's competition department responding to a notification seeking exemption or negative clearance.
    - *See also:* negative clearance; competition law
 
-1300. **comitology** — 委员会程序
+1299. **comitology** — 委员会程序
 
    - A procedure where the European Commission consults committees of national experts when applying EU law.
    - *Jurisdiction:* European Union
    - *See also:* European Commission
 
-1301. **comity** — 礼让 *(n.)*
+1300. **comity** — 礼让 *(n.)*
 
    1. Courtesies exchanged between states without legal obligation, resting on sovereign equality and expected to be reciprocal.
    2. See judicial comity.
    - *See also:* customary international law; custom; opinio juris; judicial comity
 
-1302. **Comity Among Courts** — 法院间礼让
+1301. **Comity Among Courts** — 法院间礼让
 
    1. **法院间礼让：** Respect courts give to other jurisdictions' proceedings and judgments while retaining their own legal responsibilities.
 
-1303. **Commandeering** — 征用州政府执行
+1302. **Commandeering** — 征用州政府执行
 
    1. **征用州政府执行：** Federal compulsion requiring state officials or legislatures to administer or enact federal regulatory policy.
 
-1304. **Command Papers** — 命令文件
+1303. **Command Papers** — 命令文件
 
    - Documents presented to Parliament by royal command, including white papers on policy and green papers for discussion.
 
-1305. **command responsibility** — 指挥责任
+1304. **command responsibility** — 指挥责任
 
    - An offence making a commander liable for crimes by forces under his control that he knew of or should have prevented.
    - *See also:* International Criminal Court
 
-1306. **Commencement** — 程序开始 *(n.)*
+1305. **Commencement** — 程序开始 *(n.)*
 
    1. **程序开始：** The formal beginning of proceedings through the act prescribed by applicable procedural law.
 
-1307. **commencing business** — 开始营业 *(n.)*
+1306. **commencing business** — 开始营业 *(n.)*
 
    1. **开始营业：** Beginning the operational activities constituting a trade or business, as distinguished from preliminary preparation.
 
-1308. **Commerce** — 商业活动
+1307. **Commerce** — 商业活动
 
    1. **商业活动：** Trade and exchange of goods or services and the activities supporting those transactions.
 
-1309. **Commerce Clause** — 商业条款
+1308. **Commerce Clause** — 商业条款
 
    1. **商业条款：** The United States constitutional provision empowering Congress to regulate interstate, foreign, and tribal commerce.
 
-1310. **commercial agent** — 商业代理人
+1309. **commercial agent** — 商业代理人
 
    - An agent who seeks business from customers for a principal, granted special termination rights under EU rules.
    - *See also:* agent
 
-1311. **Commercial Court** — 商业法庭
+1310. **Commercial Court** — 商业法庭
 
    - A specialist court within the High Court's Queen's Bench Division that hears shipping, commodity, and major commercial cases.
    - *See also:* Queen’s Bench Division; arbitration; puisne judges
 
-1312. **commercial financing security** — 商业融资担保财产 *(n.)*
+1311. **commercial financing security** — 商业融资担保财产 *(n.)*
 
    1. **商业融资担保财产：** Business inventory, receivables, or comparable qualifying assets securing commercial financing for applicable tax-lien priority rules.
 
-1313. **commercially reasonable efforts** — 商业上合理努力
+1312. **commercially reasonable efforts** — 商业上合理努力
 
    1. **商业上合理努力：** Efforts proportionate to commercial circumstances and contractual expectations in pursuing an agreed objective.
 
-1314. **Commercial purposes** — 商业目的
+1313. **Commercial purposes** — 商业目的
 
    1. **商业目的：** Objectives connected with business activity, such as sale, promotion, or commercial exploitation.
 
-1315. **Commercial Speech** — 商业言论
+1314. **Commercial Speech** — 商业言论
 
    1. **商业言论：** Expression proposing or promoting commercial transactions, receiving constitutional protection subject to distinct regulatory standards.
 
-1316. **commission** — 委员会 *(n.)*
+1315. **commission** — 委员会 *(n.)*
 
    1. Authority to use a power or an instruction to carry out a duty.
    2. A body established to perform a particular public duty.
@@ -6193,177 +6198,180 @@
    4. A court's authorization allowing a witness to give sworn evidence for use in proceedings.
    - *See also:* justice of the peace; Charity Commission; Law Commission; agent; commercial agent
 
-1317. **Commissioner** — 专员 *(n.)*
+1316. **Commissioner** — 专员 *(n.)*
 
    - See European Commission.
       - *Sense labels:* (in the EU)
    - *Labels:* (in the EU)
    - *See also:* European Commission
 
-1318. **commissioner for oaths** — 宣誓专员
+1317. **commissioner for oaths** — 宣誓专员
 
    - A person appointed to administer oaths and take affidavits, a power held too by solicitors with practising certificates.
    - *See also:* practising certificate
 
-1319. **Commissioner' notice** — 专利局局长通知
+1318. **Commissioner' notice** — 专利局局长通知
 
    1. **专利局局长通知：** An official communication from the patent commissioner concerning requirements or steps in a patent proceeding.
 
-1320. **Commission for Local Administration in England** — 英格兰地方行政委员会
+1319. **Commission for Local Administration in England** — 英格兰地方行政委员会
 
    - A body that investigates public complaints of injustice resulting from maladministration in local government and similar bodies.
    - *See also:* Parliamentary Ombudsman
 
-1321. **Commission for Racial Equality** — 种族平等委员会
+1320. **Commission for Racial Equality** — 种族平等委员会
 
    - A former public body that promoted equal opportunity and harmony between racial groups; its functions passed to the Equality and Human Rights Commission.
    - *Expands to:* Commission for Racial Equality
    - *See also:* Equality and Human Rights Commission
 
-1322. **Commission of the European Communities** — 欧洲共同体委员会
+1321. **Commission of the European Communities** — 欧洲共同体委员会
 
    - See European Commission.
    - *See also:* European Commission
 
-1323. **Commitment** — 收治或收押 *(n.)*
+1322. **Commitment** — 收治或收押 *(n.)*
 
    1. **收治或收押：** A legal order placing a person in institutional custody, including psychiatric care or imprisonment.
 
-1324. **Committal** — 移送审判 *(n.)*
+1323. **Committal** — 移送审判 *(n.)*
 
    1. **移送审判：** A judicial process determining whether an accused should be sent to a higher court for trial.
 
-1325. **committal appearance** — 移送审判出庭 *(n.)*
+1324. **committal appearance** — 移送审判出庭 *(n.)*
 
    1. **移送审判出庭：** A preliminary court appearance addressing charges, pleas, and preparation for transfer to a higher criminal court.
 
-1326. **committal brief** — 移送审判证据汇编
+1325. **committal brief** — 移送审判证据汇编
 
    1. **移送审判证据汇编：** The prosecution's assembled evidence and documents provided for committal proceedings and defense preparation.
 
-1327. **committal for sentence** — 送刑
+1326. **committal for sentence** — 送刑
 
    - Sending an offender found guilty by magistrates to the Crown Court to be sentenced when magistrates' powers are too limited.
 
-1328. **committal in civil proceedings** — 民事诉讼中的拘押
+1327. **committal in civil proceedings** — 民事诉讼中的拘押
 
    - An order sending someone to prison as a sanction for contempt.
    - *See also:* contempt of court
 
-1329. **committal proceedings** — 提交程序
+1328. **committal proceedings** — 提交程序
 
    - Formerly, an early hearing before magistrates deciding whether a case should go for jury trial at the Crown Court.
    - *See also:* offence triable either way
 
-1330. **Committee of the Regions** — 地区委员会
+1329. **Committee of the Regions** — 地区委员会
 
    - An EU advisory body of regional and local representatives that must be consulted on specified matters before decisions.
    - *Expands to:* Committee of the Regions
 
-1331. **Committee of the Whole** — 全院委员会
+1330. **Committee of the Whole** — 全院委员会
 
    1. **全院委员会：** A legislative chamber conducting business as a committee with all its members eligible to participate.
 
-1332. **Committee of the whole House** — 全体众议院委员会
+1331. **Committee of the whole House** — 全体众议院委员会
 
    - A committee of all members of either House of Parliament, convened when some Bills reach the committee stage.
    - *See also:* standing committee
 
-1333. **common** — 共同 *(n.)*
+1332. **common** — 共同 *(n.)*
 
    - A right held by several landowners over common land, such as grazing, fishing, or taking turf.
    - *See also:* profit à prendre; common land; appurtenant; dominant tenement; estovers
 
-1334. **Common Agricultural Policy** — 共同农业政策
+1333. **Common Agricultural Policy** — 共同农业政策
 
    - The EU's agricultural policy, aiming to raise productivity, support farmers' living standards, stabilize markets, and keep supply affordable.
    - *Expands to:* Common Agricultural Policy
    - *See also:* intervention
 
-1335. **Commonality** — 共同性 *(n.)*
+1334. **Commonality** — 共同性 *(n.)*
 
    1. **共同性：** The presence of shared legal or factual questions capable of common resolution in representative litigation.
 
-1336. **COMMONALITY (CLASS ACTION)** — 集体诉讼共同性
+1335. **COMMONALITY (CLASS ACTION)** — 集体诉讼共同性
 
    1. **集体诉讼共同性：** The requirement that proposed class members share a question capable of generating a common answer material to the litigation.
 
-1337. **common assault** — 普通攻击
+1336. **common assault** — 普通攻击
 
    - See assault.
    - *See also:* assault
 
-1338. **common carrier** — 公共承运人
+1337. **common carrier** — 公共承运人
 
    - See carrier.
    - *See also:* carrier
 
-1339. **common design** — 共同设计
+1338. **common design** — 共同设计
 
    - The shared intention of those in a joint unlawful venture, making each liable for acts done in its pursuit.
    - *See also:* accessory
 
-1340. **common duty of care** — 共同注意义务
+1339. **common duty of care** — 一般注意义务
 
-   - An occupier's duty to take reasonable care that visitors are reasonably safe on the premises.
+   1. **一般注意义务：** An occupier must take reasonable care for a visitor’s safety when the visitor uses the premises for the permitted purpose. The circumstances determine what precautions are reasonable.
+      - *Sense labels:* occupiers’ liability
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Occupiers’ Liability Act 1957, s 2(1)–(2)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/section/2) · source-checked · 2026-11-24
    - *See also:* occupier’s liability
 
-1341. **Common Enterprise** — 共同事业 *(n.)*
+1340. **Common Enterprise** — 共同事业 *(n.)*
 
    1. **共同事业：** A venture linking participants' interests or efforts, potentially relevant to securities regulation or shared liability.
 
-1342. **Common External Tariff** — 共同对外关税
+1341. **Common External Tariff** — 共同对外关税
 
    - The EU's single schedule of import duties on goods arriving from outside the Union, preventing distortion of trade among members.
    - *Expands to:* Common External Tariff
    - *See also:* Common Agricultural Policy
 
-1343. **Common Fisheries Policy** — 共同渔业政策
+1342. **Common Fisheries Policy** — 共同渔业政策
 
    - An EU fishing policy setting annual catch quotas and access zones for member states' fleets.
    - *Expands to:* Common Fisheries Policy
    - *See also:* quotas
 
-1344. **common form probate** — 普通遗嘱认证
+1343. **common form probate** — 普通遗嘱认证
 
    - See non-contentious probate business.
    - *See also:* non-contentious probate business
 
-1345. **Common Fund Doctrine** — 共同基金原则
+1344. **Common Fund Doctrine** — 共同基金原则
 
    1. **共同基金原则：** A doctrine allowing litigation expenses to be paid from a fund created or preserved for multiple beneficiaries.
 
-1346. **common heritage of mankind principle** — 人类共同遗产原则
+1345. **common heritage of mankind principle** — 人类共同遗产原则
 
    - The principle that regions such as the deep seabed and space beyond Earth should serve all humanity rather than one state.
    - *See also:* deep seabed; res communis
 
-1347. **commonhold** — 共同所有权 *(n.)*
+1346. **commonhold** — 共同所有权 *(n.)*
 
    - A form of land ownership, alongside freehold and leasehold, where separate units are owned individually and common parts held collectively.
    - *Jurisdiction:* England and Wales
    - *See also:* freehold; leasehold
 
-1348. **common intention constructive trust** — 共同意图推定信托
+1347. **common intention constructive trust** — 共同意图推定信托
 
    - An implied trust giving effect to the parties' common purpose, mainly to establish a stake in a shared family home.
    - *See also:* implied trust
 
-1349. **Common Interest Doctrine** — 共同利益保密原则
+1348. **Common Interest Doctrine** — 共同利益保密原则
 
    1. **共同利益保密原则：** A doctrine preserving privilege when separately represented persons share protected communications to advance a common legal interest.
 
-1350. **common investment fund** — 共同投资基金
+1349. **common investment fund** — 共同投资基金
 
    1. **共同投资基金：** A pooled fund combining money held for multiple accounts or beneficiaries for collective investment.
 
-1351. **common land** — 共同土地
+1350. **common land** — 共同土地
 
    - Land over which rights of common exist, registered with local authorities.
    - *Jurisdiction:* England and Wales
    - *See also:* common
 
-1352. **common law** — 普通法
+1351. **common law** — 普通法
 
    1. The body of English law fashioned by the royal courts from rules applied throughout the realm rather than local custom.
    2. Judge-made legal rules, contrasted with rules laid down by statute.
@@ -6371,475 +6379,475 @@
    - *Jurisdiction:* England and Wales
    - *See also:* Court of Exchequer; Court of Common Pleas; Court of Queen’s Bench; equity; High Court of Justice
 
-1353. **common law defence** — 普通法抗辩 *(n.)*
+1352. **common law defence** — 普通法抗辩 *(n.)*
 
    1. **普通法抗辩：** A defense developed through judicial precedent rather than created solely by statute.
 
-1354. **Common Law Marriage** — 普通法婚姻 *(n.)*
+1353. **Common Law Marriage** — 普通法婚姻 *(n.)*
 
    1. **普通法婚姻：** A union recognized without formal ceremony where couples hold themselves out married.
 
-1355. **common-law marriage** — 普通法婚姻
+1354. **common-law marriage** — 普通法婚姻
 
    1. A marriage accepted as lawful under common law despite missing the usual formal requirements, recognized only in narrow cases.
    2. Loosely, an unmarried couple sharing a home as if married, which the law does not treat as marriage.
    - *See also:* cohabitants
 
-1356. **Common law trade mark** — 普通法商标
+1355. **Common law trade mark** — 普通法商标
 
    1. **普通法商标：** A trademark whose protection arises from use and associated goodwill rather than solely from registration.
 
-1357. **common mistake** — 常见错误
+1356. **common mistake** — 常见错误
 
    - See mistake.
    - *See also:* mistake
 
-1358. **common money bond** — 普通货币债券
+1357. **common money bond** — 普通货币债券
 
    - See bond.
    - *See also:* bond
 
-1359. **Common Serjeant** — 普通军士
+1358. **Common Serjeant** — 普通军士
 
    - The office of the judge who ranks second in seniority at the Central Criminal Court.
    - *See also:* circuit judge; Central Criminal Court
 
-1360. **Commonwealth** — 英联邦 *(n.)*
+1359. **Commonwealth** — 英联邦 *(n.)*
 
    - A free association of the United Kingdom with many former colonies and dependencies that are now fully independent.
 
-1361. **Commonwealth citizen** — 英联邦公民
+1360. **Commonwealth citizen** — 英联邦公民
 
    - A secondary British nationality status covering British citizens, various British overseas categories, and citizens of independent Commonwealth countries.
    - *See also:* British subject
 
-1362. **commorientes** — 同时死亡或死亡顺序不确定的人 *(pl. n.)*
+1361. **commorientes** — 同时死亡或死亡顺序不确定的人 *(pl. n.)*
 
    - Latin for people who die simultaneously, or whose order of death cannot be determined.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* survivorship clause
 
-1363. **community** — 社区 *(n.)*
+1362. **community** — 社区 *(n.)*
 
    - A Welsh unit of local government, comparable to a civil parish in England and usually served by a community council.
    - *See also:* local government area; county; local authority
 
-1364. **Community Caretaking** — 社区照护职能
+1363. **Community Caretaking** — 社区照护职能
 
    1. **社区照护职能：** Noninvestigative police activity protecting public safety or assisting people, whose search implications depend on context.
 
-1365. **Community dimension** — 社区维度
+1364. **Community dimension** — 社区维度
 
    - See merger.
       - *Sense labels:* (in EU mergers law)
    - *Labels:* (in EU mergers law)
    - *See also:* merger
 
-1366. **community home** — 社区之家
+1365. **community home** — 社区之家
 
    - An institution providing accommodation and care for children and young people in local authority care.
 
-1367. **community interest company** — 社区利益公司
+1366. **community interest company** — 社区利益公司
 
    - A limited company registered as serving the community, approved by a regulator and subject to limits on dividends.
    - *See also:* limited company
 
-1368. **Community law** — 共同体法
+1367. **Community law** — 共同体法
 
    - The body of EU law, distinguished from the separate national laws of member states.
    - *Jurisdiction:* European Union
    - *See also:* Community legislation; European Court of Justice
 
-1369. **Community Legal Service** — 社区法律服务
+1368. **Community Legal Service** — 社区法律服务
 
    - See legal aid.
    - *See also:* legal aid
 
-1370. **Community legislation** — 共同体立法
+1369. **Community legislation** — 共同体立法
 
    - Legislation made by EU bodies, comprising directives, regulations, and decisions.
    - *See also:* European Parliament; Council of the European Union; European Commission; ordinary legislative procedure; Community law; notices
 
-1371. **community magistrate** — 社区裁判官 *(n.)*
+1370. **community magistrate** — 社区裁判官 *(n.)*
 
    1. **社区裁判官：** A New Zealand judicial officer exercising specified District Court criminal powers.
 
-1372. **community of assets** — 资产共有
+1371. **community of assets** — 资产共有
 
    - The automatic joint ownership of matrimonial assets, such as the family home and its contents, on marriage, which English law does not adopt.
    - *See also:* family assets
 
-1373. **community order** — 社区命令
+1372. **community order** — 社区命令
 
    - A sentence imposing one or more specified requirements, such as unpaid work, curfew, or treatment, on an offender in the community.
    - *See also:* unpaid work requirement; rehabilitation activity requirement; programme requirement; prohibited activity requirement; curfew requirement; exclusion requirement; residence requirement; foreign travel prohibition order requirement; mental health treatment requirement; drug rehabilitation requirement; alcohol treatment requirement; supervision requirement; electronic monitoring requirement; attendance centre; youth rehabilitation orders; suspended sentence
 
-1374. **Community Patent** — 共同体专利
+1373. **Community Patent** — 共同体专利
 
    - A proposed EU patent with unitary effect, intended to cover most member states and to be centrally enforceable.
    - *See also:* patent; European Patent Court
 
-1375. **community patient** — 社区患者
+1374. **community patient** — 社区患者
 
    - Someone detained under a community treatment order.
    - *See also:* Community Treatment Order
 
-1376. **Community Property** — 夫妻共同财产；社区财产
+1375. **Community Property** — 夫妻共同财产；社区财产
 
    1. **夫妻共同财产；社区财产：** Property acquired during marriage that spouses own jointly under certain state laws.
    - *Jurisdiction:* US
 
-1377. **community sentence** — 社区判决
+1376. **community sentence** — 社区判决
 
    - A sentence that includes a youth rehabilitation order or a community order.
    - *See also:* community order; youth rehabilitation order
 
-1378. **Community service** — 社区服务
+1377. **Community service** — 社区服务
 
    1. **社区服务：** Unpaid work for public or community benefit imposed as a sentence or other legal requirement.
 
-1379. **Community Trade Mark** — 共同体商标
+1378. **Community Trade Mark** — 共同体商标
 
    - See European Union Trade Mark.
    - *Expands to:* Community Trade Mark
    - *See also:* European Union Trade Mark
 
-1380. **Community Treatment Order** — 社区治疗令
+1379. **Community Treatment Order** — 社区治疗令
 
    - An order discharging a detained mental-health patient into the community subject to conditions and possible recall.
    - *Expands to:* Community Treatment Order
    - *See also:* responsible clinician; approved mental health professional
 
-1381. **Community Visitor** — 社区探访员 *(n.)*
+1380. **Community Visitor** — 社区探访员 *(n.)*
 
    1. **社区探访员：** An appointed independent visitor who monitors conditions and safeguards the interests of people receiving institutional care.
 
-1382. **commutation** — 减刑 *(n.)*
+1381. **commutation** — 减刑 *(n.)*
 
    1. The shortening of a prison term so that the punishment is made less severe.
    2. An exercise of executive clemency shortening a sentence at any time without reference to fixed standards.
 
-1383. **commutative contract** — 交换合约
+1382. **commutative contract** — 交换合约
 
    - See contract of exchange.
    - *See also:* contract of exchange
 
-1384. **Compact Clause** — 州际协定条款
+1383. **Compact Clause** — 州际协定条款
 
    1. **州际协定条款：** The constitutional provision regulating agreements between states and requiring congressional consent where applicable.
 
-1385. **Companies Court** — 公司法院
+1384. **Companies Court** — 公司法院
 
    - A court within the High Court's Chancery Division dealing with company law and related matters.
    - *See also:* Chancery Division
 
-1386. **Companies House** — 公司大楼
+1385. **Companies House** — 公司大楼
 
    - The registry where a company's documents are filed and made available for public inspection.
    - *See also:* registration of a company; accounts; annual return; prospectus; memorandum; articles of association; registered office; charge; limited liability partnership
 
-1387. **company** — 公司 *(n.)*
+1386. **company** — 公司 *(n.)*
 
    - An association formed to carry on business in its own name, usually incorporated so that its legal personality is separate from that of its members.
    - *See also:* incorporation; registration of a company; statutory company; community interest company; foreign company; limited company; private company; public company; unlimited company; Welsh company; corporation tax
 
-1388. **company meeting** — 公司会议
+1387. **company meeting** — 公司会议
 
    - See general meeting.
    - *See also:* general meeting
 
-1389. **company member** — 公司成员
+1388. **company member** — 公司成员
 
    - Someone holding company shares, or a member admitted where no shares are issued.
    - *See also:* shares; limited company
 
-1390. **company name** — 公司名称
+1389. **company name** — 公司名称
 
    - The registered title of a company, shown on its incorporation documents and subject to legal restrictions on choice.
    - *See also:* Register of Companies; business name; registered office; change of name; limited company
 
-1391. **company secretary** — 公司秘书
+1390. **company secretary** — 公司秘书
 
    - An officer handling a company's administrative duties, mandatory for public companies and optional for private ones.
    - *See also:* Companies House
 
-1392. **Comparative Fault** — 比较过错
+1391. **Comparative Fault** — 比较过错
 
    1. **比较过错：** Allocation of responsibility or damages according to each participant's contribution to the harm.
 
-1393. **Comparative Negligence** — 比较过失 *(n.)*
+1392. **Comparative Negligence** — 比较过失 *(n.)*
 
    1. **比较过失：** A rule reducing a claimant's recovery by their share of fault.
 
-1394. **compellable witness** — 可强制证人
+1393. **compellable witness** — 可强制证人
 
    - A witness whom the law can oblige to testify, and who risks punishment for contempt if he refuses.
    - *See also:* contempt of court; competence
 
-1395. **Compelled Speech** — 强迫言论
+1394. **Compelled Speech** — 强迫言论
 
    1. **强迫言论：** Expression that the government requires a person to communicate, endorse, or display.
 
-1396. **Compelling Interest** — 压倒性利益
+1395. **Compelling Interest** — 压倒性利益
 
    1. **压倒性利益：** An exceptionally important governmental objective capable of supporting a restriction under strict constitutional scrutiny.
 
-1397. **Compensable Injury** — 可获赔损害
+1396. **Compensable Injury** — 可获赔损害
 
    1. **可获赔损害：** An injury satisfying the legal conditions for compensation under the governing liability or benefit scheme.
 
-1398. **compensating use tax** — 补偿性使用税
+1397. **compensating use tax** — 补偿性使用税
 
    1. **补偿性使用税：** A tax on using or consuming goods purchased without payment of the jurisdiction's corresponding sales tax.
 
-1399. **compensation** — 赔偿 *(n.)*
+1398. **compensation** — 赔偿 *(n.)*
 
    - Monetary payment awarded to make good loss or damage, and a court order requiring an offender to pay a victim.
    - *See also:* fatal accidents; Motor Insurers’ Bureau; criminal injury; Criminal Injuries Compensation Scheme; restitution; employment tribunal; unfair dismissal; redundancy payment; closed-shop agreement
 
-1400. **compensation culture** — 补偿文化
+1399. **compensation culture** — 补偿文化
 
    - A social climate in which many people believe that someone else must be blamed for their misfortunes and that damages should be claimed.
    - *See also:* compensation; damages
 
-1401. **compensation order** — 赔偿令 *(n.)*
+1400. **compensation order** — 赔偿令 *(n.)*
 
    1. **赔偿令：** A court order directing payment for loss or injury caused by an offense or other actionable conduct.
 
-1402. **Compensatory Damages** — 补偿性损害赔偿
+1401. **Compensatory Damages** — 补偿性损害赔偿
 
    1. **补偿性损害赔偿：** Money awarded to make the injured party whole for actual loss suffered.
 
-1403. **Compensatory support** — 补偿性扶养费
+1402. **Compensatory support** — 补偿性扶养费
 
    1. **补偿性扶养费：** Support paid to address economic disadvantage arising from relationship breakdown.
    - *Jurisdiction:* Canada
 
-1404. **competence** — 能力 *(n.)*
+1403. **competence** — 能力 *(n.)*
 
    - A person's legal ability to testify as a witness.
       - *Sense labels:* (of witnesses)
    - *Labels:* (of witnesses)
    - *See also:* witness; unsworn evidence; compellable witness
 
-1405. **competence-competence** — 自裁管辖权原则 *(n.)*
+1404. **competence-competence** — 自裁管辖权原则 *(n.)*
 
    1. **自裁管辖权原则：** The principle allowing an arbitral tribunal initially to determine the scope and validity of its own jurisdiction.
 
-1406. **Competency** — 能力适格性 *(n.)*
+1405. **Competency** — 能力适格性 *(n.)*
 
    1. **能力适格性：** The legal or mental ability required to participate in proceedings or perform a particular legal act.
 
-1407. **Competency Of Witness** — 证人适格 *(n.)*
+1406. **Competency Of Witness** — 证人适格 *(n.)*
 
    1. **证人适格：** Whether a witness is legally qualified to give testimony.
    - *Jurisdiction:* US
 
-1408. **Competency To Testify** — 作证能力 *(n.)*
+1407. **Competency To Testify** — 作证能力 *(n.)*
 
    1. **作证能力：** A witness's legal qualification to give evidence, including necessary understanding and ability to communicate.
 
-1409. **competent patient** — 有能力的患者
+1408. **competent patient** — 有能力的患者
 
    - A patient with the mental capacity to understand, weigh, and communicate a decision about medical treatment.
    - *See also:* consent; incompetent patient
 
-1410. **Competition and Markets Authority** — 竞争与市场管理局
+1409. **Competition and Markets Authority** — 竞争与市场管理局
 
    - A body that took over the work of the former Competition Commission and Office of Fair Trading in the UK.
    - *Expands to:* Competition and Markets Authority
    - *See also:* Office of Fair Trading
 
-1411. **competition law** — 竞争法
+1410. **competition law** — 竞争法
 
    - The branch of law regulating anticompetitive practices, restrictive agreements, and abuses of market power.
    - *See also:* anticompetitive practices; restrictive trade practices; abuses of a dominant position; cartels; Articles 101; group litigation
 
-1412. **competitive tendering** — 竞争性招标
+1411. **competitive tendering** — 竞争性招标
 
    - The practice of putting public services out to competition so that the most competitive tender supplies them.
    - *See also:* best value
 
-1413. **complainant** — 投诉人 *(n.)*
+1412. **complainant** — 投诉人 *(n.)*
 
    - Someone who formally alleges that a crime has been committed, including the alleged victim of a sexual offence.
    - *See also:* complaint
 
-1414. **complaint** — 投诉 *(n.)*
+1413. **complaint** — 投诉 *(n.)*
 
    1. The document that begins certain criminal cases before magistrates, or the act of starting them.
    2. A formal allegation that a crime has been committed.
    - *See also:* complainant
 
-1415. **Complaint (criminal)** — 刑事控告；刑事诉状
+1414. **Complaint (criminal)** — 刑事控告；刑事诉状
 
    1. **刑事控告；刑事诉状：** A sworn document filed by a prosecutor alleging facts that constitute a criminal offense.
 
-1416. **Completeness** — 完整性原则 *(n.)*
+1415. **Completeness** — 完整性原则 *(n.)*
 
    1. **完整性原则：** An evidentiary principle allowing related portions of a statement to prevent a misleading partial presentation.
 
-1417. **Complete specification** — 完整说明书 *(n.)*
+1416. **Complete specification** — 完整说明书 *(n.)*
 
    1. **完整说明书：** A patent specification containing the full disclosure and claims supporting the requested grant.
 
-1418. **completion** — 完成 *(n.)*
+1417. **completion** — 完成 *(n.)*
 
    - In land law, the moment when ownership of the land under sale passes as the buyer pays the balance and takes title.
       - *Sense labels:* (in land law)
    - *Labels:* (in land law)
    - *See also:* Land Registry
 
-1419. **completion accounts** — 交割账目
+1418. **completion accounts** — 交割账目
 
    1. **交割账目：** Financial statements prepared at completion to determine agreed purchase price adjustments.
 
-1420. **Complex product** — 复合产品
+1419. **Complex product** — 复合产品
 
    1. **复合产品：** A product assembled from multiple component parts that can be separated and reassembled.
 
-1421. **compliance monitor** — 合规监察员 *(n.)*
+1420. **compliance monitor** — 合规监察员 *(n.)*
 
    1. **合规监察员：** An independent person appointed to assess and report on an organization's compliance improvements.
 
-1422. **compliance programme** — 合规计划
+1421. **compliance programme** — 合规计划
 
    1. **合规计划：** An organized set of policies, training, controls, and oversight for meeting legal and regulatory obligations.
 
-1423. **compliance risk assessment** — 合规风险评估 *(n.)*
+1422. **compliance risk assessment** — 合规风险评估 *(n.)*
 
    1. **合规风险评估：** Identification and evaluation of potential legal violations arising from an organization's activities and relationships.
 
-1424. **Complicity** — 共犯参与 *(n.)*
+1423. **Complicity** — 共犯参与 *(n.)*
 
    1. **共犯参与：** Participation in another person's wrongdoing through assistance, encouragement, or shared criminal purpose.
 
-1425. **composition** — 组成 *(n.)*
+1424. **composition** — 组成 *(n.)*
 
    - An arrangement in which a debtor and creditors settle debts for payment of only part of what is owed.
    - *See also:* deed of arrangement; scheme of arrangement; voluntary arrangement
 
-1426. **compos mentis** — 精神健全；心智健全
+1425. **compos mentis** — 精神健全；心智健全
 
    - **精神健全；心智健全：** Latin for of sound mind; sane, and so able to make a valid contract.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* capacity to contract
 
-1427. **compound** — 复合 *(vb.)*
+1426. **compound** — 复合 *(vb.)*
 
    1. To enter a composition with creditors.
    2. See compounding an offence.
    - *See also:* composition; compounding an offence
 
-1428. **compounding an offence** — 加重犯罪
+1427. **compounding an offence** — 加重犯罪
 
    - The offence of taking or agreeing to take something in return for not revealing information that could help convict an indictable offender.
    - *See also:* consideration; indictable offence
 
-1429. **compound settlement** — 复合结算
+1428. **compound settlement** — 复合结算
 
    - A land settlement built up through successive trust documents, treated as one for the tenant for life's powers.
    - *See also:* entailed interest; overreaching
 
-1430. **comprehensive insurance** — 综合保险 *(n.)*
+1429. **comprehensive insurance** — 综合保险 *(n.)*
 
    1. **综合保险：** Insurance covering a broad range of specified losses, subject to exclusions and policy limits.
 
-1431. **compromis d’arbitrage** — 国家之间将争议提交仲裁庭的协议
+1430. **compromis d’arbitrage** — 国家之间将争议提交仲裁庭的协议
 
    - French for agreements by which states refer their disputes to an arbitration tribunal.
    - *Language:* fr
    - *See also:* arbitration
 
-1432. **compromise** — 妥协 *(n.)*
+1431. **compromise** — 妥协 *(n.)*
 
    - Resolution of a contested claim reached by the parties' agreement, ending any proceedings already begun.
 
-1433. **compromise agreement** — 妥协协议
+1432. **compromise agreement** — 妥协协议
 
    - See settlement agreement.
    - *See also:* settlement agreement
 
-1434. **COMPROMISE NEGOTIATIONS (CRIMINAL EXCEPTION)** — 刑事和解谈判例外
+1433. **COMPROMISE NEGOTIATIONS (CRIMINAL EXCEPTION)** — 刑事和解谈判例外
 
    1. **刑事和解谈判例外：** Statements made during plea discussions that are generally protected from admission as evidence.
    - *Jurisdiction:* US
 
-1435. **Compromise Offers** — 和解要约
+1434. **Compromise Offers** — 和解要约
 
    1. **和解要约：** Proposals to resolve a disputed claim through negotiated concessions, subject to evidentiary limits on their use.
 
-1436. **Compulsory Counterclaim** — 强制反诉
+1435. **Compulsory Counterclaim** — 强制反诉
 
    1. **强制反诉：** A defendant's related claim that procedural rules require to be raised in the existing action or risk forfeiture.
 
-1437. **Compulsory Joinder** — 强制合并当事人 *(n.)*
+1436. **Compulsory Joinder** — 强制合并当事人 *(n.)*
 
    1. **强制合并当事人：** The mandatory addition of a person whose participation is required for fair or complete adjudication under applicable rules.
 
-1438. **compulsory jurisdiction** — 强制管辖权
+1437. **compulsory jurisdiction** — 强制管辖权
 
    - The power of an international court to force states to argue a dispute before it.
    - *See also:* International Court of Justice; optional clause
 
-1439. **compulsory licence** — 强制许可 *(n.)*
+1438. **compulsory licence** — 强制许可 *(n.)*
 
    1. **强制许可：** Statutory authorization to use protected subject matter without the owner's voluntary consent, subject to prescribed conditions.
 
-1440. **Compulsory Process** — 强制取证程序
+1439. **Compulsory Process** — 强制取证程序
 
    1. **强制取证程序：** Judicial means of securing witness attendance or evidence, including an accused's constitutional right to obtain favorable witnesses.
 
-1441. **compulsory purchase** — 强制购买令
+1440. **compulsory purchase** — 强制购买令
 
    - Compulsory taking of land for public use under statutory power, with compensation paid.
    - *Expands to:* Compulsory Purchase Order
    - *See also:* notice to treat; Upper Tribunal; special procedure orders
 
-1442. **compulsory third party insurance** — 强制第三者责任保险 *(n.)*
+1441. **compulsory third party insurance** — 强制第三者责任保险 *(n.)*
 
    1. **强制第三者责任保险：** Legally required motor insurance covering specified injury liabilities to other people.
 
-1443. **compulsory winding-up** — 商业、能源和工业战略
+1442. **compulsory winding-up** — 商业、能源和工业战略
 
    - A court-based process that closes down a company on a petition, usually because it cannot pay its debts.
    - *Expands to:* Business, Energy and Industrial Strategy
    - *See also:* just and equitable winding-up; contributory; voluntary arrangement; winding-up; liquidator; liquidation committee
 
-1444. **computer documents** — 计算机文件
+1443. **computer documents** — 计算机文件
 
    - In evidence law, a computer-generated document, whose admissibility is governed by statute.
       - *Sense labels:* (in the law of evidence)
    - *Labels:* (in the law of evidence)
 
-1445. **Computer Fraud** — 计算机欺诈
+1444. **Computer Fraud** — 计算机欺诈
 
    1. **计算机欺诈：** Deceptive access to a computer system to obtain value or cause harm.
 
-1446. **Computer Fraud And Abuse** — 计算机欺诈与滥用法
+1445. **Computer Fraud And Abuse** — 计算机欺诈与滥用法
 
    1. **计算机欺诈与滥用法：** Unauthorised computer access and misuse criminalised by statute.
    - *Jurisdiction:* US
 
-1447. **computer misuse** — 计算机滥用
+1446. **computer misuse** — 计算机滥用
 
    - See hacking.
    - *See also:* hacking
 
-1448. **Computer software** — 计算机软件
+1447. **Computer software** — 计算机软件
 
    1. **计算机软件：** Programs and data protected as property, often raising family asset division issues.
 
-1449. **concealment** — 隐藏 *(n.)*
+1448. **concealment** — 隐藏 *(n.)*
 
    - See nondisclosure.
    - *See also:* nondisclosure
 
-1450. **concealment of securities** — 隐匿证券
+1449. **concealment of securities** — 隐匿证券
 
    - The offence of dishonestly hiding, destroying, or defacing a valuable security, will, or official document for gain or to cause loss.
 
-1451. **concentration** — 集中 *(n.)*
+1450. **concentration** — 集中 *(n.)*
 
    - In EU law, the formal name for a merger.
       - *Sense labels:* (in EU law)
@@ -6847,16 +6855,16 @@
    - *Jurisdiction:* European Union
    - *See also:* merger
 
-1452. **Concerted Activity** — 集体行动 *(n.)*
+1451. **Concerted Activity** — 集体行动 *(n.)*
 
    1. **集体行动：** Employees' joint action concerning workplace interests, potentially protected by labor law.
 
-1453. **concert party** — 一致行动方
+1452. **concert party** — 一致行动方
 
    - An agreement among people to buy shares together so as to build a significant holding of a company's voting shares.
    - *See also:* takeover; dawn raid
 
-1454. **conciliation** — 调解 *(n.)*
+1453. **conciliation** — 调解 *(n.)*
 
    1. In civil disputes, a way of resolving disagreements where a neutral third person suggests non-binding solutions.
       - *Sense labels:* (in civil disputes)
@@ -6864,933 +6872,937 @@
    - *Labels:* (in civil disputes)
    - *See also:* alternative dispute resolution; Advisory Conciliation and Arbitration service; good offices; mediation
 
-1455. **conclusive evidence** — 确凿证据
+1454. **conclusive evidence** — 确凿证据
 
    - Evidence the law requires to be accepted as proof of a fact, and which cannot be challenged.
 
-1456. **concurrent interests** — 共同利益
+1455. **concurrent interests** — 共同利益
 
    - Land held by two or more people simultaneously, as under a joint tenancy or a tenancy in common.
    - *See also:* joint tenancy; tenancy in common
 
-1457. **concurrent jurisdiction** — 并行管辖权
+1456. **concurrent jurisdiction** — 并行管辖权
 
    - Jurisdiction shared by courts that can each hear the same matter, as among the High Court's divisions.
    - *See also:* Court of Chancery; exclusive jurisdiction
 
-1458. **concurrent lease** — 并发租赁
+1457. **concurrent lease** — 并发租赁
 
    - A lease granted to run alongside a second lease of the same property, so the tenant gains that lease's rights and duties.
 
-1459. **concurrent planning** — 并行规划
+1458. **concurrent planning** — 并行规划
 
    - A planning approach that places children with carers approved both to foster and to adopt, reducing the number of moves.
    - *See also:* placement order
 
-1460. **concurrent sentence** — 并发判决
+1459. **concurrent sentence** — 并发判决
 
    - A prison term served simultaneously with one or more others, so the offender effectively serves the longest.
    - *See also:* sentence
 
-1461. **concurrent tortfeasors** — 并发侵权行为人
+1460. **concurrent tortfeasors** — 并发侵权行为人
 
    - See joint tortfeasors.
    - *See also:* joint tortfeasors
 
-1462. **Condemnation** — 征收程序 *(n.)*
+1461. **Condemnation** — 征收程序 *(n.)*
 
    1. **征收程序：** The legal process through which government compulsorily acquires private property for public use.
 
-1463. **condition** — 条件 *(n.)*
+1462. **condition** — 条件 *(n.)*
 
    1. An essential term of a contract, breach of which lets the innocent party end the agreement.
    2. A provision that suspends a contract until an event occurs, or ends it on a stated event, without itself being an obligation.
    - *See also:* time provisions in contracts; breach of contract; express term; implied term; innominate terms
 
-1464. **conditional admissibility** — 有条件的可采性
+1463. **conditional admissibility** — 有条件的可采性
 
    - The admission of evidence whose relevance depends on a fact not yet proved, allowed provisionally pending later proof.
    - *See also:* admissibility of evidence; relevance; de bene esse
 
-1465. **conditional agreement** — 有条件协议
+1464. **conditional agreement** — 有条件协议
 
    - An agreement that takes effect, if at all, only when some uncertain event occurs.
 
-1466. **conditional discharge** — 有条件出院
+1465. **conditional discharge** — 有条件出院
 
    - See discharge.
    - *See also:* discharge
 
-1467. **conditional fee agreement** — 按条件收费协议
+1466. **conditional fee agreement** — 按条件收费协议
 
    - A written agreement in which a lawyer gives up some or all fees when the claim fails, for a higher fee on success.
    - *Expands to:* conditional fee agreement
    - *See also:* uplift; damages-based agreement; maintenance and champerty; success fee
 
-1468. **conditional interest** — 有条件利息
+1467. **conditional interest** — 有条件利息
 
    - An interest that may be forfeited on a stated event at the wish of the person who granted it.
    - *See also:* fee simple absolute in possession; contingent interest; determinable interest
 
-1469. **conditionally duty-free merchandise** — 附条件免税货物 *(n.)*
+1468. **conditionally duty-free merchandise** — 附条件免税货物 *(n.)*
 
    1. **附条件免税货物：** Imported goods exempt from customs duty only while specified use, documentation, or other conditions are satisfied.
 
-1470. **Conditional New-Trial Ruling** — 附条件重新审判裁定
+1469. **Conditional New-Trial Ruling** — 附条件重新审判裁定
 
    1. **附条件重新审判裁定：** A ruling on a new-trial request that becomes operative if the associated judgment decision is later reversed or vacated.
 
-1471. **conditional order** — 有条件命令
+1470. **conditional order** — 有条件命令
 
    - The initial stage of a divorce or nullity order, equivalent to the former decree nisi.
    - *See also:* divorce order; nullity of marriage order; decree nisi; Queen’s Proctor
 
-1472. **Conditional Privilege** — 有条件特权
+1471. **Conditional Privilege** — 有条件特权
 
    1. **有条件特权：** A privilege defeated where a statement was made with malice or abuse.
 
-1473. **Conditional Relevance** — 条件相关性 *(n.)*
+1472. **Conditional Relevance** — 条件相关性 *(n.)*
 
    1. **条件相关性：** The requirement that a fact's relevance depends on another fact's existence.
    - *Jurisdiction:* US
 
-1474. **Conditional resident** — 有条件永久居民
+1473. **Conditional resident** — 有条件永久居民
 
    1. **有条件永久居民：** A permanent resident whose status remains subject to removal of statutory conditions.
 
-1475. **conditional sale agreement** — 有条件销售协议
+1474. **conditional sale agreement** — 有条件销售协议
 
    - A sale on instalments where ownership stays with the seller until stated conditions, such as full payment, are met.
    - *See also:* consumer-credit agreement
 
-1476. **Conditional sentence** — 附条件刑罚 *(n.)*
+1475. **Conditional sentence** — 附条件刑罚 *(n.)*
 
    1. **附条件刑罚：** A prison term served in the community under strict supervisory conditions.
    - *Jurisdiction:* Canada
 
-1477. **condition precedent** — 先决条件
+1476. **condition precedent** — 先决条件
 
    - See condition.
    - *See also:* condition
 
-1478. **condition precedent to closing** — 交割先决条件
+1477. **condition precedent to closing** — 交割先决条件
 
    1. **交割先决条件：** A condition that must be satisfied or waived before parties are obliged to complete a transaction.
 
-1479. **Conditions Of Release** — 释放条件
+1478. **Conditions Of Release** — 释放条件
 
    1. **释放条件：** Requirements imposed on a person's release from custody to address appearance, safety, or other lawful objectives.
 
-1480. **Conditions Precedent** — 先决条件
+1479. **Conditions Precedent** — 先决条件
 
    1. **先决条件：** Events or requirements that must occur before a contractual duty becomes enforceable.
 
-1481. **CONDITIONS PRECEDENT (PLEADING)** — 先决条件的诉辩陈述
+1480. **CONDITIONS PRECEDENT (PLEADING)** — 先决条件的诉辩陈述
 
    1. **先决条件的诉辩陈述：** Alleging or contesting fulfillment of events that must occur before a claimed contractual or legal duty becomes enforceable.
 
-1482. **condition subsequent** — 后续条件
+1481. **condition subsequent** — 后续条件
 
    - See condition.
    - *See also:* condition
 
-1483. **condominium** — 共管 *(n.)*
+1482. **condominium** — 共管 *(n.)*
 
    1. Joint sovereignty of two or more states over a territory, each ruling its own nationals.
    2. Private ownership of one unit within a building, combined with shared ownership of the common parts.
    - *See also:* co-imperium
 
-1484. **confederation** — 联邦 *(n.)*
+1483. **confederation** — 联邦 *(n.)*
 
    - An association of states bound loosely by treaty, in which members keep their sovereignty and a right to secede.
    - *See also:* secession; federal state
 
-1485. **conference** — 会议 *(n.)*
+1484. **conference** — 会议 *(n.)*
 
    1. A gathering of members from both Houses of Parliament to resolve a dispute over a Bill.
    2. A discussion between a barrister, the solicitor, and the client about a case, usually in counsel's chambers.
 
-1486. **confession** — 认罪；供认；承认事实并提出抗辩 *(n.)*
+1485. **confession** — 认罪；供认；承认事实并提出抗辩 *(n.)*
 
    1. **认罪；供认：** An admission by an accused person, in whole or part, of guilt, admissible only if not obtained improperly.
    2. **承认事实并提出抗辩：** A defence pleading that admits the facts alleged but adds further facts that defeat their legal effect.
    - *See also:* admission; defence
 
-1487. **Confession Of Judgment** — 认诺判决 *(n.)*
+1486. **Confession Of Judgment** — 认诺判决 *(n.)*
 
    1. **认诺判决：** A judgment entered on a debtor's authorized acknowledgment of liability without ordinary contested adjudication.
 
-1488. **confidential business information** — 商业秘密信息 *(n.)*
+1487. **confidential business information** — 商业秘密信息 *(n.)*
 
    1. **商业秘密信息：** Nonpublic business information protected against unauthorized disclosure or use under applicable legal or contractual duties.
 
-1489. **confidential communication** — 机密通信
+1488. **confidential communication** — 机密通信
 
    - A confidential communication, which is inadmissible only when shielded by a privilege, notably legal professional privilege.
    - *See also:* privilege
 
-1490. **Confidential Informant** — 秘密线人
+1489. **Confidential Informant** — 秘密线人
 
    1. **秘密线人：** A person supplying law-enforcement information whose identity is protected from general disclosure.
 
-1491. **confidential information** — 机密信息
+1490. **confidential information** — 机密信息
 
    - See breach of confidence.
    - *See also:* breach of confidence
 
-1492. **confidentiality** — 保密 *(n.)*
+1491. **confidentiality** — 保密 *(n.)*
 
    - In medical law, a doctor's duty to keep patients' personal information private, breachable only in limited circumstances.
       - *Sense labels:* (in medical law)
    - *Labels:* (in medical law)
    - *See also:* privacy
 
-1493. **Confidentiality agreement** — 保密协议 *(n.)*
+1492. **Confidentiality agreement** — 保密协议 *(n.)*
 
    1. **保密协议：** An agreement restricting disclosure or use of specified information shared between the parties.
 
-1494. **confidentiality undertaking** — 保密承诺
+1493. **confidentiality undertaking** — 保密承诺
 
    1. **保密承诺：** A promise to protect specified information from unauthorized use or disclosure.
 
-1495. **Confirmation** — 破产计划确认 *(n.)*
+1494. **Confirmation** — 破产计划确认 *(n.)*
 
    1. **破产计划确认：** A bankruptcy court's approval of a proposed repayment or reorganization plan as satisfying legal requirements.
 
-1496. **confirmation of credit** — 信用证保兑
+1495. **confirmation of credit** — 信用证保兑
 
    1. **信用证保兑：** A second bank's addition of its own undertaking to honor a complying presentation under a documentary credit.
 
-1497. **Confiscation** — 没收 *(n.)*
+1496. **Confiscation** — 没收 *(n.)*
 
    1. **没收：** Compulsory taking of property by public authority pursuant to a legal power or sanction.
 
-1498. **confiscation order** — 没收令
+1497. **confiscation order** — 没收令
 
    - An order requiring a convicted offender who benefited from an offence to pay a sum set by the court.
    - *See also:* indictable offence; fine; controlled drugs
 
-1499. **Conflict** — 冲突
+1498. **Conflict** — 冲突
 
    1. **冲突：** A clash of interests or disputes between parties in family matters.
 
-1500. **conflict of interest** — 利益冲突
+1499. **conflict of interest** — 利益冲突
 
    1. **利益冲突：** Competing duties or interests that risk impairing a person's independent judgment or faithful performance.
 
-1501. **CONFLICT OF INTEREST (ATTORNEY)** — 律师利益冲突
+1500. **CONFLICT OF INTEREST (ATTORNEY)** — 律师利益冲突
 
    1. **律师利益冲突：** Competing client or personal interests that materially threaten a lawyer's loyalty or independent representation.
 
-1502. **conflict of interest disclosure** — 利益冲突披露
+1501. **conflict of interest disclosure** — 利益冲突披露
 
    1. **利益冲突披露：** Notification of circumstances that may compromise independence or create competing personal or professional interests.
 
-1503. **conflict of laws** — 法律冲突
+1502. **conflict of laws** — 法律冲突
 
    - See private international law.
    - *Jurisdiction:* International
    - *See also:* private international law
 
-1504. **conformity assessment** — 合格性评估 *(n.)*
+1503. **conformity assessment** — 合格性评估 *(n.)*
 
    1. **合格性评估：** A procedure verifying that an AI system meets the required legal standards.
    - *Jurisdiction:* EU
 
-1505. **conformity of goods** — 货物相符性
+1504. **conformity of goods** — 货物相符性
 
    1. **货物相符性：** Compliance of delivered goods with contractual requirements concerning quality, quantity, description, and other agreed characteristics.
 
-1506. **Confrontation** — 对质权 *(n.)*
+1505. **Confrontation** — 对质权 *(n.)*
 
    1. **对质权：** An accused's right to challenge prosecution witnesses through confrontation and cross-examination, subject to recognized limits.
 
-1507. **Confrontation Clause** — 对质条款
+1506. **Confrontation Clause** — 对质条款
 
    1. **对质条款：** The constitutional guarantee governing a criminal defendant's confrontation of witnesses presenting evidence against them.
 
-1508. **confusion of goods** — 货物混乱
+1507. **confusion of goods** — 货物混乱
 
    - When goods of different owners are blended so that the original shares cannot be told apart, those owners then hold the mixture in common proportionally.
 
-1509. **Conglomerate Merger** — 混合合并 *(n.)*
+1508. **Conglomerate Merger** — 混合合并 *(n.)*
 
    1. **混合合并：** A combination of businesses operating in markets without a direct horizontal or vertical relationship.
 
-1510. **Congressional Intent** — 国会立法意图
+1509. **Congressional Intent** — 国会立法意图
 
    1. **国会立法意图：** The legislative purpose or intended operation attributed to Congress when interpreting federal legislation.
 
-1511. **conjugal rights** — 夫妻权利
+1510. **conjugal rights** — 夫妻权利
 
    - The rights of a spouse, including consortium, cohabitation, and maintenance, no longer enforceable by any legal procedure.
    - *See also:* rape; consummation of a marriage
 
-1512. **conquest** — 征服 *(n.)*
+1511. **conquest** — 征服 *(n.)*
 
    - The acquisition of enemy territory by military force and its formal annexation after hostilities end.
    - *See also:* cession
 
-1513. **consanguinity** — 血缘关系 *(n.)*
+1512. **consanguinity** — 血缘关系 *(n.)*
 
    - Relationship through blood, namely sharing a common ancestor.
    - *See also:* affinity
 
-1514. **conscience clause** — 良心条款
+1513. **conscience clause** — 良心条款
 
    - A provision in legislation or a contract excusing someone from acts that offend his moral beliefs.
 
-1515. **Conscientious Objector** — 良心拒服兵役者 *(n.)*
+1514. **Conscientious Objector** — 良心拒服兵役者 *(n.)*
 
    1. **良心拒服兵役者：** A person opposing military service or participation in war because of qualifying conscientious beliefs.
 
-1516. **Consecutive And Concurrent Sentences** — 连续刑与并发刑
+1515. **Consecutive And Concurrent Sentences** — 连续刑与并发刑
 
    1. **连续刑与并发刑：** Terms of imprisonment served one after another or at the same time by court order.
 
-1517. **Consecutive sentence** — 连续执行刑；连续刑 *(n.)*
+1516. **Consecutive sentence** — 连续执行刑；连续刑 *(n.)*
 
    1. **连续执行刑；连续刑：** A term of imprisonment served only after a prior sentence has been fully completed.
 
-1518. **consecutive sentences** — 连续句子
+1517. **consecutive sentences** — 连续句子
 
    - See concurrent sentence.
    - *See also:* concurrent sentence
 
-1519. **consensus ad idem** — 意思表示一致
+1518. **consensus ad idem** — 意思表示一致
 
    - Latin for a meeting of minds on identical terms, needed to form a binding contract.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* acceptance; mistake; offer
 
-1520. **consent** — 同意 *(n.)*
+1519. **consent** — 同意 *(n.)*
 
    1. Agreement by choice, given freely and with capacity, essential to the validity of matters such as contracts and marriage.
    2. In medical law, a patient's agreement to receive treatment or join research, valid only if informed, voluntary, and made with capacity.
       - *Sense labels:* (in medical law)
    - *Labels:* (in medical law)
-   - *See also:* actual bodily harm; wounding; homicide; battery; age of consent; conveyance; rape; defamation; informed consent; battery; negligence; competent patient; incompetent patient; therapeutic privilege
+   - *See also:* actual bodily harm; wounding; homicide; battery; age of consent; conveyance; rape; defamation; informed consent; negligence; competent patient; incompetent patient; therapeutic privilege
 
-1521. **consent award** — 和解裁决
+1520. **consent award** — 和解裁决
 
    1. **和解裁决：** An arbitral award recording settlement terms agreed by the parties.
 
-1522. **Consent Decree** — 同意判决令 *(n.)*
+1521. **Consent Decree** — 同意判决令 *(n.)*
 
    1. **同意判决令：** A court-approved settlement embodied in an enforceable judicial order.
 
-1523. **consent management platform** — 同意管理平台
+1522. **consent management platform** — 同意管理平台
 
    1. **同意管理平台：** A tool letting users grant and control permission for data processing.
 
-1524. **consent mechanism** — 同意机制
+1523. **consent mechanism** — 同意机制
 
    - See Northern Ireland Protocol.
    - *Jurisdiction:* Northern Ireland
    - *See also:* Northern Ireland Protocol
 
-1525. **Consent order** — 同意令 *(n.)*
+1524. **Consent order** — 同意令 *(n.)*
 
    1. **同意令：** A court order made by agreement of the parties and endorsed by the judge.
 
-1526. **Consent Search** — 同意搜查
+1525. **Consent Search** — 同意搜查
 
    1. **同意搜查：** A search justified by voluntary permission from someone with actual or apparent authority to consent.
 
-1527. **Consequential Damages** — 间接损害赔偿
+1526. **Consequential Damages** — 间接损害赔偿
 
    1. **间接损害赔偿：** Losses flowing indirectly from a breach or wrong, not in the immediate transaction.
 
-1528. **conservation area** — 保护区
+1527. **conservation area** — 保护区
 
    - An area designated by a planning authority because its architecture or history deserves preservation or enhancement, where buildings and trees are protected.
    - *See also:* town and country planning; listed building; tree preservation order
 
-1529. **Conservation Easement** — 保护地役权 *(n.)*
+1528. **Conservation Easement** — 保护地役权 *(n.)*
 
    1. **保护地役权：** A voluntary land restriction limiting development to preserve open or natural space.
    - *Jurisdiction:* US
 
-1530. **Conservator** — 财产监护人 *(n.)*
+1529. **Conservator** — 财产监护人 *(n.)*
 
    1. **财产监护人：** A court-appointed person managing another person's property or financial affairs because protective assistance is required.
 
-1531. **conservatory measures** — 保全措施
+1530. **conservatory measures** — 保全措施
 
    1. **保全措施：** Temporary directions preserving assets, evidence, or existing conditions while a dispute remains unresolved.
 
-1532. **consideration** — 对价；处分实际取得的价款 *(n.)*
+1531. **consideration** — 对价；处分实际取得的价款 *(n.)*
 
    1. **对价：** The price given by one contracting party for the other's promise, without which an informal agreement is not binding.
    2. **处分实际取得的价款：** For certain taxes, the sum actually obtained when an asset is disposed of, whether in cash or its equivalent.
    - *See also:* bill of exchange; disposal
 
-1533. **consistory court** — 长老会法庭
+1532. **consistory court** — 长老会法庭
 
    - See ecclesiastical courts.
    - *See also:* ecclesiastical courts
 
-1534. **consolidated adjusted net book income** — 合并调整后账面净收益
+1533. **consolidated adjusted net book income** — 合并调整后账面净收益
 
    1. **合并调整后账面净收益：** A consolidated group's financial-statement income modified by prescribed adjustments under historical corporate minimum-tax rules.
 
-1535. **Consolidated Criminal Practice Direction** — 综合刑事实践指示 *(n.)*
+1534. **Consolidated Criminal Practice Direction** — 综合刑事实践指示 *(n.)*
 
    - A consolidation of practice directions and notes affecting criminal proceedings in the higher and magistrates' courts.
    - *See also:* Practice Directions
 
-1536. **Consolidated Fund** — 综合基金
+1535. **Consolidated Fund** — 综合基金
 
    - The central government account at the Bank of England, used to collect public income and fund public spending.
 
-1537. **consolidating statute** — 合并法规
+1536. **consolidating statute** — 合并法规
 
    - A law that cancels earlier statutes on a topic and replaces them with a single restatement, without changing the law's effect.
    - *See also:* codifying statute; interpretation
 
-1538. **Consolidation** — 合并审理 *(n.)*
+1537. **Consolidation** — 合并审理 *(n.)*
 
    1. **合并审理：** Combining related actions or proceedings for joint handling to improve consistency and efficiency.
 
-1539. **consolidation of actions** — 诉讼合并
+1538. **consolidation of actions** — 诉讼合并
 
    - A civil procedure joining two or more cases, usually because they raise the same legal or factual issue.
    - *See also:* Civil Procedure Rules
 
-1540. **consolidation of arbitrations** — 仲裁合并
+1539. **consolidation of arbitrations** — 仲裁合并
 
    1. **仲裁合并：** Combining separate arbitrations into a single proceeding under an agreement, applicable rules, or legal authority.
 
-1541. **consolidation of mortgages** — 抵押合并
+1540. **consolidation of mortgages** — 抵押合并
 
    - A mortgagee's right, where the same mortgagor gave several mortgages, to require them all to be redeemed together.
    - *See also:* power of sale; tacking
 
-1542. **Consolidation Of Preliminary Injunction With Trial** — 初步禁令听证与本案审理合并 *(n.)*
+1541. **Consolidation Of Preliminary Injunction With Trial** — 初步禁令听证与本案审理合并 *(n.)*
 
    1. **初步禁令听证与本案审理合并：** Combining consideration of provisional injunctive relief with adjudication of the merits under an authorized procedure.
 
-1543. **consortium** — 财团
+1542. **consortium** — 财团
 
    - See concert party.
    - *See also:* concert party
 
-1544. **conspiracy** — 共谋 *(n.)*
+1543. **conspiracy** — 共谋 *(n.)*
 
    1. A pact by two or more people to commit a crime, itself an offence even if the crime is never carried out.
    2. A tort arising when two or more join forces to inflict harm on a third party.
    - *See also:* inchoate; strict liability; defraud; corruption of public morals
 
-1545. **Conspiracy Against Rights** — 共谋侵害权利
+1544. **Conspiracy Against Rights** — 共谋侵害权利
 
    1. **共谋侵害权利：** An agreement to injure, threaten, or intimidate a person in exercising rights protected by federal law.
 
-1546. **CONSPIRACY (FEDERAL)** — 联邦共谋罪
+1545. **CONSPIRACY (FEDERAL)** — 联邦共谋罪
 
    1. **联邦共谋罪：** An agreement to commit a federal offense or defraud the federal government, with any legally required further conduct.
 
-1547. **Conspiracy To Defraud The United States** — 共谋欺诈美国政府
+1546. **Conspiracy To Defraud The United States** — 共谋欺诈美国政府
 
    1. **共谋欺诈美国政府：** An agreement to obstruct or impair a lawful federal function through deceitful or dishonest means.
 
-1548. **Conspiracy to interfere with civil rights (§ 1985)** — 共谋干预公民权利
+1547. **Conspiracy to interfere with civil rights (§ 1985)** — 共谋干预公民权利
 
    1. **共谋干预公民权利：** A civil-rights claim based on specified conspiracies interfering with protected federal rights or equal legal protection.
 
-1549. **constable** — 警员 *(n.)*
+1548. **constable** — 警员 *(n.)*
 
    - See police officer.
    - *See also:* police officer
 
-1550. **constituency** — 选区 *(n.)*
+1549. **constituency** — 选区 *(n.)*
 
    - A district of the United Kingdom that elects one representative to Parliament or a devolved body.
    - *See also:* House of Commons; boundary commissions
 
-1551. **Constituency Members** — 选区议员
+1550. **Constituency Members** — 选区议员
 
    - A member of the London Assembly representing one of the fourteen London constituencies.
    - *See also:* London Assembly; London Members; Mayor of London
 
-1552. **constituent** — 选区居民
+1551. **constituent** — 选区居民
 
    1. **选区居民：** A person represented by an elected official, usually through residence in that official's electoral district.
 
-1553. **constitution** — 宪法 *(n.)*
+1552. **constitution** — 宪法 *(n.)*
 
    - The rules and practices governing a country's institutions and how the state relates to its citizens.
    - *See also:* Act of Parliament; common law; constitutional conventions
 
-1554. **Constitutional Avoidance** — 合宪性回避 *(n.)*
+1553. **Constitutional Avoidance** — 合宪性回避 *(n.)*
 
    1. **合宪性回避：** An interpretive approach favoring a plausible reading that avoids deciding or creating serious constitutional questions.
 
-1555. **CONSTITUTIONAL AVOIDANCE (ASHWANDER)** — 宪法问题回避原则
+1554. **CONSTITUTIONAL AVOIDANCE (ASHWANDER)** — 宪法问题回避原则
 
    1. **宪法问题回避原则：** Principles limiting constitutional adjudication to questions necessary and properly presented for resolving a concrete dispute.
 
-1556. **constitutional conventions** — 宪法公约
+1555. **constitutional conventions** — 宪法公约
 
    - Non-legal practices followed by the Crown, government, Parliament, and courts as if binding, though not enforceable in law.
 
-1557. **Constitutional Tort** — 宪法侵权
+1556. **Constitutional Tort** — 宪法侵权
 
    1. **宪法侵权：** An actionable violation of a constitutionally protected right, typically by a public official.
 
-1558. **Constitutional Treaty of the European Union** — 欧盟宪法条约
+1557. **Constitutional Treaty of the European Union** — 欧盟宪法条约
 
    - A proposed single EU constitutional document, signed in 2004 but never ratified, later reflected in the Lisbon Treaty.
    - *See also:* Treaty of Nice; Lisbon Treaty
 
-1559. **constitution of trusts** — 信托的设立
+1558. **constitution of trusts** — 信托的设立
 
    - The stage at which a trust becomes enforceable, once ownership of the trust assets has been transferred to the trustees.
    - *See also:* perfect gift; rule in Re Rose; rule in Strong v Bird; donatio mortis causa; estoppel
 
-1560. **constitutive theory** — 本构论
+1559. **constitutive theory** — 本构论
 
    - The theory that a state exists in international law only once other states formally or implicitly recognize it.
    - *See also:* recognition; international legal personality; declaratory theory
 
-1561. **constructed export price** — 构成出口价格
+1560. **constructed export price** — 构成出口价格
 
    1. **构成出口价格：** An adjusted United States resale-based price used in antidumping comparisons where relevant sales involve an affiliated importer.
 
-1562. **construction** — 构造 *(n.)*
+1561. **construction** — 构造 *(n.)*
 
    - See interpretation.
    - *See also:* interpretation
 
-1563. **Construction Industry Scheme** — 建筑业计划
+1562. **Construction Industry Scheme** — 建筑业计划
 
    - A scheme requiring payments to building subcontractors to have tax deducted unless a certificate allows payment in full.
    - *Expands to:* Construction Industry Scheme
 
-1564. **constructive** — 建设性 *(adj.)*
+1563. **constructive** — 建设性 *(adj.)*
 
    - Describing something the law treats as existing or having happened even though it did not in fact.
 
-1565. **constructive desertion** — 推定遗弃
+1564. **constructive desertion** — 推定遗弃
 
    - Behaviour by one spouse that drives the other from the matrimonial home, so that the spouse who stays is deemed the deserter.
    - *See also:* desertion
 
-1566. **Constructive Discharge** — 推定解雇
+1565. **Constructive Discharge** — 推定解雇
 
    1. **推定解雇：** An employee's resignation legally treated as dismissal because the employer creates intolerable working conditions.
 
-1567. **constructive dismissal** — 推定解雇
+1566. **constructive dismissal** — 推定解雇
 
    - Resignation by an employee forced by the employer's serious breach of an essential term of the employment contract.
    - *See also:* unfair dismissal
 
-1568. **Constructive Eviction** — 推定驱逐 *(n.)*
+1567. **Constructive Eviction** — 推定驱逐 *(n.)*
 
    1. **推定驱逐：** A landlord's substantial interference making premises unusable and causing the tenant to leave.
 
-1569. **constructive fraud** — 推定欺诈
+1568. **constructive fraud** — 推定欺诈
 
    - Unintentional deception that equity treats as fraud, allowing a transaction to be set aside as unfair or unconscionable.
    - *See also:* fraud
 
-1570. **Constructive Knowledge** — 推定知情
+1569. **Constructive Knowledge** — 推定知情
 
    1. **推定知情：** Knowledge attributed by law because a person should have discovered the relevant fact through reasonable inquiry.
 
-1571. **constructive notice** — 推定性通知
+1570. **constructive notice** — 推定性通知
 
    - Knowledge the law attributes to someone, even where he is genuinely unaware of the facts.
    - *See also:* Companies House; actual notice; imputed notice
 
-1572. **Constructive Possession** — 推定占有 *(n.)*
+1571. **Constructive Possession** — 推定占有 *(n.)*
 
    1. **推定占有：** Legal possession inferred from the power and intention to control property without immediate physical custody.
 
-1573. **Constructive Service** — 拟制送达
+1572. **Constructive Service** — 拟制送达
 
    1. **拟制送达：** Service accomplished by legally authorized indirect means when personal delivery is unavailable or unnecessary.
 
-1574. **constructive total loss** — 推定全损
+1573. **constructive total loss** — 推定全损
 
    - A partial loss of ship or cargo treated under a marine policy as if it were a total loss.
    - *See also:* actual total loss; abandonment
 
-1575. **constructive trust** — 推定信托
+1574. **constructive trust** — 推定信托
 
    - A trust imposed by law in certain unconscionable circumstances, arising automatically without the parties' agreement.
    - *See also:* implied trust; common intention constructive trust; restitution
 
-1576. **constructive trustee** — 推定受托人
+1575. **constructive trustee** — 推定受托人
 
    - Someone who holds property as a constructive trustee for another because of his own conduct, not by agreement.
    - *See also:* express trust,; account; breach of trust
 
-1577. **construe** — 解释 *(vb.)*
+1576. **construe** — 解释 *(vb.)*
 
    - To interpret a written legal document.
 
-1578. **consul** — 领事 *(n.)*
+1577. **consul** — 领事 *(n.)*
 
    - An official posted by a state to live in a foreign city, protecting its political and trading interests and helping its nationals.
    - *See also:* diplomatic agent; diplomatic mission
 
-1579. **Consular Notification** — 领事通知 *(n.)*
+1578. **Consular Notification** — 领事通知 *(n.)*
 
    1. **领事通知：** Communication to a foreign national's consulate about detention or another event triggering consular assistance rights.
 
-1580. **CONSULTING EXPERT (PROTECTION)** — 咨询专家披露保护
+1579. **CONSULTING EXPERT (PROTECTION)** — 咨询专家披露保护
 
    1. **咨询专家披露保护：** Qualified protection against discovery of facts or opinions held by experts retained for litigation but not expected to testify.
 
-1581. **consumer** — 消费者 *(n.)*
+1580. **consumer** — 消费者 *(n.)*
 
-   - A private individual acting outside the course of a business, often given extra legal protection.
+   1. A private individual acting outside the course of a business, often given extra legal protection.
+   2. **消费者：** Under Part 1, an individual whose purpose in the transaction is primarily or entirely personal rather than occupational or commercial. Special rules govern second-hand goods at public auctions open to in-person attendance.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 2(3)–(6)](https://www.legislation.gov.uk/ukpga/2015/15/section/2) · source-checked · 2026-11-24
    - *See also:* consumer protection; distance selling
 
-1582. **Consumer bankruptcy** — 消费者破产 *(n.)*
+1581. **Consumer bankruptcy** — 消费者破产 *(n.)*
 
    1. **消费者破产：** A bankruptcy proceeding filed by an individual primarily for consumer debts.
 
-1583. **consumer-credit agreement** — 消费者信贷协议
+1582. **consumer-credit agreement** — 消费者信贷协议
 
    - A credit agreement under which an individual is given credit, generally regulated by consumer credit legislation.
    - *See also:* personal-credit agreement
 
-1584. **consumer-credit business** — 消费信贷业务
+1583. **consumer-credit business** — 消费信贷业务
 
    - A business providing credit under regulated consumer-credit agreements, for which a licence is usually required.
    - *See also:* consumer-credit agreements
 
-1585. **consumer-credit register** — 消费者信贷登记册
+1584. **consumer-credit register** — 消费者信贷登记册
 
    - A public register of consumer-credit and consumer-hire licensing, kept by the competition authority.
    - *See also:* Competition and Markets Authority; consumer-credit businesses; consumer-hire businesses
 
-1586. **Consumer debts** — 消费者债务
+1585. **Consumer debts** — 消费者债务
 
    1. **消费者债务：** Debts incurred primarily for personal, family, or household purposes.
 
-1587. **consumer goods** — 消费品
+1586. **consumer goods** — 消费品
 
    - Products ordinarily bought for personal rather than business use, subject to safety and quality rules.
    - *See also:* business liability; general safety requirement
 
-1588. **consumer-hire agreement** — 消费者租赁协议
+1587. **consumer-hire agreement** — 消费者租赁协议
 
    - An agreement to let goods to an individual or unincorporated body for over three months, excluding hire-purchase.
    - *See also:* bailment; hire-purchase; consumer-credit agreement
 
-1589. **consumer-hire business** — 消费者租赁业务
+1588. **consumer-hire business** — 消费者租赁业务
 
    - A business letting goods under regulated consumer-hire agreements, for which a licence is usually required.
    - *See also:* consumer-hire agreements
 
-1590. **consumer protection** — 消费者保护
+1589. **consumer protection** — 消费者保护
 
    - The protection by law of consumers buying goods or services outside a business, especially against unfair terms.
    - *See also:* good faith; Competition and Markets Authority; consumer trade practices; product liability
 
-1591. **CONSUMER REPORT (LIABILITY)** — 消费者报告责任
+1590. **CONSUMER REPORT (LIABILITY)** — 消费者报告责任
 
    1. **消费者报告责任：** Legal responsibility for unlawful preparation, furnishing, obtaining, or use of consumer credit or background reports.
 
-1592. **consumer trade practice** — 消费者贸易惯例
+1591. **consumer trade practice** — 消费者贸易惯例
 
    - Any practice connected with supplying goods or services to consumers, such as terms, promotion, or sales methods.
    - *See also:* Competition and Markets Authority
 
-1593. **consummation of a marriage** — 婚姻的圆满
+1592. **consummation of a marriage** — 婚姻的圆满
 
    - The point at which a marriage is completed by sexual intercourse; inability or refusal may ground annulment.
    - *See also:* annulment
 
-1594. **contact** — 联系 *(n.)*
+1593. **contact** — 联系 *(n.)*
 
    - In family law, the chance for a child to keep in touch with someone the child does not live with.
       - *Sense labels:* (in family law)
    - *Labels:* (in family law)
    - *See also:* child arrangements order; care contact order
 
-1595. **contact arrangements** — 接触安排
+1594. **contact arrangements** — 接触安排
 
    1. **接触安排：** Arrangements governing a child's communication and time with a parent or another significant person.
 
-1596. **Contact Difficulties** — 接触困难
+1595. **Contact Difficulties** — 接触困难
 
    1. **接触困难：** Problems preventing a parent from maintaining regular contact with a child.
 
-1597. **contact order** — 联系令
+1596. **contact order** — 联系令
 
    - Formerly, an order requiring a child's carer to let the child see or stay with a named person, now covered by a child arrangements order.
    - *See also:* child arrangements order
 
-1598. **contemporanea expositio** — 同时代解释
+1597. **contemporanea expositio** — 同时代解释
 
    - Latin for reading a document according to the meaning it carried when it was created.
-   - *Language:* Latin
+   - *Language:* la
 
-1599. **contemporaneous loan** — 同期贷款
+1598. **contemporaneous loan** — 同期贷款
 
    1. **同期贷款：** A loan made alongside another transaction or financing arrangement.
 
-1600. **Contempt** — 藐视法庭
+1599. **Contempt** — 藐视法庭
 
    1. **藐视法庭：** Conduct obstructing justice or disobeying lawful court authority, punishable or remediable through judicial measures.
 
-1601. **contempt of court** — 藐视法庭
+1600. **contempt of court** — 藐视法庭
 
    1. Disobeying a court's order or process, for example by breaking an injunction.
    2. Criminal contempt is conduct that obstructs the administration of justice, such as intimidating witnesses or publishing prejudicial material.
 
-1602. **contempt of Parliament** — 藐视议会
+1601. **contempt of Parliament** — 藐视议会
 
    - See parliamentary privilege.
    - *See also:* parliamentary privilege
 
-1603. **contemptuous damages** — 藐视法庭赔偿
+1602. **contemptuous damages** — 藐视法庭赔偿
 
    - A token sum awarded where the claimant is technically right but should never have sued.
    - *See also:* damages
 
-1604. **Content-Based Restriction** — 基于内容的限制 *(n.)*
+1603. **Content-Based Restriction** — 基于内容的限制 *(n.)*
 
    1. **基于内容的限制：** A restriction on expression determined by its subject matter, message, or viewpoint.
 
-1605. **Contention Interrogatory** — 主张询问书
+1604. **Contention Interrogatory** — 主张询问书
 
    1. **主张询问书：** A written discovery question seeking a party's factual or legal contentions and their supporting basis.
 
-1606. **contentious business** — 有争议的业务
+1605. **contentious business** — 有争议的业务
 
    - A solicitor's work where the parties are in dispute, especially litigation, governed by its own costs rules.
    - *See also:* costs
 
-1607. **contentious probate business** — 有争议的遗嘱认证业务
+1606. **contentious probate business** — 有争议的遗嘱认证业务
 
    - Contested court applications about whether wills are valid and how estates should be administered.
    - *See also:* probate; probate action
 
-1608. **content moderation** — 内容审核 *(n.)*
+1607. **content moderation** — 内容审核 *(n.)*
 
    1. **内容审核：** Reviewing and removing user content that breaches platform rules.
 
-1609. **Content-Neutral Regulation** — 内容中立管制 *(n.)*
+1608. **Content-Neutral Regulation** — 内容中立管制 *(n.)*
 
    1. **内容中立管制：** A restriction on expression justified without reference to the message or viewpoint expressed.
 
-1610. **contiguous zone** — 毗连区
+1609. **contiguous zone** — 毗连区
 
    - See territorial waters.
    - *See also:* territorial waters
 
-1611. **continental shelf** — 大陆架
+1610. **continental shelf** — 大陆架
 
    - The seabed and subsoil adjacent to a coastal state beyond its territorial waters, over which it holds exploitation rights.
    - *See also:* law of the sea
 
-1612. **contingency fee** — 风险代理费
+1611. **contingency fee** — 风险代理费
 
    - See success fee.
    - *See also:* success fee
 
-1613. **Contingent claim** — 或有请求权
+1612. **Contingent claim** — 或有请求权
 
    1. **或有请求权：** A claim whose enforceability or payment depends on a future event that may not occur.
 
-1614. **CONTINGENT CLAIMS (JOINDER)** — 或有请求合并
+1613. **CONTINGENT CLAIMS (JOINDER)** — 或有请求合并
 
    1. **或有请求合并：** Including a claim whose enforceability depends on another claim's outcome where procedural rules permit joint adjudication.
 
-1615. **contingent interest** — 或有权益
+1614. **contingent interest** — 或有权益
 
    - An interest that arises only if a specified event occurs, and so exists only in equity.
    - *See also:* trust of land; equitable interests; conditional interest; determinable interest
 
-1616. **contingent legacy** — 或有遗产
+1615. **contingent legacy** — 或有遗产
 
    - A bequest that takes effect only if a stated condition is satisfied.
 
-1617. **Contingent Remainder** — 或有剩余权益 *(n.)*
+1616. **Contingent Remainder** — 或有剩余权益 *(n.)*
 
    1. **或有剩余权益：** A future property interest dependent on an uncertain beneficiary or an unmet condition precedent.
 
-1618. **Continuance** — 延期 *(n.)*
+1617. **Continuance** — 延期 *(n.)*
 
    1. **延期：** A court-approved postponement of a hearing, trial, or other scheduled proceeding.
 
-1619. **Continuing approval** — 继续雇佣申请获批 *(n.)*
+1618. **Continuing approval** — 继续雇佣申请获批 *(n.)*
 
    1. **继续雇佣申请获批：** Approval of a petition categorized as continuing employment in H-1B administrative statistics.
 
-1620. **Continuing denial** — 继续雇佣申请被拒 *(n.)*
+1619. **Continuing denial** — 继续雇佣申请被拒 *(n.)*
 
    1. **继续雇佣申请被拒：** Denial of a petition categorized as continuing employment in H-1B administrative statistics.
 
-1621. **Continuing Violation** — 持续违法 *(n.)*
+1620. **Continuing Violation** — 持续违法 *(n.)*
 
    1. **持续违法：** A connected course of unlawful conduct whose continuing character affects liability or limitation periods.
 
-1622. **continuous bail** — 连续保释
+1621. **continuous bail** — 连续保释
 
    - Bail requiring the accused to attend whenever the case is adjourned, rather than after a set remand period.
 
-1623. **continuous disclosure** — 持续披露
+1622. **continuous disclosure** — 持续披露
 
    1. **持续披露：** An issuer's ongoing obligation to release material information to the securities market.
 
-1624. **continuous employment** — 连续就业
+1623. **continuous employment** — 连续就业
 
    - The length of time an employee has worked for the same business, which decides entitlement to certain statutory rights.
    - *See also:* unfair dismissal; inadmissible reason; guarantee payments; notice; relevant transfer; part-time worker; maternity rights
 
-1625. **Continuous residence** — 连续居住 *(n.)*
+1624. **Continuous residence** — 连续居住 *(n.)*
 
    1. **连续居住：** Maintaining residence over the required period without interruptions that defeat an immigration or nationality requirement.
 
-1626. **contraband** — 违禁品 *(n.)*
+1625. **contraband** — 违禁品 *(n.)*
 
    1. Goods that may not lawfully be imported or exported.
    2. Wartime goods carried by a ship or aircraft and destined for a belligerent's use, which may be seized.
    - *See also:* prize court; search of ship
 
-1627. **contra bonos mores** — 违背良好道德
+1626. **contra bonos mores** — 违背良好道德
 
    - Latin for against good morals; conduct whose criminal prohibition depends on whether it harms others.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* incest; corruption of public morals; conspiracy
 
-1628. **contract** — 合同 *(n.)*
+1627. **contract** — 合同 *(n.)*
 
    - A legally binding agreement that requires offer, acceptance, consideration or a deed, capacity, legality, and any necessary formalities.
    - *See also:* offer; acceptance; consideration; intention to create legal relations; honour clause; capacity to contract; illegal contract; void contract; voidable contract
 
-1629. **contract of employment** — 雇佣合同
+1628. **contract of employment** — 雇佣合同
 
    - A contract under which a person works under an employer's direction for a wage or salary, with written terms and implied duties.
    - *See also:* statement of terms of employment; continuous employment; unfair dismissal; redundancy; wrongful dismissal; Advisory Conciliation and Arbitration Service
 
-1630. **contract of exchange** — 交换合同
+1629. **contract of exchange** — 交换合同
 
    - A barter contract exchanging property for property without money, not governed by sale-of-goods legislation.
    - *See also:* sale of goods
 
-1631. **contract of record** — 记录合同
+1630. **contract of record** — 记录合同
 
    - A judgment or recognizance entered in a court's record, creating a debt by the entry rather than by agreement.
    - *See also:* court of record
 
-1632. **contract of sale** — 销售合同
+1631. **contract of sale** — 销售合同
 
    - See sale; sale of goods.
    - *See also:* sale; sale of goods
 
-1633. **contract of service** — 服务合同
+1632. **contract of service** — 服务合同
 
    - See contract of employment.
    - *See also:* contract of employment
 
-1634. **contract price** — 合同价款
+1633. **contract price** — 合同价款
 
    1. **合同价款：** The amount payable for goods, services, or other performance under an agreement.
 
-1635. **Contracts Clause** — 合同条款
+1634. **Contracts Clause** — 合同条款
 
    1. **合同条款：** The United States constitutional provision restricting state laws that impair existing contractual obligations.
 
-1636. **contractual indemnity** — 合同赔偿责任 *(n.)*
+1635. **contractual indemnity** — 合同赔偿责任 *(n.)*
 
    1. **合同赔偿责任：** An agreed obligation to reimburse another party for specified losses, liabilities, or claims.
 
-1637. **contractual tenancy** — 合同租赁
+1636. **contractual tenancy** — 合同租赁
 
    - A lease giving a tenant exclusive possession at a rent but creating no legal estate, because the landlord lacked capacity to grant one.
    - *See also:* lease; term of years absolute
 
-1638. **contra proferentem** — 反对提出者
+1637. **contra proferentem** — 反对提出者
 
    - Latin meaning against the party that supplied the wording; the rule that ambiguous text is read against its drafter.
-   - *Language:* Latin
+   - *Language:* la
 
-1639. **contravene** — 违反
+1638. **contravene** — 违反
 
    1. **违反：** To act contrary to a law, order, agreement, or other binding requirement.
 
-1640. **contribution** — 分担 *(n.)*
+1639. **contribution** — 分担 *(n.)*
 
    - A payment made by one of several people jointly liable for a loss to share the burden with the others.
    - *See also:* civil liability contribution; joint tortfeasors; average; Part 20 claim
 
-1641. **contributions of the employer** — 雇主缴款 *(n.)*
+1640. **contributions of the employer** — 雇主缴款 *(n.)*
 
    1. **雇主缴款：** Payments an employer makes toward an employee benefit or retirement arrangement.
 
-1642. **contributory** — 出资人 *(n.)*
+1641. **contributory** — 出资人 *(n.)*
 
    - A past or present member who may have to pay towards a company's assets if it is wound up.
-   - *See also:* winding-up; limited company; call; winding-up
+   - *See also:* winding-up; limited company; call
 
-1643. **CONTRIBUTORY INFRINGEMENT (PATENT)** — 帮助专利侵权
+1642. **CONTRIBUTORY INFRINGEMENT (PATENT)** — 帮助专利侵权
 
    1. **帮助专利侵权：** Supplying a specially adapted component for known infringement when applicable law's additional requirements are met.
 
-1644. **contributory negligence** — 共同过失
+1643. **contributory negligence** — 共同过失
 
    - A person's own carelessness contributing to his injury, which reduces the damages he can recover.
    - *See also:* nuisance; rule in Rylands v Fletcher; breach of statutory duty; animals; conversion
 
-1645. **controlled drugs** — 受管制药物
+1644. **controlled drugs** — 受管制药物
 
    - Dangerous drugs regulated by criminal law, grouped by class according to their harmfulness.
    - *See also:* confiscation order; psychoactive substances
 
-1646. **controlled foreign company** — 受控外国公司
+1645. **controlled foreign company** — 受控外国公司
 
    - A non-UK company controlled from the UK, whose profits may be taxed on its UK owners to prevent avoidance.
    - *Expands to:* controlled foreign company
    - *See also:* diverted profits tax
 
-1647. **controlled foreign corporation** — 受控外国公司 *(n.)*
+1646. **controlled foreign corporation** — 受控外国公司 *(n.)*
 
    1. **受控外国公司：** A foreign corporation meeting domestic ownership or control thresholds that trigger special tax treatment.
 
-1648. **controlled group taxable year** — 受控集团应税年度
+1647. **controlled group taxable year** — 受控集团应税年度
 
    1. **受控集团应税年度：** The tax year a commonly controlled group of corporations must adopt uniformly.
    - *Jurisdiction:* US
 
-1649. **Controlled Substance** — 受管制物质 *(n.)*
+1648. **Controlled Substance** — 受管制物质 *(n.)*
 
    1. **受管制物质：** A drug or chemical subject to statutory controls on possession, production, distribution, or use.
 
-1650. **controlled trust** — 受控信托
+1649. **controlled trust** — 受控信托
 
    - A trust run by solicitors, or their staff, as sole trustees, subject to special accounting rules.
 
-1651. **controller** — 控制人 *(n.)*
+1650. **controller** — 控制人 *(n.)*
 
    - In company law, a person holding enough shares to control a majority of the votes at a general meeting.
       - *Sense labels:* (in company law)
    - *Labels:* (in company law)
    - *See also:* voting; proxy; subsidiary company
 
-1652. **Controlling Question Of Law** — 决定性法律问题
+1651. **Controlling Question Of Law** — 决定性法律问题
 
    1. **决定性法律问题：** A legal issue whose resolution may materially affect the course or outcome of litigation.
 
-1653. **control orders** — 控制命令
+1652. **control orders** — 控制命令
 
    - See terrorism.
    - *See also:* terrorism
 
-1654. **contumacy** — 藐视法庭；抗命 *(n.)*
+1653. **contumacy** — 藐视法庭；抗命 *(n.)*
 
    - Failing to attend court after being summoned, or disobeying the court's rules and orders.
 
-1655. **Convene** — 召集
+1654. **Convene** — 召集
 
    1. **召集：** To formally bring together a court, tribunal, meeting, or other decision-making body.
 
-1656. **convention** — 公约 *(n.)*
+1655. **convention** — 公约 *(n.)*
 
    1. A treaty, usually multilateral, establishing rules recognized between states.
    2. A document, put in writing, that an international body adopts to govern itself.
@@ -7798,34 +7810,34 @@
    - *Jurisdiction:* International
    - *See also:* treaty; International Court of Justice; constitutional conventions
 
-1657. **Convention adoption** — 公约采用
+1656. **Convention adoption** — 公约采用
 
    - See intercountry adoption.
    - *See also:* intercountry adoption
 
-1658. **conventionality thesis** — 惯例性论文
+1657. **conventionality thesis** — 惯例性论文
 
    - See legal positivism.
    - *See also:* legal positivism
 
-1659. **convention or trade show facilities** — 会议或贸易展览设施
+1658. **convention or trade show facilities** — 会议或贸易展览设施
 
    1. **会议或贸易展览设施：** Premises and supporting services used to hold conventions or trade exhibitions.
 
-1660. **Convention (Paris Convention), Convention country, Convention priority** — 巴黎公约；公约成员国；公约优先权 *(n.)*
+1659. **Convention (Paris Convention), Convention country, Convention priority** — 巴黎公约；公约成员国；公约优先权 *(n.)*
 
    1. **巴黎公约；公约成员国；公约优先权：** The treaty framework allowing qualifying later industrial-property filings to rely on an earlier filing in a participating country.
 
-1661. **Convention priority** — 公约优先权 *(n.)*
+1660. **Convention priority** — 公约优先权 *(n.)*
 
    1. **公约优先权：** Entitlement under an international arrangement to claim an earlier foreign filing date for a later application.
 
-1662. **Convention right** — 公约权利
+1661. **Convention right** — 公约权利
 
    - A right guaranteed by the European Convention on Human Rights and written into domestic law by the Human Rights Act.
    - *See also:* European Convention on Human Rights; Human Rights Act
 
-1663. **conversion** — 转换 *(n.)*
+1662. **conversion** — 转换 *(n.)*
 
    1. The tort of unlawfully interfering with another's goods so as to deny the owner's rights.
       - *Sense labels:* (in tort)
@@ -7834,35 +7846,35 @@
    - *Labels:* (in tort); (in equity)
    - *See also:* jus tertii; maxims of equity
 
-1664. **CONVERSION (CHAPTER 11)** — 转换（第11章）
+1663. **CONVERSION (CHAPTER 11)** — 转换（第11章）
 
    1. **转换（第11章）：** A change of a Chapter 11 case to a different chapter of the Bankruptcy Code.
    - *Jurisdiction:* US
 
-1665. **Converted** — 已转换的申请 *(adj.)*
+1664. **Converted** — 已转换的申请 *(adj.)*
 
    1. **已转换的申请：** An Australian design application transferred from the former statutory regime to the successor regime under transitional rules.
 
-1666. **convertible note** — 可转换票据
+1665. **convertible note** — 可转换票据
 
    1. **可转换票据：** A debt instrument convertible into equity under specified conditions.
 
-1667. **convertible preferred stock** — 可转换优先股
+1666. **convertible preferred stock** — 可转换优先股
 
    1. **可转换优先股：** Preferred shares carrying a right or obligation to convert into another class of equity.
 
-1668. **conveyance** — 运输 *(n.)*
+1667. **conveyance** — 运输 *(n.)*
 
    1. A written instrument, not a will, that passes an interest in land, or the passing itself.
    2. Any craft or vehicle built to carry a driver; taking one without the owner's permission is an offence.
    - *See also:* conveyancing; aggravated vehicle-taking; interfering with vehicles
 
-1669. **conveyancing** — 转让 *(n.)*
+1668. **conveyancing** — 转让 *(n.)*
 
    - The procedures for creating, ending, and transferring interests in land, including investigation of title and preparation of documents.
    - *See also:* licensed conveyancer; land charges; Official search; mortgage; exchange of contracts; abstract of title; Land Registry; Land Charges Department; requisitions; title deeds; stamp duty land tax; electronic conveyancing; Law Society Conveyancing Protocol
 
-1670. **conviction** — 定罪 *(n.)*
+1669. **conviction** — 定罪 *(n.)*
 
    1. For bail purposes, a finding of guilt or an acquittal on grounds of insanity.
       - *Sense labels:* (for the purposes of the Bail Act 1976)
@@ -7871,444 +7883,444 @@
    - *Labels:* (for the purposes of the Bail Act 1976); (for the purposes of the Rehabilitation of Offenders Act 1974)
    - *See also:* guilty; summary conviction; spent conviction
 
-1671. **cookie consent** — Cookie同意
+1670. **cookie consent** — Cookie同意
 
    1. **Cookie同意：** User permission required before storing or reading tracking cookies.
 
-1672. **cooling-off period** — 冷静期
+1671. **cooling-off period** — 冷静期
 
    1. **冷静期：** A specified interval allowing reconsideration or negotiation before an act becomes final or proceedings begin.
 
-1673. **cooperation procedure** — 合作程序
+1672. **cooperation procedure** — 合作程序
 
    - A former EU procedure letting Parliament impede Council legislation by absolute-majority rejection, later replaced.
    - *See also:* Single European Act; European Parliament; Council of the European Union; Maastricht Treaty; Lisbon Treaty; ordinary legislative procedure; assent procedure; codecision procedure; ordinary legislative Procedure
 
-1674. **Cooperative Federalism** — 合作联邦主义 *(n.)*
+1673. **Cooperative Federalism** — 合作联邦主义 *(n.)*
 
    1. **合作联邦主义：** A system in which national and regional governments share responsibilities in designing or administering public programs.
 
-1675. **Co-parenting relationship** — 共同抚养关系 *(n.)*
+1674. **Co-parenting relationship** — 共同抚养关系 *(n.)*
 
    1. **共同抚养关系：** An arrangement where separated parents jointly share child-rearing responsibilities.
 
-1676. **copyhold** — 誊本保有权 *(n.)*
+1675. **copyhold** — 誊本保有权 *(n.)*
 
    - Formerly, land ownership enforceable only in the manor court, converted into freehold in 1922.
    - *See also:* feudal system
 
-1677. **copyleft licence** — 著佐权许可 *(n.)*
+1676. **copyleft licence** — 著佐权许可 *(n.)*
 
    1. **著佐权许可：** A copyright licence requiring covered adaptations or distributions to preserve specified sharing freedoms and reciprocal licensing conditions.
 
-1678. **copyright** — 版权 *(n.)*
+1677. **copyright** — 版权 *(n.)*
 
    - The sole right to copy or authorize copying of artistic, literary, dramatic, or musical works.
    - *See also:* software; damages; account of profits; injunction; Berne Convention; hacking
 
-1679. **Copyright Infringement** — 侵犯著作权 *(n.)*
+1678. **Copyright Infringement** — 侵犯著作权 *(n.)*
 
    1. **侵犯著作权：** Unauthorized exercise of a copyright owner's protected rights where no applicable exception or defense permits the conduct.
 
-1680. **Coram Nobis** — 科拉姆诺比斯纠错令
+1679. **Coram Nobis** — 科拉姆诺比斯纠错令
 
    1. **科拉姆诺比斯纠错令：** An extraordinary postjudgment remedy correcting fundamental errors when ordinary review or custody-based relief is unavailable.
 
-1681. **co-respondent** — 共同被告 *(n.)*
+1680. **co-respondent** — 共同被告 *(n.)*
 
    - Formerly, in divorce, the person with whom a spouse allegedly committed adultery and who could be made a party.
 
-1682. **Corollary relief** — 附带救济
+1681. **Corollary relief** — 附带救济
 
    1. **附带救济：** Additional orders, such as support, flowing from a principal divorce proceeding.
    - *Jurisdiction:* Canada
 
-1683. **coroner** — 验尸官 *(n.)*
+1682. **coroner** — 验尸官 *(n.)*
 
    - An officer who investigates deaths suspected to be violent or unnatural, by autopsy or inquest.
    - *See also:* autopsy; inquest; treasure trove
 
-1684. **CORPORATE CITIZENSHIP (JURISDICTION)** — 公司国籍（管辖权）
+1683. **CORPORATE CITIZENSHIP (JURISDICTION)** — 公司国籍（管辖权）
 
    1. **公司国籍（管辖权）：** A corporation's attributed state affiliations used to determine whether citizenship-based federal jurisdiction exists.
 
-1685. **corporate compliance activity** — 企业报关合规活动 *(n.)*
+1684. **corporate compliance activity** — 企业报关合规活动 *(n.)*
 
    1. **企业报关合规活动：** Oversight ensuring related entities exercise reasonable care in customs filings, excluding actual preparation or filing of the documents.
 
-1686. **corporate criminal liability** — 法人刑事责任 *(n.)*
+1685. **corporate criminal liability** — 法人刑事责任 *(n.)*
 
    1. **法人刑事责任：** An organization's liability to criminal sanction for conduct attributed to it under applicable law.
 
-1687. **corporate manslaughter** — 企业过失杀人
+1686. **corporate manslaughter** — 企业过失杀人
 
    - An offence where a company's gross breach of a duty of care, involving serious senior-management failure, causes a person's death.
    - *See also:* duty of care; manslaughter
 
-1688. **Corporate Opportunity** — 公司商业机会 *(n.)*
+1687. **Corporate Opportunity** — 公司商业机会 *(n.)*
 
    1. **公司商业机会：** A business opportunity that a fiduciary may be obliged to offer the corporation before pursuing personally.
 
-1689. **corporate personality** — 企业人格
+1688. **corporate personality** — 企业人格
 
    - See incorporation.
    - *See also:* incorporation
 
-1690. **Corporate Speech** — 公司言论
+1689. **Corporate Speech** — 公司言论
 
    1. **公司言论：** Expression attributable to a corporation, potentially protected by constitutional or statutory speech rights.
 
-1691. **corporate trustee** — 公司受托人
+1690. **corporate trustee** — 公司受托人
 
    - See trust corporation.
    - *See also:* trust corporation
 
-1692. **Corporate Veil** — 公司面纱
+1691. **Corporate Veil** — 公司面纱
 
    1. **公司面纱：** The legal separation between a corporation and its owners that ordinarily shields owners from corporate liabilities.
 
-1693. **Corporate Waste** — 公司资产浪费
+1692. **Corporate Waste** — 公司资产浪费
 
    1. **公司资产浪费：** A corporate transfer or expenditure so disproportionate to any expected benefit that it may violate fiduciary standards.
 
-1694. **corporation** — 公司 *(n.)*
+1693. **corporation** — 公司 *(n.)*
 
    - An entity with legal personality, capable of rights and duties, whether made up of many members or a single office-holder.
    - *See also:* juristic person; company; Crown; incorporation
 
-1695. **corporation tax** — 公司税
+1694. **corporation tax** — 公司税
 
    - A tax on a UK-resident company's profits, including capital gains.
    - *See also:* generally accepted accounting practice; diverted profits tax
 
-1696. **corporeal hereditament** — 肉体遗传
+1695. **corporeal hereditament** — 肉体遗传
 
    - See hereditament.
    - *See also:* hereditament
 
-1697. **corpus delicti** — 犯罪事实；犯罪构成事实
+1696. **corpus delicti** — 犯罪事实；犯罪构成事实
 
    - **犯罪事实；犯罪构成事实：** Latin for the substance of the offence; the evidence proving a crime took place.
-   - *Language:* Latin
+   - *Language:* la
 
-1698. **correction of award** — 裁决更正
+1697. **correction of award** — 裁决更正
 
    1. **裁决更正：** Rectification of clerical, computational, or similar errors in an arbitral award without reconsidering its merits.
 
-1699. **correspondent banking** — 代理银行业务
+1698. **correspondent banking** — 代理银行业务
 
    1. **代理银行业务：** Banking services provided by one bank for another, often to facilitate cross-border payments.
 
-1700. **corroboration** — 佐证 *(n.)*
+1699. **corroboration** — 佐证 *(n.)*
 
    - Evidence that confirms other evidence on a material point; generally not required, though still needed for some offences.
    - *Jurisdiction:* England and Wales
    - *See also:* treason; perjury; speeding
 
-1701. **corrupt and illegal practices** — 腐败和非法行为
+1700. **corrupt and illegal practices** — 腐败和非法行为
 
    - Election offences involving corrupt conduct, such as bribery, and illegal conduct, such as overspending.
 
-1702. **corruption** — 腐败 *(n.)*
+1701. **corruption** — 腐败 *(n.)*
 
    - See bribery.
    - *See also:* bribery
 
-1703. **Corruption Of Blood** — 血统继承权剥夺
+1702. **Corruption Of Blood** — 血统继承权剥夺
 
    1. **血统继承权剥夺：** A historical consequence of attainder preventing inheritance through the convicted person's family line.
 
-1704. **corruption of public morals** — 败坏公共道德
+1703. **corruption of public morals** — 败坏公共道德
 
    - Conduct destructive of society's moral fabric, which may be criminal as a conspiracy to corrupt public morals.
    - *See also:* conspiracy; contra bonos mores
 
-1705. **Cost and Freight** — 成本加运费
+1704. **Cost and Freight** — 成本加运费
 
    1. **成本加运费：** An Incoterms rule requiring seller-paid sea freight to destination while risk passes when goods are placed aboard at shipment.
 
-1706. **Cost Insurance and Freight** — 成本、保险费加运费
+1705. **Cost Insurance and Freight** — 成本、保险费加运费
 
    1. **成本、保险费加运费：** An Incoterms rule adding seller-arranged cargo insurance to cost-and-freight obligations while retaining shipment-stage risk transfer.
 
-1707. **cost, insurance, freight** — 成本、保险、运费
+1706. **cost, insurance, freight** — 成本、保险、运费
 
    - See CIF contract.
    - *See also:* CIF contract
 
-1708. **cost of securities sold** — 已售证券成本
+1707. **cost of securities sold** — 已售证券成本
 
    1. **已售证券成本：** The acquisition cost or adjusted basis assigned to securities disposed of during an accounting or tax period.
 
-1709. **costs** — 费用 *(pl. n.)*
+1708. **costs** — 费用 *(pl. n.)*
 
    - In civil litigation, money payable for legal services, usually awarded to the winning side against the loser at the court's discretion.
    - *See also:* indemnity basis; costs officer; assessment of costs; costs in any event; costs in the case; costs reserved
 
-1710. **costs draftsman** — 费用起草员
+1709. **costs draftsman** — 费用起草员
 
    - A specialist who drafts bills of costs, frequently a legal executive and not a qualified solicitor.
    - *See also:* bills of costs
 
-1711. **Cost-Shifting** — 费用转移
+1710. **Cost-Shifting** — 费用转移
 
    1. **费用转移：** Allocation of litigation or discovery expenses to a party other than the one ordinarily bearing them.
 
-1712. **costs in any event** — 任何情况下的费用
+1711. **costs in any event** — 任何情况下的费用
 
    - An interim costs order awarding the party who wins that hearing its costs whatever happens at trial.
    - *See also:* interim proceedings; costs in the case
 
-1713. **costs in the case** — 案件费用
+1712. **costs in the case** — 案件费用
 
    - An interim costs order making the hearing's costs payable under whatever costs order the final trial produces.
    - *See also:* interim proceedings; costs in any event
 
-1714. **costs management** — 成本管理
+1713. **costs management** — 成本管理
 
    - The control of litigation costs under the court's case management powers.
    - *See also:* case management
 
-1715. **costs of arbitration** — 仲裁费用 *(n.)*
+1714. **costs of arbitration** — 仲裁费用 *(n.)*
 
    1. **仲裁费用：** Expenses generated by arbitral proceedings, including tribunal charges and potentially parties' legal costs.
 
-1716. **costs officer** — 费用官员
+1715. **costs officer** — 费用官员
 
    - A judge or official who fixes how much costs are payable at a detailed assessment.
    - *See also:* assessment of costs
 
-1717. **costs reserved** — 保留费用
+1716. **costs reserved** — 保留费用
 
    - An interim costs order leaving the hearing's costs for the trial judge to decide later.
    - *See also:* interim proceedings
 
-1718. **costs thrown away** — 被丢弃的成本
+1717. **costs thrown away** — 被丢弃的成本
 
    - Costs wasted or needlessly incurred because of the other party's procedural error or later conduct.
 
-1719. **Cotonou Agreement** — 科托努协议
+1718. **Cotonou Agreement** — 科托努协议
 
    - A partnership agreement between the EU and the African, Caribbean, and Pacific group of states.
    - *See also:* African, Caribbean, Pacific Group
 
-1720. **council housing** — 议会住房
+1719. **council housing** — 议会住房
 
    - Residential accommodation owned and let by local authorities to meet local housing needs.
    - *See also:* secure tenancies; Homes and Communities Agency; Homes England; Regulator of Social Housing
 
-1721. **councillor** — 议员 *(n.)*
+1720. **councillor** — 议员 *(n.)*
 
    - An elected member of a local council.
       - *Sense labels:* (in local government)
    - *Labels:* (in local government)
    - *See also:* local authority
 
-1722. **Council of Europe** — 欧洲委员会
+1721. **Council of Europe** — 欧洲委员会
 
    - A European body promoting cooperation on human rights and democracy among many European states.
    - *See also:* European Convention on Human Rights; European Social Charter
 
-1723. **Council of the European Union** — 常驻代表委员会
+1722. **Council of the European Union** — 常驻代表委员会
 
    - The EU institution, made up of national government ministers, that adopts legislation and sets policy.
    - *Expands to:* Committee of Permanent Representatives
    - *See also:* European Commission; European Parliament; Community legislation; veto; European Council
 
-1724. **Council of the Inns of Court** — 律师协会理事会
+1723. **Council of the Inns of Court** — 律师协会理事会
 
    - A coordinating body of representatives from the four Inns, handling policy for the bar.
    - *See also:* Inns of Court; Bar Council
 
-1725. **council tax** — 市政税
+1724. **council tax** — 市政税
 
    - A local tax charged on occupied dwellings to fund local government services.
 
-1726. **counsel** — 律师 *(n.)*
+1725. **counsel** — 律师 *(n.)*
 
    1. A barrister, or barristers taken collectively.
    2. In criminal law, encouraging or advising someone to commit an offence, a form of accessory liability.
    - *See also:* aid and abet; procure
 
-1727. **Counseling Attorney** — 法律咨询律师
+1726. **Counseling Attorney** — 法律咨询律师
 
    1. **法律咨询律师：** A lawyer who advises clients about legal rights, duties, and available courses of action.
 
-1728. **Counsellor** — 辅导员 *(n.)*
+1727. **Counsellor** — 辅导员 *(n.)*
 
    1. **辅导员：** A professional providing therapy or guidance, sometimes mandated by a court.
 
-1729. **Counsellors of State** — 国家顾问
+1728. **Counsellors of State** — 国家顾问
 
    - People chosen to perform certain royal functions when the monarch is ill or temporarily away.
    - *See also:* regent
 
-1730. **COUNSEL'S LIABILITY** — 律师法律责任 *(n.)*
+1729. **COUNSEL'S LIABILITY** — 律师法律责任 *(n.)*
 
    1. **律师法律责任：** A lawyer's responsibility for professional misconduct, negligence, procedural abuse, or other actionable conduct.
 
-1731. **count** — 计数 *(n.)*
+1730. **count** — 计数 *(n.)*
 
    - A separate charge in an indictment.
    - *See also:* indictment
 
-1732. **Counter Arraignment** — 柜台答辩手续 *(n.)*
+1731. **Counter Arraignment** — 柜台答辩手续 *(n.)*
 
    1. **柜台答辩手续：** A locally authorized procedure allowing counsel to complete specified arraignment steps through the clerk without a regular court appearance.
 
-1733. **counterclaim** — 反诉 *(n.)*
+1732. **counterclaim** — 反诉 *(n.)*
 
    - A defendant's claim against the claimant made in the same proceedings.
    - *See also:* Part 20 claim; set-off
 
-1734. **Counterfeit** — 伪造品
+1733. **Counterfeit** — 伪造品
 
    1. **伪造品：** An imitation made or presented as genuine to deceive others about its authenticity.
 
-1735. **counterfeiting** — 伪造 *(n.)*
+1734. **counterfeiting** — 伪造 *(n.)*
 
    - The offence of copying a currency note, protected coin, hallmark, or trade-marked good without authority.
    - *See also:* forgery; passing off
 
-1736. **countermeasures** — 反措施 *(pl. n.)*
+1735. **countermeasures** — 反措施 *(pl. n.)*
 
    - Military or economic actions taken against another state that do not qualify as self-defence.
    - *See also:* self-defence; angary; anticipatory self-defence; reprisals
 
-1737. **counteroffer** — 还盘
+1736. **counteroffer** — 还盘
 
    - A reply to an offer that alters or adds a term, which ends the original offer.
    - *See also:* offer; acceptance
 
-1738. **counterparts clause** — 分份签署条款
+1737. **counterparts clause** — 分份签署条款
 
    1. **分份签署条款：** A provision allowing separate signed copies collectively to constitute one agreement.
 
-1739. **counter-terrorist financing** — 反恐怖融资
+1738. **counter-terrorist financing** — 反恐怖融资
 
    1. **反恐怖融资：** Measures preventing funds or financial services from supporting terrorist persons, organizations, or activities.
 
-1740. **countertrade** — 对销贸易 *(n.)*
+1739. **countertrade** — 对销贸易 *(n.)*
 
    - A trade deal where the exporter takes goods or services from the buyer instead of cash.
 
-1741. **Countervailing Duty** — 反补贴税
+1740. **Countervailing Duty** — 反补贴税
 
    1. **反补贴税：** An import duty imposed to offset qualifying foreign subsidies that injure the importing country's domestic industry.
 
-1742. **Country of -** — 所属国家（表格栏目）
+1741. **Country of -** — 所属国家（表格栏目）
 
    1. **所属国家（表格栏目）：** A form heading completed by a qualifier identifying the relevant country, such as birth, citizenship, or residence.
 
-1743. **country of origin** — 原产国
+1742. **country of origin** — 原产国
 
    1. **原产国：** The country legally attributed to goods under the applicable production or transformation rules.
 
-1744. **county** — 郡 *(n.)*
+1743. **county** — 郡 *(n.)*
 
    - A top-level local authority area covering part of England beyond Greater London, or part of Wales.
    - *See also:* local government area; districts; unitary authorities; county councils; preserved county
 
-1745. **county council** — 县议会
+1744. **county council** — 县议会
 
    - The council governing a county area, with duties such as education, fire, and highways.
    - *See also:* local authority; county; unitary authority
 
-1746. **county court** — 郡法院
+1745. **county court** — 郡法院
 
    - A civil court covering England and Wales with jurisdiction over contract, tort, and other claims.
    - *Jurisdiction:* England and Wales
    - *See also:* Civil Procedure Rules; appellate jurisdiction; circuit judge; district judge
 
-1747. **County Court Bulk Centre** — 县法院批量中心
+1746. **County Court Bulk Centre** — 县法院批量中心
 
    - A centre that processes large volumes of county court money claims.
    - *Expands to:* County Court Bulk Centre
    - *See also:* Claim Production Centre
 
-1748. **course of employment** — 就业历程
+1747. **course of employment** — 就业历程
 
    - The range of work an employee is engaged to do, relevant to an employer's vicarious liability.
    - *See also:* vicarious liability
 
-1749. **court** — 法院 *(n.)*
+1748. **court** — 法院 *(n.)*
 
    1. Any body set up by law to administer justice through judges or magistrates.
    2. A building or hall where a court sits.
    3. A sovereign's home, or the monarch together with family and state officials.
    - *See also:* judges; magistrates
 
-1750. **Court-Appointed Expert** — 法院指定专家
+1749. **Court-Appointed Expert** — 法院指定专家
 
    1. **法院指定专家：** An independent expert selected by the court to provide specialized assistance or evidence.
 
-1751. **court attendant** — 法庭服务员
+1750. **court attendant** — 法庭服务员
 
    1. **法庭服务员：** A court employee assisting with courtroom order, participants, and practical arrangements during proceedings.
 
-1752. **Court Days** — 法院工作日
+1751. **Court Days** — 法院工作日
 
    1. **法院工作日：** Days counted under procedural rules as days the court conducts business, excluding specified closures.
 
-1753. **Court for Consideration of Crown Cases Reserved** — 审理刑事案件的法院保留
+1752. **Court for Consideration of Crown Cases Reserved** — 审理刑事案件的法院保留
 
    - A former court that resolved reserved points of criminal law, later superseded by a new appeal court.
    - *See also:* High Court; Court of Criminal Appeal
 
-1754. **Court Martial** — 军事法庭
+1753. **Court Martial** — 军事法庭
 
    - A service court that tries offences against military law, sitting with a judge advocate and officers.
    - *See also:* service law; judge advocate; Director of Service Prosecutions; Service Civilian Court
 
-1755. **Court-Martial** — 军事法庭 *(n.)*
+1754. **Court-Martial** — 军事法庭 *(n.)*
 
    1. **军事法庭：** A military tribunal empowered to try service offenses and impose authorized punishments.
 
-1756. **Court of Appeal** — 上诉法院
+1755. **Court of Appeal** — 上诉法院
 
    - A court hearing appeals from the High Court and county courts, split into civil and criminal divisions.
    - *See also:* appellate jurisdiction; court of last resort; Supreme Court; Master of the Rolls; Lord Chief Justice; Lords Justices of Appeal
 
-1757. **Court of Arches** — 拱门法院
+1756. **Court of Arches** — 拱门法院
 
    - The ecclesiastical appeal court for the province of Canterbury, hearing appeals from consistory courts.
    - *See also:* ecclesiastical courts
 
-1758. **Court of Chancery** — 衡平法院
+1757. **Court of Chancery** — 衡平法院
 
    - The old equity court headed by the Lord Chancellor, later merged into the Chancery Division.
    - *See also:* equity; Lord Chancellor; Chancery Division
 
-1759. **Court of Chivalry** — 骑士法庭
+1758. **Court of Chivalry** — 骑士法庭
 
    - An ancient feudal court dealing with coats of arms and questions of precedence.
    - *See also:* court of record
 
-1760. **Court of Common Pleas** — 普通法院
+1759. **Court of Common Pleas** — 普通法院
 
    - One of the old common law courts, whose work passed to the High Court and then the Queen's Bench Division.
    - *See also:* common law; Court of Queen’s Bench; Court of Exchequer; Queen’s Bench Division
 
-1761. **Court of Criminal Appeal** — 刑事上诉法院
+1760. **Court of Criminal Appeal** — 刑事上诉法院
 
    - A former court that replaced the Court for Crown Cases Reserved and later became the Court of Appeal's criminal division.
    - *See also:* Court for Consideration of Crown Cases Reserved; Court of Appeal
 
-1762. **Court of Ecclesiastical Causes Reserved** — 教会法院保留
+1761. **Court of Ecclesiastical Causes Reserved** — 教会法院保留
 
    - A church court with original and appellate jurisdiction over doctrine, ritual, and ceremonial matters.
    - *See also:* duplex querela; ecclesiastical courts
 
-1763. **Court Of Equity** — 衡平法院 *(n.)*
+1762. **Court Of Equity** — 衡平法院 *(n.)*
 
    1. **衡平法院：** A court historically empowered to grant equitable remedies such as injunctions and specific performance.
 
-1764. **Court of Exchequer** — 财政法院
+1763. **Court of Exchequer** — 财政法院
 
    - One of the old common law courts, later merged into the Queen's Bench Division.
    - *See also:* common law; Court of Queen’s Bench; Court of Common Pleas; Queen’s Bench Division
 
-1765. **court of first instance** — 一审法院；初审法院（欧盟，参见普通法院）
+1764. **court of first instance** — 一审法院；初审法院（欧盟，参见普通法院）
 
    1. **一审法院：** A court where proceedings are started.
    2. **一审法院：** Loosely, the court that tries a case, as opposed to an appeal court.
@@ -8316,180 +8328,180 @@
       - *Sense labels:* 大写用法
    - *See also:* general court
 
-1766. **Court of Justice of the European Union** — 欧盟法院
+1765. **Court of Justice of the European Union** — 欧盟法院
 
    - The EU's judicial body, which interprets EU law and hears disputes about it.
    - *See also:* European Court of Justice
 
-1767. **court of last resort** — 终审法院
+1766. **court of last resort** — 终审法院
 
    - The final tribunal in a case, from which no appeal can be taken.
    - *Jurisdiction:* England and Wales
    - *See also:* Supreme Court; Court of Appeal; implementation period; European Court of Justice; Withdrawal Agreement
 
-1768. **Court of Probate** — 遗嘱认证法院
+1767. **Court of Probate** — 遗嘱认证法院
 
    - A former court that issued grants for wills and estates, later absorbed into the High Court.
    - *See also:* Probate, Divorce and Admiralty Division
 
-1769. **Court of Protection** — 保护法院
+1768. **Court of Protection** — 保护法院
 
    - A court that handles the property and personal affairs of adults lacking mental capacity.
    - *See also:* deputies; lasting power of attorney
 
-1770. **Court of Queen’s Bench** — 王座法院
+1769. **Court of Queen’s Bench** — 王座法院
 
    - An old common law court handling contract, tort, and supervision of inferior courts, now the Queen's Bench Division.
    - *See also:* common law; Court of Common Pleas; Court of Exchequer; Queen’s Bench Division
 
-1771. **court of record** — 记录法院
+1770. **court of record** — 记录法院
 
    - A court whose proceedings are permanently recorded and that can punish contempt.
    - *See also:* contempt of court; contract of record
 
-1772. **Court of Session** — 法庭
+1771. **Court of Session** — 法庭
 
    - The supreme civil court of Scotland, with an Outer House and an Inner House.
    - *Jurisdiction:* England and Wales
    - *See also:* High Court; Court of Appeal
 
-1773. **court of summary jurisdiction** — 简易管辖法院
+1772. **court of summary jurisdiction** — 简易管辖法院
 
    - A court that tries offences summarily, namely the magistrates' court.
    - *See also:* magistrates’ court
 
-1774. **court order** — 法院命令
+1773. **court order** — 法院命令
 
    - A direction or ruling made by a court that binds the parties.
    - *See also:* order
 
-1775. **Court reporter** — 法庭速记员 *(n.)*
+1774. **Court reporter** — 法庭速记员 *(n.)*
 
    1. **法庭速记员：** A person responsible for making an official verbatim record of court proceedings.
 
-1776. **Courts and Tribunals Service, HM** — 英国皇家法院和法庭服务中心
+1775. **Courts and Tribunals Service, HM** — 英国皇家法院和法庭服务中心
 
    - A government agency that administers courts and tribunals in England and Wales.
 
-1777. **COURT'S WITNESS** — 法院证人 *(n.)*
+1776. **COURT'S WITNESS** — 法院证人 *(n.)*
 
    1. **法院证人：** A witness called by the court to testify impartially in a proceeding.
    - *Jurisdiction:* US
 
-1778. **court taker** — 庭审事务书记员 *(n.)*
+1777. **court taker** — 庭审事务书记员 *(n.)*
 
    1. **庭审事务书记员：** A New Zealand registry employee assisting the judge with courtroom proceedings and related lists.
 
-1779. **Court Trial** — 法官审判 *(n.)*
+1778. **Court Trial** — 法官审判 *(n.)*
 
    1. **法官审判：** A trial conducted without a jury, with the judge determining the relevant facts and law.
 
-1780. **covenant** — 契约 *(n.)*
+1779. **covenant** — 契约 *(n.)*
 
    - A promise, usually in a deed, that binds the person making it.
    - *See also:* deed; lease; restrictive covenant
 
-1781. **Covenant Not To Compete** — 竞业禁止约定
+1780. **Covenant Not To Compete** — 竞业禁止约定
 
    1. **竞业禁止约定：** An agreement restricting specified competitive business or employment activities for a defined period or area.
 
-1782. **Covenant Of Good Faith** — 诚信义务约定 *(n.)*
+1781. **Covenant Of Good Faith** — 诚信义务约定 *(n.)*
 
    1. **诚信义务约定：** An express or implied contractual obligation to act honestly and preserve the other party's expected contractual benefits.
 
-1783. **covenant running with the land** — 与土地相关的契约
+1782. **covenant running with the land** — 与土地相关的契约
 
    1. A restrictive covenant over freehold land that binds or benefits later owners of the land.
    2. A lease covenant concerning the land itself that binds later owners.
    - *See also:* restrictive covenant; dominant tenement; servient tenement; registration of encumbrances; privity of estate
 
-1784. **covenant to repair** — 维修契约
+1783. **covenant to repair** — 维修契约
 
    - A lease clause setting out each party's duty to keep the property repaired.
    - *See also:* leases; forfeiture; specific performance
 
-1785. **covenant to settle** — 解决契约
+1784. **covenant to settle** — 解决契约
 
    - A deed promise to place property into a settlement later.
    - *See also:* deed; privity of contract; consideration
 
-1786. **Cover** — 替代购买 *(n.)*
+1785. **Cover** — 替代购买 *(n.)*
 
    1. **替代购买：** A buyer's reasonable purchase of substitute goods following the seller's breach.
 
-1787. **covered employee** — 受保雇员 *(n.)*
+1786. **covered employee** — 受保雇员 *(n.)*
 
    1. **受保雇员：** An employee within the scope of a statute's protections or coverage.
 
-1788. **covered financial company** — 适用处置程序的金融公司
+1787. **covered financial company** — 适用处置程序的金融公司
 
    1. **适用处置程序的金融公司：** A financial company placed within the federal orderly liquidation regime following the required statutory determination.
 
-1789. **covered import** — 受能源标准管制的进口产品
+1788. **covered import** — 受能源标准管制的进口产品
 
    1. **受能源标准管制的进口产品：** Imported consumer products or industrial equipment entered for consumption and subject to applicable energy-efficiency or labeling standards.
 
-1790. **covered judicial or administrative action** — 适用的司法或行政执法行动 *(n.)*
+1789. **covered judicial or administrative action** — 适用的司法或行政执法行动 *(n.)*
 
    1. **适用的司法或行政执法行动：** An SEC securities enforcement action producing monetary sanctions above one million dollars for whistleblower award purposes.
 
-1791. **covered occ employee** — 受保护职业雇员 *(n.)*
+1790. **covered occ employee** — 受保护职业雇员 *(n.)*
 
    1. **受保护职业雇员：** An occupational employee falling within statutory coverage or protection.
 
-1792. **Covering letter** — 附函 *(n.)*
+1791. **Covering letter** — 附函 *(n.)*
 
    1. **附函：** A letter accompanying a filing to explain its contents or provide relevant administrative information.
 
-1793. **cover note** — 暂保单
+1792. **cover note** — 暂保单
 
    1. **暂保单：** A temporary insurance document confirming coverage pending issue of the full policy.
 
-1794. **coverture** — 覆盖 *(n.)*
+1793. **coverture** — 覆盖 *(n.)*
 
    - The former legal status of a married woman whose identity was absorbed into her husband's.
    - *See also:* unity of personality
 
-1795. **COVID-19** — 2019冠状病毒病（COVID-19）
+1794. **COVID-19** — 2019冠状病毒病（COVID-19）
 
    - An infectious disease that prompted emergency public health powers.
    - *See also:* emergency powers
 
-1796. **covin** — 两人或多人之间的秘密协议 *(n.)*
+1795. **covin** — 两人或多人之间的秘密协议 *(n.)*
 
    - A private pact among people to injure another's lawful rights; collusion.
 
-1797. **CPC** — 索赔生产中心
+1796. **CPC** — 索赔生产中心
 
    - The Claim Production Centre, which processes bulk county court money claims.
    - *See also:* Claim Production Centre
 
-1798. **CPR** — 民事诉讼规则
+1797. **CPR** — 民事诉讼规则
 
    - The Civil Procedure Rules, governing procedure in the civil courts of England and Wales.
    - *See also:* Civil Procedure Rules
 
-1799. **CPS** — 皇家检察署
+1798. **CPS** — 皇家检察署
 
    1. **皇家检察署：** The Crown Prosecution Service, the body that conducts most criminal prosecutions in England and Wales.
    2. **皇家检察署：** Crown Prosecution Service
       - *Sense labels:* abbreviation
    - *See also:* Crown Prosecution Service
 
-1800. **Cram Down** — 强制批准重整计划
+1799. **Cram Down** — 强制批准重整计划
 
    1. **强制批准重整计划：** Judicial confirmation of a bankruptcy plan despite rejection by an affected creditor class when statutory safeguards are satisfied.
 
-1801. **Cramdown** — 强制重整
+1800. **Cramdown** — 强制重整
 
    1. **强制重整：** Confirmation of a bankruptcy plan over creditor opposition when the required statutory protections are met.
 
-1802. **C.R.C.** — 加拿大法规汇编
+1801. **C.R.C.** — 加拿大法规汇编
 
    1. **加拿大法规汇编：** Canada's Consolidated Regulations of Canada, the official compilation of federal regulations.
    - *Jurisdiction:* Canada
 
-1803. **credit** — 信用 *(n.)*
+1802. **credit** — 信用 *(n.)*
 
    1. An arrangement allowing a buyer to pay a debt at a later agreed time.
    2. In evidence law, a witness's credibility and the weight given to their testimony.
@@ -8497,38 +8509,38 @@
    - *Labels:* (in the law of evidence)
    - *See also:* hire-purchase; trier of fact; previous convictions
 
-1804. **credit agreement** — 信贷协议 *(n.)*
+1803. **credit agreement** — 信贷协议 *(n.)*
 
    1. **信贷协议：** A contract setting the terms on which a lender provides credit to a borrower.
 
-1805. **credit amount** — 税额抵免金额
+1804. **credit amount** — 税额抵免金额
 
    1. **税额抵免金额：** The sum allowed to reduce tax liability under a particular credit provision.
 
-1806. **credit card** — 信用卡
+1805. **credit card** — 信用卡
 
    - A card from a bank or finance firm that lets its holder buy goods on credit.
 
-1807. **credit card agreement** — 信用卡协议 *(n.)*
+1806. **credit card agreement** — 信用卡协议 *(n.)*
 
    1. **信用卡协议：** A contract governing use of a credit card, including borrowing, repayment, fees, and account management.
 
-1808. **Credit counseling** — 信用咨询
+1807. **Credit counseling** — 信用咨询
 
    1. **信用咨询：** Advice about budgeting, debt management, and repayment options, sometimes required before bankruptcy relief.
 
-1809. **credit for guilty plea** — 认罪信用
+1808. **credit for guilty plea** — 认罪信用
 
    - A reduction in sentence given to an offender who pleads guilty, larger when the plea comes early.
 
-1810. **credit limit** — 信用限额
+1809. **credit limit** — 信用限额
 
    1. The greatest amount of credit a creditor allows a debtor.
    2. Under consumer credit law, the highest running-account balance allowed during a period.
       - *Sense labels:* (under the Consumer Credit Act 1974)
    - *Labels:* (under the Consumer Credit Act 1974)
 
-1811. **creditor** — 债权人 *(n.)*
+1810. **creditor** — 债权人 *(n.)*
 
    1. Someone owed money by another.
    2. Under consumer credit law, a person who provides credit or takes over the rights and duties of one.
@@ -8536,374 +8548,374 @@
    - *Labels:* (under the Consumer Credit Act 1974)
    - *See also:* judgment creditor; loan creditor; secured creditor; unsecured creditor; consumer-credit agreement
 
-1812. **creditors’ committee** — 债权人委员会
+1811. **creditors’ committee** — 债权人委员会
 
    - A small group of creditors that supervises the trustee handling a bankrupt's affairs.
    - *See also:* bankruptcy
 
-1813. **credit sale agreement** — 赊销协议
+1812. **credit sale agreement** — 赊销协议
 
    - A sale contract under which the buyer pays by instalments and owns the goods at once.
    - *See also:* conditional sale agreement; consumer-credit agreement
 
-1814. **credit swap** — 信用互换
+1813. **credit swap** — 信用互换
 
    1. **信用互换：** A derivative transferring specified credit exposure between parties in exchange for agreed payments.
 
-1815. **credit year** — 抵免年度
+1814. **credit year** — 抵免年度
 
    1. **抵免年度：** The taxable year for which a taxpayer calculates a particular tax credit.
 
-1816. **Crewman** — 船员；机组人员
+1815. **Crewman** — 船员；机组人员
 
    1. **船员；机组人员：** A worker serving aboard a vessel or aircraft, whose admission may follow special immigration rules.
 
-1817. **crime** — 犯罪 *(n.)*
+1816. **crime** — 犯罪 *(n.)*
 
    - A public wrong under statute or common law that the state punishes through criminal proceedings.
    - *See also:* actus reus; mens rea; strict liability; burden of proof; prosecutions; Attorney General; indictable offences; summary offences; offence triable either way; punishments; sentence; tort
 
-1818. **Crime-Fraud Exception** — 犯罪欺诈例外 *(n.)*
+1817. **Crime-Fraud Exception** — 犯罪欺诈例外 *(n.)*
 
    1. **犯罪欺诈例外：** A rule permitting disclosure of privileged communications used to plan or commit wrongdoing.
 
-1819. **Crime Of Violence** — 暴力犯罪 *(n.)*
+1818. **Crime Of Violence** — 暴力犯罪 *(n.)*
 
    1. **暴力犯罪：** An offense involving the actual or threatened use of physical force against another person.
 
-1820. **crimes against humanity** — 危害人类罪
+1819. **crimes against humanity** — 危害人类罪
 
    - Serious widespread or systematic atrocities committed against a civilian population.
    - *See also:* war crimes
 
-1821. **crimes against peace** — 危害和平罪
+1820. **crimes against peace** — 危害和平罪
 
    - The crime of planning, preparing, or waging a war of aggression.
    - *See also:* war crimes
 
-1822. **Criminal Behaviour Order** — 犯罪行为令
+1821. **Criminal Behaviour Order** — 犯罪行为令
 
    - An order made on conviction that requires an offender to do or avoid specified acts.
    - *See also:* ASBOs; civil injunction
 
-1823. **Criminal Cases Review Commission** — 刑事案件审查委员会
+1822. **Criminal Cases Review Commission** — 刑事案件审查委员会
 
    - An independent body that investigates suspected miscarriages of justice and may refer cases to appeal courts.
    - *Expands to:* Criminal Cases Review Commission
 
-1824. **Criminal Contempt** — 刑事藐视法庭
+1823. **Criminal Contempt** — 刑事藐视法庭
 
    1. **刑事藐视法庭：** Disobedience of a court order punishable through the criminal process as an offense.
 
-1825. **criminal conviction certificate** — 刑事定罪证明
+1824. **criminal conviction certificate** — 刑事定罪证明
 
    - A certificate giving a person details of their own criminal record.
    - *See also:* Criminal Records Bureau
 
-1826. **criminal court** — 刑事法院
+1825. **criminal court** — 刑事法院
 
    - A court dealing with criminal cases instead of civil ones.
    - *See also:* Summary offences; indictable offences; magistrates’ courts; Crown Court
 
-1827. **criminal damage** — 刑事损害
+1826. **criminal damage** — 刑事损害
 
    - The offence of damaging or destroying another person's property intentionally or recklessly, with no lawful excuse.
    - *See also:* arson
 
-1828. **Criminal Discovery** — 刑事证据开示
+1827. **Criminal Discovery** — 刑事证据开示
 
    1. **刑事证据开示：** The pretrial exchange of evidence between the prosecution and the defense in a criminal case.
 
-1829. **Criminal Enterprise** — 犯罪企业 *(n.)*
+1828. **Criminal Enterprise** — 犯罪企业 *(n.)*
 
    1. **犯罪企业：** A group associated in a continuing course of criminal activity for a shared purpose.
 
-1830. **Criminal Forfeiture** — 刑事没收
+1829. **Criminal Forfeiture** — 刑事没收
 
    1. **刑事没收：** The government seizure of property derived from or used in the commission of a crime.
 
-1831. **Criminal Injuries Compensation Scheme** — 刑事伤害赔偿计划
+1830. **Criminal Injuries Compensation Scheme** — 刑事伤害赔偿计划
 
    - A state scheme that pays victims of violent crime compensation from public money.
    - *See also:* criminal injury; compensation; riot
 
-1832. **criminal injury** — 刑事伤害
+1831. **criminal injury** — 刑事伤害
 
    - A crime involving violence against a person, for which the compensation scheme may pay.
    - *See also:* Criminal Injuries Compensation Scheme
 
-1833. **criminal investigation in Revenue matters** — 税务事务中的刑事调查
+1832. **criminal investigation in Revenue matters** — 税务事务中的刑事调查
 
    - A tax office investigation into suspected crime, using powers similar to the police.
 
-1834. **CRIMINAL JURISDICTION (FEDERAL)** — 联邦刑事管辖权
+1833. **CRIMINAL JURISDICTION (FEDERAL)** — 联邦刑事管辖权
 
    1. **联邦刑事管辖权：** A federal court authority to hear and punish violations of national criminal statutes.
    - *Jurisdiction:* US
 
-1835. **Criminal Justice Act** — 刑事司法法
+1834. **Criminal Justice Act** — 刑事司法法
 
    1. **刑事司法法：** A United States statute providing appointed counsel for defendants unable to afford representation.
    - *Jurisdiction:* US
 
-1836. **criminal law** — 刑法
+1835. **criminal law** — 刑法
 
    1. **刑法：** The body of law defining prohibited conduct and prescribing punishment for offenses.
 
-1837. **criminal libel** — 刑事诽谤
+1836. **criminal libel** — 刑事诽谤
 
    - The former offence of publishing a defamatory statement of a criminal kind.
    - *See also:* libel
 
-1838. **Criminal Negligence** — 刑事过失 *(n.)*
+1837. **Criminal Negligence** — 刑事过失 *(n.)*
 
    1. **刑事过失：** A gross deviation from reasonable care creating a culpable risk of serious harm.
 
-1839. **Criminal Procedure Rules** — 刑事诉讼规则
+1838. **Criminal Procedure Rules** — 刑事诉讼规则
 
    - The set of rules for practice and procedure in England's and Wales's criminal courts.
    - *See also:* Consolidated Criminal Practice Direction
 
-1840. **Criminal Records Bureau** — 犯罪记录局
+1839. **Criminal Records Bureau** — 犯罪记录局
 
    - A former agency that carried out criminal record checks and supplied conviction certificates.
    - *See also:* criminal conviction certificate
 
-1841. **criminology** — 犯罪学 *(n.)*
+1840. **criminology** — 犯罪学 *(n.)*
 
    - The study of crime, its causes, forms, and prevention, drawing on law and social science.
    - *See also:* classical school of criminology; positivist school of criminology; penology
 
-1842. **critical criminology** — 批判犯罪学
+1841. **critical criminology** — 批判犯罪学
 
    - An approach that treats crime and the criminal law as products of social power.
    - *See also:* positivist school of criminology
 
-1843. **critical legal studies** — 批判性法律研究
+1842. **critical legal studies** — 批判性法律研究
 
    - A radical legal theory that treats law as indeterminate and shaped by political and social power.
    - *Expands to:* critical legal studies
    - *See also:* Marxist legal theory; legal realism
 
-1844. **critical race theory** — 批判种族理论
+1843. **critical race theory** — 批判种族理论
 
    - A legal movement holding that racism is embedded in law and that liberal colour-blindness hides it.
    - *Expands to:* critical race theory
    - *See also:* jurisprudence
 
-1845. **cross-acceleration clause** — 交叉加速到期条款
+1844. **cross-acceleration clause** — 交叉加速到期条款
 
    1. **交叉加速到期条款：** A provision triggering remedies when another debt becomes payable early following default.
 
-1846. **cross-appeals** — 交叉上诉 *(pl. n.)*
+1845. **cross-appeals** — 交叉上诉 *(pl. n.)*
 
    - Appeals brought by both sides when each is unhappy with the lower court's decision.
 
-1847. **cross-border data transfer** — 跨境数据传输 *(n.)*
+1846. **cross-border data transfer** — 跨境数据传输 *(n.)*
 
    1. **跨境数据传输：** Moving personal data to a recipient located in another country.
 
-1848. **Cross-Claim** — 共同当事人间请求
+1847. **Cross-Claim** — 共同当事人间请求
 
    1. **共同当事人间请求：** A claim brought against a co-party within an existing lawsuit.
 
-1849. **Crossclaim** — 共同诉讼当事人间诉请
+1848. **Crossclaim** — 共同诉讼当事人间诉请
 
    1. **共同诉讼当事人间诉请：** A claim asserted by one party against another party aligned on the same side of litigation.
 
-1850. **cross-class cram down** — 跨班补习
+1849. **cross-class cram down** — 跨班补习
 
    - A court power to approve a restructuring plan despite rejection by one class of creditors.
    - *See also:* scheme of arrangement
 
-1851. **cross-default** — 交叉违约
+1850. **cross-default** — 交叉违约
 
    1. **交叉违约：** A provision treating default under another obligation as a default under the present agreement.
 
-1852. **cross-default clause** — 交叉违约条款
+1851. **cross-default clause** — 交叉违约条款
 
    1. **交叉违约条款：** A provision making default on another obligation a default under the present contract.
 
-1853. **cross examination** — 交叉询问 *(n.)*
+1852. **cross examination** — 交叉询问 *(n.)*
 
    1. **交叉询问：** Questioning a witness by the opposing party after the party calling that witness has examined them.
 
-1854. **cross-examination** — 盘问 *(n.)*
+1853. **cross-examination** — 盘问 *(n.)*
 
    - Questioning a witness on behalf of the side that did not call that witness.
    - *See also:* witness; Leading questions; credit
 
-1855. **cross offer** — 交叉报价
+1854. **cross offer** — 交叉报价
 
    - Identical offers exchanged between parties that cross, neither operating as an acceptance.
    - *See also:* answer
 
-1856. **Crossover** — 交叉；跨界 *(n.)*
+1855. **Crossover** — 交叉；跨界 *(n.)*
 
    1. **交叉；跨界：** A child moving between placements, or overlapping jurisdiction in family cases.
 
-1857. **Crown** — 皇冠 *(n.)*
+1856. **Crown** — 皇冠 *(n.)*
 
    - The corporation sole holding supreme legal authority in the UK.
    - *See also:* corporation; Queen; royal prerogatives; Crown proceedings
 
-1858. **Crown Agents for Overseas Governments and Administrations** — 海外政府和行政机构的皇家代理人
+1857. **Crown Agents for Overseas Governments and Administrations** — 海外政府和行政机构的皇家代理人
 
    - An organisation that supplies financial, commercial, and professional help to foreign governments and public bodies.
 
-1859. **Crown (as prosecutor)** — 作为公诉人的王室
+1858. **Crown (as prosecutor)** — 作为公诉人的王室
 
    1. **作为公诉人的王室：** The state, represented by the Crown, that institutes and conducts criminal proceedings.
    - *Jurisdiction:* UK
 
-1860. **Crown attorney/prosecutor** — 王室检察官 *(n.)*
+1859. **Crown attorney/prosecutor** — 王室检察官 *(n.)*
 
    1. **王室检察官：** The government lawyer who conducts criminal prosecutions on behalf of the state.
    - *Jurisdiction:* Canada
 
-1861. **Crown Court** — 皇家法院
+1860. **Crown Court** — 皇家法院
 
    - A senior court that tries serious criminal cases on indictment and hears appeals from magistrates.
    - *See also:* assizes; quarter sessions; indictment; magistrates’ courts; three-tier system
 
-1862. **Crown Court rules** — 刑事法院规则
+1861. **Crown Court rules** — 刑事法院规则
 
    - Rules governing practice and procedure in the Crown Court.
    - *See also:* Crown Court
 
-1863. **Crown privilege** — 皇家特权
+1862. **Crown privilege** — 皇家特权
 
    - The old right letting the Crown keep back documents from court when disclosure would harm the public interest.
    - *See also:* Crown proceedings; public interest immunity
 
-1864. **Crown proceedings** — 皇家诉讼
+1863. **Crown proceedings** — 皇家诉讼
 
    - Civil actions brought against the Crown, now governed by ordinary procedural rules rather than petitions of right.
    - *See also:* royal prerogative; interpretation; Crown privilege; combat immunity
 
-1865. **Crown Prosecution Service** — 皇家检察署
+1864. **Crown Prosecution Service** — 皇家检察署
 
    - The public body that conducts most criminal prosecutions in England and Wales.
    - *Expands to:* Crown Prosecution Service
    - *See also:* Director of Public Prosecutions; Attorney General
 
-1866. **Crown servant** — 皇家仆人
+1865. **Crown servant** — 皇家仆人
 
    - A person employed by the Crown, including civil servants but not police or local government staff.
    - *See also:* unfair dismissal; privatization; executive agencies
 
-1867. **CRT** — 批判种族理论
+1866. **CRT** — 批判种族理论
 
    - A cross-reference to critical race theory.
    - *See also:* critical race theory
 
-1868. **Cruel And Unusual** — 残酷且异常的 *(adj.)*
+1867. **Cruel And Unusual** — 残酷且异常的 *(adj.)*
 
    1. **残酷且异常的：** Describing punishment prohibited by constitutional limits on severity, methods, or disproportionality.
 
-1869. **Cruel And Unusual Punishment** — 残酷且异常的刑罚 *(n.)*
+1868. **Cruel And Unusual Punishment** — 残酷且异常的刑罚 *(n.)*
 
    1. **残酷且异常的刑罚：** Punishment forbidden by constitutional standards governing excessive severity or unacceptable penal methods.
 
-1870. **cruelty** — 残忍 *(n.)*
+1869. **cruelty** — 残忍 *(n.)*
 
    - Formerly, conduct severe enough to damage a spouse's health and support a divorce.
    - *See also:* behaviour
 
-1871. **cryptoasset** — 加密资产
+1870. **cryptoasset** — 加密资产
 
    - A digital asset secured by cryptography and recorded on a distributed ledger.
 
-1872. **crystallization** — 结晶 *(n.)*
+1871. **crystallization** — 结晶 *(n.)*
 
    - The point at which a floating charge fixes on a company's assets and stops floating.
    - *See also:* charge; receiver; winding-up
 
-1873. **CSA** — 儿童抚养机构
+1872. **CSA** — 儿童抚养机构
 
    - The Child Support Agency, which handles child maintenance.
    - *See also:* child support maintenance
 
-1874. **CTO** — 社区治疗令（缩写）
+1873. **CTO** — 社区治疗令（缩写）
 
    - A community treatment order requiring a patient to accept treatment outside hospital.
    - *See also:* Community Treatment Order
 
-1875. **Cuban/Haitian Entrant** — 古巴或海地入境者
+1874. **Cuban/Haitian Entrant** — 古巴或海地入境者
 
    1. **古巴或海地入境者：** A person within designated Cuban or Haitian immigration categories recognized for particular assistance programs.
 
-1876. **cuius est solum, eius est usque ad coelum et ad inferos** — 土地所有权上达天空、下至地心原则
+1875. **cuius est solum, eius est usque ad coelum et ad inferos** — 土地所有权上达天空、下至地心原则
 
    - Latin for whoever holds the land holds it up to the sky and down to the depths.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* airspace
 
-1877. **culpa tenet suos auctores** — 过错约束其作者
+1876. **culpa tenet suos auctores** — 过错约束其作者
 
    - Latin meaning a fault binds only its creator; the wrongdoer alone answers for it.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* vicarious liability
 
-1878. **cum testamento annexo** — 附遗嘱的遗产管理
+1877. **cum testamento annexo** — 附遗嘱的遗产管理
 
    - Latin for with the will attached; an administration grant when a will appoints no executor to prove it.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* letters of administration
 
-1879. **Cumulative Error** — 累积错误 *(n.)*
+1878. **Cumulative Error** — 累积错误 *(n.)*
 
    1. **累积错误：** Multiple trial errors whose combined effect undermines fairness even if each alone might not justify reversal.
 
-1880. **Cumulative Evidence** — 累积证据 *(n.)*
+1879. **Cumulative Evidence** — 累积证据 *(n.)*
 
    1. **累积证据：** Additional evidence tending to prove the same point already established.
 
-1881. **cumulative sentence** — 累计刑；累积刑 *(n.)*
+1880. **cumulative sentence** — 累计刑；累积刑 *(n.)*
 
    1. **累计刑；累积刑：** A sentence added to one already being served so the terms run consecutively.
 
-1882. **cur. adv. vult** — 当前。副词vult
+1881. **cur. adv. vult** — 当前。副词vult
 
    - Latin for the court wants time to consider; a judgment postponed until after the hearing.
-   - *Language:* Latin
+   - *Language:* la
    - *Expands to:* cur. adv. vult
 
-1883. **cure period** — 补救期限
+1882. **cure period** — 补救期限
 
    1. **补救期限：** Time allowed to remedy a breach before specified enforcement or termination rights arise.
 
-1884. **curfew requirement** — 宵禁要求
+1883. **curfew requirement** — 宵禁要求
 
    - An order requiring an offender to remain at a named place during fixed hours.
    - *See also:* community order; suspended sentence; youth rehabilitation order
 
-1885. **Curing** — 补正
+1884. **Curing** — 补正
 
    1. **补正：** Correcting a breach or procedural defect so that the relevant obligation or requirement is satisfied.
 
-1886. **Curricular practical training** — 课程实习训练
+1885. **Curricular practical training** — 课程实习训练
 
    1. **课程实习训练：** Authorized practical employment integral to an eligible international student's established academic curriculum.
 
-1887. **curtain principle** — 幕后原则
+1886. **curtain principle** — 幕后原则
 
    - The land registration rule that trust interests are kept off the register and overreached on sale.
    - *See also:* land registration; overreaching; indemnity principle; mirror principle
 
-1888. **Curtesy** — 鳏夫终身地产权
+1887. **Curtesy** — 鳏夫终身地产权
 
    1. **鳏夫终身地产权：** A historical husband's life interest in certain land of his deceased wife upon satisfaction of legal conditions.
 
-1889. **curtilage** — 宅邸 *(n.)*
+1888. **curtilage** — 宅邸 *(n.)*
 
    - The ground immediately surrounding a dwelling, such as its garden and outbuildings.
 
-1890. **custodian trustee** — 托管受托人
+1889. **custodian trustee** — 托管受托人
 
    - A trustee who holds and safeguards trust property while others manage it.
 
-1891. **custody** — 监护 *(n.)*
+1890. **custody** — 监护 *(n.)*
 
    1. Imprisonment or confinement, used for serious offences where the custody threshold is crossed.
    2. In family law, the former bundle of parental rights over a child, now called parental responsibility.
@@ -8911,382 +8923,386 @@
    - *Labels:* (in family law)
    - *See also:* community sentences; parental responsibility
 
-1892. **CUSTODY (MIRANDA)** — 米兰达意义上的羁押
+1891. **CUSTODY (MIRANDA)** — 米兰达意义上的羁押
 
    1. **米兰达意义上的羁押：** Restraint comparable to formal arrest that triggers interrogation safeguards under the applicable constitutional test.
 
-1893. **custody time limit** — 拘留期限
+1892. **custody time limit** — 拘留期限
 
    - The maximum time a person may be held in custody before trial, extendable by court order.
 
-1894. **custom** — 习俗 *(n.)*
+1893. **custom** — 习俗 *(n.)*
 
    - A practice long followed in a place or trade that the law treats as binding.
    - *See also:* customary international law; opinio juris
 
-1895. **customary international law** — 习惯国际法
+1894. **customary international law** — 习惯国际法
 
    - Rules of international law formed by consistent state practice accepted as legally binding.
    - *See also:* international law; custom
 
-1896. **customer due diligence** — 客户尽职调查 *(n.)*
+1895. **customer due diligence** — 客户尽职调查 *(n.)*
 
    1. **客户尽职调查：** Checks to identify customers and beneficial owners, understand relationships, and assess relevant financial-crime risks.
 
-1897. **customer information order** — 客户信息令
+1896. **customer information order** — 客户信息令
 
    - An order compelling a bank or similar body to hand over customer details in a proceeds-of-crime inquiry.
    - *See also:* account monitoring order
 
-1898. **customs authority** — 海关机关 *(n.)*
+1897. **customs authority** — 海关机关 *(n.)*
 
    1. **海关机关：** The public body administering import and export controls, customs duties, and related border requirements.
 
-1899. **customs broker** — 报关经纪人 *(n.)*
+1898. **customs broker** — 报关经纪人 *(n.)*
 
    1. **报关经纪人：** An authorized intermediary handling customs transactions and declarations for other persons.
 
-1900. **customs business** — 报关业务 *(n.)*
+1899. **customs business** — 报关业务 *(n.)*
 
    1. **报关业务：** Activities involving customs transactions for another person, such as entry, classification, valuation, or duty-related representation.
 
-1901. **customs clearance** — 清关 *(n.)*
+1900. **customs clearance** — 清关 *(n.)*
 
    1. **清关：** Completion of customs formalities required to release goods for import, export, or another permitted procedure.
 
-1902. **customs duty** — 关税
+1901. **customs duty** — 关税
 
    - A tax charged on goods imported into the country, based on value or volume.
    - *See also:* excise duty
 
-1903. **customs security area** — 海关保安区域
+1902. **customs security area** — 海关保安区域
 
    1. **海关保安区域：** A designated controlled area in which access is restricted to protect customs operations or uncleared goods.
 
-1904. **customs territory of the united states** — 美国关税领土
+1903. **customs territory of the united states** — 美国关税领土
 
    1. **美国关税领土：** The geographic area comprising the United States states, the District of Columbia, and Puerto Rico for customs tariff purposes.
 
-1905. **customs valuation** — 海关估价 *(n.)*
+1904. **customs valuation** — 海关估价 *(n.)*
 
    1. **海关估价：** Determining the legally prescribed value of imported goods for assessment of customs duties.
 
-1906. **customs valuation agreement** — 海关估价协定 *(n.)*
+1905. **customs valuation agreement** — 海关估价协定 *(n.)*
 
    1. **海关估价协定：** The WTO agreement establishing methods and disciplines for determining imported goods' customs value.
 
-1907. **Cut-off date** — 排期截止日 *(n.)*
+1906. **Cut-off date** — 排期截止日 *(n.)*
 
    1. **排期截止日：** A date separating immigrant visa priority dates currently eligible for a specified processing step from those still waiting.
 
-1908. **cybercrime** — 网络犯罪 *(n.)*
+1907. **cybercrime** — 网络犯罪 *(n.)*
 
    - Crime committed using the internet, such as hacking, online fraud, or distributing illegal images.
    - *See also:* hacking; obscene publications; defamation; copyright; fraud
 
-1909. **Cyberstalking** — 网络跟踪骚扰
+1908. **Cyberstalking** — 网络跟踪骚扰
 
    1. **网络跟踪骚扰：** Repeated use of electronic communications to threaten, harass, or monitor another person unlawfully.
 
-1910. **cycle track** — 自行车道
+1909. **cycle track** — 自行车道
 
    - A path where people riding bicycles enjoy right of way.
 
-1911. **cyngor** — 郡议会或郡自治市议会的威尔士名称 *(n.)*
+1910. **cyngor** — 郡议会或郡自治市议会的威尔士名称 *(n.)*
 
    - The Welsh term for a county council or a county borough council.
-   - *Language:* Latin
+   - *Language:* la
 
-1912. **Cy Pres** — 近似原则
+1911. **Cy Pres** — 近似原则
 
    1. **近似原则：** A doctrine redirecting charitable property toward a purpose closely matching an original purpose that cannot properly be fulfilled.
 
-1913. **cy-près doctrine** — cy-près 主义
+1912. **cy-près doctrine** — cy-près 主义
 
    - French for as near as possible; a rule letting a failed charitable gift go to a similar purpose.
    - *Language:* fr
 
 ## D
 
-1914. **DACA** — 童年抵美者暂缓遣返
+1913. **DACA** — 童年抵美者暂缓遣返
 
    1. **童年抵美者暂缓遣返：** Deferred Action for Childhood Arrivals.
 
-1915. **Daily Cause List** — 每日原因列表
+1914. **Daily Cause List** — 每日原因列表
 
    - A cross-reference to the Cause List.
    - *See also:* Cause List
 
-1916. **Daily Order of Business** — 每日议事安排 *(n.)*
+1915. **Daily Order of Business** — 每日议事安排 *(n.)*
 
    1. **每日议事安排：** The scheduled sequence of categories of business for a legislative sitting.
 
-1917. **Daily Routine of Business** — 日常议事程序 *(n.)*
+1916. **Daily Routine of Business** — 日常议事程序 *(n.)*
 
    1. **日常议事程序：** The recurring parliamentary sequence for handling routine matters such as petitions, reports, and bill introductions.
 
-1918. **damage** — 损坏 *(n.)*
+1917. **damage** — 损坏 *(n.)*
 
    - Loss or harm; not every kind of loss gives a right to sue.
    - *See also:* nuisance; fatal accidents; negligence; libel; slander; serious harm
 
-1919. **damages** — 损害赔偿 *(pl. n.)*
+1918. **damages** — 损害赔偿 *(pl. n.)*
 
    - Money a court awards as compensation for a broken contract or a tort.
    - *See also:* lump-sum award; provisional damages; aggravated; exemplary damages; penalty; general and special damages; remoteness of damage; contributory negligence; gain-based damages; Human Rights Act 1998; just satisfaction
 
-1920. **damages-based agreement** — 基于损害赔偿的协议
+1919. **damages-based agreement** — 基于损害赔偿的协议
 
    - A no-win-no-fee deal that pays a lawyer a share of whatever damages are won.
    - *Expands to:* damages-based agreement
    - *See also:* conditional fee agreement
 
-1921. **damages for bereavement** — 丧亲之痛
+1920. **damages for bereavement** — 丧亲之痛
 
    - A statutory payment to close relatives for grief following a fatal accident.
    - *See also:* fatal accidents
 
-1922. **damnum sine injuria esse potest** — 无侵权之损害
+1921. **damnum sine injuria esse potest** — 无侵权之损害
 
    - Latin for damage may be suffered without a legal wrong; loss alone does not create liability.
-   - *Language:* Latin
+   - *Language:* la
 
-1923. **Danger** — 危险 *(n.)*
+1922. **Danger** — 危险 *(n.)*
 
    1. **危险：** A risk of harm relevant to legal duties, preventive powers, or liability.
 
-1924. **dangerous animals** — 危险动物
+1923. **dangerous animals** — 危险动物
 
    - Animals whose keeping is regulated because they are likely to cause harm.
    - *See also:* guard dogs
 
-1925. **dangerous driving** — 危险驾驶
+1924. **dangerous driving** — 危险驾驶
 
    - The offence of driving well below what a competent, careful driver would do.
    - *See also:* Disqualification; causing death by dangerous driving
 
-1926. **Dangerous Instrumentality** — 危险工具 *(n.)*
+1925. **Dangerous Instrumentality** — 危险工具 *(n.)*
 
    1. **危险工具：** An object or activity capable of causing serious harm, attracting heightened duties or special liability rules in some contexts.
 
-1927. **dangerous machinery** — 危险机械
+1926. **dangerous machinery** — 危险机械
 
    - Machinery that employers must guard or fence to protect workers from injury.
    - *See also:* safety at work; defective equipment
 
-1928. **dangerous offender** — 危险罪犯
+1927. **dangerous offender** — 危险罪犯
 
    - An offender who poses a significant risk of serious harm through further violent or sexual offences.
 
-1929. **Dangerous offender applications** — 危险罪犯申请
+1928. **Dangerous offender applications** — 危险罪犯申请
 
    1. **危险罪犯申请：** Proceedings to declare a repeat offender dangerous and impose indefinite detention.
    - *Jurisdiction:* Canada
 
-1930. **dangerous things** — 危险事物
+1929. **dangerous things** — 危险事物
 
    - A cross-reference to strict liability for escaping dangerous things under Rylands v Fletcher.
    - *See also:* rule in Rylands v Fletcher
 
-1931. **danish corporation or other entity** — 丹麦公司或其他实体 *(n.)*
+1930. **danish corporation or other entity** — 丹麦公司或其他实体 *(n.)*
 
    1. **丹麦公司或其他实体：** A partnership, corporation, or other entity organized in Denmark or under Danish law.
 
-1932. **DA notice** — DA 通知
+1931. **DA notice** — DA 通知
 
    - A Defence Advisory notice asking media not to publish information prejudicial to national security.
    - *See also:* Official Secrets
 
-1933. **database** — 数据库 *(n.)*
+1932. **database** — 数据库 *(n.)*
 
    - A structured store of information kept on a computer, often protected by copyright.
    - *See also:* copyright
 
-1934. **database right** — 数据库特殊权利
+1933. **database right** — 数据库特殊权利
 
    1. **数据库特殊权利：** A separate right protecting qualifying investment in a database against specified extraction or reuse.
 
-1935. **data controller** — 数据控制者 *(n.)*
+1934. **data controller** — 数据控制者 *(n.)*
 
    1. **数据控制者：** The entity deciding the purposes and means of processing personal data.
    - *Jurisdiction:* EU
 
-1936. **data localisation** — 数据本地化 *(n.)*
+1935. **data localisation** — 数据本地化 *(n.)*
 
    1. **数据本地化：** A requirement that certain data be stored within national territory.
 
-1937. **data minimisation** — 数据最小化 *(n.)*
+1936. **data minimisation** — 数据最小化 *(n.)*
 
    1. **数据最小化：** Processing only the personal data adequate and necessary to the purpose.
 
-1938. **data processing agreement** — 数据处理协议 *(n.)*
+1937. **data processing agreement** — 数据处理协议 *(n.)*
 
    1. **数据处理协议：** A contract governing how a processor handles personal data for a controller.
 
-1939. **data processor** — 数据处理者 *(n.)*
+1938. **data processor** — 数据处理者 *(n.)*
 
    1. **数据处理者：** A party that processes personal data on behalf of the controller.
    - *Jurisdiction:* EU
 
-1940. **data protection** — 一般数据保护条例
+1939. **data protection** — 一般数据保护条例
 
    - Safeguards governing how personal data about individuals is collected, stored, and used.
    - *Expands to:* General Data Protection Regulation
 
-1941. **data protection impact assessment** — 数据保护影响评估 *(n.)*
+1940. **data protection impact assessment** — 数据保护影响评估 *(n.)*
 
    1. **数据保护影响评估：** An analysis of the risks to rights from a planned processing activity.
    - *Jurisdiction:* EU
 
-1942. **data protection officer** — 数据保护官 *(n.)*
+1941. **data protection officer** — 数据保护官 *(n.)*
 
    1. **数据保护官：** A person overseeing an organisations compliance with data protection law.
    - *Jurisdiction:* EU
 
-1943. **data residency** — 数据驻留 *(n.)*
+1942. **data residency** — 数据驻留 *(n.)*
 
    1. **数据驻留：** The requirement that data remain physically located in a set place.
 
-1944. **data retention schedule** — 数据保留期限表
+1943. **data retention schedule** — 数据保留期限表
 
    1. **数据保留期限表：** A plan fixing how long records are kept before deletion or archival.
 
-1945. **data subject** — 数据主体
+1944. **data subject** — 数据主体
 
    1. **数据主体：** The identified or identifiable individual whom personal data concerns.
-   - *Jurisdiction:* EU
+      - *Sense jurisdiction:* EU
+   2. **数据主体：** The living person to whom particular personal data relate.
+      - *Sense labels:* data protection
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Data Protection Act 2018, s 3(5)](https://www.legislation.gov.uk/ukpga/2018/12/section/3) · source-checked · 2026-11-24
 
-1946. **date of retirement** — 退休日 *(n.)*
+1945. **date of retirement** — 退休日 *(n.)*
 
    1. **退休日：** The date on which an employee's retirement takes effect under the applicable employment or pension arrangement.
 
-1947. **date of the report** — 报告日期
+1946. **date of the report** — 报告日期
 
    1. **报告日期：** The specified day on which an expert or official document is finalized and issued.
 
-1948. **dating violence** — 约会暴力 *(n.)*
+1947. **dating violence** — 约会暴力 *(n.)*
 
    1. **约会暴力：** Abuse occurring between individuals in a romantic or dating relationship.
 
-1949. **Daubert** — 多伯特
+1948. **Daubert** — 多伯特
 
    1. **多伯特：** The US Supreme Court authority establishing the standard for admitting expert scientific evidence.
    - *Jurisdiction:* US
 
-1950. **Daubert Standard** — 多伯特标准
+1949. **Daubert Standard** — 多伯特标准
 
    1. **多伯特标准：** The US test requiring expert evidence to be relevant and reliably grounded in sound method.
    - *Jurisdiction:* US
 
-1951. **Daubert v. Merrill Pharmaceuticals** — 多伯特案
+1950. **Daubert v. Merrill Pharmaceuticals** — 多伯特案
 
    1. **多伯特案：** A leading US case setting the standard for admitting expert scientific evidence.
    - *Jurisdiction:* US
 
-1952. **dawn raid** — 黎明突袭
+1951. **dawn raid** — 黎明突袭
 
    1. A brief offer to buy a large block of shares above market value, open only for hours.
    2. A surprise inspection by competition officials looking into cartels or similar violations.
    - *See also:* concert party; Competition and Markets Authority
 
-1953. **days of grace** — 宽限期
+1952. **days of grace** — 宽限期
 
    - The three extra days formerly allowed for paying a bill of exchange.
    - *See also:* bill of exchange
 
-1954. **DBA** — 损害赔偿协议（缩写）
+1953. **DBA** — 损害赔偿协议（缩写）
 
    - A damages-based agreement.
    - *See also:* damages-based agreement
 
-1955. **DCS** — 数字案例系统
+1954. **DCS** — 数字案例系统
 
    - The Digital Case System used for handling criminal case documents.
    - *See also:* Digital Case System
 
-1956. **dead letter** — 死信
+1955. **dead letter** — 死信
 
    - A statute still technically in force but no longer applied.
 
-1957. **deadlock resolution** — 僵局解决机制 *(n.)*
+1956. **deadlock resolution** — 僵局解决机制 *(n.)*
 
    1. **僵局解决机制：** Agreed procedures for overcoming an inability of owners or decision-makers to reach required approval.
 
-1958. **Deadly Force** — 致命武力
+1957. **Deadly Force** — 致命武力
 
    1. **致命武力：** Force capable of causing death, the use of which is strictly constrained by law.
 
-1959. **DEAD MAN'S STATUTE** — 死者交易证言限制法
+1958. **DEAD MAN'S STATUTE** — 死者交易证言限制法
 
    1. **死者交易证言限制法：** A statute restricting interested persons from testifying about transactions or communications with someone who has died.
 
-1960. **death** — 死亡 *(n.)*
+1959. **death** — 死亡 *(n.)*
 
    - The permanent end of life, legally established by brain death or registration.
    - *See also:* brain death; registration of death
 
-1961. **Death Knell Doctrine** — 丧钟原则
+1960. **Death Knell Doctrine** — 丧钟原则
 
    1. **丧钟原则：** A principle allowing immediate appeal where a ruling would effectively end a party's claim.
    - *Jurisdiction:* US
 
-1962. **death penalty** — 死刑
+1961. **death penalty** — 死刑
 
    - Capital punishment: the state putting an offender to death as a sentence.
    - *See also:* capital punishment
 
-1963. **debate** — 辩论 *(n.)*
+1962. **debate** — 辩论 *(n.)*
 
    1. **辩论：** Formal discussion in which participants present competing views on a question before a decision.
 
-1964. **de bene esse** — 临时性地；视情形而定
+1963. **de bene esse** — 临时性地；视情形而定
 
    - **临时性地；视情形而定：** Latin for of well-being; action taken provisionally for the present or a future event.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* deposition
 
-1965. **debenture** — 债券 *(n.)*
+1964. **debenture** — 债券 *(n.)*
 
    - A document acknowledging and setting the terms of a company loan, often secured by a charge.
    - *See also:* charge; receiver; crystallization; loan capital; capital; company members
 
-1966. **de bonis asportatis** — 被带走的货物
+1965. **de bonis asportatis** — 被带走的货物
 
    - Latin for of goods carried away; a kind of interference with another's goods.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* trespass
 
-1967. **de bonis non administratis** — 未管理的物品
+1966. **de bonis non administratis** — 未管理的物品
 
    - Latin for of unadministered goods; a further administration grant issued after the first administrator dies.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* letters of administration; chain of executorship
 
-1968. **debt** — 债务 *(n.)*
+1967. **debt** — 债务 *(n.)*
 
    1. Money that one party owes to another.
    2. A duty to pay a debt that is due.
 
-1969. **debt adjusting** — 债务调整
+1968. **debt adjusting** — 债务调整
 
    - A credit business activity involving helping debtors to reschedule their debts.
    - *See also:* ancillary credit business
 
-1970. **debt collecting** — 追债
+1969. **debt collecting** — 追债
 
    - The business of recovering money owed to creditors from debtors.
    - *See also:* ancillary credit business
 
-1971. **DEBT COLLECTOR (FDCPA)** — （公平债务催收法）债务催收人
+1970. **DEBT COLLECTOR (FDCPA)** — （公平债务催收法）债务催收人
 
    1. **（公平债务催收法）债务催收人：** Under the Fair Debt Collection Practices Act, a person regularly collecting debts owed to others.
    - *Jurisdiction:* US
 
-1972. **debt instrument** — 债务工具 *(n.)*
+1971. **debt instrument** — 债务工具 *(n.)*
 
    1. **债务工具：** A written obligation evidencing a borrower's promise to repay money under stated terms.
 
-1973. **debtor** — 债务人 *(n.)*
+1972. **debtor** — 债务人 *(n.)*
 
    1. A person who owes a debt.
    2. Under consumer credit law, the individual who receives credit under a regulated agreement.
@@ -9294,83 +9310,83 @@
    - *Labels:* (under the Consumer Credit Act 1974)
    - *See also:* judgment debtor; consumer-credit agreement
 
-1974. **debtor-creditor agreement** — 债务人-债权人协议
+1973. **debtor-creditor agreement** — 债务人-债权人协议
 
    - A regulated consumer credit agreement made directly between debtor and creditor.
    - *See also:* consumer-credit agreement; restricted-use credit agreement
 
-1975. **debtor-creditor-supplier agreement** — 债务人-债权人-供应商协议
+1974. **debtor-creditor-supplier agreement** — 债务人-债权人-供应商协议
 
    - A regulated consumer credit agreement involving a creditor, a debtor, and a supplier.
    - *See also:* consumer-credit agreement; restricted-use credit agreement
 
-1976. **debtor in possession** — 债务人占有
+1975. **debtor in possession** — 债务人占有
 
    - A debtor that keeps control of its assets during reorganisation.
    - *See also:* scheme of arrangement
 
-1977. **Debtor's plan** — 债务人重整计划
+1976. **Debtor's plan** — 债务人重整计划
 
    1. **债务人重整计划：** A reorganization plan proposed by the debtor in a bankruptcy case.
 
-1978. **Debt relief notice** — 债务宽免通知
+1977. **Debt relief notice** — 债务宽免通知
 
    1. **债务宽免通知：** A formal notification informing a debtor of available options or relief from outstanding obligations.
 
-1979. **debt service coverage ratio** — 偿债覆盖率
+1978. **debt service coverage ratio** — 偿债覆盖率
 
    1. **偿债覆盖率：** A ratio comparing income available for debt repayment with required principal and interest payments.
 
-1980. **Debt settlement arrangement** — 债务清偿安排 *(n.)*
+1979. **Debt settlement arrangement** — 债务清偿安排 *(n.)*
 
    1. **债务清偿安排：** An agreement reducing or restructuring a debtor's obligations to resolve outstanding debt.
 
-1981. **Debt Validation** — 债务核实 *(n.)*
+1980. **Debt Validation** — 债务核实 *(n.)*
 
    1. **债务核实：** A debtor's right to demand verification of a claimed debt before payment is required.
 
-1982. **Decedent** — 死者；被继承人
+1981. **Decedent** — 死者；被继承人
 
    1. **死者；被继承人：** A person who has died, a term used chiefly in probate and estate administration.
 
-1983. **deceit** — 欺骗 *(n.)*
+1982. **deceit** — 欺骗 *(n.)*
 
    - A tort committed by knowingly or recklessly making a false statement that another relies on and suffers loss from.
    - *See also:* fraud
 
-1984. **deceit malice** — 欺骗恶意
+1983. **deceit malice** — 欺骗恶意
 
    - A pointer to the related entries on malice based on motive or on deception.
    - *See also:* motive malice and deceit malice
 
-1985. **deception** — 欺骗 *(n.)*
+1984. **deception** — 欺骗 *(n.)*
 
    - A false representation of fact or law made deliberately or recklessly, formerly a basis for dishonesty offences.
    - *See also:* false accounting; forgery; fraud; impersonation
 
-1986. **Deceptively similar** — 欺骗性近似
+1985. **Deceptively similar** — 欺骗性近似
 
    1. **欺骗性近似：** Sufficient resemblance between marks to create a legally relevant likelihood of deception or confusion.
 
-1987. **Deceptive Trade Practice** — 欺骗性贸易行为
+1986. **Deceptive Trade Practice** — 欺骗性贸易行为
 
    1. **欺骗性贸易行为：** A business act misleading consumers, prohibited under consumer protection and fair trading statutes.
 
-1988. **Decision-making responsibility** — 决策责任 *(n.)*
+1987. **Decision-making responsibility** — 决策责任 *(n.)*
 
    1. **决策责任：** The authority to make major decisions about a child's health, education, and welfare.
    - *Jurisdiction:* Canada
 
-1989. **decisions of the EU** — 欧盟的决定
+1988. **decisions of the EU** — 欧盟的决定
 
    - Binding EU measures that apply directly without national implementation.
    - *See also:* Community legislation
 
-1990. **Declarant** — 声明人
+1989. **Declarant** — 声明人
 
    1. **声明人：** A person who makes a statement, especially one offered as hearsay evidence in proceedings.
 
-1991. **declaration** — 声明 *(n.)*
+1990. **declaration** — 声明 *(n.)*
 
    1. In evidence law, an unsworn statement, especially an out-of-court one admissible as a hearsay exception.
       - *Sense labels:* (in the law of evidence)
@@ -9378,727 +9394,727 @@
    - *Labels:* (in the law of evidence)
    - *See also:* hearsay evidence; declaration concerning pedigree; declaration concerning public; statutory declaration; ultra vires; quashing order; judicial review
 
-1992. **declaration against interest** — 反对利益声明
+1991. **declaration against interest** — 反对利益声明
 
    - A statement by a person, since deceased, that they knew would harm their own pecuniary or property interests.
    - *See also:* declaration
 
-1993. **declaration concerning pedigree** — 有关血统的声明
+1992. **declaration concerning pedigree** — 有关血统的声明
 
    - A statement about a disputed family lineage, admissible as a hearsay exception when the maker has died.
    - *See also:* declaration
 
-1994. **declaration concerning public or general rights** — 有关公共或一般权利的声明
+1993. **declaration concerning public or general rights** — 有关公共或一般权利的声明
 
    - A statement about an alleged public or group right, admitted as a hearsay exception.
    - *See also:* declaration; right of way; common
 
-1995. **declaration in course of duty** — 履行职责时的声明
+1994. **declaration in course of duty** — 履行职责时的声明
 
    - A statement by someone, since dead, made while performing a duty to keep records or reports.
    - *See also:* declaration
 
-1996. **declaration of incompatibility** — 不兼容声明
+1995. **declaration of incompatibility** — 不兼容声明
 
    - A court ruling that a statute conflicts with Convention rights, leaving the legislation valid.
    - *See also:* European Convention on Human Rights
 
-1997. **declaration of intention** — 意向声明
+1996. **declaration of intention** — 意向声明
 
    - A statement showing that a party is merely considering making an offer.
    - *See also:* offer
 
-1998. **declaration of origin** — 原产地声明
+1997. **declaration of origin** — 原产地声明
 
    1. **原产地声明：** A statement certifying the country where goods were wholly obtained or substantially transformed.
 
-1999. **declaration of parentage** — 亲子关系声明
+1998. **declaration of parentage** — 亲子关系声明
 
    - A court decision on whether someone counts as another's parent.
    - *See also:* child support maintenance
 
-2000. **declaration of trust** — 信托声明
+1999. **declaration of trust** — 信托声明
 
    - A statement by a property owner that they hold the property on trust for another.
    - *See also:* Precatory words; constructive trust; express trust
 
-2001. **Declaration under penalty of perjury** — 承担伪证责任的声明
+2000. **Declaration under penalty of perjury** — 承担伪证责任的声明
 
    1. **承担伪证责任的声明：** A written factual declaration made with acknowledgment that intentional falsehood may attract perjury penalties.
 
-2002. **Declaratory evidence** — 声明证据 *(n.)*
+2001. **Declaratory evidence** — 声明证据 *(n.)*
 
    1. **声明证据：** Evidence submitted through a formal declaration attesting to the stated facts.
 
-2003. **declaratory judgment** — 宣告性判决
+2002. **declaratory judgment** — 宣告性判决
 
    - A judgment that declares rights or states a view on a legal issue but carries no enforcement.
 
-2004. **Declaratory Judgment Act** — 宣告性判决法
+2003. **Declaratory Judgment Act** — 宣告性判决法
 
    1. **宣告性判决法：** Federal legislation authorizing courts to declare parties' legal rights in qualifying actual controversies.
 
-2005. **declaratory theory** — 声明性理论
+2004. **declaratory theory** — 声明性理论
 
    - The view that a state has legal personality once it exists in fact, without needing recognition.
    - *Jurisdiction:* International
    - *See also:* recognition; international legal personality; constitutive theory
 
-2006. **declared customs value** — 申报海关价值
+2005. **declared customs value** — 申报海关价值
 
    1. **申报海关价值：** The value reported to customs as the basis for assessment, subject to review under applicable valuation rules.
 
-2007. **decompilation** — 反编译 *(n.)*
+2006. **decompilation** — 反编译 *(n.)*
 
    - The process of turning executable software code back into a readable higher-level language.
    - *See also:* software; copyright
 
-2008. **decree** — 法令 *(n.)*
+2007. **decree** — 法令 *(n.)*
 
    1. A law or ordinance.
    2. A court order, especially the former final or conditional divorce orders.
    - *See also:* decree absolute; decree nisi
 
-2009. **decree absolute** — 绝对法令
+2008. **decree absolute** — 绝对法令
 
    - The former final order that ended a marriage on divorce, nullity, or presumed death.
    - *See also:* decree nisi; divorce order; nullity of marriage order; presumption of death
 
-2010. **decree nisi** — nisi 法令
+2009. **decree nisi** — nisi 法令
 
    - The former provisional order for divorce, nullity, or presumed death, later made final.
    - *See also:* conditional order
 
-2011. **decree of presumption of death and dissolution of marriage** — 推定死亡和解除婚姻的法令
+2010. **decree of presumption of death and dissolution of marriage** — 推定死亡和解除婚姻的法令
 
    - A former order presuming a spouse's death and thereby dissolving the marriage.
 
-2012. **Dedication** — 土地捐献 *(n.)*
+2011. **Dedication** — 土地捐献 *(n.)*
 
    1. **土地捐献：** The devotion of property, especially land, to a public or charitable use by the owner's act.
 
-2013. **DEDICATION (OF LAND TO PUBLIC USE)** — （土地）公共使用捐献
+2012. **DEDICATION (OF LAND TO PUBLIC USE)** — （土地）公共使用捐献
 
    1. **（土地）公共使用捐献：** The voluntary surrender of private land to public use, recognized as a vested public right.
 
-2014. **deductions** — 扣除 *(pl. n.)*
+2013. **deductions** — 扣除 *(pl. n.)*
 
    - Sums taken from an employee's wages, permitted only in the circumstances allowed by law.
       - *Sense labels:* (in employment law)
    - *Labels:* (in employment law)
 
-2015. **deed** — 契约 *(n.)*
+2014. **deed** — 契约 *(n.)*
 
    - A written instrument, meant to operate as a deed and properly executed, binding without consideration.
-   - *See also:* consideration; limitation; consideration; deed poll
+   - *See also:* consideration; limitation; deed poll
 
-2016. **deed of arrangement** — 安排契约
+2015. **deed of arrangement** — 安排契约
 
    - An agreement in writing among a debtor and creditors to clear debts outside bankruptcy.
    - *See also:* bankruptcy; composition; assignment; voluntary arrangement
 
-2017. **deed of covenant** — 契约契约
+2016. **deed of covenant** — 契约契约
 
    - A deed promising to pay an agreed sum over a set period, once used to obtain tax relief.
    - *See also:* deed; gift aid
 
-2018. **deed of family arrangement** — 家庭安排契约
+2017. **deed of family arrangement** — 家庭安排契约
 
    - Another name for a deed of variation redirecting a gift.
    - *See also:* deed of variation
 
-2019. **deed of gift** — 赠与契约
+2018. **deed of gift** — 赠与契约
 
    - A deed transferring property to a donee who gives nothing in return.
    - *See also:* deed; consideration; part performance
 
-2020. **Deed Of Trust** — 信托契约
+2019. **Deed Of Trust** — 信托契约
 
    1. **信托契约：** A security instrument conveying title to a trustee pending repayment of a secured loan.
    - *Jurisdiction:* US
 
-2021. **deed of variation** — 变更契约
+2020. **deed of variation** — 变更契约
 
    - A deed by which a beneficiary redirects an inheritance to another person, often for tax reasons.
    - *See also:* disclaimer
 
-2022. **deed poll** — 单边契约
+2021. **deed poll** — 单边契约
 
    - A deed made by only one party, such as one changing a name.
    - *See also:* deed; change of name
 
-2023. **deemed** — 视为 *(adj.)*
+2022. **deemed** — 视为 *(adj.)*
 
    - Treated as something by legal construction, even if not strictly so.
 
-2024. **deemed acceptance** — 视为接受 *(n.)*
+2023. **deemed acceptance** — 视为接受 *(n.)*
 
    1. **视为接受：** Contractual treatment of silence, conduct, or elapsed time as acceptance when agreed conditions are met.
 
-2025. **Deemed Admission** — 视为自认 *(n.)*
+2024. **Deemed Admission** — 视为自认 *(n.)*
 
    1. **视为自认：** A fact treated as admitted by operation of law where a party fails to respond in time.
 
-2026. **deemed domicile** — 视为住所
+2025. **deemed domicile** — 视为住所
 
    - The rule treating a long-term UK resident as domiciled in the UK for certain taxes.
    - *See also:* domicile
 
-2027. **deemed export** — 视同出口
+2026. **deemed export** — 视同出口
 
    1. **视同出口：** A regulated release of controlled technology to a foreign person treated as an export despite occurring domestically.
 
-2028. **deepfake disclosure** — 深度伪造披露
+2027. **deepfake disclosure** — 深度伪造披露
 
    1. **深度伪造披露：** A duty to reveal synthetic media in contexts such as political advertising.
 
-2029. **deep seabed area** — 深海海底区域
+2028. **deep seabed area** — 深海海底区域
 
    - The ocean floor and subsoil beyond national jurisdiction, treated as shared heritage of humanity.
    - *See also:* territorial waters; economic; common heritage of mankind; high seas
 
-2030. **de facto** — 事实上
+2029. **de facto** — 事实上
 
    - Latin for in fact; existing in reality rather than by legal right.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* recognition; de jure
 
-2031. **de facto carers** — 事实上的照顾者
+2030. **de facto carers** — 事实上的照顾者
 
    - People who care for a child in fact, though without legal parental status.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* social parents
 
-2032. **de facto director** — 事实上的董事
+2031. **de facto director** — 事实上的董事
 
    - A person who acts as a company director without formal or legal appointment.
-   - *Language:* Latin
+   - *Language:* la
 
-2033. **Defalcation** — 挪用资金；盗用公款 *(n.)*
+2032. **Defalcation** — 挪用资金；盗用公款 *(n.)*
 
    1. **挪用资金；盗用公款：** The misappropriation or embezzlement of funds held in a fiduciary or official capacity.
 
-2034. **defamation** — 诽谤 *(n.)*
+2033. **defamation** — 诽谤 *(n.)*
 
    - Publishing a false statement that damages a person's reputation or causes others to shun them.
    - *See also:* publication; serious harm; libel; slander; innuendo; offer of amends; apology; truth; honest opinion; absolute privilege; qualified privilege; peer-reviewed statements; limitation
 
-2035. **default** — 默认 *(n.)*
+2034. **default** — 默认 *(n.)*
 
    - Failure to comply with a required legal step, usually a procedural rule.
    - *See also:* Civil Procedure Rules
 
-2036. **Default judgment** — 缺席判决 *(n.)*
+2035. **Default judgment** — 缺席判决 *(n.)*
 
    1. **缺席判决：** A judgment entered after a party fails to defend or otherwise meet the procedural conditions required to contest the claim.
 
-2037. **default notice** — 违约通知
+2036. **default notice** — 违约通知
 
    - A notice given to a party in breach before the other side acts on that breach.
 
-2038. **default summons** — 默认传票
+2037. **default summons** — 默认传票
 
    - Formerly, a county court summons used to claim money; now replaced by a claim form.
    - *See also:* Civil Procedure Rules; claim forms
 
-2039. **defeasance** — 废止 *(n.)*
+2038. **defeasance** — 废止 *(n.)*
 
    - A condition under which an estate or interest ends on a stated act or event.
    - *See also:* mortgage
 
-2040. **defect** — 缺陷 *(n.)*
+2039. **defect** — 缺陷 *(n.)*
 
    1. A failing or flaw in an item, whether plain to see or concealed.
    2. In product liability, a flaw that makes goods less safe than consumers may reasonably expect.
    - *See also:* satisfactory quality; product liability; limitation
 
-2041. **defective equipment** — 有缺陷的设备
+2040. **defective equipment** — 有缺陷的设备
 
    - An employer's failure to provide and maintain safe tools, materials, and equipment for the job.
    - *See also:* safety at work
 
-2042. **defective premises** — 有缺陷的房屋
+2041. **defective premises** — 有缺陷的房屋
 
    - Liability for construction defects in buildings, arising in contract, tort, or under statute.
    - *See also:* negligence; occupier’s liability
 
-2043. **defective products** — 有缺陷的产品
+2042. **defective products** — 有缺陷的产品
 
    - Goods that are unsafe, giving rise to product liability.
    - *See also:* product liability
 
-2044. **defectum sanguinis** — 血统欠缺
+2043. **defectum sanguinis** — 血统欠缺
 
    - **血统欠缺：** Latin for failure of blood; a lack of an heir.
-   - *Language:* Latin
+   - *Language:* la
 
-2045. **defence** — 辩护 *(n.)*
+2044. **defence** — 辩护 *(n.)*
 
    1. In civil proceedings, a defendant's formal response to a served claim.
    2. A legal or factual question that, if resolved for the defendant, cuts or removes liability.
    - *See also:* Civil Procedure Rules; acknowledgment of service; general defences
 
-2046. **defence and settlement of claims** — 索赔抗辩与和解
+2045. **defence and settlement of claims** — 索赔抗辩与和解
 
    1. **索赔抗辩与和解：** Arrangements allocating control and responsibility for defending or resolving third-party claims.
 
-2047. **defence statement** — 辩护声明
+2046. **defence statement** — 辩护声明
 
    - A document in criminal cases setting out the accused's defence, needed after the prosecution discloses its case.
    - *See also:* alibi
 
-2048. **defendant** — 被告 *(n.)*
+2047. **defendant** — 被告 *(n.)*
 
    - Someone against whom a claim or prosecution is brought in court.
    - *See also:* claimant
 
-2049. **Defense Of Others** — 防卫他人
+2048. **Defense Of Others** — 防卫他人
 
    1. **防卫他人：** A justification permitting force to protect a third person from imminent unlawful harm.
 
-2050. **Defensive asylum application** — 防御性庇护申请 *(n.)*
+2049. **Defensive asylum application** — 防御性庇护申请 *(n.)*
 
    1. **防御性庇护申请：** An asylum request raised as protection against removal in immigration court proceedings.
 
-2051. **Deferred action** — 暂缓移民执法 *(n.)*
+2050. **Deferred action** — 暂缓移民执法 *(n.)*
 
    1. **暂缓移民执法：** A discretionary decision temporarily to refrain from pursuing a person's removal.
 
-2052. **deferred debt** — 递延债务
+2051. **deferred debt** — 递延债务
 
    - In bankruptcy, a debt paid only after all other debts are settled in full.
 
-2053. **Deferred Enforced Departure (DED)** — 暂缓强制离境
+2052. **Deferred Enforced Departure (DED)** — 暂缓强制离境
 
    1. **暂缓强制离境：** A presidential protection temporarily deferring removal of designated groups of noncitizens.
 
-2054. **Deferred Entry of Judgment** — 暂缓录入有罪判决 *(n.)*
+2053. **Deferred Entry of Judgment** — 暂缓录入有罪判决 *(n.)*
 
    1. **暂缓录入有罪判决：** A procedure postponing entry of judgment while the defendant completes specified conditions under an authorized diversion arrangement.
 
-2055. **Deferred Prosecution** — 暂缓起诉 *(n.)*
+2054. **Deferred Prosecution** — 暂缓起诉 *(n.)*
 
    1. **暂缓起诉：** An agreement postponing charges pending the defendant compliance with set conditions.
 
-2056. **deferred prosecution agreement** — 暂缓起诉协议 *(n.)*
+2055. **deferred prosecution agreement** — 暂缓起诉协议 *(n.)*
 
    1. **暂缓起诉协议：** An agreement suspending prosecution while an organization or person fulfills specified remedial and compliance conditions.
 
-2057. **deferred sentence** — 缓刑
+2056. **deferred sentence** — 缓刑
 
    - A sentence decided after a delay, letting the court review any change in the offender's conduct.
 
-2058. **deferred tax asset** — 递延所得税资产
+2057. **deferred tax asset** — 递延所得税资产
 
    1. **递延所得税资产：** A balance-sheet item reflecting future tax reductions from temporary deductible differences.
 
-2059. **deferred tax liability** — 递延所得税负债 *(n.)*
+2058. **deferred tax liability** — 递延所得税负债 *(n.)*
 
    1. **递延所得税负债：** A balance-sheet item reflecting tax payable in future periods from temporary taxable differences.
 
-2060. **Deficiency** — 缺陷 *(n.)*
+2059. **Deficiency** — 缺陷 *(n.)*
 
    1. **缺陷：** A failure to satisfy a required element of an application, filing, or procedure.
 
-2061. **Definite Sentence** — 确定刑 *(n.)*
+2060. **Definite Sentence** — 确定刑 *(n.)*
 
    1. **确定刑：** A fixed term of imprisonment established by statute without parole board discretion.
 
-2062. **deforcement** — 强制执行 *(n.)*
+2061. **deforcement** — 强制执行 *(n.)*
 
    - The wrongful withholding of land or tenements from the person entitled to them.
 
-2063. **defrauding** — 欺诈 *(n.)*
+2062. **defrauding** — 欺诈 *(n.)*
 
    - Depriving someone of property or a right, or injuring a proprietary right.
    - *See also:* conspiracy; cheat; dishonesty
 
-2064. **degrading treatment** — 有辱人格的待遇
+2063. **degrading treatment** — 有辱人格的待遇
 
    - Treatment or punishment that humiliates or debases a person and may break their resistance.
    - *See also:* Human Rights Act; absolute right
 
-2065. **de jure** — 法律上
+2064. **de jure** — 法律上
 
    - Latin for by legal right; existing lawfully, as opposed to in fact.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* recognition; de facto
 
-2066. **del credere agent** — 保付代理人
+2065. **del credere agent** — 保付代理人
 
    - **保付代理人：** Italian for of trust; an agent who guarantees the buyer's payment to the principal.
    - *Language:* it
    - *See also:* agent
 
-2067. **delegated legislation** — 授权立法
+2066. **delegated legislation** — 授权立法
 
    - Law made by ministers or other bodies using powers given by a parent statute.
    - *See also:* Orders in Council; government circulars; byelaws; Civil Procedure Rules; Orders of Council; statutory instrument; special procedure orders; ultra vires; interpretation; subdelegated legislation
 
-2068. **delegation** — 授权 *(n.)*
+2067. **delegation** — 授权 *(n.)*
 
    1. Giving someone authority to act for another in agreed matters.
    2. A cross-reference to vicarious liability.
    - *See also:* vicarious liability
 
-2069. **delegatus non potest delegare** — 某事已被委托的人不能进一步委托
+2068. **delegatus non potest delegare** — 某事已被委托的人不能进一步委托
 
    - Latin for a delegate cannot delegate further; powers entrusted to one person cannot be passed on.
-   - *Language:* Latin
+   - *Language:* la
 
-2070. **de lege ferenda** — 应然法
+2069. **de lege ferenda** — 应然法
 
    - Latin for concerning law not yet in force; describing how the law should be.
-   - *Language:* Latin
+   - *Language:* la
 
-2071. **de lege lata** — 现行法；实然法
+2070. **de lege lata** — 现行法；实然法
 
    - Latin for concerning the law in force; describing the law as it stands.
-   - *Language:* Latin
+   - *Language:* la
 
-2072. **Delete (as in delete a design)** — 删除外观设计
+2071. **Delete (as in delete a design)** — 删除外观设计
 
    1. **删除外观设计：** Removing a design from a multiple-design application without using the separate excluded-design filing procedure.
 
-2073. **Deliberate Indifference** — 故意漠视 *(n.)*
+2072. **Deliberate Indifference** — 故意漠视 *(n.)*
 
    1. **故意漠视：** A conscious disregard of a substantial risk, a standard for liability in custody contexts.
    - *Jurisdiction:* US
 
-2074. **Deliberation** — 审议 *(n.)*
+2073. **Deliberation** — 审议 *(n.)*
 
    1. **审议：** The process by which a jury or tribunal weighs evidence to reach its decision.
 
-2075. **Deliberative Process Privilege** — 审议过程特权
+2074. **Deliberative Process Privilege** — 审议过程特权
 
    1. **审议过程特权：** A privilege shielding agency deliberations from disclosure to protect candid advice.
    - *Jurisdiction:* US
 
-2076. **Delivered at Place** — 目的地交货
+2075. **Delivered at Place** — 目的地交货
 
    1. **目的地交货：** An Incoterms rule requiring seller delivery at the named destination ready for unloading, with import clearance generally allocated to the buyer.
 
-2077. **Delivered at Place Unloaded** — 目的地卸货后交货
+2076. **Delivered at Place Unloaded** — 目的地卸货后交货
 
    1. **目的地卸货后交货：** An Incoterms rule requiring the seller to deliver and unload goods at the named destination.
 
-2078. **Delivered Duty Paid** — 完税后交货
+2077. **Delivered Duty Paid** — 完税后交货
 
    1. **完税后交货：** An Incoterms rule placing destination delivery, import clearance, and applicable import charges on the seller, normally excluding unloading.
 
-2079. **delivery** — 交付 *(n.)*
+2078. **delivery** — 交付 *(n.)*
 
    - Handing over possession of goods or property from one party to another.
    - *See also:* bill of lading
 
-2080. **delivery of documents** — 交付单据
+2079. **delivery of documents** — 交付单据
 
    1. **交付单据：** Providing the documents required by a sale, carriage, or financing arrangement at the agreed time and place.
 
-2081. **delivery of goods** — 交付货物
+2080. **delivery of goods** — 交付货物
 
    1. **交付货物：** Performing the contractual obligation to place goods in the agreed recipient's possession or otherwise make them available as required.
 
-2082. **Demand Futility** — 请求徒劳 *(n.)*
+2081. **Demand Futility** — 请求徒劳 *(n.)*
 
    1. **请求徒劳：** A defense that a shareholder's pre-suit demand on directors was excused as pointlessly futile.
    - *Jurisdiction:* US
 
-2083. **demanding with menaces** — 威胁威胁
+2082. **demanding with menaces** — 威胁威胁
 
    - The offence of obtaining money or property by threats, also called blackmail.
    - *See also:* blackmail
 
-2084. **demerger** — 分立 *(n.)*
+2083. **demerger** — 分立 *(n.)*
 
    - The splitting of a company or group so that separate firms carry on its different trades.
 
-2085. **De Minimis** — 微量原则
+2084. **De Minimis** — 微量原则
 
    1. **微量原则：** A principle that trivial matters or negligible quantities fall outside legal concern or liability.
 
-2086. **de minimis non curat lex** — 法律不考虑琐事
+2085. **de minimis non curat lex** — 法律不考虑琐事
 
    - Latin for the law does not concern itself with trifles.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* competition law
 
-2087. **demise** — 终止 *(vb.)*
+2086. **demise** — 终止 *(vb.)*
 
    1. In property law, to grant a tenancy.
       - *Sense labels:* (in land law)
    2. A lease itself.
    - *Labels:* (in land law)
 
-2088. **demise charter** — 光船租赁
+2087. **demise charter** — 光船租赁
 
    - A cross-reference to bareboat charter, letting a ship without crew.
    - *See also:* bareboat charter
 
-2089. **demise of the Crown** — 王权的灭亡
+2088. **demise of the Crown** — 王权的灭亡
 
    - The monarch's death, when the successor takes the throne at once.
 
-2090. **Demonstrative Evidence** — 演示证据 *(n.)*
+2089. **Demonstrative Evidence** — 演示证据 *(n.)*
 
    1. **演示证据：** Tangible items illustrating or explaining testimony, such as charts or models.
 
-2091. **demonstrative legacy** — 示范性遗产
+2090. **demonstrative legacy** — 示范性遗产
 
    - A gift of money payable from a specified fund, a kind of legacy.
    - *See also:* legacy
 
-2092. **demoted tenancy** — 降级租赁
+2091. **demoted tenancy** — 降级租赁
 
    - A social tenancy with reduced security of tenure because of antisocial behaviour.
 
-2093. **demur** — 异议 *(vb.)*
+2092. **demur** — 异议 *(vb.)*
 
    - To raise a formal objection to a pleading, called a demurrer.
 
-2094. **demurrage** — 滞期费 *(n.)*
+2093. **demurrage** — 滞期费 *(n.)*
 
    - Liquidated damages paid at a daily rate when a ship is delayed loading or unloading beyond the agreed lay days.
    - *See also:* damages; lay days
 
-2095. **Demurrer** — 异议书；抗辩 *(n.)*
+2094. **Demurrer** — 异议书；抗辩 *(n.)*
 
    1. **异议书；抗辩：** A pleading asserting that even if alleged facts are true, no legal claim is stated.
    - *Jurisdiction:* US
 
-2096. **demutualization** — 非互助化 *(n.)*
+2095. **demutualization** — 非互助化 *(n.)*
 
    - The conversion of a mutual building society or insurer into a public company.
    - *See also:* mutual society
 
-2097. **Denial** — 拒绝批准 *(n.)*
+2096. **Denial** — 拒绝批准 *(n.)*
 
    1. **拒绝批准：** An unfavorable determination rejecting the substantive request in an application or petition.
 
-2098. **denial of justice** — 拒绝司法
+2097. **denial of justice** — 拒绝司法
 
    1. **拒绝司法：** A serious failure of a state's justice system to provide legally required access, fairness, or effective adjudication.
 
-2099. **De novo** — 重新审查
+2098. **De novo** — 重新审查
 
    1. **重新审查：** A fresh reconsideration of a matter on its merits, without deference to the prior decision.
 
-2100. **DE NOVO REVIEW (APA)** — （行政程序法）重新审查
+2099. **DE NOVO REVIEW (APA)** — （行政程序法）重新审查
 
    1. **（行政程序法）重新审查：** Under the Administrative Procedure Act, a court's independent reassessment of agency findings of law.
    - *Jurisdiction:* US
 
-2101. **Department for Constitutional Affairs** — 宪法事务部
+2100. **Department for Constitutional Affairs** — 宪法事务部
 
    - A former UK government department responsible for courts, justice, and constitutional reform, later absorbed into the Ministry of Justice.
    - *Expands to:* Department for Constitutional Affairs
    - *See also:* Lord Chancellor; Ministry of Justice
 
-2102. **Department of Homeland Security** — 美国国土安全部 *(n.)*
+2101. **Department of Homeland Security** — 美国国土安全部 *(n.)*
 
    1. **美国国土安全部：** The federal department responsible for coordinated homeland security functions, including major immigration and border agencies.
 
-2103. **Department of Justice** — 美国司法部
+2102. **Department of Justice** — 美国司法部
 
    1. **美国司法部：** The federal department responsible for national law enforcement and government legal representation.
 
-2104. **Department of Justice: 2001 Consultation Process** — 司法部2001年咨询程序
+2103. **Department of Justice: 2001 Consultation Process** — 司法部2001年咨询程序
 
    1. **司法部2001年咨询程序：** A Canadian review gathering stakeholder input on family law reform.
    - *Jurisdiction:* Canada
 
-2105. **Department of Labor** — 美国劳工部 *(n.)*
+2104. **Department of Labor** — 美国劳工部 *(n.)*
 
    1. **美国劳工部：** The federal department administering workplace protections, labor programs, and specified employment-related immigration functions.
 
-2106. **departure** — 出发 *(n.)*
+2105. **departure** — 出发 *(n.)*
 
    - In civil proceedings, raising a new claim or allegation inconsistent with a party's earlier case.
       - *Sense labels:* (in civil proceedings)
    - *Labels:* (in civil proceedings)
    - *See also:* Civil Procedure Rules; amendments; statements of case
 
-2107. **dependant** — 依赖者 *(n.)*
+2106. **dependant** — 依赖者 *(n.)*
 
    - Someone who depends on another for financial support or upkeep.
    - *See also:* reasonable financial provision
 
-2108. **dependants’ leave** — 受抚养人休假
+2107. **dependants’ leave** — 受抚养人休假
 
    - Unpaid time off work that employees may take to help or arrange care for a dependant.
    - *See also:* paternity leave; parental leave; adoption leave; maternity rights
 
-2109. **dependent relative revocation** — 相关相对撤销
+2108. **dependent relative revocation** — 相关相对撤销
 
    - The rule that a will revoked on a mistaken belief may still stand if the belief proves false.
 
-2110. **dependent state** — 附属国家
+2109. **dependent state** — 附属国家
 
    - A state with limited status that lacks separate sovereignty, its parent state holding legal personality.
    - *See also:* international legal personality
 
-2111. **dependent territory** — 附属领土
+2110. **dependent territory** — 附属领土
 
    - A territory whose government is legally the responsibility of another territory's government.
 
-2112. **de plano** — 概括地
+2111. **de plano** — 概括地
 
    - Latin for summarily; deciding a matter without trial when the key facts are not in dispute.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* summary judgment
 
-2113. **Depletion** — 折耗 *(n.)*
+2112. **Depletion** — 折耗 *(n.)*
 
    1. **折耗：** The gradual exhaustion of natural resources deducted as a cost over their productive life.
 
-2114. **deponent** — 证人 *(n.)*
+2113. **deponent** — 证人 *(n.)*
 
    - A person who gives written testimony under oath for use in a case.
 
-2115. **Deportable alien** — 可被驱逐的外国人 *(n.)*
+2114. **Deportable alien** — 可被驱逐的外国人 *(n.)*
 
    1. **可被驱逐的外国人：** A noncitizen whose circumstances establish a statutory ground for removal after admission.
 
-2116. **deportation** — 特别移民上诉委员会 *(n.)*
+2115. **deportation** — 特别移民上诉委员会 *(n.)*
 
    - The forced removal of a foreign national from a country.
    - *Expands to:* Special Immigration Appeals Commission
    - *See also:* right of abode; foreign national offenders; Immigration and Asylum Tribunal; European Convention on Human Rights; expulsion; Dublin Convention
 
-2117. **depose** — 作证 *(vb.)*
+2116. **depose** — 作证 *(vb.)*
 
    - To testify by sworn written statement, as in a deposition.
    - *See also:* deposition
 
-2118. **deposit** — 押金 *(n.)*
+2117. **deposit** — 押金 *(n.)*
 
    1. A sum paid to guarantee performance of a contract, forfeited if the payer defaults.
    2. Depositing title deeds with a lender as security for an unpaid debt.
    - *See also:* exchange of contracts; completion; rent deposit; registration of encumbrances
 
-2119. **deposition** — 证词 *(n.)*
+2118. **deposition** — 证词 *(n.)*
 
    - Sworn testimony taken in writing out of court, before a judge or examiner, for later use.
    - *See also:* Civil Procedure Rules; letter of request
 
-2120. **Deposition At Trial** — 庭审使用证言录取记录 *(n.)*
+2119. **Deposition At Trial** — 庭审使用证言录取记录 *(n.)*
 
    1. **庭审使用证言录取记录：** Presenting deposition testimony at trial when procedural and evidentiary rules permit its use.
 
-2121. **Deposition By Written Questions** — 书面质询录取证言
+2120. **Deposition By Written Questions** — 书面质询录取证言
 
    1. **书面质询录取证言：** A discovery method taking sworn testimony through prepared written interrogatories to a witness.
    - *Jurisdiction:* US
 
-2122. **Deposition Duration Limit** — 录取证言时长限制
+2121. **Deposition Duration Limit** — 录取证言时长限制
 
    1. **录取证言时长限制：** A procedural rule capping the permitted length of a single oral discovery examination.
    - *Jurisdiction:* US
 
-2123. **Deposition Objections** — 录取证言异议
+2122. **Deposition Objections** — 录取证言异议
 
    1. **录取证言异议：** Challenges made during sworn testimony to improper questions or forms of inquiry.
    - *Jurisdiction:* US
 
-2124. **DEPOSITION OFFICER (DISQUALIFICATION)** — （录取证言官）取消资格
+2123. **DEPOSITION OFFICER (DISQUALIFICATION)** — （录取证言官）取消资格
 
    1. **（录取证言官）取消资格：** A rule barring an interested officer from administering a deposition in the matter.
    - *Jurisdiction:* US
 
-2125. **depositions** — 录取证言
+2124. **depositions** — 录取证言
 
    1. **录取证言：** Sworn out-of-court testimony taken in advance for use or discovery in litigation.
 
-2126. **Deposition To Perpetuate Testimony** — 永久保存证言的作证
+2125. **Deposition To Perpetuate Testimony** — 永久保存证言的作证
 
    1. **永久保存证言的作证：** A deposition taken in advance to preserve testimony that might later be unavailable.
    - *Jurisdiction:* US
 
-2127. **DEPOSITION USE (UNAVAILABLE WITNESS)** — 证言使用（证人不出庭）
+2126. **DEPOSITION USE (UNAVAILABLE WITNESS)** — 证言使用（证人不出庭）
 
    1. **证言使用（证人不出庭）：** Use of a prior deposition to prove a fact where the witness is unavailable.
    - *Jurisdiction:* US
 
-2128. **DEPOSITION WITHOUT DEFENDANT (FOREIGN WITNESS)** — 无被告的作证（外国证人）
+2127. **DEPOSITION WITHOUT DEFENDANT (FOREIGN WITNESS)** — 无被告的作证（外国证人）
 
    1. **无被告的作证（外国证人）：** Taking a deposition abroad from a foreign witness without the defendant present.
    - *Jurisdiction:* US
 
-2129. **deprave** — 堕落 *(vb.)*
+2128. **deprave** — 堕落 *(vb.)*
 
    - To make morally bad, especially through the effect of obscene material.
    - *See also:* obscene publications
 
-2130. **Depreciation** — 折旧 *(n.)*
+2129. **Depreciation** — 折旧 *(n.)*
 
    1. **折旧：** The systematic allocation of an asset's cost over its useful life for accounting or tax.
 
-2131. **Deprivation of Liberty Safeguards** — 剥夺自由保障
+2130. **Deprivation of Liberty Safeguards** — 剥夺自由保障
 
    - A framework protecting adults who lack capacity and are confined in hospitals or care homes.
    - *Expands to:* Deprivation of Liberty Safeguards
    - *See also:* incompetent patient; Bournewood gap; Liberty Protection Safeguards
 
-2132. **Deprivation Of Rights** — 权利剥夺
+2131. **Deprivation Of Rights** — 权利剥夺
 
    1. **权利剥夺：** The unlawful stripping of a person's protected liberties or property by state action.
 
-2133. **deputy** — 副手 *(n.)*
+2132. **deputy** — 副手 *(n.)*
 
    - Someone named by a court to decide personal welfare matters for a person lacking capacity.
    - *See also:* consent
 
-2134. **derecognition** — 终止承认 *(n.)*
+2133. **derecognition** — 终止承认 *(n.)*
 
    - The ending of union recognition, after which the employer bargains individually rather than collectively.
    - *See also:* collective bargaining; recognition procedure
 
-2135. **deregulation** — 放松管制 *(n.)*
+2134. **deregulation** — 放松管制 *(n.)*
 
    1. The removal or reduction of government controls over how markets operate.
    2. An EU effort to reduce rules better made at national level.
    - *See also:* subsidiarity
 
-2136. **Derivative Action** — 派生诉讼 *(n.)*
+2135. **Derivative Action** — 派生诉讼 *(n.)*
 
    1. **派生诉讼：** Proceedings brought by a shareholder or other authorized person to enforce a claim belonging to an entity.
 
-2137. **Derivative citizenship** — 派生公民身份 *(n.)*
+2136. **Derivative citizenship** — 派生公民身份 *(n.)*
 
    1. **派生公民身份：** Citizenship obtained automatically after birth through a qualifying change in parental citizenship or family circumstances.
 
-2138. **derivative claim** — 衍生索赔
+2137. **derivative claim** — 衍生索赔
 
    - A claim by a company member, on the company's behalf, over a wrong suffered by the company.
    - *See also:* fraud on the minority
 
-2139. **derivative deed** — 衍生契约
+2138. **derivative deed** — 衍生契约
 
    - A deed that supplements another, altering, confirming, or extending its scope.
 
-2140. **Derivatives** — 附属申请人
+2139. **Derivatives** — 附属申请人
 
    1. **附属申请人：** Family members seeking immigration benefits through a principal applicant's qualifying status.
 
-2141. **Derivative Standing** — 派生诉讼资格
+2140. **Derivative Standing** — 派生诉讼资格
 
    1. **派生诉讼资格：** Authority to pursue a legal claim on behalf of an entity that holds the underlying right.
 
-2142. **Derivative Suit** — 代表公司诉讼
+2141. **Derivative Suit** — 代表公司诉讼
 
    1. **代表公司诉讼：** An action brought in a representative capacity to vindicate a legal right belonging to a corporation.
 
-2143. **derivative title** — 衍生标题
+2142. **derivative title** — 衍生标题
 
    - Sovereignty over a territory acquired from another sovereign state by transfer.
    - *See also:* cession
 
-2144. **derivative trust** — 衍生信托
+2143. **derivative trust** — 衍生信托
 
    - A trust held within another trust, also called a sub-trust.
    - *See also:* sub-trust
 
-2145. **derogation** — 克减 *(n.)*
+2144. **derogation** — 克减 *(n.)*
 
    1. In human rights law, a state's suspension of certain Convention obligations in a public emergency.
    2. In EU law, a clause allowing a member state to escape a directive or regulation.
@@ -10107,188 +10123,195 @@
    - *Jurisdiction:* European Union
    - *See also:* liberty and freedom from arbitrary detention
 
-2146. **Descent** — 法定继承
+2145. **Descent** — 法定继承
 
    1. **法定继承：** The transmission of real property to heirs by operation of law upon an owner's death.
 
-2147. **descriptive fair use** — 描述性合理使用
+2146. **descriptive fair use** — 描述性合理使用
 
    1. **描述性合理使用：** Use of descriptive words for their ordinary meaning rather than as a trademark, where the applicable defense permits it.
 
-2148. **Desegregation** — 废除种族隔离 *(n.)*
+2147. **Desegregation** — 废除种族隔离 *(n.)*
 
    1. **废除种族隔离：** The undoing of lawful separation of persons by race, especially in public institutions.
 
-2149. **desertion** — 遗弃 *(n.)*
+2148. **desertion** — 遗弃 *(n.)*
 
    1. A married person's unilateral abandonment of the marriage against the other spouse's wishes.
    2. A service offence of being absent without leave with intent to stay away permanently.
    - *See also:* divorce; constructive desertion; service law
 
-2150. **Design** — 外观设计
+2149. **Design** — 外观设计
 
    1. **外观设计：** The visual appearance of a product, as expressed through its shape, configuration, pattern, or ornamentation.
 
-2151. **designated financial market utility** — 指定金融市场公用事业实体 *(n.)*
+2150. **designated financial market utility** — 指定金融市场公用事业实体 *(n.)*
 
    1. **指定金融市场公用事业实体：** An entity designated as critical to financial stability under US financial reform law.
    - *Jurisdiction:* US
 
-2152. **designated person** — 指定制裁对象
+2151. **designated person** — 指定制裁对象
 
    1. **指定制裁对象：** A person or entity formally identified as subject to restrictions under a sanctions regime.
 
-2153. **Designated school official (DSO)** — 指定学校官员
+2152. **Designated school official (DSO)** — 指定学校官员
 
    1. **指定学校官员：** A school employee authorized to maintain international-student records and perform required immigration reporting.
 
-2154. **designated tax-advantaged plan** — 指定税收优惠计划
+2153. **designated tax-advantaged plan** — 指定税收优惠计划
 
    1. **指定税收优惠计划：** A retirement or savings arrangement granted preferential tax treatment by statute.
 
-2155. **Design Defect** — 设计缺陷
+2154. **Design Defect** — 设计缺陷
 
    1. **设计缺陷：** A product flaw inherent in its design making it unreasonably dangerous when used as intended.
 
-2156. **Design Patent** — 外观设计专利
+2155. **Design Patent** — 外观设计专利
 
    1. **外观设计专利：** A patent protecting a qualifying ornamental design for an article rather than its functional invention.
 
-2157. **design right** — 设计权
+2156. **design right** — 设计权
 
    - Legal protection for the appearance of an article, distinguishing it from a patent.
    - *See also:* patent; registered design
 
-2158. **de son tort** — 无权代理
+2157. **de son tort** — 无权代理
 
    - **无权代理：** Latin for acting in another's affairs without lawful authority.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* executor de son tort; trustee de son tort
 
-2159. **desuetude** — 废止 *(n.)*
+2158. **desuetude** — 废止 *(n.)*
 
    - The state of a law left unused for so long that it is no longer enforced.
 
-2160. **Detainer** — 非法占有 *(n.)*
+2159. **Detainer** — 非法占有 *(n.)*
 
    1. **非法占有：** A wrongful holding of another's goods, or a notice asserting a right to occupy land.
 
-2161. **detention** — 拘留 *(n.)*
+2160. **detention** — 拘留 *(n.)*
 
    - The keeping of an arrested person in custody against his will.
    - *See also:* arrest; bail
 
-2162. **detention and training order** — 拘留和训练令
+2161. **detention and training order** — 拘留和训练令
 
    - A custodial sentence for offenders aged 12 to 17, split between detention and community supervision.
    - *Expands to:* detention and training order
    - *See also:* juvenile offender
 
-2163. **detention for assessment** — 拘留评估
+2162. **detention for assessment** — 拘留评估
 
    - Detention in hospital to assess whether a person suffers from a mental disorder.
    - *See also:* mental disorder
 
-2164. **detention for treatment** — 拘留治疗
+2163. **detention for treatment** — 拘留治疗
 
    - Detention in hospital for the medical treatment of a mental disorder.
    - *See also:* mental disorder
 
-2165. **DETENTION HEARING (FACTORS)** — （羁押）听证（考量因素）
+2164. **DETENTION HEARING (FACTORS)** — （羁押）听证（考量因素）
 
    1. **（羁押）听证（考量因素）：** A juvenile or pretrial hearing considering statutory factors for release or continued custody.
    - *Jurisdiction:* US
 
-2166. **Determinable Fee** — 可终止完全所有权 *(n.)*
+2165. **Determinable Fee** — 可终止完全所有权 *(n.)*
 
    1. **可终止完全所有权：** A fee simple estate that automatically ends upon the occurrence of a stated event.
 
-2167. **determinable interest** — 可确定的利息
+2166. **determinable interest** — 可确定的利息
 
    - An interest in property that ends automatically on a specified future event.
    - *See also:* possibility; life interest; protective trust; conditional interest; contingent interest
 
-2168. **determination** — 裁定；认定 *(n.)*
+2167. **determination** — 裁定；认定 *(n.)*
 
    1. **裁定；认定：** A binding decision or finding made by a tribunal, agency, or court.
 
-2169. **deterrence** — 威慑 *(n.)*
+2168. **deterrence** — 威慑 *(n.)*
 
    - The use of punishment to discourage people from committing offences.
    - *See also:* punishment
 
-2170. **Detinue** — 返还原物之诉
+2169. **Detinue** — 返还原物之诉
 
    1. **返还原物之诉：** An action to recover wrongfully withheld personal chattels or their monetary value.
 
-2171. **devastavit** — 他浪费了 *(n.)*
+2170. **devastavit** — 他浪费了 *(n.)*
 
    - Latin for a personal representative's mismanagement or waste of a deceased person's estate.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* abatement
 
-2172. **development** — 开发 *(n.)*
+2171. **development** — 开发 *(n.)*
 
    - In planning law, building work or a significant change in how land is used.
       - *Sense labels:* (in town and country planning)
    - *Labels:* (in town and country planning)
    - *See also:* town and country planning
 
-2173. **development plan** — 发展规划
+2172. **development plan** — 发展规划
 
    - A local authority's policy document guiding future development in its area.
    - *See also:* town and country planning
 
-2174. **deviation** — 偏差 *(n.)*
+2173. **deviation** — 偏差 *(n.)*
 
    - In marine insurance, a ship's departure from the route agreed in its policy.
       - *Sense labels:* (in marine insurance)
    - *Labels:* (in marine insurance)
    - *See also:* time policy; charterparty; bill of lading
 
-2175. **devil** — 魔鬼 *(n.)*
+2174. **devil** — 魔鬼 *(n.)*
 
    1. A junior barrister who does preparatory work for a more senior one.
    2. In Scotland, a trainee advocate serving an apprenticeship.
    3. To work as a junior barrister for a senior one.
    - *See also:* advocate
 
-2176. **devise** — 设计 *(n.)*
+2175. **devise** — 设计 *(n.)*
 
    1. A gift of real property made in a will.
    2. To leave real property to someone by will.
    - *See also:* real property; bequest; legacy
 
-2177. **devolution** — 权力下放 *(n.)*
+2176. **devolution** — 权力下放 *(n.)*
 
    1. The transfer of law-making or executive powers from the centre to a regional body.
    2. The movement of property between owners by death, sale, gift, or otherwise.
    - *See also:* Scottish Parliament; Welsh Parliament; Northern Ireland Assembly; Sewel Convention
 
-2178. **DHS** — 美国国土安全部
+2177. **DHS** — 美国国土安全部
 
    1. **美国国土安全部：** Department of Homeland Security.
 
-2179. **dictation** — 口述记录 *(n.)*
+2178. **dictation** — 口述记录 *(n.)*
 
    1. **口述记录：** The oral recording of a statement or testimony for later transcription as an official record.
 
-2180. **dictum** — 附带陈述；法官附带意见 *(n.)*
+2179. **dictum** — 附带陈述；法官附带意见 *(n.)*
 
    - **附带陈述；法官附带意见：** Latin for a judge's statement on a legal point in a case.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* obiter dictum
 
-2181. **dies non juridicus** — 法院不开庭的日子，例如星期日
+2180. **dies non juridicus** — 法院不开庭的日子，例如星期日
 
    - Latin for a day when no court sits.
-   - *Language:* Latin
+   - *Language:* la
 
-2182. **Digital Case System** — 数字案件系统
+2181. **Digital Case System** — 数字案件系统
 
    - An online system for handling Crown Prosecution Service cases in the Crown Court.
    - *Expands to:* Digital Case System; Crown Prosecution Service
    - *See also:* Crown Prosecution Service; Criminal Procedure Rules
+
+2182. **digital content** — 数字内容
+
+   1. **数字内容：** For Part 1 consumer contracts, data created in digital form and also supplied in that form.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 2(9)](https://www.legislation.gov.uk/ukpga/2015/15/section/2) · source-checked · 2026-11-24
 
 2183. **digital services** — 数字服务
 
@@ -10400,7 +10423,10 @@
 
 2207. **director** — 董事 *(n.)*
 
-   - A person appointed under a company's constitution to manage its affairs.
+   1. **董事：** For the Companies Acts, a person occupying the position of director counts as one regardless of the title used.
+      - *Sense labels:* company law
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Companies Act 2006, s 250](https://www.legislation.gov.uk/ukpga/2006/46/section/250) · source-checked · 2026-11-24
    - *See also:* articles of association; managing directors; de facto director; shadow director; fiduciary; duty of care; ordinary resolution; fraudulent trading; wrongful trading; accounts
 
 2208. **Directorates and program offices** — 业务司局与项目办公室
@@ -10709,7 +10735,10 @@
 
 2272. **dishonesty** — 不诚实 *(n.)*
 
-   - In criminal law, conduct judged dishonest by ordinary standards and known to be so.
+   1. **不诚实：** The tribunal first determines what the defendant actually knew or believed about the facts. It then assesses the conduct on those facts by the standards of ordinary decent people. The defendant need not have appreciated that those standards condemned it.
+      - *Sense labels:* criminal law
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [R v Barton and Booth [2020] EWCA Crim 575, [108]](https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/575) · source-checked · 2026-11-24
    - *See also:* theft; abstracting electricity; deception; handling stolen goods
 
 2273. **Dishonor** — 拒付；拒绝承兑 *(n.)*
@@ -10832,7 +10861,7 @@
 2297. **dissentiente** — 反对自己的兄弟法官并就此发表演讲 *(adj.)*
 
    - Latin for a judge disagreeing with colleagues and explaining the dissent.
-   - *Language:* Latin
+   - *Language:* la
 
 2298. **dissolution** — 解散 *(n.)*
 
@@ -10916,7 +10945,7 @@
 2314. **distringas** — 你扣押 *(n.)*
 
    - Latin for a writ ordering the sheriff to distrain, now superseded by a stop notice.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* stop notice; charging order
 
 2315. **disturbance** — 骚扰 *(n.)*
@@ -10990,7 +11019,7 @@
 2330. **divorce** — 离婚 *(n.)*
 
    - The legal ending of a marriage.
-   - *See also:* nullity of marriage; matrimonial offence; divorce order; adultery; behaviour; desertion; special procedure; conditional order; divorce order; child protection in divorce; financial provision order; maintenance agreement; property adjustment order; civil partnership
+   - *See also:* nullity of marriage; matrimonial offence; divorce order; adultery; behaviour; desertion; special procedure; conditional order; child protection in divorce; financial provision order; maintenance agreement; property adjustment order; civil partnership
 
 2331. **Divorce Act** — 离婚法
 
@@ -11109,677 +11138,667 @@
 
    1. **文件请求（范围）；文书请求（范围）：** A discovery request may demand documents within a defined subject matter and possession.
 
-2357. **“dog-leg” claim** — “狗腿”索赔
-
-   - A beneficiary's attempt to sue a trust corporation's directors directly for breach of trust.
-   - *See also:* breach of trust; trust corporation; fiduciary
-
-2358. **dogs** — 狗 *(pl. n.)*
+2357. **dogs** — 狗 *(pl. n.)*
 
    - The law governing animals, including dangerous animals and guard dogs.
    - *See also:* animals; dangerous animals; guard dog
 
-2359. **DOJ** — 美国司法部
+2358. **DOJ** — 美国司法部
 
    1. **美国司法部：** Department of Justice.
 
-2360. **DOL** — 美国劳工部
+2359. **DOL** — 美国劳工部
 
    1. **美国劳工部：** Department of Labor.
 
-2361. **doli capax** — 能够犯错
+2360. **doli capax** — 能够犯错
 
    - Latin meaning capable of wrong; children aged ten or over are treated as responsible.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* juvenile offender
 
-2362. **DOLS** — 剥夺自由保障措施
+2361. **DOLS** — 剥夺自由保障措施
 
    - The abbreviation for deprivation of liberty safeguards.
    - *See also:* Deprivation of Liberty Safeguards
 
-2363. **Domain** — 域名
+2362. **Domain** — 域名
 
    1. **域名：** An internet naming identifier that may be associated with trademark rights or naming disputes.
 
-2364. **domain name** — 域名
+2363. **domain name** — 域名
 
    - A website's address on the internet, sometimes protected as a trade mark.
    - *See also:* trade mark
 
-2365. **domestic homicide** — 家庭暴力杀人
+2364. **domestic homicide** — 家庭暴力杀人
 
    1. **家庭暴力杀人：** The unlawful killing of a family member or intimate partner within a domestic relationship.
 
-2366. **domestic owner** — 本国所有人；境内所有人 *(n.)*
+2365. **domestic owner** — 本国所有人；境内所有人 *(n.)*
 
    1. **本国所有人；境内所有人：** A person or entity resident or organized under the law of the relevant jurisdiction.
 
-2367. **domestic premises** — 住宅房屋
+2366. **domestic premises** — 住宅房屋
 
    - A private home used only as living accommodation, with its garden and outbuildings.
 
-2368. **Domestic Relations Exception** — 家庭关系例外；家事例外 *(n.)*
+2367. **Domestic Relations Exception** — 家庭关系例外；家事例外 *(n.)*
 
    1. **家庭关系例外；家事例外：** A principle barring federal courts from deciding domestic relations matters reserved to states.
    - *Jurisdiction:* US
 
-2369. **domestic tribunal** — 国内法庭
+2368. **domestic tribunal** — 国内法庭
 
    - A body deciding internal disputes of a profession or association.
    - *See also:* ultra vires; error of law on the face of the record; administrative tribunal
 
-2370. **domestic violence** — 家庭暴力
+2369. **domestic violence** — 家庭暴力
 
    - Abuse, threats, or violence between people who are or were partners or relatives.
-   - *See also:* non-molestation order; occupation order; occupation order; assault; loss of control; diminished responsibility; Battered Woman Syndrome
+   - *See also:* non-molestation order; occupation order; assault; loss of control; diminished responsibility; Battered Woman Syndrome
 
-2371. **domestic violence protection notice** — 家庭暴力保护通知
+2370. **domestic violence protection notice** — 家庭暴力保护通知
 
    - A police notice barring a person from molesting another to protect a domestic violence victim.
    - *See also:* non-molestation order
 
-2372. **Domestic worker** — 家政劳动者 *(n.)*
+2371. **Domestic worker** — 家政劳动者 *(n.)*
 
    1. **家政劳动者：** A person employed to perform household tasks such as cleaning, cooking, or caring for family members.
 
-2373. **domicile** — 住所 *(n.)*
+2372. **domicile** — 住所 *(n.)*
 
    - The country regarded by a person as his permanent home with the closest legal ties.
    - *See also:* lex domicilii
 
-2374. **Dominant Estate** — 需役地；受益地产 *(n.)*
+2373. **Dominant Estate** — 需役地；受益地产 *(n.)*
 
    1. **需役地；受益地产：** Land that benefits from an easement burdening an adjacent servient tenement.
 
-2375. **dominant tenement** — 支配性土地
+2374. **dominant tenement** — 支配性土地
 
    - Land that enjoys an easement or similar right over other land.
    - *See also:* easement
 
-2376. **dominium** — 权力 *(n.)*
+2375. **dominium** — 权力 *(n.)*
 
    1. Latin for absolute ownership of property.
    2. Latin for a state's supreme authority over its territory.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* sovereignty
 
-2377. **donatio mortis causa** — 临终赠与
+2376. **donatio mortis causa** — 临终赠与
 
    - Latin for a gift made in expectation of death and completed by the donor's death.
-   - *Language:* Latin
+   - *Language:* la
 
-2378. **Donee** — 受赠人；受权人 *(n.)*
+2377. **Donee** — 受赠人；受权人 *(n.)*
 
    1. **受赠人；受权人：** A person who receives a gift, a power, or a benefit from a donor.
 
-2379. **Do Not Attempt Resuscitation order** — 请勿尝试复苏令
+2378. **Do Not Attempt Resuscitation order** — 请勿尝试复苏令
 
    - An instruction recorded by a patient asking doctors not to resuscitate him.
    - *Expands to:* Do Not Attempt Resuscitation order
 
-2380. **Dormant Commerce Clause** — 休眠商业条款
+2379. **Dormant Commerce Clause** — 休眠商业条款
 
    1. **休眠商业条款：** The doctrine limiting state measures that improperly discriminate against or burden interstate commerce absent congressional authorization.
 
-2381. **double criminality** — 双重犯罪
+2380. **double criminality** — 双重犯罪
 
    - The rule that extradition needs the offence to be criminal in both countries.
    - *See also:* extradition; extradition treaty; speciality
 
-2382. **double jeopardy** — 双重危险
+2381. **double jeopardy** — 双重危险
 
    - The defence that a person is being tried again for the same offence.
    - *See also:* Director of Public Prosecutions; autrefois acquit; autrefois convict
 
-2383. **DOUBLE JEOPARDY (ATTACHMENT)** — 双重危险（产生时点）；一罪不二审（附随）
+2382. **DOUBLE JEOPARDY (ATTACHMENT)** — 双重危险（产生时点）；一罪不二审（附随）
 
    1. **双重危险（产生时点）；一罪不二审（附随）：** The point at which jeopardy attaches, such as jury empanelment, barring later retrial.
    - *Jurisdiction:* US
 
-2384. **double portions** — 双份 *(pl. n.)*
+2383. **double portions** — 双份 *(pl. n.)*
 
    - A cross-reference to the rule against double portions.
    - *See also:* rule against double portions
 
-2385. **double probate** — 双重遗嘱认证
+2384. **double probate** — 双重遗嘱认证
 
    - A further grant of probate to an executor left out of the first one.
    - *See also:* probate; power reserved
 
-2386. **double taxation relief** — 双重征税减免
+2385. **double taxation relief** — 双重征税减免
 
    - Measures reducing or avoiding tax when the same income is taxed by two countries.
 
-2387. **Dower** — 寡妇产；亡夫遗产份额 *(n.)*
+2386. **Dower** — 寡妇产；亡夫遗产份额 *(n.)*
 
    1. **寡妇产；亡夫遗产份额：** A widow's common-law right to a life interest in part of her deceased husband's land.
 
-2388. **Dowry** — 嫁妆；聘财
+2387. **Dowry** — 嫁妆；聘财
 
    1. **嫁妆；聘财：** Property or wealth a bride's family transfers to the groom's family upon marriage.
 
-2389. **DPP** — 检察长
+2388. **DPP** — 检察长
 
    1. **检察长：** The abbreviation for Director of Public Prosecutions.
    2. **检察长：** Director of Public Prosecutions
       - *Sense labels:* abbreviation
    - *See also:* Director of Public Prosecutions
 
-2390. **draft** — 草案 *(n.)*
+2389. **draft** — 草案 *(n.)*
 
    1. An initial unsigned version of an agreement, treaty, or law.
    2. A written order to pay money, such as a banker's draft.
 
-2391. **drag-along rights** — 强制随售权
+2390. **drag-along rights** — 强制随售权
 
    1. **强制随售权：** A right enabling specified shareholders to compel others to join a sale on agreed terms.
 
-2392. **Drago doctrine** — 德拉戈主义
+2391. **Drago doctrine** — 德拉戈主义
 
    - The doctrine that states may not use force to recover debts owed by other states.
 
-2393. **Dram Shop Liability** — 酒类销售者责任；酒吧责任 *(n.)*
+2392. **Dram Shop Liability** — 酒类销售者责任；酒吧责任 *(n.)*
 
    1. **酒类销售者责任；酒吧责任：** Liability imposed on alcohol sellers for harms caused by their intoxicated patrons.
    - *Jurisdiction:* US
 
-2394. **driftway** — 漂流路 *(n.)*
+2393. **driftway** — 漂流路 *(n.)*
 
    - A highway over which cattle may be driven.
    - *See also:* highway
 
-2395. **driver** — 驾驶员 *(n.)*
+2394. **driver** — 驾驶员 *(n.)*
 
    - Under road traffic law, anyone steering or braking a vehicle.
 
-2396. **driving licence** — 驾驶执照
+2395. **driving licence** — 驾驶执照
 
    - Official permission allowing someone to drive a car or other vehicle.
    - *See also:* endorsements; driving without a licence; totting up; disqualification
 
-2397. **driving-test order** — 驾驶考试令
+2396. **driving-test order** — 驾驶考试令
 
    - An order disqualifying an offender until he passes a driving test.
    - *See also:* disqualification
 
-2398. **driving while disqualified** — 被取消资格驾驶
+2397. **driving while disqualified** — 被取消资格驾驶
 
    - The offence of driving a motor vehicle while disqualified.
    - *See also:* driver; disqualification; totting-up
 
-2399. **driving while unfit** — 不健康驾驶
+2398. **driving while unfit** — 不健康驾驶
 
    - Driving with ability impaired by alcohol or drugs.
    - *See also:* drunken driving
 
-2400. **driving without a licence** — 无证驾驶
+2399. **driving without a licence** — 无证驾驶
 
    - The offence of driving on the highway with no valid licence.
    - *See also:* driver; driving licence; totting-up
 
-2401. **driving without insurance** — 无保险驾驶
+2400. **driving without insurance** — 无保险驾驶
 
    - The offence of using a vehicle on a road with no third-party cover.
    - *See also:* driver; third-party insurance; strict liability; totting-up
 
-2402. **drug rehabilitation requirement** — 戒毒要求
+2401. **drug rehabilitation requirement** — 戒毒要求
 
    - A sentence requirement that an offender undergo treatment for drug dependency.
    - *See also:* community order; suspended sentence; youth rehabilitation order
 
-2403. **drugs** — 药物 *(pl. n.)*
+2402. **drugs** — 药物 *(pl. n.)*
 
    - Substances controlled by law, such as narcotics and psychoactive drugs.
    - *See also:* controlled drugs
 
-2404. **drunken driving** — 醉酒驾驶
+2403. **drunken driving** — 醉酒驾驶
 
    - The offences of driving while unfit through drink or over the prescribed alcohol limit.
    - *See also:* driver; strict liability; specimen of breath; breath test; endorsement; disqualification; totting-up; causing death by careless driving when under the influence of drink or drugs; offences relating to road traffic
 
-2405. **drunkenness** — 醉酒 *(n.)*
+2404. **drunkenness** — 醉酒 *(n.)*
 
    - The state of being intoxicated through drinking too much alcohol.
    - *See also:* Intoxication
 
-2406. **DS-2019** — 交流访问者资格证明表
+2405. **DS-2019** — 交流访问者资格证明表
 
    1. **交流访问者资格证明表：** Certificate of Eligibility for Exchange Visitor Status.
 
-2407. **DSP** — 服务起诉总监
+2406. **DSP** — 服务起诉总监
 
    - The abbreviation for Director of Service Prosecutions.
    - *See also:* Director of Service Prosecutions
 
-2408. **dual consolidated loss** — 双重合并亏损；双重合并损失
+2407. **dual consolidated loss** — 双重合并亏损；双重合并损失
 
    1. **双重合并亏损；双重合并损失：** A consolidated group loss also reflected in a foreign affiliate's separate accounts.
    - *Jurisdiction:* US
 
-2409. **dualism** — 二元论 *(n.)*
+2408. **dualism** — 二元论 *(n.)*
 
    - The view that domestic and international law are distinct systems.
    - *See also:* monism
 
-2410. **duality** — 双重性 *(n.)*
+2409. **duality** — 双重性 *(n.)*
 
    - In tax law, denying a deduction for an expense serving both business and private purposes.
 
-2411. **Dual Sovereignty** — 双重主权（原则）；双重主权
+2410. **Dual Sovereignty** — 双重主权（原则）；双重主权
 
    1. **双重主权（原则）；双重主权：** Distinct sovereigns may prosecute the same conduct without violating double jeopardy.
    - *Jurisdiction:* US
 
-2412. **dual-use goods** — 两用物项
+2411. **dual-use goods** — 两用物项
 
    1. **两用物项：** Goods, software, or technology capable of both civilian and military or proliferation-related uses.
 
-2413. **dubitante** — 存疑（法官对判决表示疑虑） *(adj.)*
+2412. **dubitante** — 存疑（法官对判决表示疑虑） *(adj.)*
 
    - **存疑（法官对判决表示疑虑）：** Latin for doubting; used of a judge unsure about a legal proposition.
-   - *Language:* Latin
+   - *Language:* la
 
-2414. **Dublin Convention** — 都柏林公约
+2413. **Dublin Convention** — 都柏林公约
 
    - A convention allocating which EU state examines an asylum claim.
    - *See also:* asylum
 
-2415. **duces tecum** — 携带证据出庭令
+2414. **duces tecum** — 携带证据出庭令
 
    - **携带证据出庭令：** Latin for bring with you, used of a witness summons to produce documents.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* witness summons
 
-2416. **Due care** — 应有注意
+2415. **Due care** — 应有注意
 
    1. **应有注意：** The level of care reasonably required in the relevant circumstances.
 
-2417. **due diligence** — 尽职调查
+2416. **due diligence** — 尽职调查
 
    - A state's obligation to use reasonable efforts to protect foreign nationals and their property.
    - *See also:* aliens; state responsibility
 
-2418. **Due process** — 正当程序
+2417. **Due process** — 正当程序
 
    1. **正当程序：** Legally required fairness and safeguards when government affects protected rights or interests.
 
-2419. **due process violation** — 正当程序违反 *(n.)*
+2418. **due process violation** — 正当程序违反 *(n.)*
 
    1. **正当程序违反：** A failure to provide legally required procedural fairness before affecting protected interests.
 
-2420. **dumping** — 倾销 *(n.)*
+2419. **dumping** — 倾销 *(n.)*
 
    - Selling goods in another country at less than their normal worth.
 
-2421. **dumping margin** — 倾销幅度
+2420. **dumping margin** — 倾销幅度
 
    1. **倾销幅度：** The measured difference between normal value and the relevant export price under the applicable antidumping methodology.
 
-2422. **duplex querela** — 双重申诉
+2421. **duplex querela** — 双重申诉
 
    - Latin for double complaint, used to challenge a bishop's rejection of a nominated clergyman.
-   - *Language:* Latin
+   - *Language:* la
 
-2423. **Duplicate** — 副本；复本 *(n.)*
+2422. **Duplicate** — 副本；复本 *(n.)*
 
    1. **副本；复本：** A counterpart copy of a writing that carries the same legal effect as the original.
 
-2424. **duplicity** — 口是心非 *(n.)*
+2423. **duplicity** — 口是心非 *(n.)*
 
    - The error of charging two or more offences in a single count of an indictment.
    - *See also:* indictment
 
-2425. **durante absentia** — 在缺席期间
+2424. **durante absentia** — 在缺席期间
 
    - Latin for during the absence of someone, used when administration is granted while the executor is abroad.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* letters of administration; limited administration
 
-2426. **Duration** — 期限 *(n.)*
+2425. **Duration** — 期限 *(n.)*
 
    1. **期限：** The fixed or indefinite length of time for which a court order or obligation remains effective.
 
-2427. **Durational factor** — 期间因素 *(n.)*
+2426. **Durational factor** — 期间因素 *(n.)*
 
    1. **期间因素：** A consideration, especially marriage length, affecting the amount or term of spousal support.
 
-2428. **Duration of status (D/S)** — 身份有效期间
+2427. **Duration of status (D/S)** — 身份有效期间
 
    1. **身份有效期间：** An authorized stay measured by maintaining the approved activity and status rather than a fixed departure date.
 
-2429. **duress** — 胁迫 *(n.)*
+2428. **duress** — 胁迫 *(n.)*
 
    - Pressure, especially threats of force, forcing a person to act against his will.
    - *See also:* economic duress; undue influence; mens rea; coercion; excuse; necessity; self-defence
 
-2430. **duress of goods** — 货物胁迫
+2429. **duress of goods** — 货物胁迫
 
    - Wrongfully detaining another's property to force him to agree to terms.
    - *See also:* economic duress
 
-2431. **during Her** — 女王陛下
+2430. **during Her** — 女王陛下
 
    - Detention imposed on a defendant excused from guilt because of insanity.
    - *See also:* insanity; special hospital
 
-2432. **“Dutch courage”** — “荷兰勇气”
-
-   - Courage gained from drinking alcohol, relevant to the defence of intoxication.
-   - *See also:* intoxication
-
-2433. **duty** — 责任 *(n.)*
+2431. **duty** — 责任 *(n.)*
 
    1. A legal requirement to act or refrain from acting.
    2. A tax collected by government on particular goods or dealings.
    - *See also:* power; customs duty; excise duty; stamp duty
 
-2434. **Duty counsel** — 值班律师
+2432. **Duty counsel** — 值班律师
 
    1. **值班律师：** A lawyer stationed at court who gives free brief advice and representation to unrepresented people.
    - *Jurisdiction:* CA
 
-2435. **duty lawyer** — 值班律师；义务律师 *(n.)*
+2433. **duty lawyer** — 值班律师；义务律师 *(n.)*
 
    1. **值班律师；义务律师：** A lawyer providing free or assigned representation, often at court or police stations.
 
-2436. **Duty Of Candor** — 坦诚义务；诚信义务 *(n.)*
+2434. **Duty Of Candor** — 坦诚义务；诚信义务 *(n.)*
 
    1. **坦诚义务；诚信义务：** An obligation to be honest and disclose material facts to a court or tribunal.
 
-2437. **duty of care** — 注意义务
+2435. **duty of care** — 注意义务
 
    - A legal duty to take reasonable steps to avoid harming others.
    - *See also:* negligence; neighbour principle; negligent misstatement; economic loss; psychiatric injury; occupier’s liability
 
-2438. **DUTY OF CARE (CORPORATE)** — 公司管理注意义务
+2436. **DUTY OF CARE (CORPORATE)** — 公司管理注意义务
 
    1. **公司管理注意义务：** The obligation of corporate decision-makers to exercise legally required care and informed judgment.
 
-2439. **Duty Of Loyalty** — 忠实义务；诚信义务
+2437. **Duty Of Loyalty** — 忠实义务；诚信义务
 
    1. **忠实义务；诚信义务：** A fiduciary duty to act solely for the beneficiary's interest, avoiding conflicts.
 
-2440. **duty solicitors** — 值班律师
+2438. **duty solicitors** — 值班律师
 
    - Solicitors who advise unrepresented defendants at magistrates' courts.
    - *See also:* Solicitors
 
-2441. **duty to consult** — 咨询义务
+2439. **duty to consult** — 咨询义务
 
    - A public body's obligation to seek views before exercising a power.
    - *See also:* judicial review; legitimate expectation
 
-2442. **duty to convert** — 转换义务
+2440. **duty to convert** — 转换义务
 
    - In equity, the obligation to treat property as if it had been converted into another form.
       - *Sense labels:* (in equity)
    - *Labels:* (in equity)
    - *See also:* conversion
 
-2443. **Duty To Mitigate** — 减损义务；减轻损失义务 *(n.)*
+2441. **Duty To Mitigate** — 减损义务；减轻损失义务 *(n.)*
 
    1. **减损义务；减轻损失义务：** An injured party must take reasonable steps to limit losses caused by a breach.
 
-2444. **duty to mitigate loss** — 减损义务
+2442. **duty to mitigate loss** — 减损义务
 
    1. **减损义务：** A requirement to take reasonable steps to avoid recoverable losses increasing after another's breach or wrong.
 
-2445. **Duty To Preserve** — 证据保存义务；证据保全义务
+2443. **Duty To Preserve** — 证据保存义务；证据保全义务
 
    1. **证据保存义务；证据保全义务：** A party must preserve relevant evidence once litigation is reasonably foreseeable.
 
-2446. **DVPN** — 家庭暴力保护通知
+2444. **DVPN** — 家庭暴力保护通知
 
    - The abbreviation for domestic violence protection notice.
    - *See also:* domestic violence protection notice
 
-2447. **DVPO** — 家庭暴力保护令缩写：参见家庭暴力保护通知
+2445. **DVPO** — 家庭暴力保护令缩写：参见家庭暴力保护通知
 
    - Short form of domestic violence protection order.
    - *See also:* domestic violence protection notice
 
-2448. **Dwelling** — 住宅；居所
+2446. **Dwelling** — 住宅；居所
 
    1. **住宅；居所：** A building or structure used or intended for use as a person's residence.
 
-2449. **dying declaration** — 临终声明
+2447. **dying declaration** — 临终声明
 
    - Words spoken by someone near death explaining how he came to die.
    - *See also:* hearsay evidence; competence
 
-2450. **DYING DECLARATION (HEARSAY EXCEPTION)** — 临终陈述（传闻例外）
+2448. **DYING DECLARATION (HEARSAY EXCEPTION)** — 临终陈述（传闻例外）
 
    1. **临终陈述（传闻例外）：** A statement made by a person believing death imminent, admissible in certain cases.
    - *Jurisdiction:* US
 
 ## E
 
-2451. **earliest retirement age** — 最早退休年龄；最低退休年龄 *(n.)*
+2449. **earliest retirement age** — 最早退休年龄；最低退休年龄 *(n.)*
 
    1. **最早退休年龄；最低退休年龄：** The earliest age at which a person may commence receiving pension benefits.
 
-2452. **earned income** — 劳动所得；工薪收入
+2450. **earned income** — 劳动所得；工薪收入
 
    1. **劳动所得；工薪收入：** Income derived from personal services or labor rather than from investments.
 
-2453. **earn-out consideration** — 业绩对价 *(n.)*
+2451. **earn-out consideration** — 业绩对价 *(n.)*
 
    1. **业绩对价：** Additional acquisition payment calculated by reference to the target's future financial or operational performance.
 
-2454. **easement** — 地役权 *(n.)*
+2452. **easement** — 地役权 *(n.)*
 
    - A right giving the owner of one piece of land a benefit over another's land.
    - *See also:* quasi-easement; deed; implied easement; prescription; profit à prendre; fee simple absolute in possession; term of years absolute; registration of encumbrances
 
-2455. **easement of necessity** — 必要性地役权
+2453. **easement of necessity** — 必要性地役权
 
    - An easement implied into a land transfer because the land is otherwise unusable.
    - *See also:* easement
 
-2456. **Eavesdropping** — 窃听；偷听
+2454. **Eavesdropping** — 窃听；偷听
 
    1. **窃听；偷听：** Secretly intercepting or recording another's private communications without lawful consent.
 
-2457. **EAW** — 欧洲逮捕令
+2455. **EAW** — 欧洲逮捕令
 
    - The abbreviation for European Arrest Warrant.
    - *See also:* European Arrest Warrant
 
-2458. **EB-5 Immigrant Investor** — EB-5投资移民 *(n.)*
+2456. **EB-5 Immigrant Investor** — EB-5投资移民 *(n.)*
 
    1. **EB-5投资移民：** An immigrant investor seeking permanent residence through qualifying investment and job creation.
 
-2459. **EBRD** — 欧洲复兴开发银行
+2457. **EBRD** — 欧洲复兴开发银行
 
    - Abbreviation for the European Bank for Reconstruction and Development.
    - *See also:* European Bank for Reconstruction and Development
 
-2460. **EC** — 欧洲共同体
+2458. **EC** — 欧洲共同体
 
    - The abbreviation for European Community.
    - *See also:* European Community
 
-2461. **ecclesiastical courts** — 教会法庭
+2459. **ecclesiastical courts** — 教会法庭
 
    - Church of England courts that apply ecclesiastical law.
    - *See also:* Court of Arches; Judicial Committee of the Privy Council; Court of Ecclesiastical Causes Reserved
 
-2462. **ecclesiastical law** — 教会法
+2460. **ecclesiastical law** — 教会法
 
    - The law of the Church of England, also called canon law.
    - *See also:* canon law
 
-2463. **ecolabel** — 生态标签 *(n.)*
+2461. **ecolabel** — 生态标签 *(n.)*
 
    - An EU label marking products that meet environmental requirements.
 
-2464. **economic analysis of law** — 法律的经济分析
+2462. **economic analysis of law** — 法律的经济分析
 
    - A theory explaining law by the idea that people act to maximize their satisfaction.
    - *See also:* utilitarianism; negligence; Coase theorem; Kaldor-Hicks efficiency; Pareto efficiency
 
-2465. **economic duress** — 经济胁迫
+2463. **economic duress** — 经济胁迫
 
    - Unlawful economic pressure forcing a person to enter an agreement.
    - *See also:* duress; voidable contract
 
-2466. **economic loss** — 经济损失
+2464. **economic loss** — 经济损失
 
    - Financial loss, especially pure economic loss not caused by injury or property damage.
    - *See also:* duty of care
 
-2467. **Economic Loss Doctrine** — 纯经济损失规则；经济损害赔偿限制原则
+2465. **Economic Loss Doctrine** — 纯经济损失规则；经济损害赔偿限制原则
 
    1. **纯经济损失规则；经济损害赔偿限制原则：** A bar to tort recovery for purely economic loss absent physical injury or contract.
 
-2468. **Economic Loss Rule** — 经济损失规则；纯经济损害规则
+2466. **Economic Loss Rule** — 经济损失规则；纯经济损害规则
 
    1. **经济损失规则；纯经济损害规则：** A rule precluding tort claims for economic loss recoverable only under contract.
 
-2469. **economic sanctions** — 经济制裁
+2467. **economic sanctions** — 经济制裁
 
    1. **经济制裁：** Restrictions on economic dealings imposed to pursue foreign policy, security, or other public objectives.
 
-2470. **Economic Social Council of the United Nations** — 联合国经济社会理事会
+2468. **Economic Social Council of the United Nations** — 联合国经济社会理事会
 
    - A UN body promoting human rights and social welfare through studies and reports.
    - *Expands to:* Economic Social Council of the United Nations
 
-2471. **e-conveyancing** — 电子产权转让 *(n.)*
+2469. **e-conveyancing** — 电子产权转让 *(n.)*
 
    - The electronic transfer of land ownership instead of using paper deeds.
    - *See also:* electronic conveyancing
 
-2472. **ECSC** — 欧洲煤钢共同体
+2470. **ECSC** — 欧洲煤钢共同体
 
    - The abbreviation for the European Coal and Steel Community.
    - *See also:* European Coal and Steel Community
 
-2473. **education authorities** — 地方教育当局
+2471. **education authorities** — 地方教育当局
 
    - The bodies responsible for the state education system, especially local education authorities.
    - *Expands to:* local education authorities
    - *See also:* Greater London
 
-2474. **education supervision order** — 教育监督令
+2472. **education supervision order** — 教育监督令
 
    - A court order placing a child who is not being educated properly under supervision.
    - *See also:* care order; school attendance procedures
 
-2475. **EEA** — 欧洲经济区
+2473. **EEA** — 欧洲经济区
 
    - The abbreviation for European Economic Area.
    - *See also:* European Economic Area
 
-2476. **EEC** — 欧洲经济共同体
+2474. **EEC** — 欧洲经济共同体
 
    - The abbreviation for European Economic Community.
    - *Expands to:* European Economic Community
    - *See also:* European Community
 
-2477. **EEOC** — 美国平等就业机会委员会
+2475. **EEOC** — 美国平等就业机会委员会
 
    1. **美国平等就业机会委员会：** Equal Employment Opportunity Commission.
 
-2478. **EEZ** — 专属经济区
+2476. **EEZ** — 专属经济区
 
    - The abbreviation for exclusive economic zone.
    - *See also:* exclusive economic zone
 
-2479. **Effective Assistance Of Counsel** — 有效辩护；有效法律协助
+2477. **Effective Assistance Of Counsel** — 有效辩护；有效法律协助
 
    1. **有效辩护；有效法律协助：** A criminal defendant's right to reasonably competent legal representation under the Constitution.
    - *Jurisdiction:* US
 
-2480. **effective date** — 生效日 *(n.)*
+2478. **effective date** — 生效日 *(n.)*
 
    1. **生效日：** The date on which an agreement, rule, or legal act begins to operate.
 
-2481. **effective date of termination** — 终止生效日期
+2479. **effective date of termination** — 终止生效日期
 
    - The day a contract of employment finishes.
    - *See also:* notice; compensation; continuous employment; employment tribunal
 
-2482. **effective remedy** — 有效补救措施
+2480. **effective remedy** — 有效补救措施
 
    - A Convention right requiring states to provide redress for rights violations.
    - *See also:* European Convention on Human Rights; Human Rights Act
 
-2483. **effects doctrine** — 效果学说
+2481. **effects doctrine** — 效果学说
 
    - The principle letting a state regulate conduct abroad that harms it domestically.
 
-2484. **EFTA** — 欧洲自由贸易联盟
+2482. **EFTA** — 欧洲自由贸易联盟
 
    - The abbreviation for European Free Trade Association.
    - *See also:* European Free Trade Association
 
-2485. **eggshell skull rule** — 蛋壳头骨规则
+2483. **eggshell skull rule** — 蛋壳头骨规则
 
    - The rule that a wrongdoer must accept his victim's existing frailties.
    - *See also:* tortfeasor
 
-2486. **Eighth Amendment** — 第八修正案；第八宪法修正案 *(n.)*
+2484. **Eighth Amendment** — 第八修正案；第八宪法修正案 *(n.)*
 
    1. **第八修正案；第八宪法修正案：** A US constitutional amendment forbidding excessive bail, fines, and cruel punishment.
    - *Jurisdiction:* US
 
-2487. **ei qui affirmat, non ei qui negat, incumbit probatio** — 证据在于肯定的人，而不是否定的人
+2485. **ei qui affirmat, non ei qui negat, incumbit probatio** — 证据在于肯定的人，而不是否定的人
 
    - Latin maxim that the burden of proof lies on the person who affirms, not denies.
-   - *Language:* Latin
+   - *Language:* la
 
-2488. **EIS** — 企业投资计划
+2486. **EIS** — 企业投资计划
 
    - The abbreviation for Enterprise Investment Scheme.
    - *See also:* Enterprise Investment Scheme
 
-2489. **Ejectment** — 返还土地之诉；土地回复之诉 *(n.)*
+2487. **Ejectment** — 返还土地之诉；土地回复之诉 *(n.)*
 
    1. **返还土地之诉；土地回复之诉：** A civil action to recover possession of land wrongfully held by another.
 
-2490. **ejusdem generis** — 同类解释规则
+2488. **ejusdem generis** — 同类解释规则
 
    - **同类解释规则：** Latin rule of interpretation that general words take their meaning from specific ones.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
-2491. **elder abuse** — 虐待老人
+2489. **elder abuse** — 虐待老人
 
    1. **虐待老人：** Harmful or neglectful conduct by a trusted person causing injury to an older adult.
 
-2492. **Elder Brethren** — 长老弟兄们
+2490. **Elder Brethren** — 长老弟兄们
 
    - A body of experienced nautical experts who advise the court.
    - *See also:* assessor
 
-2493. **election** — 选举 *(n.)*
+2491. **election** — 选举 *(n.)*
 
    1. The choosing of a representative by vote.
    2. The rule that a beneficiary cannot take a gift while rejecting its burdens.
    - *See also:* local authority; franchise; free elections
 
-2494. **election court** — 选举法庭
+2492. **election court** — 选举法庭
 
    - A court of two High Court judges deciding election petitions.
    - *See also:* election
 
-2495. **Election Of Remedies** — 择一救济；救济选择
+2493. **Election Of Remedies** — 择一救济；救济选择
 
    1. **择一救济；救济选择：** A rule requiring a claimant to choose one of several inconsistent remedies.
 
-2496. **election petition** — 选举请愿
+2494. **election petition** — 选举请愿
 
    - A challenge to the validity of an election result.
    - *See also:* election
 
-2497. **elective resolution** — 选举决议
+2495. **elective resolution** — 选举决议
 
    - A former private company decision to dispense with specified statutory requirements.
    - *See also:* private company; annual general meeting
 
-2498. **elector** — 选举人 *(n.)*
+2496. **elector** — 选举人 *(n.)*
 
    1. Someone who has the right to vote in an election.
    2. In equity, a person who makes an election.
@@ -11787,472 +11806,479 @@
    - *Labels:* (in equity)
    - *See also:* election; franchise
 
-2499. **Electoral Commission** — 选举委员会
+2497. **Electoral Commission** — 选举委员会
 
    - An independent body overseeing elections, referendums, and political party funding.
    - *See also:* elections
 
-2500. **electoral district** — 选区
+2498. **electoral district** — 选区
 
    1. **选区：** A geographic area whose voters elect a designated representative or representatives.
 
-2501. **electricity** — 电力 *(n.)*
+2499. **electricity** — 电力 *(n.)*
 
    - Dishonestly using electricity without payment, treated as a form of theft.
    - *See also:* abstracting electricity
 
-2502. **electromagnetic compatibility** — 电磁兼容性
+2500. **electromagnetic compatibility** — 电磁兼容性
 
    - The ability of electrical products to work together without causing interference.
    - *See also:* ce
 
-2503. **Electronically Stored Information** — 电子存储信息；电子储存资讯 *(n.)*
+2501. **Electronically Stored Information** — 电子存储信息；电子储存资讯 *(n.)*
 
    1. **电子存储信息；电子储存资讯：** Digital data held in electronic form that is subject to discovery or production.
 
-2504. **electronic conveyancing** — 电子产权转让
+2502. **electronic conveyancing** — 电子产权转让
 
    - The electronic, rather than paper-based, transfer of land.
    - *Expands to:* electronic conveyancing
    - *See also:* conveyancing; land registration
 
-2505. **electronic data interchange** — 电子数据交换
+2503. **electronic data interchange** — 电子数据交换
 
    - The electronic exchange of business information using standard message formats.
    - *Expands to:* electronic data interchange
    - *See also:* UNCID
 
-2506. **electronic execution** — 电子签署 *(n.)*
+2504. **electronic execution** — 电子签署 *(n.)*
 
    1. **电子签署：** Completion of a document using an electronic signing process recognized by applicable law.
 
-2507. **electronic fund transfer** — 电子资金划拨；电子转账 *(n.)*
+2505. **electronic fund transfer** — 电子资金划拨；电子转账 *(n.)*
 
    1. **电子资金划拨；电子转账：** The transfer of money between accounts by electronic means rather than paper instruments.
 
-2508. **electronic monitoring requirement** — 电子监控要求
+2506. **electronic monitoring requirement** — 电子监控要求
 
    - A sentence requirement that an offender be monitored electronically, usually by a tag.
    - *See also:* community order; youth rehabilitation order; exclusion requirement; curfew
 
-2509. **electronic signature** — 电子签名
+2507. **electronic signature** — 电子签名
 
    - Data attached to an electronic document that acts like a handwritten signature.
    - *See also:* digital signature
 
-2510. **electronic surveillance** — 电子监视
+2508. **electronic surveillance** — 电子监视
 
    - Obtaining evidence by telephone tapping, bugging, or cameras.
    - *See also:* telephone tapping; surveillance
 
-2511. **eleemosynary corporation** — eleemosynary 公司
+2509. **eleemosynary corporation** — eleemosynary 公司
 
    - A charity directed at relieving individual distress.
-   - *Language:* Latin
+   - *Language:* la
 
-2512. **Elegit** — 扣押土地令；土地执行令
+2510. **Elegit** — 扣押土地令；土地执行令
 
    1. **扣押土地令；土地执行令：** A historical writ letting a judgment creditor seize a debtor's lands to satisfy debt.
 
-2513. **Element** — 要件；构成要件 *(n.)*
+2511. **Element** — 要件；构成要件 *(n.)*
 
    1. **要件；构成要件：** A fundamental fact that must be proven to establish a cause of action.
 
-2514. **Eleventh Amendment** — 第十一修正案；第十一宪法修正案 *(n.)*
+2512. **Eleventh Amendment** — 第十一修正案；第十一宪法修正案 *(n.)*
 
    1. **第十一修正案；第十一宪法修正案：** A US constitutional amendment limiting suits against states in federal court.
    - *Jurisdiction:* US
 
-2515. **Eleventh Amendment Immunity** — 第十一修正案豁免；州主权豁免 *(n.)*
+2513. **Eleventh Amendment Immunity** — 第十一修正案豁免；州主权豁免 *(n.)*
 
    1. **第十一修正案豁免；州主权豁免：** A state's immunity from private suits in federal court under the Eleventh Amendment.
    - *Jurisdiction:* US
 
-2516. **Eligibility** — 资格 *(n.)*
+2514. **Eligibility** — 资格 *(n.)*
 
    1. **资格：** The statutory or program criteria that qualify a person to receive a benefit or service.
 
-2517. **eligible business expenses** — 合格营业支出；可扣除营业费用
+2515. **eligible business expenses** — 合格营业支出；可扣除营业费用
 
    1. **合格营业支出；可扣除营业费用：** Business costs qualifying for deduction or reimbursement under applicable tax rules.
 
-2518. **eligible debt** — 合格债务；可适用债务
+2516. **eligible debt** — 合格债务；可适用债务
 
    1. **合格债务；可适用债务：** Debt that satisfies criteria for relief, deduction, or preferential treatment.
 
-2519. **Emancipation** — 脱离监护；解放 *(n.)*
+2517. **Emancipation** — 脱离监护；解放 *(n.)*
 
    1. **脱离监护；解放：** A minor's legal release from parental control and attainment of independent status.
 
-2520. **embargo** — 禁运 *(n.)*
+2518. **embargo** — 禁运 *(n.)*
 
    - Holding foreign ships in port as a reprisal against their state.
-   - *See also:* reprisal; reprisal; angary
+   - *See also:* reprisal; angary
 
-2521. **embassy** — 大使馆 *(n.)*
+2519. **embassy** — 大使馆 *(n.)*
 
    - The function or position of an ambassador, or the building housing them.
 
-2522. **embezzlement** — 贪污 *(n.)*
+2520. **embezzlement** — 贪污 *(n.)*
 
    - An employee's dishonest taking of money or property entrusted by the employer.
    - *See also:* theft
 
-2523. **emblements** — 徽章 *(pl. n.)*
+2521. **emblements** — 徽章 *(pl. n.)*
 
    - Annual crops, and a tenant's right to gather crops he has sown.
 
-2524. **embracery** — 拥抱 *(n.)*
+2522. **embracery** — 拥抱 *(n.)*
 
    - The former crime of corruptly swaying a jury toward one side.
    - *See also:* perverting the course of justice; contempt of court; bribery
 
-2525. **embryo selection** — 植入前遗传学诊断
+2523. **embryo selection** — 植入前遗传学诊断
 
    - Choosing which IVF embryos to implant, including for genetic reasons.
    - *Expands to:* preimplantation genetic diagnosis; Human Fertilization and Embryology Authority
    - *See also:* Human Fertilization and Embryology Authority
 
-2526. **emergency arbitrator** — 紧急仲裁员 *(n.)*
+2524. **emergency arbitrator** — 紧急仲裁员 *(n.)*
 
    1. **紧急仲裁员：** An arbitrator appointed to consider urgent provisional relief before the full tribunal is constituted.
 
-2527. **Emergency care order** — 紧急照护令；紧急护理令 *(n.)*
+2525. **Emergency care order** — 紧急照护令；紧急护理令 *(n.)*
 
    1. **紧急照护令；紧急护理令：** A court order authorizing urgent protective or medical care without prior full hearing.
 
-2528. **Emergency Doctrine** — 紧急避险原则；紧急状态原则
+2526. **Emergency Doctrine** — 紧急避险原则；紧急状态原则
 
    1. **紧急避险原则；紧急状态原则：** A defense excusing acts that prevent imminent harm when no safe alternative exists.
 
-2529. **emergency powers** — 紧急权力
+2527. **emergency powers** — 紧急权力
 
    - Powers given to government during a declared state of emergency.
    - *See also:* civil contingencies
 
-2530. **emergency protection order** — 紧急保护令
+2528. **emergency protection order** — 紧急保护令
 
    - A court order letting a local authority remove a child at risk for up to eight days.
    - *See also:* parental responsibility; welfare principle; exclusion requirement; section 47 enquiry
 
-2531. **emergency relief** — 紧急救济
+2529. **emergency relief** — 紧急救济
 
    1. **紧急救济：** Immediate protective relief sought to prevent harm before ordinary proceedings can provide an effective remedy.
 
-2532. **eminent domain** — 征用权
+2530. **eminent domain** — 征用权
 
    - The state's power to take private property, usually with compensation.
    - *See also:* expropriation
 
-2533. **Emolument** — 报酬；俸给 *(n.)*
+2531. **Emolument** — 报酬；俸给 *(n.)*
 
    1. **报酬；俸给：** Compensation, profit, or benefit derived from office, employment, or service.
 
-2534. **emoluments** — 薪酬 *(pl. n.)*
+2532. **emoluments** — 薪酬 *(pl. n.)*
 
    - Salary, wages, fees, benefits, and other rewards arising from employment.
    - *See also:* employment income
 
-2535. **Emoluments Clause** — 薪酬条款；外俸条款
+2533. **Emoluments Clause** — 薪酬条款；外俸条款
 
    1. **薪酬条款；外俸条款：** A US constitutional clause barring federal officers from foreign emoluments without consent.
    - *Jurisdiction:* US
 
-2536. **emotional abuse** — 情感虐待
+2534. **emotional abuse** — 情感虐待
 
    1. **情感虐待：** Conduct that undermines a person's emotional well-being through degradation, isolation, or control.
 
-2537. **Emotional Distress** — 精神痛苦
+2535. **Emotional Distress** — 精神痛苦
 
    1. **精神痛苦：** Mental suffering recognized as a compensable injury in certain tort claims.
 
-2538. **empanel** — 选择陪审团在法庭上审理某个问题 *(vb.)*
+2536. **empanel** — 选择陪审团在法庭上审理某个问题 *(vb.)*
 
    - To pick the members of a jury for a trial.
 
-2539. **employee** — 雇员 *(n.)*
+2537. **employ** — 雇用
+
+   1. **雇用：** For the Fair Labor Standards Act, an employer can employ someone by allowing the work to take place.
+      - *Sense labels:* wage and hour law
+      - *Sense jurisdiction:* US federal
+      - *Source:* [29 U.S.C. § 203(g)](https://uscode.house.gov/us/usc/t29/s203/) · source-checked · 2026-11-24
+
+2538. **employee** — 雇员 *(n.)*
 
    - Someone employed to work under an employer's direction for pay.
    - *See also:* employer; mutuality of obligations; gig economy
 
-2540. **employee benefit plan** — 雇员福利计划
+2539. **employee benefit plan** — 雇员福利计划
 
    1. **雇员福利计划：** An arrangement providing welfare or pension benefits to employees and dependants.
    - *Jurisdiction:* US
 
-2541. **employee discount** — 雇员折扣
+2540. **employee discount** — 雇员折扣
 
    1. **雇员折扣：** A price reduction offered to employees on the employer's goods or services.
 
-2542. **employee of the united states** — 美国联邦雇员
+2541. **employee of the united states** — 美国联邦雇员
 
    1. **美国联邦雇员：** A person employed by the federal government of the United States.
    - *Jurisdiction:* US
 
-2543. **employee representative** — 雇员代表 *(n.)*
+2542. **employee representative** — 雇员代表 *(n.)*
 
    1. **雇员代表：** A person designated to act or bargain on behalf of employees.
 
-2544. **employees’ inventions** — 雇员的发明
+2543. **employees’ inventions** — 雇员的发明
 
    - Inventions an employee makes during employment, usually owned by the employer.
 
-2545. **employees’ share scheme** — 员工股份计划
+2544. **employees’ share scheme** — 员工股份计划
 
    - A scheme giving employees shares or share options as a share of company profits.
 
-2546. **employee stock purchase plan** — 雇员购股计划
+2545. **employee stock purchase plan** — 雇员购股计划
 
    1. **雇员购股计划：** A plan letting employees buy company shares, often at a discount.
    - *Jurisdiction:* US
 
-2547. **employer** — 雇主 *(n.)*
+2546. **employer** — 雇主 *(n.)*
 
    - A person or company that engages another to work under its direction and control.
    - *See also:* employee; worker; contract of employment; employer and employee
 
-2548. **employer and employee** — 雇主与雇员
+2547. **employer and employee** — 雇主与雇员
 
    - The legal relationship created when one person employs another under a contract.
    - *See also:* contract of employment; unfair dismissal; redundancy; maternity rights; trade union; safety at work; vicarious liability
 
-2549. **employer provided amounts** — 雇主提供金额
+2548. **employer provided amounts** — 雇主提供金额
 
    1. **雇主提供金额：** Sums or benefits the employer furnishes to employees in connection with work.
 
-2550. **employer-provided transportation** — 雇主提供的交通 *(n.)*
+2549. **employer-provided transportation** — 雇主提供的交通 *(n.)*
 
    1. **雇主提供的交通：** Transport the employer supplies to employees as a work-related benefit.
 
-2551. **Employer sanctions** — 雇主制裁
+2550. **Employer sanctions** — 雇主制裁
 
    1. **雇主制裁：** Penalties imposed for prohibited hiring practices or failures to comply with employment verification duties.
 
-2552. **employers’ association** — 雇主协会
+2551. **employers’ association** — 雇主协会
 
    - An organisation of employers regulating relations with workers or trade unions.
    - *See also:* trade unions
 
-2553. **employer securities** — 雇主证券
+2552. **employer securities** — 雇主证券
 
    1. **雇主证券：** Shares, bonds, or other securities issued by an employer or a qualifying affiliate.
 
-2554. **employer’s liability** — 雇主的责任
+2553. **employer’s liability** — 雇主的责任
 
    - An employer's duty to provide safe staff, equipment, premises, and working systems.
    - *See also:* psychiatric injury; negligence; breach of statutory duty; safety at work; dangerous machinery; defective equipment
 
-2555. **EMPLOYER (TITLE VII)** — 雇主（第七章）
+2554. **EMPLOYER (TITLE VII)** — 雇主（第七章）
 
    1. **雇主（第七章）：** Under Title VII, a person who employs fifteen or more employees.
    - *Jurisdiction:* US
 
-2556. **Employment** — 雇佣 *(n.)*
+2555. **Employment** — 雇佣 *(n.)*
 
    1. **雇佣：** An arrangement under which a person performs work or services for another in return for remuneration.
 
-2557. **Employment Appeal Tribunal** — 就业上诉法庭
+2556. **Employment Appeal Tribunal** — 就业上诉法庭
 
    - A body hearing appeals from employment tribunals on questions of law.
    - *Expands to:* Employment Appeal Tribunal
    - *See also:* employment tribunals
 
-2558. **Employment At Will** — 自由雇佣
+2557. **Employment At Will** — 自由雇佣
 
    1. **自由雇佣：** A doctrine allowing either party to end employment without cause or notice.
    - *Jurisdiction:* US
 
-2559. **Employment Authorization Document (Form I-766/EAD)** — 就业授权证
+2558. **Employment Authorization Document (Form I-766/EAD)** — 就业授权证
 
    1. **就业授权证：** A government-issued card evidencing a noncitizen's permission to work in the United States.
 
-2560. **employment commencement date** — 雇佣开始日期 *(n.)*
+2559. **employment commencement date** — 雇佣开始日期 *(n.)*
 
    1. **雇佣开始日期：** The date on which an employee's period of employment begins.
 
-2561. **Employment Court** — 就业法院
+2560. **Employment Court** — 就业法院
 
    1. **就业法院：** A specialist tribunal adjudicating employment disputes in New Zealand.
 
-2562. **employment income** — 就业收入
+2561. **employment income** — 就业收入
 
    - Income from employment, including salary, wages, benefits, and termination payments.
    - *See also:* emolument; benefit in kind
 
-2563. **employment tribunal** — 就业法庭
+2562. **employment tribunal** — 就业法庭
 
    - A body that decides disputes between employers, employees, and trade unions.
    - *Expands to:* employment tribunal
    - *See also:* unfair dismissal; redundancy; discrimination; equal pay; maternity rights; compensation; reinstatement; re-engagement; Employment Appeal Tribunal
 
-2564. **EMS** — 欧洲货币体系
+2563. **EMS** — 欧洲货币体系
 
    - The abbreviation for European Monetary System.
    - *See also:* European Monetary System
 
-2565. **Emtala** — 急诊医疗法；EMTALA
+2564. **Emtala** — 急诊医疗法；EMTALA
 
    1. **急诊医疗法；EMTALA：** A US law requiring hospitals to screen and stabilize emergency patients regardless of ability to pay.
    - *Jurisdiction:* US
 
-2566. **EMU** — 欧洲货币联盟
+2565. **EMU** — 欧洲货币联盟
 
    - The abbreviation for European Monetary Union.
    - *See also:* European Monetary Union
 
-2567. **EN** — 欧洲标准
+2566. **EN** — 欧洲标准
 
    - The abbreviation for Euro Norm.
    - *See also:* Euro Norm
 
-2568. **enablement requirement** — 充分公开要求 *(n.)*
+2567. **enablement requirement** — 充分公开要求 *(n.)*
 
    1. **充分公开要求：** The requirement that a patent disclosure teach a skilled person to carry out the claimed invention without undue experimentation.
 
-2569. **enabling statute** — 授权法规
+2568. **enabling statute** — 授权法规
 
    - A law that gives rights or powers to a body or person.
 
-2570. **enactment** — 颁布 *(n.)*
+2569. **enactment** — 颁布 *(n.)*
 
    - An Act of Parliament, delegated legislation, or a provision contained in either.
    - *See also:* church of england
 
-2571. **enactment formula** — 颁布公式
+2570. **enactment formula** — 颁布公式
 
    - The wording at the start of a statute that gives it legal force.
    - *See also:* Act of Parliament
 
-2572. **en banc** — 在法官席上
+2571. **en banc** — 在法官席上
 
    - French for on the bench; a hearing before the full court rather than a smaller panel.
    - *Language:* fr
 
-2573. **encroachment** — 侵占 *(n.)*
+2572. **encroachment** — 侵占 *(n.)*
 
    - Taking in a neighbour's land so it appears part of one's own.
 
-2574. **encumbrance** — 产权负担
+2573. **encumbrance** — 产权负担
 
    - A third party's right over land, such as a lease, mortgage, or easement.
    - *See also:* land registration; registration of encumbrances
 
-2575. **Endangered Species** — 濒危物种；濒危品种
+2574. **Endangered Species** — 濒危物种；濒危品种
 
    1. **濒危物种；濒危品种：** A species threatened with extinction that receives legal protection for conservation.
 
-2576. **endorsement** — 认可 *(n.)*
+2575. **endorsement** — 认可 *(n.)*
 
    1. Noting the details of a driving offence on a licence.
    2. A signature that transfers a bill of exchange to another person.
    3. Recording a subsequent dealing on the face of a document.
    - *See also:* disqualification; totting up; drunken driving; assent; probate; letters of administration
 
-2577. **endowment** — 捐赠 *(n.)*
+2576. **endowment** — 捐赠 *(n.)*
 
    1. A fixed income provided to support a charity.
    2. Assets held permanently for a charitable purpose.
 
-2578. **enduring power** — 持续授权书；持久代理权 *(n.)*
+2577. **enduring power** — 持续授权书；持久代理权 *(n.)*
 
    1. **持续授权书；持久代理权：** A power of attorney that remains effective after the donor loses mental capacity.
 
-2579. **end-user certificate** — 最终用户证明 *(n.)*
+2578. **end-user certificate** — 最终用户证明 *(n.)*
 
    1. **最终用户证明：** A document identifying the intended recipient and use of controlled goods or technology.
 
-2580. **end-use statement** — 最终用途声明 *(n.)*
+2579. **end-use statement** — 最终用途声明 *(n.)*
 
    1. **最终用途声明：** A statement describing how supplied goods or technology will be used.
 
-2581. **Energy Performance Certificate** — 能源绩效证书
+2580. **Energy Performance Certificate** — 能源绩效证书
 
    - A document giving a building's energy use, costs, and improvement advice.
    - *Expands to:* Energy Performance Certificate
 
-2582. **enforce** — 执行；强制履行
+2581. **enforce** — 执行；强制履行
 
    1. **执行；强制履行：** To compel observance of a right, contract, or order through legal process.
 
-2583. **enforcement action** — 强制执行行动
+2582. **enforcement action** — 强制执行行动
 
    - In international law, a measure authorized by the UN Security Council to maintain or restore collective security, sometimes justifying force.
    - *See also:* collective security; Chapter VII; use of force; Military Staff Committee
 
-2584. **enforcement notice** — 执行通知
+2583. **enforcement notice** — 执行通知
 
    - A notice from a local planning authority requiring steps within a set time to fix an alleged planning breach.
    - *See also:* town and country planning; stop notice
 
-2585. **enforcement of judgment** — 民事诉讼规则
+2584. **enforcement of judgment** — 民事诉讼规则
 
    - In civil proceedings, the methods by which a court's judgments and orders are carried into effect.
    - *Expands to:* Civil Procedure Rules
    - *See also:* Civil Procedure Rules; fieri facias; Third Party Debt Order; charging order; receiver; judgment creditor; writ of possession; writ of delivery; committal in civil proceedings; injunction; sequestration
 
-2586. **enforcer** — 执行人 *(n.)*
+2585. **enforcer** — 执行人 *(n.)*
 
    - A person named in a trust to ensure it is carried out on its terms, being neither trustee nor beneficiary.
-   - *See also:* beneficiary principle; purpose trusts; purpose trusts
+   - *See also:* beneficiary principle; purpose trusts
 
-2587. **Enforcing Judgment For Specific Act** — 特定行为判决的执行
+2586. **Enforcing Judgment For Specific Act** — 特定行为判决的执行
 
    1. **特定行为判决的执行：** Court measures compelling performance of a required act or arranging authorized performance when the judgment debtor fails to comply.
 
-2588. **enfranchise** — 选举权 *(vb.)*
+2587. **enfranchise** — 选举权 *(vb.)*
 
    1. To grant a person or group the right to vote in elections.
    2. To grant an area or group representation on an elected body.
 
-2589. **enfranchisement of tenancy** — 租赁特许权
+2588. **enfranchisement of tenancy** — 租赁特许权
 
    - The right of a long leaseholder to buy the freehold or a longer lease of the property.
 
-2590. **Engagement** — 委托；业务约定 *(n.)*
+2589. **Engagement** — 委托；业务约定 *(n.)*
 
    1. **委托；业务约定：** An agreement retaining a professional to perform defined services for a client.
 
-2591. **engagement to marry** — 订婚
+2590. **engagement to marry** — 订婚
 
    - An agreement to marry later, which is no longer legally enforceable and grounds no claim for breach.
 
-2592. **engaging in sexual activity in the presence of a child** — 在儿童在场的情况下进行性活动
+2591. **engaging in sexual activity in the presence of a child** — 在儿童在场的情况下进行性活动
 
    - A crime where an adult has sexual activity while a child is present or able to see it, knowing the child is aware.
 
-2593. **engross** — 全神贯注 *(vb.)*
+2592. **engross** — 全神贯注 *(vb.)*
 
    - To prepare a clean final version of a legal instrument such as a deed for the parties to execute.
 
-2594. **enhanced due diligence** — 强化尽职调查 *(n.)*
+2593. **enhanced due diligence** — 强化尽职调查 *(n.)*
 
    1. **强化尽职调查：** Additional verification and monitoring measures applied where a customer or transaction presents elevated risk.
 
-2595. **Enjoin** — 禁令；强制
+2594. **Enjoin** — 禁令；强制
 
    1. **禁令；强制：** A court orders a party to perform or refrain from a particular act.
 
-2596. **enlarge** — 扩大 *(vb.)*
+2595. **enlarge** — 扩大 *(vb.)*
 
    - In land law, to gain further rights in land, raising one's interest to a larger estate.
       - *Sense labels:* (in land law)
    - *Labels:* (in land law)
    - *See also:* tenant in tail; entailed interest
 
-2597. **Enrolled MOUs** — 已登记谅解备忘录 *(n.)*
+2596. **Enrolled MOUs** — 已登记谅解备忘录 *(n.)*
 
    1. **已登记谅解备忘录：** Executed participation agreements registering employers or other users in the E-Verify program.
 
-2598. **enrolment** — 登记 *(n.)*
+2597. **enrolment** — 登记 *(n.)*
 
    - Recording an act or document in an official register, formerly done in a Chancery office until the practice was largely ended.
 
-2599. **entailed interest** — 附带权益
+2598. **entailed interest** — 附带权益
 
    - A form of equitable land interest held by a person and his bodily heirs, which can no longer be created.
    - *See also:* equitable
 
-2600. **enter** — 进入 *(vb.)*
+2599. **enter** — 进入 *(vb.)*
 
    1. In burglary, to obtain entry as a trespasser in a way that is substantial and effective, even if only part of the body enters.
       - *Sense labels:* (in the law of burglary)
@@ -12261,265 +12287,265 @@
    - *Labels:* (in the law of burglary); (in land law)
    - *See also:* burglary; entry into possession
 
-2601. **entering judgment** — 作出判决
+2600. **entering judgment** — 作出判决
 
    - A civil procedure in which the court formally records a judgment once delivered.
    - *See also:* Civil Procedure Rules; sealed
 
-2602. **Enterprise** — 企业；联合体 *(n.)*
+2601. **Enterprise** — 企业；联合体 *(n.)*
 
    1. **企业；联合体：** An association of persons united by a common purpose, criminal or commercial.
 
-2603. **Enterprise Investment Scheme** — 企业投资计划
+2602. **Enterprise Investment Scheme** — 企业投资计划
 
    - A scheme giving income tax relief on money invested in newly issued shares of an unlisted trading company.
    - *Expands to:* Enterprise Investment Scheme
 
-2604. **ENTERPRISE (RICO)** — 企业（RICO）；联合体（反勒索法）
+2603. **ENTERPRISE (RICO)** — 企业（RICO）；联合体（反勒索法）
 
    1. **企业（RICO）；联合体（反勒索法）：** The associated-in-fact group through which racketeering activity is conducted under RICO.
    - *Jurisdiction:* US
 
-2605. **entire agreement clause** — 整个协议条款
+2604. **entire agreement clause** — 整个协议条款
 
    - A contract clause stating the written agreement is the whole agreement and that outside statements have no contractual force.
    - *See also:* misrepresentation
 
-2606. **entire contract** — 整个合同
+2605. **entire contract** — 整个合同
 
    - A contract in which each side's obligations depend on complete performance by the other.
    - *See also:* performance of contract
 
-2607. **Entitled person** — 有权申请的人
+2606. **Entitled person** — 有权申请的人
 
    1. **有权申请的人：** A person legally entitled through creation, ownership, or succession to apply for or hold the relevant intellectual property right.
 
-2608. **Entitlement** — 应得权利 *(n.)*
+2607. **Entitlement** — 应得权利 *(n.)*
 
    1. **应得权利：** A legally recognized right of a person to receive a benefit, payment, or remedy.
 
-2609. **entrapment** — 诱骗 *(n.)*
+2608. **entrapment** — 诱骗 *(n.)*
 
    - Luring someone deliberately into breaking the law so as to secure a conviction; not a defence in English law.
    - *See also:* agent provocateur
 
-2610. **entrepreneurs’ relief** — 企业家救济
+2609. **entrepreneurs’ relief** — 企业家救济
 
    - A capital gains tax relief charging a lower rate on gains from disposing of a business or its assets.
    - *See also:* business asset
 
-2611. **entry into possession** — 占有
+2610. **entry into possession** — 占有
 
    - The act of going onto land to assert a right over it, as when a landlord retakes possession.
 
-2612. **entry without warrant** — 无搜查令进入
+2611. **entry without warrant** — 无搜查令进入
 
    - A police officer's entry onto private premises without a warrant, unlawful unless the occupier consents or statute allows.
    - *See also:* indictable offences; power of search
 
-2613. **Enumeration** — 列举；枚举 *(n.)*
+2612. **Enumeration** — 列举；枚举 *(n.)*
 
    1. **列举；枚举：** An express listing of items that defines or limits the scope of a grant.
 
-2614. **Environment Agency** — 环境局
+2613. **Environment Agency** — 环境局
 
    - A public body that guards England's environment, handling pollution control, waste regulation, and water management.
    - *See also:* pollution; waste disposal; abstraction of water
 
-2615. **environmental degradation** — 环境退化
+2614. **environmental degradation** — 环境退化
 
    - In international law, the drawing-down of global resources by pollution that crosses national borders.
    - *Jurisdiction:* International
    - *See also:* pollution
 
-2616. **environmental taxes** — 环境税
+2615. **environmental taxes** — 环境税
 
    - Taxes meant to encourage greener business, notably the aggregates levy, climate change levy, and landfill tax.
 
-2617. **Environment Court** — 环境法院；环境法庭
+2616. **Environment Court** — 环境法院；环境法庭
 
    1. **环境法院；环境法庭：** A specialized tribunal hearing disputes over environmental and planning law.
 
-2618. **EOIR** — 美国移民审查执行办公室
+2617. **EOIR** — 美国移民审查执行办公室
 
    1. **美国移民审查执行办公室：** Executive Office for Immigration Review.
 
-2619. **EPC** — 能源绩效证书
+2618. **EPC** — 能源绩效证书
 
    - Short for Energy Performance Certificate, a rating of a building's energy efficiency.
    - *See also:* Energy Performance Certificate
 
-2620. **epitome of title** — 标题摘要
+2619. **epitome of title** — 标题摘要
 
    - A summary of the documents that together make up a title to land.
    - *See also:* abstract of title
 
-2621. **Equal Access** — 平等使用；平等利用
+2620. **Equal Access** — 平等使用；平等利用
 
    1. **平等使用；平等利用：** A principle that forums or services are available to all without discrimination.
 
-2622. **Equal Employment Opportunity Commission (EEOC)** — 美国平等就业机会委员会
+2621. **Equal Employment Opportunity Commission (EEOC)** — 美国平等就业机会委员会
 
    1. **美国平等就业机会委员会：** The federal agency enforcing major prohibitions on discrimination in employment.
 
-2623. **Equality Act 2010** — 2010 年平等法
+2622. **Equality Act 2010** — 2010 年平等法
 
    - A statute consolidating and extending discrimination law, listing protected characteristics and applying to employment, services, and other fields.
    - *See also:* discrimination; gender reassignment; indirect discrimination; victimization; harassment; reasonable adjustments; equal pay; gender pay gap; positive discrimination; equality duty; employment tribunal; Equality and Human Rights; European Convention on Human Rights
 
-2624. **Equality and Human Rights Commission** — 平等与人权委员会
+2623. **Equality and Human Rights Commission** — 平等与人权委员会
 
    - A public body promoting and monitoring human rights and equality, with powers to inquire into equality issues and enforce the law.
    - *Expands to:* Equality and Human Rights Commission
    - *See also:* equality duty; Human Rights Act; victim
 
-2625. **equality clause** — 平等条款
+2624. **equality clause** — 平等条款
 
    - An employment contract term ensuring a woman's conditions are no less favourable than a man's for similar or equal-value work.
    - *See also:* contract of employment; equal pay; gender pay gap; sex discrimination
 
-2626. **equality duty** — 平等义务
+2625. **equality duty** — 平等义务
 
    - An obligation on public bodies to pay due regard to eliminating banned conduct and advancing equal opportunity.
    - *See also:* Equality Act 2010; Equality and Human Rights Commission; judicial review
 
-2627. **equality is equity** — 平等就是公平
+2626. **equality is equity** — 平等就是公平
 
    - Latin for equality is equity; a maxim holding that property with no other basis for division is shared equally.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* maxim of equity
 
-2628. **equality of arms** — 平等权利
+2627. **equality of arms** — 平等权利
 
    - The principle that opposing parties in litigation must have a fair balance of opportunities to present their cases.
    - *See also:* fair trial
 
-2629. **Equal Opportunities Commission** — 平等机会委员会
+2628. **Equal Opportunities Commission** — 平等机会委员会
 
    - A former body set up to end sex and marital-status discrimination and to advance equal opportunity.
    - *Expands to:* Equal Opportunities Commission
    - *See also:* Equality and Human Rights Commission; sex discrimination
 
-2630. **equal pay** — 同工同酬
+2629. **equal pay** — 同工同酬
 
    - The rule that men and women doing the same job receive the same pay for like or equal-value work.
    - *See also:* Equality Act 2010; equality clause; gender pay gap
 
-2631. **Equal Protection** — 平等保护 *(n.)*
+2630. **Equal Protection** — 平等保护 *(n.)*
 
    1. **平等保护：** The constitutional requirement that government justify legally relevant differences in its treatment of persons.
 
-2632. **equal treatment** — 平等待遇
+2631. **equal treatment** — 平等待遇
 
    - The EU rule that workers from one member state are treated the same as local workers in another, free of discrimination.
    - *See also:* free movement; equal pay
 
-2633. **Equal Treatment Directive** — 平等待遇指令
+2632. **Equal Treatment Directive** — 平等待遇指令
 
    - An EU directive banning sex discrimination in employment, training, and certain social security matters.
    - *See also:* discrimination; European Court of Justice
 
-2634. **equitable** — 衡平法 *(adj.)*
+2633. **equitable** — 衡平法 *(adj.)*
 
    1. Recognized by or governed by equity rather than the common law.
    2. Describing a right or idea that the Court of Chancery recognized.
    3. Fair and reasonable.
 
-2635. **equitable assignment** — 公平分配
+2634. **equitable assignment** — 公平分配
 
    - An assignment recognized in equity rather than at law, effective without statutory formalities but subject to prior equities.
    - *See also:* assignment
 
-2636. **equitable charge** — 公平收费
+2635. **equitable charge** — 公平收费
 
    1. A mortgage in which the lender gains only an equitable, not a legal, interest in the land.
    2. A charge arising from marking out particular property to secure a debt, requiring no set wording.
    - *See also:* equitable mortgage; charge; general equitable charge
 
-2637. **Equitable Conversion** — 衡平转换；衡平拟制转让 *(n.)*
+2636. **Equitable Conversion** — 衡平转换；衡平拟制转让 *(n.)*
 
    1. **衡平转换；衡平拟制转让：** Equity treats a land contract as having transferred title before actual conveyance.
 
-2638. **Equitable Distribution** — 衡平分产；公平分配 *(n.)*
+2637. **Equitable Distribution** — 衡平分产；公平分配 *(n.)*
 
    1. **衡平分产；公平分配：** A divorce regime dividing marital property equitably between spouses.
    - *Jurisdiction:* US
 
-2639. **equitable easement** — 衡平法地役权
+2638. **equitable easement** — 衡平法地役权
 
    - An easement recognized only in equity, usually because it was not created by a valid legal grant.
    - *See also:* easement
 
-2640. **equitable estate** — 衡平法财产
+2639. **equitable estate** — 衡平法财产
 
    - A property right that the Court of Chancery recognized, unlike a legal estate known to the common-law courts.
    - *See also:* legal estate; estate; shifting use; springing use; equitable interests
 
-2641. **equitable estoppel** — 衡平法禁止反言
+2640. **equitable estoppel** — 衡平法禁止反言
 
    - An estoppel barring a party from resiling from a promise or assurance relied on by another; covers promissory and proprietary forms.
    - *See also:* estoppel
 
-2642. **equitable execution** — 衡平执行
+2641. **equitable execution** — 衡平执行
 
    - A way of enforcing a judgment when ordinary execution fails, such as appointing a receiver or granting an injunction.
    - *See also:* execution
 
-2643. **equitable interests** — 衡平法利益
+2642. **equitable interests** — 衡平法利益
 
    - Interests in property recognized by equity rather than the common law, binding all but a good-faith buyer who pays value and lacks notice.
    - *See also:* equity; equity of redemption; purchaser for value without notice; overreaching; land charges
 
-2644. **equitable lease** — 衡平租赁
+2643. **equitable lease** — 衡平租赁
 
    - An agreement to grant a lease of land that fails the formal requirements for a legal lease but may be enforced between the parties.
    - *See also:* legal lease; maxims of equity; estate contract
 
-2645. **equitable lien** — 衡平留置权
+2644. **equitable lien** — 衡平留置权
 
    - A lien recognized in equity, giving a right to have specific property applied to satisfy a debt.
    - *See also:* lien
 
-2646. **equitable mortgage** — 衡平抵押
+2645. **equitable mortgage** — 衡平抵押
 
    - A mortgage giving the lender only an equitable, not legal, interest in the property, for instance because it was not made by deed.
    - *See also:* mortgage; equitable interest; trust of land
 
-2647. **equitable presumptions** — 衡平法推定
+2646. **equitable presumptions** — 衡平法推定
 
    - Inferences drawn by equity that certain further facts follow from an established set of facts.
    - *See also:* advancement; gift; resulting trust; equality is equity
 
-2648. **equitable remedies** — 衡平法补救
+2647. **equitable remedies** — 衡平法补救
 
    - Discretionary remedies granted by equity to right a wrong, such as specific performance, rescission, and injunction.
    - *See also:* equity; clean hands; specific performance; rescission; cancellation; rectification; account; injunction; receiver
 
-2649. **equitable rights** — 衡平法权利
+2648. **equitable rights** — 衡平法权利
 
    - Rights recognized by equity rather than by the common law.
    - *See also:* equity; equitable interests; equitable remedies
 
-2650. **equitable right to redeem** — 衡平赎回权
+2649. **equitable right to redeem** — 衡平赎回权
 
    - A mortgagor's right to repay the loan and discharge the mortgage even after the stated redemption date has passed.
    - *See also:* collateral advantage; clogs or fetters on the equitable right to redeem; solus tie
 
-2651. **Equitable Subordination** — 衡平居次；债权降位 *(n.)*
+2650. **Equitable Subordination** — 衡平居次；债权降位 *(n.)*
 
    1. **衡平居次；债权降位：** A bankruptcy court lowers a creditor's claim for unfair or inequitable conduct.
    - *Jurisdiction:* US
 
-2652. **Equitable Subrogation** — 衡平代位；代位求偿 *(n.)*
+2651. **Equitable Subrogation** — 衡平代位；代位求偿 *(n.)*
 
    1. **衡平代位；代位求偿：** A party paying another's debt acquires the creditor's rights by operation of equity.
 
-2653. **Equitable Tolling** — 衡平中止时效；衡平时效延缓
+2652. **Equitable Tolling** — 衡平中止时效；衡平时效延缓
 
    1. **衡平中止时效；衡平时效延缓：** A doctrine pausing a limitations period for equitable reasons such as impossibility.
    - *Jurisdiction:* US
 
-2654. **equity** — 衡平法；衡平权益；股权 *(n.)*
+2653. **equity** — 衡平法；衡平权益；股权 *(n.)*
 
    1. **衡平法：** The body of law built up by the Chancery court to temper the rigours of the common law.
    2. **衡平权益：** A right or claim recognised in equity, such as an interest under a trust or the equity of redemption.
@@ -12527,150 +12553,150 @@
    - *Jurisdiction:* England and Wales
    - *See also:* Lord Chancellor; Court of Chancery; common law; in personam; auxiliary jurisdiction; concurrent jurisdiction; exclusive jurisdiction; maxims of equity; election; conversion; reconversion; performance of contract; satisfaction; Chancery Division; trusts; equitable interests; forfeiture; equitable remedies; freezing injunction; search order; equitable interest; equity of redemption; mere equity
 
-2655. **equity capital** — 权益资本；股本 *(n.)*
+2654. **equity capital** — 权益资本；股本 *(n.)*
 
    1. **权益资本；股本：** Capital invested in a business in return for ownership shares or interests.
 
-2656. **equity of redemption** — 赎回权
+2655. **equity of redemption** — 赎回权
 
    - A mortgagor's whole set of rights over the mortgaged property, in effect its value less the secured debt.
 
-2657. **equity’s darling** — 股权的宠儿
+2656. **equity’s darling** — 股权的宠儿
 
    - A purchaser who takes property for value without notice of an equitable interest and so is not bound by it.
    - *See also:* purchaser for value without notice
 
-2658. **equity swap** — 股权互换；权益互换
+2657. **equity swap** — 股权互换；权益互换
 
    1. **股权互换；权益互换：** A derivative exchanging the return on an equity for another payment stream.
 
-2659. **erga omnes obligations** — 普遍义务
+2658. **erga omnes obligations** — 普遍义务
 
    - Latin for towards all; obligations owed to the whole international community, in whose breach every state has a legal interest.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* self-determination
 
-2660. **Erie Doctrine** — 伊利原则；伊利规则
+2659. **Erie Doctrine** — 伊利原则；伊利规则
 
    1. **伊利原则；伊利规则：** A rule requiring federal courts to apply state law in diversity cases.
    - *Jurisdiction:* US
 
-2661. **ERISA (CIVIL ENFORCEMENT)** — ERISA（民事执行）；雇员退休收入保障法（民事执行）
+2660. **ERISA (CIVIL ENFORCEMENT)** — ERISA（民事执行）；雇员退休收入保障法（民事执行）
 
    1. **ERISA（民事执行）；雇员退休收入保障法（民事执行）：** Provisions letting participants sue to enforce rights under employee benefit plans.
    - *Jurisdiction:* US
 
-2662. **Erisa Preemption** — ERISA优先适用；雇员福利法优先 *(n.)*
+2661. **Erisa Preemption** — ERISA优先适用；雇员福利法优先 *(n.)*
 
    1. **ERISA优先适用；雇员福利法优先：** Federal employee-benefit law supersedes conflicting state regulation of plans.
    - *Jurisdiction:* US
 
-2663. **Erisa Retaliation** — ERISA报复禁止；雇员福利法反报复 *(n.)*
+2662. **Erisa Retaliation** — ERISA报复禁止；雇员福利法反报复 *(n.)*
 
    1. **ERISA报复禁止；雇员福利法反报复：** A prohibition on retaliating against workers who exercise benefit-plan rights.
    - *Jurisdiction:* US
 
-2664. **ERM** — 汇率机制
+2663. **ERM** — 汇率机制
 
    - Short for Exchange Rate Mechanism, the system limiting how far member currencies could move against each other.
    - *See also:* Exchange Rate Mechanism
 
-2665. **ERRATA SHEET (DEPOSITIONS)** — 勘误表（证言笔录）；更正表（ deposition）
+2664. **ERRATA SHEET (DEPOSITIONS)** — 勘误表（证言笔录）；更正表（ deposition）
 
    1. **勘误表（证言笔录）；更正表（ deposition）：** A document listing a deponent's corrections to a deposition transcript.
    - *Jurisdiction:* US
 
-2666. **error** — 错误 *(n.)*
+2665. **error** — 错误 *(n.)*
 
    - A legal mistake in a court's judgment or order, or in a step in proceedings.
    - *See also:* appeal
 
-2667. **Error Coram Nobis** — 纠正误审令；更正裁定
+2666. **Error Coram Nobis** — 纠正误审令；更正裁定
 
    1. **纠正误审令；更正裁定：** A court remedy correcting a fundamental error not shown by the existing record.
    - *Jurisdiction:* US
 
-2668. **error juris nocet** — 法律错误伤害
+2667. **error juris nocet** — 法律错误伤害
 
    - Latin for error of law injures; a maxim marking the difference between mistakes of law and mistakes of fact.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* mistakes
 
-2669. **error of law on the face of the record** — 记录表面的法律错误
+2668. **error of law on the face of the record** — 记录表面的法律错误
 
    - A legal mistake by a lower court or tribunal that shows plainly in the official record.
    - *See also:* judicial review; quashing order; domestic tribunal; ultra vires
 
-2670. **error or mistake** — 错误或错误
+2669. **error or mistake** — 错误或错误
 
    - In tax law, a route to recover tax overpaid because the return contained a genuine error.
       - *Sense labels:* (in tax law)
    - *Labels:* (in tax law)
    - *See also:* restitution; Rectification; benefit in kind
 
-2671. **Error or omission** — 错误或遗漏 *(n.)*
+2670. **Error or omission** — 错误或遗漏 *(n.)*
 
    1. **错误或遗漏：** A mistake or failure to act that may explain a missed procedural requirement or deadline.
 
-2672. **Escalation Clause** — 价格调整条款；自动增价条款
+2671. **Escalation Clause** — 价格调整条款；自动增价条款
 
    1. **价格调整条款；自动增价条款：** A contract provision increasing payment when a specified index or event occurs.
 
-2673. **escape** — 逃跑 *(n.)*
+2672. **escape** — 逃跑 *(n.)*
 
    - The crime of breaking out of lawful custody, whether in prison, a police station, or the open air.
    - *See also:* specimen of breath
 
-2674. **Escape Clause** — 退出条款；免责条款
+2673. **Escape Clause** — 退出条款；免责条款
 
    1. **退出条款；免责条款：** A contract term permitting a party to exit obligations under stated conditions.
 
-2675. **Escheat** — 归公；无人继承财产归国
+2674. **Escheat** — 归公；无人继承财产归国
 
    1. **归公；无人继承财产归国：** Property reverts to the state when an owner dies without qualified heirs.
 
-2676. **escrow** — 托管 *(n.)*
+2675. **escrow** — 托管 *(n.)*
 
    - A deed or other instrument delivered to a third party to be held until a condition is met.
    - *See also:* deed
 
-2677. **escrow arrangement** — 托管安排 *(n.)*
+2676. **escrow arrangement** — 托管安排 *(n.)*
 
    1. **托管安排：** An arrangement placing money or property with a third party pending fulfillment of specified conditions.
 
-2678. **ESI DISCOVERY (NOT REASONABLY ACCESSIBLE)** — 难以合理取得的电子信息开示
+2677. **ESI DISCOVERY (NOT REASONABLY ACCESSIBLE)** — 难以合理取得的电子信息开示
 
    1. **难以合理取得的电子信息开示：** Discovery of electronic information whose accessibility burdens require special consideration under the applicable proportionality and good-cause rules.
 
-2679. **espionage** — 间谍活动 *(n.)*
+2678. **espionage** — 间谍活动 *(n.)*
 
    - The offence of gathering or passing secret information, especially for a foreign power.
    - *See also:* spying
 
-2680. **espousal of claim** — 主张主张
+2679. **espousal of claim** — 主张主张
 
    - A state's action in taking up a grievance and seeking redress for one of its nationals.
    - *See also:* exhaustion of local remedies
 
-2681. **essence of a contract** — 合同的本质
+2680. **essence of a contract** — 合同的本质
 
    - A term so fundamental that its breach lets the injured party treat the contract as ended.
    - *See also:* condition
 
-2682. **Essential Facilities Doctrine** — 必需设施原则；关键设施原则
+2681. **Essential Facilities Doctrine** — 必需设施原则；关键设施原则
 
    1. **必需设施原则；关键设施原则：** A rule requiring a monopolist to give rivals access to a vital facility.
 
-2683. **established securities market** — 成熟证券交易市场
+2682. **established securities market** — 成熟证券交易市场
 
    1. **成熟证券交易市场：** A recognized market with regular trading and price information for securities.
 
-2684. **Establishment Clause** — 禁止确立国教条款
+2683. **Establishment Clause** — 禁止确立国教条款
 
    1. **禁止确立国教条款：** The United States constitutional restriction on governmental establishment of religion.
 
-2685. **estate** — 土地权益；财产总额 *(n.)*
+2684. **estate** — 土地权益；财产总额 *(n.)*
 
    1. **土地权益：** In land law, the duration of a person's tenure in land, such as the freehold fee simple or a leasehold term.
       - *Sense labels:* (in land law)
@@ -12680,2506 +12706,2506 @@
    - *Jurisdiction:* England and Wales
    - *See also:* tenure; fee simple absolute in possession; life interest; fee tail; term of years absolute; inheritance tax
 
-2686. **estate agent** — 国家交易标准房地产代理团队
+2685. **estate agent** — 国家交易标准房地产代理团队
 
    - Someone whose business is bringing together people wishing to buy and sell property, regulated by statute.
    - *Expands to:* National Trading Standards Estate Agency Team
    - *See also:* misdescription
 
-2687. **estate contract** — 遗产合同
+2686. **estate contract** — 遗产合同
 
    - A contract by which a landowner promises to grant or transfer a legal estate, giving the buyer an equitable interest.
    - *See also:* registration of encumbrances
 
-2688. **estate for years** — 多年财产
+2687. **estate for years** — 多年财产
 
    - Ownership of land measured by a fixed period of time; a term of years.
    - *See also:* term of years
 
-2689. **estate owner** — 房地产所有者
+2688. **estate owner** — 房地产所有者
 
    - Someone who owns a legal estate over land.
    - *See also:* legal estate
 
-2690. **estate pur** — autre vie，其他生活
+2689. **estate pur** — autre vie，其他生活
 
    - A property interest lasting for another person's lifetime rather than the holder's own.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* life interest; equitable
 
-2691. **estate rentcharge** — 房地产租金
+2690. **estate rentcharge** — 房地产租金
 
    - A rentcharge issuing out of land and secured by a right of entry, often used to fund maintenance.
    - *See also:* rentcharge
 
-2692. **estate subsisting at law** — 依法存续的遗产
+2691. **estate subsisting at law** — 依法存续的遗产
 
    - A legal estate in land, as opposed to an equitable interest.
    - *See also:* legal estate
 
-2693. **estoppel** — 禁止反言 *(n.)*
+2692. **estoppel** — 禁止反言 *(n.)*
 
    - A rule preventing a person from denying a statement or fact he has asserted where another has relied on it to his detriment.
    - *Language:* fr
    - *See also:* res judicata; issue estoppel; accord and satisfaction
 
-2694. **Estoppel By Deed** — 契据禁反言 *(n.)*
+2693. **Estoppel By Deed** — 契据禁反言 *(n.)*
 
    1. **契据禁反言：** A rule preventing a party from denying specified facts or representations formally acknowledged in a deed.
 
-2695. **estovers** — 取用林木权 *(pl. n.)*
+2694. **estovers** — 取用林木权 *(pl. n.)*
 
    - A right to cut wood from land for specified needs, such as repairing a house, tools, or fences.
    - *See also:* tenant for life; profit à prendre; appurtenant
 
-2696. **Estrada doctrine** — 埃斯特拉达主义
+2695. **Estrada doctrine** — 埃斯特拉达主义
 
    - The view that a government is recognized according to its de facto existence, not its legitimacy.
    - *See also:* recognition; Tobar doctrine
 
-2697. **estreat** — 保证金或罚金记录摘录 *(n.)*
+2696. **estreat** — 保证金或罚金记录摘录 *(n.)*
 
    1. A copy taken from a register of fines and recognizances.
    2. To forfeit a recognizance or enforce a fine.
    - *Language:* fr
    - *See also:* recognizances
 
-2698. **Ethics** — 法律职业道德；法律伦理
+2697. **Ethics** — 法律职业道德；法律伦理
 
    1. **法律职业道德；法律伦理：** Standards governing the professional conduct and duties of legal practitioners.
 
-2699. **ethnic minority** — 少数民族
+2698. **ethnic minority** — 少数民族
 
    - A group smaller than the rest of a state's population, sharing distinct cultural, religious, or linguistic traits and a sense of solidarity.
    - *See also:* war crimes
 
-2700. **ETSI** — 欧洲电信标准协会
+2699. **ETSI** — 欧洲电信标准协会
 
    - The body that sets telecommunications standards across Europe.
    - *See also:* European Telecommunications Standards Institute
 
-2701. **EU** — 欧盟
+2700. **EU** — 欧盟
 
    - Short for the European Union, the group of European states joined in economic and political union.
    - *See also:* European Union
 
-2702. **EU law** — 欧盟法
+2701. **EU law** — 欧盟法
 
    - The body of law of the European Union, formerly called Community law.
    - *See also:* Community Law
 
-2703. **Euratom** — 欧洲原子能共同体
+2702. **Euratom** — 欧洲原子能共同体
 
    - Short for the European Atomic Energy Community, created to develop nuclear industry for peaceful use.
    - *See also:* European Atomic Energy Community
 
-2704. **euro** — 欧元
+2703. **euro** — 欧元
 
    - The single currency used by participating European Union member states.
    - *See also:* European Monetary Union
 
-2705. **Eurogroup** — 欧元集团
+2704. **Eurogroup** — 欧元集团
 
    - The body of finance ministers from EU states that use the euro.
    - *See also:* Lisbon Treaty
 
-2706. **Euro Norm** — 欧洲标准
+2705. **Euro Norm** — 欧洲标准
 
    - A European standard issued by European standards bodies in place of national standards.
    - *Expands to:* Euro Norm; British Standards Institution
 
-2707. **European Arrest Warrant** — 欧洲逮捕令
+2706. **European Arrest Warrant** — 欧洲逮捕令
 
    - A warrant allowing one EU member state to arrest and surrender a person in another, replacing extradition between them.
    - *See also:* extradition; implementation period; European Union (Future Relationship) Act 2020
 
-2708. **European Atomic Energy Community** — 欧洲原子能共同体
+2707. **European Atomic Energy Community** — 欧洲原子能共同体
 
    - A body created in the 1950s to build up Europe's nuclear industry and steer it toward peaceful uses within a shared energy market.
    - *Expands to:* European Atomic Energy Community
    - *See also:* European Coal and Steel Community; European Community
 
-2709. **European Bank for Reconstruction and Development** — 欧洲复兴开发银行
+2708. **European Bank for Reconstruction and Development** — 欧洲复兴开发银行
 
    - An intergovernmental bank that finances industrial and commercial projects across central and eastern Europe.
    - *Expands to:* European Bank for Reconstruction and Development
 
-2710. **European Central Bank** — 欧洲中央银行
+2709. **European Central Bank** — 欧洲中央银行
 
    - The institution that sets interest rates and monetary policy for European Union states that have adopted the euro.
    - *Expands to:* European Central Bank; European Monetary Union
    - *See also:* European Union; European Monetary Union; Maastricht Treaty
 
-2711. **European Coal and Steel Community** — 欧洲煤钢共同体
+2710. **European Coal and Steel Community** — 欧洲煤钢共同体
 
    - The first European Community, which opened a shared market for coal, steel, iron, and scrap.
    - *Expands to:* European Coal and Steel Community
    - *See also:* Paris Treaty; Treaty of Rome; European Community
 
-2712. **European Commission** — 欧洲委员会
+2711. **European Commission** — 欧洲委员会
 
    - An EU body with executive and legislative roles, holding one commissioner from each member state.
-   - *See also:* European Parliament; European Court of Justice; Council of the European Union; European Parliament; Lisbon Treaty; Community Legislation
+   - *See also:* European Parliament; European Court of Justice; Council of the European Union; Lisbon Treaty; Community Legislation
 
-2713. **European Community** — 欧洲共同体
+2712. **European Community** — 欧洲共同体
 
    - A grouping of European states formed for economic and political cooperation, later absorbed into the European Union.
    - *Expands to:* European Community; European Economic Community; European Union
    - *See also:* Treaty of Rome; Article 101; European Parliament; European Court of Justice; European Coal and Steel Community; European Atomic Energy Community; European Commission; Council of the European Union; Single European Act; Single Market; Maastricht Treaty; European Union; Amsterdam Treaty; Lisbon Treaty; Brexit; implementation period; European Arrest Warrant
 
-2714. **European Community Treaty** — 欧洲共同体条约
+2713. **European Community Treaty** — 欧洲共同体条约
 
    - The treaty establishing the European Community, widely known as the Treaty of Rome.
    - *See also:* Treaty of Rome
 
-2715. **European company** — 欧洲公司
+2714. **European company** — 欧洲公司
 
    - A company form under EU law, known as a Societas Europaea, able to operate across member states.
    - *See also:* Societas Europaea
 
-2716. **European Convention on Human Rights** — 欧洲人权公约
+2715. **European Convention on Human Rights** — 欧洲人权公约
 
    - A Council of Europe treaty protecting fundamental rights and freedoms, enforced by the European Court of Human Rights.
    - *See also:* human rights; Council of Europe; derogation; margin of appreciation; Human Rights Act
 
-2717. **European Convention on State Immunity** — 欧洲国家豁免公约
+2716. **European Convention on State Immunity** — 欧洲国家豁免公约
 
    - An international convention setting out when EU member states may bring or face proceedings.
    - *See also:* immunity
 
-2718. **European Council** — 欧洲理事会
+2717. **European Council** — 欧洲理事会
 
    - A body of EU member state heads of government that meets to consider major policy developments.
    - *See also:* Council of the European Union; European Monetary System
 
-2719. **European Court of Human Rights** — 欧洲人权法院
+2718. **European Court of Human Rights** — 欧洲人权法院
 
    - The court in Strasbourg that hears complaints of breaches of the European Convention on Human Rights.
    - *See also:* European Convention on Human Rights
 
-2720. **European Court of Justice** — 欧洲法院
+2719. **European Court of Justice** — 欧洲法院
 
    - The EU court that interprets the treaties, rules on the validity of EU legislation, and hears cases against member states.
    - *Expands to:* European Court of Justice
    - *See also:* Community legislation; Community law; Advocates-General; General Court; implementation period; Withdrawal Agreement; Northern Ireland Protocol; Treaty on the Functioning of the European Union
 
-2721. **European Economic and Social Committee** — 欧洲经济和社会委员会
+2720. **European Economic and Social Committee** — 欧洲经济和社会委员会
 
    - An EU advisory body speaking for employers, unions, farmers, consumers, and similar groups.
    - *Expands to:* European Economic and Social Committee
 
-2722. **European Economic Area** — 欧洲经济区
+2721. **European Economic Area** — 欧洲经济区
 
    - A free-trade area joining the EU member states with Iceland, Liechtenstein, and Norway.
    - *Expands to:* European Economic Area; European Free Trade Association; EFTA Surveillance Authority
    - *See also:* European Union; European Free Trade Association; Treaty of Rome; Single Market
 
-2723. **European Economic Community** — 欧洲经济共同体
+2722. **European Economic Community** — 欧洲经济共同体
 
    - The economic association of European states that became the European Community.
    - *See also:* European Community
 
-2724. **European Free Trade Association** — 欧洲自由贸易协会
+2723. **European Free Trade Association** — 欧洲自由贸易协会
 
    - A trade association of European states that tackles trade barriers instead of coordinating economic policy broadly.
    - *Expands to:* European Free Trade Association
    - *See also:* European Union; European Economic Area
 
-2725. **European Monetary System** — 欧洲货币体系
+2724. **European Monetary System** — 欧洲货币体系
 
    - A system of monetary cooperation among European Community members that used the Exchange Rate Mechanism.
    - *Expands to:* European Monetary System; Exchange Rate Mechanism
    - *See also:* Exchange Rate Mechanism; European Monetary Union
 
-2726. **European Monetary Union** — 欧洲货币联盟
+2725. **European Monetary Union** — 欧洲货币联盟
 
    - The creation of a common currency, the euro, for participating EU member states.
    - *Expands to:* European Monetary Union
    - *See also:* Maastricht Treaty; Exchange Rate Mechanism; European Central Bank
 
-2727. **European Parliament** — 欧洲议会成员
+2726. **European Parliament** — 欧洲议会成员
 
    - An EU institution whose members are elected from member states and which amends, adopts, or rejects EU legislation.
    - *Expands to:* Members of the European Parliament
    - *See also:* cooperation; codecision; assent procedures; Lisbon Treaty; ordinary legislative procedure
 
-2728. **European Patent Court** — 欧洲专利法院
+2727. **European Patent Court** — 欧洲专利法院
 
    - A proposed court to hear patent disputes across the EU, avoiding separate litigation in each member state.
 
-2729. **European Public Prosecutor** — 欧洲检察官
+2728. **European Public Prosecutor** — 欧洲检察官
 
    - A proposed independent body to investigate and prosecute crimes affecting the EU's financial interests.
    - *Expands to:* European Public Prosecutor
    - *See also:* Lisbon Treaty
 
-2730. **European Social Charter** — 欧洲社会宪章
+2729. **European Social Charter** — 欧洲社会宪章
 
    - A Council of Europe treaty of 1961 guaranteeing social and economic rights, including fair pay, safe workplaces, health care, and training.
    - *See also:* Council of Europe
 
-2731. **European Telecommunications Standards Institute** — 欧洲电信标准协会
+2730. **European Telecommunications Standards Institute** — 欧洲电信标准协会
 
    - The body that draws up technical standards for telecoms across Europe, founded in 1988.
    - *Expands to:* European Telecommunications Standards Institute
 
-2732. **European Union** — 欧洲联盟
+2731. **European Union** — 欧洲联盟
 
    - The group of European states joined in an economic and political community with common policies.
    - *Expands to:* European Union; common foreign and security policy
    - *See also:* Maastricht Treaty; European Community; Treaty of Rome; Brexit
 
-2733. **European Union (Future Relationship) Act 2020** — 2020 年欧盟（未来关系）法案
+2732. **European Union (Future Relationship) Act 2020** — 2020 年欧盟（未来关系）法案
 
    - The statute that ratified and gave effect to the EU-UK Trade and Cooperation Agreement on the UK's future relationship with the EU.
    - *See also:* implementation period; Withdrawal Agreement
 
-2734. **European Union Trade Mark** — 欧盟商标
+2733. **European Union Trade Mark** — 欧盟商标
 
    - A trade mark valid across the entire European Union, granted through its intellectual property office.
    - *Expands to:* European Union Trade Mark; EU Intellectual Property Office; Community Trade Mark
    - *See also:* trade mark; implementation period
 
-2735. **European Union (Withdrawal Agreement) Act 2020** — 2020 年欧盟（退出协议）法
+2734. **European Union (Withdrawal Agreement) Act 2020** — 2020 年欧盟（退出协议）法
 
    - The UK statute giving domestic effect to the agreement setting the terms of the UK's exit from the EU.
    - *See also:* Withdrawal Agreement
 
-2736. **European Works Council** — 欧洲工作委员会
+2735. **European Works Council** — 欧洲工作委员会
 
    - A council of employee and management representatives informing and consulting workers on transnational issues in multinational companies.
    - *Expands to:* European Works Council
    - *See also:* European Economic Area
 
-2737. **eurotort** — 欧盟法侵权 *(n.)*
+2736. **eurotort** — 欧盟法侵权 *(n.)*
 
    - A breach of directly effective EU law that lets an injured person sue in tort where a statutory duty is breached.
    - *Jurisdiction:* European Union
    - *See also:* Community legislation; Community law
 
-2738. **euthanasia** — 安乐死 *(n.)*
+2737. **euthanasia** — 安乐死 *(n.)*
 
    - The act of ending a life to relieve pain, whether voluntary, non-voluntary, or involuntary.
    - *See also:* persistent vegetative state; assisted suicide; artificial nutrition and hydration; extraordinary means
 
-2739. **EUTM** — 欧盟商标
+2738. **EUTM** — 欧盟商标
 
    - Short for European Union Trade Mark, a mark registered for the whole of the European Union.
    - *See also:* European Union Trade Mark
 
-2740. **Evasive Discovery Response** — 规避性证据开示答复
+2739. **Evasive Discovery Response** — 规避性证据开示答复
 
    1. **规避性证据开示答复：** An incomplete or evasive response treated under procedural rules as a failure adequately to answer.
 
-2741. **event of default** — 违约事件
+2740. **event of default** — 违约事件
 
    1. **违约事件：** A circumstance defined by contract as triggering specified creditor or counterparty remedies.
 
-2742. **E-Verify** — 电子就业资格核验系统 *(n.)*
+2741. **E-Verify** — 电子就业资格核验系统 *(n.)*
 
    1. **电子就业资格核验系统：** A United States system comparing employee information against government records to check employment eligibility.
 
-2743. **eviction** — 驱逐 *(n.)*
+2742. **eviction** — 驱逐 *(n.)*
 
    - Removing a tenant or other occupier from premises, which for a residential occupier normally requires a court order.
    - *See also:* residential occupier; harassment of occupier; agricultural holding; assured shorthold tenancy; assured tenancy; business tenancy; long tenancy; protected tenancy; secure tenancy; restricted contract; trespass; nuisance neighbours
 
-2744. **evidence** — 证据 *(n.)*
+2743. **evidence** — 证据 *(n.)*
 
    - Anything that tends to prove or disprove a fact, including testimony, documents, and objects.
    - *See also:* testimony; documentary evidence; real evidence; hearsay evidence; admissibility of evidence; exclusionary rules; character; circumstantial evidence; conclusive evidence; direct evidence; extrinsic evidence; primary evidence; secondary evidence; video evidence
 
-2745. **evidenced in writing** — 以书面形式证明
+2744. **evidenced in writing** — 以书面形式证明
 
    - Described in a written document signed by or on behalf of the parties.
    - *See also:* unenforceable contract
 
-2746. **Evidence in chief** — 主询问证据
+2745. **Evidence in chief** — 主询问证据
 
    1. **主询问证据：** The witness's own testimony given first under examination by the party calling them.
 
-2747. **evidence-in-chief** — 主证据
+2746. **evidence-in-chief** — 主证据
 
    - The evidence a witness gives for the side that called him, often through his written statement.
    - *See also:* Civil Procedure Rules; examination-in-chief
 
-2748. **evidence in rebuttal** — 反驳证据
+2747. **evidence in rebuttal** — 反驳证据
 
    - Evidence offered to counter or disprove other evidence already given in a case.
    - *See also:* previous statement
 
-2749. **evidence obtained illegally** — 非法获取的证据
+2748. **evidence obtained illegally** — 非法获取的证据
 
    - Evidence gathered by unlawful means, which a court may exclude at its discretion if admitting it would be unfair.
    - *See also:* European Convention on Human Rights; Human Rights Act; confession
 
-2750. **evidence of character** — 性格证据
+2749. **evidence of character** — 性格证据
 
    - Evidence about a person's reputation or disposition, admissible only in restricted circumstances.
    - *See also:* character
 
-2751. **evidence of disposition** — 处置证据
+2750. **evidence of disposition** — 处置证据
 
    - Evidence of a person's inclination or tendency to act in a particular way.
    - *See also:* disposition
 
-2752. **evidence of identity** — 身份证据
+2751. **evidence of identity** — 身份证据
 
    - Evidence tending to prove who a person is, by direct, circumstantial, or identification evidence.
    - *See also:* direct evidence; opinion evidence; circumstantial evidence; Secondary evidence; codes of practice; DNA fingerprinting
 
-2753. **evidence of opinion** — 意见证据
+2752. **evidence of opinion** — 意见证据
 
    - Evidence of a witness's opinion rather than of facts he personally perceived; generally inadmissible except for experts.
    - *See also:* opinion evidence
 
-2754. **evidence of user** — 用户证据
+2753. **evidence of user** — 用户证据
 
    - Evidence of how contracting parties have behaved, sometimes admitted to resolve a dispute about their obligations.
 
-2755. **evidential burden** — 证据责任
+2754. **evidential burden** — 证据责任
 
    - The duty to produce enough evidence to raise an issue for the court to consider.
    - *See also:* burden of proof
 
-2756. **Evidentiary Hearing** — 证据听证；举证审理
+2755. **Evidentiary Hearing** — 证据听证；举证审理
 
    1. **证据听证；举证审理：** A court proceeding at which evidence is presented to resolve a disputed issue.
 
-2757. **EWC** — 欧洲工作委员会
+2756. **EWC** — 欧洲工作委员会
 
    - Short for European Works Council, a body informing and consulting employees on transnational issues.
    - *See also:* European Works Council
 
-2758. **ex abundanti cautela** — ex丰富的考特拉
+2757. **ex abundanti cautela** — ex丰富的考特拉
 
    - Latin for out of abundant caution; a precautionary step guarding against an event thought unlikely but possible.
-   - *Language:* Latin
+   - *Language:* la
 
-2759. **Exaction** — 征收；摊派 *(n.)*
+2758. **Exaction** — 征收；摊派 *(n.)*
 
    1. **征收；摊派：** A government-imposed condition, such as a fee or dedication, for land-use approval.
    - *Jurisdiction:* US
 
-2760. **ex aequo et bono** — 由于公平交易和良好良心，即在公平的基础上
+2759. **ex aequo et bono** — 由于公平交易和良好良心，即在公平的基础上
 
    - Latin describing a decision made on fairness and good conscience rather than strict legal rules.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* equity; International Court of Justice
 
-2761. **examination** — 讯问 *(n.)*
+2760. **examination** — 讯问 *(n.)*
 
    - Questioning a witness under oath, taking in chief questioning, cross-examination, and re-examination.
    - *See also:* examination-in-chief; cross-examination; re-examination; commission
 
-2762. **examination-in-chief** — 主审讯问
+2761. **examination-in-chief** — 主审讯问
 
    - Questioning a witness for the side that called him, normally without leading questions.
    - *See also:* Leading questions; cross-examination; Civil Procedure Rules; evidence-in-chief; hostile witness
 
-2763. **examined copy** — 审查副本
+2762. **examined copy** — 审查副本
 
    - A copy of a document checked against the original and certified as accurate.
    - *See also:* abstract of title
 
-2764. **examiner's report** — 审查员报告；审查意见
+2763. **examiner's report** — 审查员报告；审查意见
 
    1. **审查员报告；审查意见：** An official statement by an examiner assessing an application's registrability.
 
-2765. **examining justice** — 审查司法
+2764. **examining justice** — 审查司法
 
    - A magistrate who checks whether the prosecution papers show a case fit to go to the Crown Court.
    - *See also:* committal proceedings; sending for trial
 
-2766. **excepted estate** — 例外遗产
+2765. **excepted estate** — 例外遗产
 
    - An estate excused from filing a complete inheritance tax account because its value is low or exempt.
    - *See also:* inheritance tax
 
-2767. **excepted investment fund** — 例外投资基金；豁免投资基金
+2766. **excepted investment fund** — 例外投资基金；豁免投资基金
 
    1. **例外投资基金；豁免投资基金：** An investment fund excluded from coverage under specified regulatory restrictions.
 
-2768. **excepted perils** — 除外风险
+2767. **excepted perils** — 除外风险
 
    - Risks expressly left out of the cover provided by an insurance policy.
 
-2769. **Excepted Service** — 例外公务；免试任用法职
+2768. **Excepted Service** — 例外公务；免试任用法职
 
    1. **例外公务；免试任用法职：** US federal positions hired outside the competitive civil-service examination system.
    - *Jurisdiction:* US
 
-2770. **Exception** — 例外 *(n.)*
+2769. **Exception** — 例外 *(n.)*
 
    1. **例外：** A provision that excludes specified persons, conduct, or circumstances from a general rule.
 
-2771. **Exceptions To Discharge** — 免责例外；破产免责例外
+2770. **Exceptions To Discharge** — 免责例外；破产免责例外
 
    1. **免责例外；破产免责例外：** Debts a bankruptcy court rules are not wiped out by a discharge.
    - *Jurisdiction:* US
 
-2772. **excess business holdings** — 超额营业持股；超额营业持有
+2771. **excess business holdings** — 超额营业持股；超额营业持有
 
    1. **超额营业持股；超额营业持有：** A private foundation's business ownership exceeding permitted percentage limits.
    - *Jurisdiction:* US
 
-2773. **excess credit amount** — 超额抵免额；溢缴抵免
+2772. **excess credit amount** — 超额抵免额；溢缴抵免
 
    1. **超额抵免额；溢缴抵免：** A tax credit exceeding the tax due, refundable or carried forward.
 
-2774. **Excessive Bail** — 过重保释金
+2773. **Excessive Bail** — 过重保释金
 
    1. **过重保释金：** Bail fixed at an amount so high that it functions as unlawful pretrial detention rather than assurance.
    - *Jurisdiction:* US
 
-2775. **Excessive Fines** — 过度罚金
+2774. **Excessive Fines** — 过度罚金
 
    1. **过度罚金：** A monetary penalty imposed by government that is grossly disproportionate to the gravity of the offense.
    - *Jurisdiction:* US
 
-2776. **Excessive Force** — 过度武力
+2775. **Excessive Force** — 过度武力
 
    1. **过度武力：** Government force exceeding that which is objectively reasonable to effect a lawful seizure or arrest.
    - *Jurisdiction:* US
 
-2777. **Exchange** — 交换；互易
+2776. **Exchange** — 交换；互易
 
    1. **交换；互易：** A mutual transfer of something of value, such as goods, funds, or promises, between parties.
 
-2778. **exchange gain or loss** — 汇兑损益
+2777. **exchange gain or loss** — 汇兑损益
 
    1. **汇兑损益：** Profit or loss arising from changes in currency rates on settled or translated balances.
 
-2779. **exchange of contracts** — 合同交换
+2778. **exchange of contracts** — 合同交换
 
    - The moment when buyer and seller swap signed copies of a land sale contract, making it binding.
    - *See also:* equitable; completion
 
-2780. **exchange of medical reports** — 交换医疗报告
+2779. **exchange of medical reports** — 交换医疗报告
 
    - Swapping medical reports in injury claims before the hearing, hoping to agree them and save costs.
 
-2781. **Exchange Rate Mechanism** — 汇率机制
+2780. **Exchange Rate Mechanism** — 汇率机制
 
    - A system limiting how far the currencies of participating states could move against a central rate.
    - *Expands to:* Exchange Rate Mechanism; European Monetary Union
    - *See also:* European Monetary System; European Monetary Union; European Central Bank
 
-2782. **Exchange visitor** — 交流访问者 *(n.)*
+2781. **Exchange visitor** — 交流访问者 *(n.)*
 
    1. **交流访问者：** A foreign participant admitted temporarily through an approved educational or cultural exchange program.
 
-2783. **Exchequer** — 财政 *(n.)*
+2782. **Exchequer** — 财政 *(n.)*
 
    - The government department responsible for collecting and controlling national revenue.
    - *See also:* Chancellor of the Exchequer; Court of Exchequer
 
-2784. **excise duty** — 消费税
+2783. **excise duty** — 消费税
 
    - A tax charged on certain goods made and used inside the country, and on various licences.
    - *See also:* customs duty
 
-2785. **Excited Utterance** — 激动性陈述 *(n.)*
+2784. **Excited Utterance** — 激动性陈述 *(n.)*
 
    1. **激动性陈述：** A spontaneous statement made under the stress of a startling event, admissible despite the hearsay rule.
    - *Jurisdiction:* US
 
-2786. **Exclude (as in exclude a design)** — 排除外观设计
+2785. **Exclude (as in exclude a design)** — 排除外观设计
 
    1. **排除外观设计：** Separating a design from an application for a later eligible filing that may preserve its original priority.
 
-2787. **excluded material** — 排除材料
+2786. **excluded material** — 排除材料
 
    - Confidential material such as private records and journalistic documents, accessible by warrant only from a circuit judge.
    - *See also:* special procedure material
 
-2788. **exclusion and restriction of contractual liability** — 合同责任的排除和限制
+2787. **exclusion and restriction of contractual liability** — 合同责任的排除和限制
 
    - Contract terms that seek to exclude or limit a party's liability for breach, controlled by statute.
    - *See also:* exemption clause
 
-2789. **exclusion and restriction of negligence liability** — 过失责任的排除和限制
+2788. **exclusion and restriction of negligence liability** — 过失责任的排除和限制
 
    - Statutory limits on the extent to which a business may exclude liability for negligence.
    - *See also:* business liability; common duty of care
 
-2790. **Exclusionary rule** — 排除规则
+2789. **Exclusionary rule** — 排除规则
 
    1. **排除规则：** A doctrine barring admission of evidence obtained through violation of a defendant's constitutional rights.
    - *Jurisdiction:* US
 
-2791. **exclusionary rules** — 排除规则
+2790. **exclusionary rules** — 排除规则
 
    - Rules of evidence that bar certain facts from being proved, or bar particular methods of proof.
    - *See also:* evidence
 
-2792. **exclusion of consequential damages** — 间接损害赔偿排除
+2791. **exclusion of consequential damages** — 间接损害赔偿排除
 
    1. **间接损害赔偿排除：** A contractual provision excluding liability for categories of consequential damage within its properly interpreted scope.
 
-2793. **exclusion requirement** — 排除要求
+2792. **exclusion requirement** — 排除要求
 
    1. A sentencing order banning an offender from entering a specified place or area for up to two years.
    2. A family order excluding a suspected child-abuser from the family home.
    - *See also:* community order; suspended sentence; youth rehabilitation order; emergency protection order; power of arrest
 
-2794. **exclusive dealing arrangement** — 独家交易安排 *(n.)*
+2793. **exclusive dealing arrangement** — 独家交易安排 *(n.)*
 
    1. **独家交易安排：** An arrangement requiring a party to deal exclusively with a specified supplier, purchaser, or business partner.
 
-2795. **exclusive economic zone** — 专属经济区
+2794. **exclusive economic zone** — 专属经济区
 
    - The sea area up to 200 miles from a coastal state's baseline where it has sovereign rights over resources.
    - *Expands to:* exclusive economic zone
    - *See also:* baseline; high seas; law of the sea; territorial waters
 
-2796. **exclusive jurisdiction** — 专属管辖权
+2795. **exclusive jurisdiction** — 专属管辖权
 
    1. The branch of Chancery jurisdiction that belonged to Chancery alone, now handled by the Chancery Division.
    2. A contract clause giving only the courts of a chosen country power to decide disputes.
    - *See also:* Court of Chancery; concurrent jurisdiction
 
-2797. **exclusive jurisdiction clause** — 专属管辖权条款
+2796. **exclusive jurisdiction clause** — 专属管辖权条款
 
    1. **专属管辖权条款：** An agreement assigning specified disputes exclusively to designated courts.
 
-2798. **Exclusive Remedy** — 唯一救济；排他性救济
+2797. **Exclusive Remedy** — 唯一救济；排他性救济
 
    1. **唯一救济；排他性救济：** The sole statutory recourse available to an injured party, barring other common-law or tort claims.
    - *Jurisdiction:* US
 
-2799. **Exculpatory Clause** — 免责条款；开脱条款
+2798. **Exculpatory Clause** — 免责条款；开脱条款
 
    1. **免责条款；开脱条款：** A contractual term that relieves one party from liability for its own negligence or wrongful conduct.
 
-2800. **Exculpatory evidence** — 开脱罪责的证据 *(n.)*
+2799. **Exculpatory evidence** — 开脱罪责的证据 *(n.)*
 
    1. **开脱罪责的证据：** Evidence tending to show the accused is not guilty or less blameworthy.
 
-2801. **excusable homicide** — 情有可原的杀人罪
+2800. **excusable homicide** — 情有可原的杀人罪
 
    - A killing that carries no criminal liability, having occurred by misadventure without gross negligence.
    - *See also:* homicide
 
-2802. **Excusable Neglect** — 可原谅的疏忽
+2801. **Excusable Neglect** — 可原谅的疏忽
 
    1. **可原谅的疏忽：** A failure to act that a court forgives where the omission was not deliberate or in bad faith.
    - *Jurisdiction:* US
 
-2803. **excuse** — 借口 *(n.)*
+2802. **excuse** — 借口 *(n.)*
 
    - A defence in criminal law based on the defendant not being blameworthy for conduct that was nevertheless wrongful.
    - *See also:* Insanity; intoxication; justification; duress
 
-2804. **Excuses For Non-Production Of Original** — 无法提供原件的理由 *(n.)*
+2803. **Excuses For Non-Production Of Original** — 无法提供原件的理由 *(n.)*
 
    1. **无法提供原件的理由：** Recognized grounds permitting secondary evidence where the original writing is lost or unavailable.
    - *Jurisdiction:* US
 
-2805. **ex debito justitiae** — 来自正义所欠的
+2804. **ex debito justitiae** — 来自正义所欠的
 
    - Latin meaning owed as a matter of justice; describes a remedy the court has no choice but to grant.
-   - *Language:* Latin
+   - *Language:* la
 
-2806. **executed** — 已执行 *(adj.)*
+2805. **executed** — 已执行 *(adj.)*
 
    - Carried out or completed, as of a contract performed by both parties or consideration already given.
    - *See also:* consideration; executed trust; executory
 
-2807. **executed trust** — 执行信托
+2806. **executed trust** — 执行信托
 
    - A trust whose beneficiaries' interests the settlor has fully and clearly defined.
    - *See also:* executory trust
 
-2808. **execution** — 执行 *(n.)*
+2807. **execution** — 执行 *(n.)*
 
    1. The carrying out of a death sentence imposed by a court.
    2. The enforcement of a judgment creditor's rights, especially recovery of a debt.
    3. The finishing of the steps needed to make a written document legally valid.
    - *See also:* capital punishment; judgment creditor; fieri facias; enforcement of judgment; equitable execution; deed; execution of will
 
-2809. **execution against goods** — 对货物执行
+2808. **execution against goods** — 对货物执行
 
    - Enforcement of a judgment by seizing and selling the debtor's goods under a writ of fieri facias.
    - *See also:* fieri facias
 
-2810. **Execution Against Public Officers** — 对公职人员的执行
+2809. **Execution Against Public Officers** — 对公职人员的执行
 
    1. **对公职人员的执行：** Court enforcement of a money judgment directed against funds a government official holds accountable.
    - *Jurisdiction:* US
 
-2811. **execution of a will** — 遗嘱的执行
+2810. **execution of a will** — 遗嘱的执行
 
    - The process of making a will legally valid by signing it before two witnesses who also sign.
    - *See also:* presence; acknowledgment
 
-2812. **Execution Order** — 执行令 *(n.)*
+2811. **Execution Order** — 执行令 *(n.)*
 
    1. **执行令：** A court writ commanding an officer to enforce a judgment by seizing or selling the debtor's property.
 
-2813. **Executive action** — 行政措施 *(n.)*
+2812. **Executive action** — 行政措施 *(n.)*
 
    1. **行政措施：** An action taken through executive authority, including an order, directive, or administrative policy.
 
-2814. **executive agency** — 执行机构
+2813. **executive agency** — 执行机构
 
    - A semi-autonomous body delivering a public service under a government department, with no separate legal identity.
    - *See also:* Civil Service
 
-2815. **Executive Office for Immigration Review** — 美国移民审查执行办公室
+2814. **Executive Office for Immigration Review** — 美国移民审查执行办公室
 
    1. **美国移民审查执行办公室：** The Justice Department component responsible for immigration courts and related administrative adjudication.
 
-2816. **Executive Order** — 行政命令 *(n.)*
+2815. **Executive Order** — 行政命令 *(n.)*
 
    1. **行政命令：** A directive issued by the head of the executive branch to manage the operations of government.
    - *Jurisdiction:* US
 
-2817. **Executive Privilege** — 行政特权
+2816. **Executive Privilege** — 行政特权
 
    1. **行政特权：** A president's claim to withhold confidential executive communications from disclosure.
    - *Jurisdiction:* US
 
-2818. **executor** — 遗嘱执行人 *(n.)*
+2817. **executor** — 遗嘱执行人 *(n.)*
 
    - Someone named in a will to handle the deceased's estate, usually needing probate.
    - *See also:* probate; renunciation; administrator
 
-2819. **executor de son tort** — 无权代理人（遗产管理）
+2818. **executor de son tort** — 无权代理人（遗产管理）
 
    - **无权代理人（遗产管理）：** A person who intermeddles with a dead person's assets without authority from the personal representatives or the court.
    - *Language:* fr
 
-2820. **executor’s oath** — 遗嘱执行人宣誓
+2819. **executor’s oath** — 遗嘱执行人宣誓
 
    - A sworn statement formerly filed by executors applying for probate, now replaced by a statement of truth.
    - *See also:* grant of representation; statement of truth; oath
 
-2821. **executor’s year** — 遗嘱执行人年份
+2820. **executor’s year** — 遗嘱执行人年份
 
    - The year after a death during which personal representatives cannot be compelled to distribute the estate.
    - *See also:* personal representatives
 
-2822. **executory** — 执行 *(adj.)*
+2821. **executory** — 执行 *(adj.)*
 
    - Still to be done, as of a contract not yet carried out or consideration not yet given.
    - *See also:* consideration; executory interest; executory trust; executed
 
-2823. **Executory Contract** — 待履行合同
+2822. **Executory Contract** — 待履行合同
 
    1. **待履行合同：** A contract under which material performance obligations remain outstanding, with precise treatment depending on context.
 
-2824. **EXECUTORY CONTRACT (BANKRUPTCY)** — 待履行合同（破产）
+2823. **EXECUTORY CONTRACT (BANKRUPTCY)** — 待履行合同（破产）
 
    1. **待履行合同（破产）：** A contract under which both parties have material performance still due.
 
-2825. **Executory contracts** — 尚待履行的合同
+2824. **Executory contracts** — 尚待履行的合同
 
    1. **尚待履行的合同：** Contracts in which one or more parties still have significant obligations to perform.
 
-2826. **executory interest** — 执行权益
+2825. **executory interest** — 执行权益
 
    - A property interest arising or passing to a person when a specified event occurs, existing only in equity.
       - *Sense labels:* (mainly historical)
    - *Labels:* (mainly historical)
    - *See also:* remainder; reversion
 
-2827. **executory trust** — 执行信托
+2826. **executory trust** — 执行信托
 
    - A trust where the settlor's general intention is declared but the detailed terms are not fully settled.
    - *See also:* discretionary trust; executed trust
 
-2828. **exemplary damages** — 示范性损害赔偿
+2827. **exemplary damages** — 示范性损害赔偿
 
    - Damages awarded to punish a defendant rather than only to compensate the claimant, granted in limited tort cases.
 
-2829. **Exempt assets** — 豁免财产
+2828. **Exempt assets** — 豁免财产
 
    1. **豁免财产：** Property protected by law from seizure or sale to satisfy the liabilities of a debtor.
 
-2830. **exempt distributor** — 豁免分销商 *(n.)*
+2829. **exempt distributor** — 豁免分销商 *(n.)*
 
    1. **豁免分销商：** A wholesale fuel seller relieved from certain federal excise tax collection or payment obligations.
    - *Jurisdiction:* US
 
-2831. **Exemption** — 豁免；免除 *(n.)*
+2830. **Exemption** — 豁免；免除 *(n.)*
 
    1. **豁免；免除：** Formal relief from an obligation, liability, or requirement that would otherwise apply by law.
 
-2832. **exemption clause** — 豁免条款
+2831. **exemption clause** — 豁免条款
 
    - A contract term seeking to exclude or limit a party's liability in specified circumstances, subject to controls.
    - *See also:* business liability; Competition and Markets Authority; exclusion and restriction of negligence liability; international supply contract
 
-2833. **Exemptions, exempt property** — 豁免财产
+2832. **Exemptions, exempt property** — 豁免财产
 
    1. **豁免财产：** Assets a debtor may keep beyond creditors' reach under applicable exemption laws.
    - *Jurisdiction:* US
 
-2834. **exempt person** — 豁免人
+2833. **exempt person** — 豁免人
 
    1. **豁免人：** An individual or entity relieved by law from a duty, tax, or regulatory requirement otherwise applicable.
 
-2835. **exempt supply** — 免税供应
+2834. **exempt supply** — 免税供应
 
    - A supply listed by statute as exempt from value-added tax, such as land, insurance, and finance.
    - *See also:* value-added tax; zero-rated supply
 
-2836. **exempt wholesale generator** — 豁免批发发电商 *(n.)*
+2835. **exempt wholesale generator** — 豁免批发发电商 *(n.)*
 
    1. **豁免批发发电商：** A power producer exempt from certain utility holding-company regulation under federal energy law.
    - *Jurisdiction:* US
 
-2837. **Exención médica** — 医疗原因豁免
+2836. **Exención médica** — 医疗原因豁免
 
    1. **医疗原因豁免：** An exemption from specified naturalization examination requirements because a qualifying medical condition prevents compliance.
 
-2838. **exequatur** — 领事证书；执行许可 *(n.)*
+2837. **exequatur** — 领事证书；执行许可 *(n.)*
 
    - **领事证书；执行许可：** A certificate from a host state recognizing a consul and authorizing him to perform consular functions there.
    - *See also:* consul
 
-2839. **ex gratia** — 特惠
+2838. **ex gratia** — 特惠
 
    - Latin for done as a favour; describing a payment made without any legal duty to pay.
-   - *Language:* Latin
+   - *Language:* la
 
-2840. **Exhaustion Of Administrative Remedies** — 穷尽行政救济
+2839. **Exhaustion Of Administrative Remedies** — 穷尽行政救济
 
    1. **穷尽行政救济：** Using available administrative review procedures before seeking judicial intervention.
 
-2841. **exhaustion of local remedies** — 用尽当地补救办法
+2840. **exhaustion of local remedies** — 用尽当地补救办法
 
    - The rule that a wronged alien must pursue all available local remedies before his state may take up his claim.
    - *Jurisdiction:* International
    - *See also:* customary international law; alien; espousal of claim
 
-2842. **Exhaustion Of Remedies** — 穷尽救济
+2841. **Exhaustion Of Remedies** — 穷尽救济
 
    1. **穷尽救济：** The rule requiring all available administrative or judicial remedies be pursued before seeking review.
 
-2843. **exhaustion of rights** — 权利用尽
+2842. **exhaustion of rights** — 权利用尽
 
    - The principle that once goods are marketed, intellectual property owners cannot use their rights to block further trade in them.
    - *See also:* intellectual property; free movement
 
-2844. **Exhaustion Of State Remedies** — 穷尽州救济
+2843. **Exhaustion Of State Remedies** — 穷尽州救济
 
    1. **穷尽州救济：** The doctrine requiring claims be presented to state courts before invoking federal review.
    - *Jurisdiction:* US
 
-2845. **exhibit** — 证物 *(n.)*
+2844. **exhibit** — 证物 *(n.)*
 
    1. A thing or document brought into court, or used with a witness statement or affidavit.
    2. To cite an object or document within an affidavit or witness statement.
-   - *See also:* affidavit; real evidence; Civil Procedure Rules; affidavit
+   - *See also:* affidavit; real evidence; Civil Procedure Rules
 
-2846. **exhibits** — 物证；证据附件
+2845. **exhibits** — 物证；证据附件
 
    1. **物证；证据附件：** Documents or objects formally offered and identified as proof in a judicial or administrative proceeding.
 
-2847. **Exigent Circumstances** — 紧急情况
+2846. **Exigent Circumstances** — 紧急情况
 
    1. **紧急情况：** An emergency that makes lawful a warrantless search or entry to prevent harm or destruction.
    - *Jurisdiction:* US
 
-2848. **ex nudo pacto non oritur actio** — 诉讼权不会产生于赤裸裸的协议
+2847. **ex nudo pacto non oritur actio** — 诉讼权不会产生于赤裸裸的协议
 
    - Latin for no right of action arises from a bare agreement; a promise without consideration cannot be enforced.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* consideration
 
-2849. **ex-nuptial** — 非婚生；婚外 *(adj.)*
+2848. **ex-nuptial** — 非婚生；婚外 *(adj.)*
 
    1. **非婚生；婚外：** Describing a child born outside marriage, affecting status or parentage.
 
-2850. **ex officio** — 依职权
+2849. **ex officio** — 依职权
 
    - **依职权：** Latin meaning through the holding of an office, as when a judge sits on a body by right of his post.
-   - *Language:* Latin
+   - *Language:* la
 
-2851. **ex officio magistrate** — 当然治安法官
+2850. **ex officio magistrate** — 当然治安法官
 
    - A justice of the peace who holds that role by virtue of some other office, such as mayor.
-   - *Language:* Latin
+   - *Language:* la
 
-2852. **exordium** — 序言 *(n.)*
+2851. **exordium** — 序言 *(n.)*
 
    - The opening passage of a document or address, which in a will names the testator and cancels earlier wills.
 
-2853. **Expanded duty counsel** — 扩展值班律师
+2852. **Expanded duty counsel** — 扩展值班律师
 
    1. **扩展值班律师：** A duty counsel service offering longer representation, such as at a settlement conference.
    - *Jurisdiction:* CA
 
-2854. **ex parte** — 单方；缺席
+2853. **ex parte** — 单方；缺席
 
    1. Latin for on one side only; describing a hearing where just one party may attend and make submissions.
    2. Latin for on behalf of, used in law report headings naming the person who applied to the court.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Criminal Procedure Rules; without notice; judicial review
 
-2855. **Ex Parte Temporary Restraining Order** — 单方临时限制令；单方临时禁令 *(n.)*
+2854. **Ex Parte Temporary Restraining Order** — 单方临时限制令；单方临时禁令 *(n.)*
 
    1. **单方临时限制令；单方临时禁令：** Emergency injunctive relief issued without notice to the opposing party.
    - *Jurisdiction:* US
 
-2856. **expatriation** — 移居国外 *(n.)*
+2855. **expatriation** — 移居国外 *(n.)*
 
    - A person's free choice to live abroad, giving up or losing his former nationality.
    - *See also:* deportation
 
-2857. **Expectancy** — 期待权；期待利益 *(n.)*
+2856. **Expectancy** — 期待权；期待利益 *(n.)*
 
    1. **期待权；期待利益：** A future interest or benefit a person anticipates but does not yet possess or control.
 
-2858. **expectant heir** — 预期继承人
+2857. **expectant heir** — 预期继承人
 
    - Someone entitled in remainder or reversion, or with a prospect of inheriting property.
 
-2859. **Expectation Damages** — 期待利益损害赔偿
+2858. **Expectation Damages** — 期待利益损害赔偿
 
    1. **期待利益损害赔偿：** Damages placing the promisee where proper performance would have left them.
 
-2860. **Expedited appeal** — 加速上诉 *(n.)*
+2859. **Expedited appeal** — 加速上诉 *(n.)*
 
    1. **加速上诉：** An appeal handled on a shortened timetable because the court or governing rules require urgent consideration.
 
-2861. **expedited arbitration** — 快速仲裁 *(n.)*
+2860. **expedited arbitration** — 快速仲裁 *(n.)*
 
    1. **快速仲裁：** Arbitration conducted under shortened deadlines or simplified procedures to obtain a prompt decision.
 
-2862. **Expedited Review** — 快速审查
+2861. **Expedited Review** — 快速审查
 
    1. **快速审查：** An accelerated procedure for deciding a matter where ordinary delay would cause significant harm.
 
-2863. **Expert Basis** — 专家依据
+2862. **Expert Basis** — 专家依据
 
    1. **专家依据：** The facts, data, or grounds on which a qualified expert forms and supports an opinion.
    - *Jurisdiction:* US
 
-2864. **Expert Disclosure Of Underlying Facts** — 专家基础事实开示
+2863. **Expert Disclosure Of Underlying Facts** — 专家基础事实开示
 
    1. **专家基础事实开示：** Required disclosure of the facts and data an expert relied upon in forming trial opinions.
    - *Jurisdiction:* US
 
-2865. **Expert Fees In Civil Rights Actions** — 民权诉讼中的专家费用
+2864. **Expert Fees In Civil Rights Actions** — 民权诉讼中的专家费用
 
    1. **民权诉讼中的专家费用：** Statutory recovery of expert costs awarded to a prevailing party in civil rights suits.
    - *Jurisdiction:* US
 
-2866. **expert opinion** — 专家意见
+2865. **expert opinion** — 专家意见
 
    - The opinion of a witness with specialist knowledge, admissible to help the court on matters outside its expertise.
    - *See also:* opinion evidence
 
-2867. **Expert Qualification** — 专家资格 *(n.)*
+2866. **Expert Qualification** — 专家资格 *(n.)*
 
    1. **专家资格：** The skill, knowledge, or training that establishes a witness as competent to give opinion.
    - *Jurisdiction:* US
 
-2868. **expert report** — 专家报告
+2867. **expert report** — 专家报告
 
    1. **专家报告：** A written statement presenting a specialist's opinions, reasoning, and relevant technical findings.
 
-2869. **EXPERT REPORT (CONTENTS)** — 专家报告（内容）
+2868. **EXPERT REPORT (CONTENTS)** — 专家报告（内容）
 
    1. **专家报告（内容）：** The required written disclosure of an expert's opinions, basis, and qualifications for trial.
    - *Jurisdiction:* US
 
-2870. **Expert Testimony** — 专家证言
+2869. **Expert Testimony** — 专家证言
 
    1. **专家证言：** Opinion evidence given by a qualified specialist on a matter needing expertise.
 
-2871. **EXPERT TESTIMONY (2023 AMENDMENT)** — 专家证言（2023年修正）
+2870. **EXPERT TESTIMONY (2023 AMENDMENT)** — 专家证言（2023年修正）
 
    1. **专家证言（2023年修正）：** Revised rules governing expert disclosure and the reliability of expert opinions.
    - *Jurisdiction:* US
 
-2872. **Expert Witness** — 专家证人 *(n.)*
+2871. **Expert Witness** — 专家证人 *(n.)*
 
    1. **专家证人：** A witness permitted to opine based on specialized knowledge, skill, or experience.
 
-2873. **Expiring Laws Continuance Acts** — 即将到期的法律延续法案
+2872. **Expiring Laws Continuance Acts** — 即将到期的法律延续法案
 
    - Statutes once passed each year to extend the life of temporary Acts by another year.
 
-2874. **explanatory notes** — 解释性注释
+2873. **explanatory notes** — 解释性注释
 
    - Government notes explaining a public Act to non-lawyers, published with it but carrying no legal force.
 
-2875. **exploitation** — 剥削 *(n.)*
+2874. **exploitation** — 剥削 *(n.)*
 
    - Conduct such as slavery, forced labour, sexual exploitation, or organ removal, criminalized under modern slavery law.
    - *See also:* Modern Slavery Act 2015
 
-2876. **explosive** — 爆炸性 *(n.)*
+2875. **explosive** — 爆炸性 *(n.)*
 
    - A substance made or used to cause an explosion, whose possession in certain crimes aggravates the offence.
    - *See also:* burglary
 
-2877. **export bans** — 出口禁令
+2876. **export bans** — 出口禁令
 
    - Anticompetitive practices that stop products bought in one EU territory from being resold in another.
    - *See also:* Anticompetitive practices; Article 101; vertical agreements; parallel imports; geoblocking
 
-2878. **export carrier** — 出口承运人 *(n.)*
+2877. **export carrier** — 出口承运人 *(n.)*
 
    1. **出口承运人：** A transporter carrying goods from the exporting country to a foreign destination for shipment.
    - *Jurisdiction:* US
 
-2879. **export controls** — 出口管制
+2878. **export controls** — 出口管制
 
    1. **出口管制：** Legal restrictions on transferring specified goods, technology, software, or services across borders or to designated recipients.
 
-2880. **export declaration** — 出口申报 *(n.)*
+2879. **export declaration** — 出口申报 *(n.)*
 
    1. **出口申报：** A formal submission of information about goods leaving a customs territory.
 
-2881. **export financing interest** — 出口融资利息
+2880. **export financing interest** — 出口融资利息
 
    1. **出口融资利息：** Interest on debt incurred to fund the production or sale of goods for export markets.
    - *Jurisdiction:* US
 
-2882. **export-import bank obligations** — 进出口银行债务
+2881. **export-import bank obligations** — 进出口银行债务
 
    1. **进出口银行债务：** Debt instruments issued by the export-import bank as obligations backed by government.
    - *Jurisdiction:* US
 
-2883. **export monopoly** — 出口垄断
+2882. **export monopoly** — 出口垄断
 
    1. **出口垄断：** Exclusive state or private control over the outbound sale of particular domestic goods.
 
-2884. **export price** — 出口价格
+2883. **export price** — 出口价格
 
    1. **出口价格：** The price at which goods are first sold or offered for sale in an export market.
    - *Jurisdiction:* US
 
-2885. **export promotion expenses** — 出口促进费用
+2884. **export promotion expenses** — 出口促进费用
 
    1. **出口促进费用：** Costs incurred to promote distribution or sale of export goods abroad, subject to the applicable tax definition and exclusions.
 
-2886. **export property** — 出口财产
+2885. **export property** — 出口财产
 
    1. **出口财产：** Goods held for sale or lease to customers outside the country for export.
    - *Jurisdiction:* US
 
-2887. **export trade assets** — 出口贸易资产
+2886. **export trade assets** — 出口贸易资产
 
    1. **出口贸易资产：** Assets used in qualified export activities eligible for special tax treatment under law.
    - *Jurisdiction:* US
 
-2888. **export trade corporation** — 出口贸易公司 *(n.)*
+2887. **export trade corporation** — 出口贸易公司 *(n.)*
 
    1. **出口贸易公司：** A historically recognized controlled foreign corporation qualifying for special United States tax treatment of export trade income.
 
-2889. **export trade income** — 出口贸易收入
+2888. **export trade income** — 出口贸易收入
 
    1. **出口贸易收入：** Income from qualified export transactions eligible for preferential tax rates by statute.
    - *Jurisdiction:* US
 
-2890. **ex post facto** — 事后事实
+2889. **ex post facto** — 事后事实
 
    - Latin for by a subsequent act; describing a law or act that has retrospective effect.
-   - *Language:* Latin
+   - *Language:* la
 
-2891. **exposure** — 暴露 *(n.)*
+2890. **exposure** — 暴露 *(n.)*
 
    - A sexual offence committed by intentionally displaying one's genitals so that another sees them and is alarmed or distressed.
 
-2892. **expressio unius est exclusio alterius** — 明示其一即排除其他
+2891. **expressio unius est exclusio alterius** — 明示其一即排除其他
 
    - **明示其一即排除其他：** Latin meaning that naming one thing excludes others; a canon of interpretation.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
-2893. **Expressive Conduct** — 表达性行为
+2892. **Expressive Conduct** — 表达性行为
 
    1. **表达性行为：** Physical action intended to convey a particular message protected as speech under the constitution.
    - *Jurisdiction:* US
 
-2894. **express term** — 明示条款
+2893. **express term** — 明示条款
 
    - A contract provision that the parties have agreed in writing or speech.
    - *See also:* condition; warranty; innominate term; implied term
 
-2895. **express trust** — 表达信托
+2894. **express trust** — 表达信托
 
    - A trust the settlor creates by clearly stating an intention to create it.
    - *See also:* implied trust
 
-2896. **express warranty** — 明示保证
+2895. **express warranty** — 明示保证
 
    1. **明示保证：** An explicit contractual assurance about a fact, quality, condition, or promised performance.
 
-2897. **expropriation** — 征用 *(n.)*
+2896. **expropriation** — 征用 *(n.)*
 
    - A state's seizure of privately owned assets, usually without compensation, including those of foreign investors.
    - *See also:* compulsory purchase; royal prerogative; investment treaties; International Law Commission
 
-2898. **ex proprio motu** — 依职权主动
+2897. **ex proprio motu** — 依职权主动
 
    - **依职权主动：** Latin for of his own motion; describing action a court takes on its own initiative without any application.
-   - *Language:* Latin
+   - *Language:* la
 
-2899. **expulsion** — 驱逐 *(n.)*
+2898. **expulsion** — 驱逐 *(n.)*
 
    - In international law, a state's termination of an alien's permission to enter and stay.
    - *Jurisdiction:* International
    - *See also:* deportation
 
-2900. **Expungement** — 记录封存；抹除记录 *(n.)*
+2899. **Expungement** — 记录封存；抹除记录 *(n.)*
 
    1. **记录封存；抹除记录：** A court order erasing or sealing a criminal record as if the underlying event never occurred.
    - *Jurisdiction:* US
 
-2901. **extended sentence** — 延长刑期
+2900. **extended sentence** — 延长刑期
 
    - A term of imprisonment longer than the usual maximum for the offence, imposed on dangerous offenders.
 
-2902. **Extenuating Circumstances** — 减轻情节
+2901. **Extenuating Circumstances** — 减轻情节
 
    1. **减轻情节：** Facts that reduce the moral blame of an act without fully excusing the conduct.
 
-2903. **extinguishment** — 消灭 *(n.)*
+2902. **extinguishment** — 消灭 *(n.)*
 
    - The ending or cancellation of a right or interest, such as an easement when the two tenements come under one owner.
    - *See also:* easement; non-user
 
-2904. **extortion** — 勒索 *(n.)*
+2903. **extortion** — 勒索 *(n.)*
 
    - A common-law crime in which a public official abuses his office to obtain money or other benefit to which he is not entitled.
 
-2905. **EXTORTION (HOBBS ACT)** — 敲诈勒索（霍布斯法）
+2904. **EXTORTION (HOBBS ACT)** — 敲诈勒索（霍布斯法）
 
    1. **敲诈勒索（霍布斯法）：** Obtaining property through force or official right affecting interstate commerce.
    - *Jurisdiction:* US
 
-2906. **extradition** — 引渡 *(n.)*
+2905. **extradition** — 引渡 *(n.)*
 
    - The transfer of a suspected or convicted criminal from one country to another, usually under a treaty.
    - *See also:* fugitive offender; extradition treaty; double criminality; European Arrest Warrant
 
-2907. **extradition treaty** — 引渡条约
+2906. **extradition treaty** — 引渡条约
 
    - A treaty by which a state promises to hand over a fugitive criminal to the requesting state.
    - *See also:* extradition
 
-2908. **extrajudicial divorce** — 法外离婚
+2907. **extrajudicial divorce** — 法外离婚
 
    - A divorce obtained outside court through a non-judicial process, such as a religious formula.
    - *See also:* get; talaq; overseas divorce
 
-2909. **extraordinary general meeting** — 特别股东大会
+2908. **extraordinary general meeting** — 特别股东大会
 
    - A meeting of a company's members called outside the annual general meeting to deal with urgent business.
    - *See also:* general meeting
 
-2910. **extraordinary means** — 非常手段
+2909. **extraordinary means** — 非常手段
 
    - Medical treatments that do not benefit a patient and may burden him, so need not be used to prolong life.
    - *See also:* artificial nutrition and hydration
 
-2911. **extraordinary rendition** — 非常规引渡
+2910. **extraordinary rendition** — 非常规引渡
 
    - The extrajudicial moving of a person between states, often for harsh interrogation or torture.
    - *See also:* jus cogens; European Convention on Human Rights
 
-2912. **extraterritoriality** — 治外法权 *(n.)*
+2911. **extraterritoriality** — 治外法权 *(n.)*
 
    - A theory explaining diplomatic immunity by treating a foreign mission's premises as part of the sending state's territory.
    - *Jurisdiction:* International
    - *See also:* diplomatic immunity
 
-2913. **extrinsic evidence** — 外在证据
+2912. **extrinsic evidence** — 外在证据
 
    - Evidence about matters outside a document, not generally allowed to contradict its terms but sometimes admitted for fraud or mistake.
    - *See also:* parol evidence rule
 
-2914. **Extrinsic Fraud** — 外在欺诈
+2913. **Extrinsic Fraud** — 外在欺诈
 
    1. **外在欺诈：** Deception that prevents a party from fully presenting its case rather than deceiving on merits.
    - *Jurisdiction:* US
 
-2915. **ex turpi causa non oritur actio** — 不法原因不得起诉原则
+2914. **ex turpi causa non oritur actio** — 不法原因不得起诉原则
 
    - Latin for no action arises from a disreputable cause; courts may refuse claims based on the claimant's own unlawful conduct.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* illegal contract
 
-2916. **eyewitness** — 目击者
+2915. **eyewitness** — 目击者
 
    - A witness who has seen with his or her own eyes the event testified about.
    - *See also:* witness
 
 ## F
 
-2917. **F-1 Nonimmigrant Student** — F-1非移民学生
+2916. **F-1 Nonimmigrant Student** — F-1非移民学生
 
    1. **F-1非移民学生：** A foreign national admitted for qualifying academic study under the United States student classification.
 
-2918. **Face Amount** — 票面金额
+2917. **Face Amount** — 票面金额
 
    1. **票面金额：** The principal sum stated on a negotiable instrument or insurance policy at issuance.
 
-2919. **Face sheet filing** — 封面备案
+2918. **Face sheet filing** — 封面备案
 
    1. **封面备案：** A minimal bankruptcy petition filed to trigger the automatic stay pending full filing.
    - *Jurisdiction:* US
 
-2920. **Facial Challenge** — 表面审查异议
+2919. **Facial Challenge** — 表面审查异议
 
    1. **表面审查异议：** An attack on a law's validity on its face, regardless of how it may be applied.
    - *Jurisdiction:* US
 
-2921. **Facilitation** — 协助；便利 *(n.)*
+2920. **Facilitation** — 协助；便利 *(n.)*
 
    1. **协助；便利：** Assisting another to commit an offense without directly participating in the criminal act.
 
-2922. **facilitation payment** — 疏通费 *(n.)*
+2921. **facilitation payment** — 疏通费 *(n.)*
 
    1. **疏通费：** An unofficial payment intended to speed routine official action to which the payer is otherwise entitled.
 
-2923. **facility agreement** — 融资协议 *(n.)*
+2922. **facility agreement** — 融资协议 *(n.)*
 
    1. **融资协议：** A contract establishing the availability, terms, and repayment conditions of one or more credit facilities.
 
-2924. **fact** — 事实 *(n.)*
+2923. **fact** — 事实 *(n.)*
 
    - Something that has happened or exists, as distinct from law or opinion.
    - *See also:* trier of fact; opinion evidence; burden of proof; cause of action; credit; admissibility of evidence; factum
 
-2925. **factor** — 因素 *(n.)*
+2924. **factor** — 因素 *(n.)*
 
    - An agent given goods or their documents to sell, holding a lien on them for agency claims.
    - *See also:* mercantile agent; lien
 
-2926. **Factual Impossibility** — 事实不能 *(n.)*
+2925. **Factual Impossibility** — 事实不能 *(n.)*
 
    1. **事实不能：** A defense claim that the intended crime could not occur because of facts unknown to the actor.
 
-2927. **factum** — 事实或事实陈述 *(n.)*
+2926. **factum** — 事实或事实陈述 *(n.)*
 
    1. Latin for a fact, or a statement setting out facts.
    2. Latin for an act or deed; compare non est factum.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* fact; non est factum
 
-2928. **Failure Of Consideration** — 对价落空 *(n.)*
+2927. **Failure Of Consideration** — 对价落空 *(n.)*
 
    1. **对价落空：** Failure to receive the agreed exchange or basis for a promised or completed payment.
 
-2929. **failure to maintain** — 未能赡养
+2928. **failure to maintain** — 未能赡养
 
    - A spouse's or civil partner's neglect to support the other partner or the couple's children while the relationship subsists.
    - *See also:* child support maintenance
 
-2930. **failure to make disclosure** — 未能披露
+2929. **failure to make disclosure** — 未能披露
 
    - A party's failure to produce documents when a court direction requires it, which may bar reliance on them.
    - *See also:* disclosure and inspection of documents
 
-2931. **Failure To Preserve** — 未保存证据
+2930. **Failure To Preserve** — 未保存证据
 
    1. **未保存证据：** A party's loss or destruction of potentially relevant evidence in anticipation of litigation.
    - *Jurisdiction:* US
 
-2932. **Failure To State A Claim** — 未能提出诉讼请求
+2931. **Failure To State A Claim** — 未能提出诉讼请求
 
    1. **未能提出诉讼请求：** A pleading defect where alleged facts fail to support any recognized legal relief.
    - *Jurisdiction:* US
 
-2933. **fair and equitable treatment** — 公平和公正待遇
+2932. **fair and equitable treatment** — 公平和公正待遇
 
    - An investment treaty standard obliging a host state to deal fairly and equitably with foreign investors.
    - *Expands to:* fair and equitable treatment
    - *See also:* investment treaties
 
-2934. **fair comment** — 公平评论
+2933. **fair comment** — 公平评论
 
    - A former defamation defence that a statement counted as fair comment on a public-interest subject, now replaced by honest opinion.
    - *See also:* defamation; honest opinion
 
-2935. **fair dealing** — 公平处理
+2934. **fair dealing** — 公平处理
 
    1. **公平处理：** A copyright exception permitting certain fair uses for purposes specified by the governing law.
 
-2936. **fair dismissal** — 公平解雇
+2935. **fair dismissal** — 公平解雇
 
    - A dismissal an employer carried out reasonably, for a lawful reason and with fair procedure.
    - *See also:* Dismissal; substantive fairness; unfair dismissal
 
-2937. **FAIR LABOR STANDARDS ACT (REMEDIES)** — 公平劳动标准法（救济）
+2936. **FAIR LABOR STANDARDS ACT (REMEDIES)** — 公平劳动标准法（救济）
 
    1. **公平劳动标准法（救济）：** The statutory remedies, including back pay and liquidated damages, for wage and hour violations.
    - *Jurisdiction:* US
 
-2938. **Fair Market Value** — 公平市场价值
+2937. **Fair Market Value** — 公平市场价值
 
    1. **公平市场价值：** The price a willing buyer and seller would agree on in an open, informed market.
 
-2939. **Fair Notice** — 合理通知
+2938. **Fair Notice** — 合理通知
 
    1. **合理通知：** The requirement that a law or charge give a person adequate warning of proscribed conduct.
    - *Jurisdiction:* US
 
-2940. **fair reasonable and non-discriminatory licensing** — 公平、合理且无歧视许可
+2939. **fair reasonable and non-discriminatory licensing** — 公平、合理且无歧视许可
 
    1. **公平、合理且无歧视许可：** Licensing on terms meeting commitments concerning fairness, commercial reasonableness, and nondiscriminatory treatment of similarly situated licensees.
 
-2941. **fair rent** — 公平租金
+2940. **fair rent** — 公平租金
 
    - Rent set for a protected tenancy ignoring the shortage of rented homes, often below market level.
    - *See also:* protected; statutory tenancy; assured tenancies
 
-2942. **fair trial** — 公平审判
+2941. **fair trial** — 公平审判
 
    - The right under human rights law to a public hearing before an independent, impartial tribunal, with added safeguards in criminal cases.
    - *See also:* European Convention on Human Rights; Human Rights Act; presumption of innocence; equality of arms
 
-2943. **Fair Use** — 合理使用
+2942. **Fair Use** — 合理使用
 
    1. **合理使用：** A limited, permission-free use of copyrighted work for purposes such as criticism or comment.
    - *Jurisdiction:* US
 
-2944. **FAIR USE (COPYRIGHT)** — 著作权合理使用
+2943. **FAIR USE (COPYRIGHT)** — 著作权合理使用
 
    1. **著作权合理使用：** A flexible United States copyright limitation assessed through statutory factors, including purpose, nature, amount, and market effect.
 
-2945. **fairway** — 航道 *(n.)*
+2944. **fairway** — 航道 *(n.)*
 
    - The central channel of a river, reaching as near the shore as normal navigation allows.
 
-2946. **fair wear and tear** — 公平磨损
+2945. **fair wear and tear** — 公平磨损
 
    - A lease phrase excusing a tenant from repairing ordinary deterioration while still requiring steps to prevent consequential damage.
 
-2947. **falsa demonstratio non nocet** — 虚假描述不会失效
+2946. **falsa demonstratio non nocet** — 虚假描述不会失效
 
    - Latin maxim meaning an inaccurate description does not ruin a document; the accurate part governs if it identifies the subject clearly.
-   - *Language:* Latin
+   - *Language:* la
 
-2948. **false accounting** — 虚假会计
+2947. **false accounting** — 虚假会计
 
    - A crime of dishonestly falsifying, destroying, or hiding accounts or documents, committed for gain or to cause loss.
    - *See also:* forgery
 
-2949. **False Advertising** — 虚假广告
+2948. **False Advertising** — 虚假广告
 
    1. **虚假广告：** Deceptive commercial claims about goods or services that mislead consumers in the market.
    - *Jurisdiction:* US
 
-2950. **False Arrest** — 非法逮捕
+2949. **False Arrest** — 非法逮捕
 
    1. **非法逮捕：** The unlawful detention of a person without legal authority or probable cause.
 
-2951. **False Claims Act** — 虚假索赔法
+2950. **False Claims Act** — 虚假索赔法
 
    1. **虚假索赔法：** A statute imposing liability on those who knowingly submit false claims to the government.
    - *Jurisdiction:* US
 
-2952. **FALSE CLAIMS (KNOWLEDGE)** — 虚假索赔（明知）
+2951. **FALSE CLAIMS (KNOWLEDGE)** — 虚假索赔（明知）
 
    1. **虚假索赔（明知）：** The mental state required to show a false claim was submitted knowingly to the government.
    - *Jurisdiction:* US
 
-2953. **False Declarations** — 虚假声明
+2952. **False Declarations** — 虚假声明
 
    1. **虚假声明：** Knowingly making untrue statements in a matter within official government authority.
    - *Jurisdiction:* US
 
-2954. **False Designation Of Origin** — 虚假原产地标示
+2953. **False Designation Of Origin** — 虚假原产地标示
 
    1. **虚假原产地标示：** Mislabeling a product's source to deceive consumers under trademark protection law.
    - *Jurisdiction:* US
 
-2955. **false imprisonment** — 非法监禁
+2954. **false imprisonment** — 非法监禁
 
    - The total unlawful blocking of a person's liberty of movement, which can include an arrest and is a crime and a tort.
    - *See also:* trespass; aggravated; exemplary; habeas corpus
 
-2956. **false plea** — 虚假抗辩
+2955. **false plea** — 虚假抗辩
 
    - A pleading that is plainly frivolous or absurd and filed only to harass or stall.
 
-2957. **false pretence** — 虚假伪装
+2956. **false pretence** — 虚假伪装
 
    - Deceiving another through a false statement or behaviour; the old crime of obtaining property this way is now part of fraud.
    - *See also:* fraud; deception
 
-2958. **False Pretenses** — 欺诈取得；虚假借口
+2957. **False Pretenses** — 欺诈取得；虚假借口
 
    1. **欺诈取得；虚假借口：** Obtaining another's property by knowingly false representations made with intent to defraud.
    - *Jurisdiction:* US
 
-2959. **false statement** — 虚假陈述
+2958. **false statement** — 虚假陈述
 
    - A lie told under oath in judicial proceedings, dealt with as perjury.
    - *See also:* perjury
 
-2960. **False Statements** — 虚假陈述
+2959. **False Statements** — 虚假陈述
 
    1. **虚假陈述：** Deliberately untrue statements made to a government agency or in a required filing.
    - *Jurisdiction:* US
 
-2961. **false trade description** — 虚假商品说明
+2960. **false trade description** — 虚假商品说明
 
    - An untrue statement about goods made during business, which was formerly a criminal offence.
    - *See also:* trade description
 
-2962. **falsification of accounts** — 伪造账目
+2961. **falsification of accounts** — 伪造账目
 
    - The offence of dishonestly altering or concealing business accounts or records.
    - *See also:* false accounting
 
-2963. **familial child sexual offences** — 家庭儿童性犯罪
+2962. **familial child sexual offences** — 家庭儿童性犯罪
 
    - Offences criminalizing sexual activity between family members, including activity with or inciting a child relative.
 
-2964. **family** — 家庭 *(n.)*
+2963. **family** — 家庭 *(n.)*
 
    - A set of people linked by close ties, which in law usually means kinship, marriage, civil partnership, or adoption.
    - *See also:* cohabitants
 
-2965. **Family And Medical Leave** — 家庭与医疗休假
+2964. **Family And Medical Leave** — 家庭与医疗休假
 
    1. **家庭与医疗休假：** Statutory job-protected leave for family or serious health reasons for eligible employees.
    - *Jurisdiction:* US
 
-2966. **family assets** — 家庭资产
+2965. **family assets** — 家庭资产
 
    - Property bought by spouses to serve the family, such as the home, furniture, and car.
    - *See also:* matrimonial home; financial provision order; property adjustment order
 
-2967. **family assistance order** — 家庭援助令
+2966. **family assistance order** — 家庭援助令
 
    - A court order for an officer to support, guide, and befriend a child or someone close to the child.
    - *See also:* Children and Family Court Advisory and Support Service
 
-2968. **Family Court** — 家事法庭
+2967. **Family Court** — 家事法庭
 
    - A court for England and Wales hearing family law matters, replacing the earlier county, family proceedings, and High Court tiers.
    - *Jurisdiction:* England and Wales
    - *See also:* family proceedings; inherent
 
-2969. **Family dispute resolution process** — 家庭纠纷解决程序
+2968. **Family dispute resolution process** — 家庭纠纷解决程序
 
    1. **家庭纠纷解决程序：** A structured process, including mediation, for resolving parenting or support disputes outside court.
 
-2970. **Family Division** — 家庭部门
+2969. **Family Division** — 家庭部门
 
    - The High Court division handling family proceedings and non-contentious probate matters.
    - *See also:* High Court; family proceedings; Probate, Divorce and Admiralty Division; Family Court
 
-2971. **Family farmer** — 家庭农场主 *(n.)*
+2970. **Family farmer** — 家庭农场主 *(n.)*
 
    1. **家庭农场主：** A debtor meeting size and income tests for a family farmer bankruptcy chapter relief.
    - *Jurisdiction:* US
 
-2972. **Family Intervention Tenancy** — 家庭干预租赁
+2971. **Family Intervention Tenancy** — 家庭干预租赁
 
    - A tenancy offered to a tenant responsible for anti-social behaviour, with limited security and a behaviour support agreement.
    - *See also:* security of tenure
 
-2973. **Family Justice Council** — 家庭司法委员会
+2972. **Family Justice Council** — 家庭司法委员会
 
    - A body that oversees family justice and suggests reforms when needed.
 
-2974. **Family justice services and programs** — 家庭司法服务与项目
+2973. **Family justice services and programs** — 家庭司法服务与项目
 
    1. **家庭司法服务与项目：** Government-funded services helping families resolve separation issues and navigate family court.
 
-2975. **family life** — 家庭生活
+2974. **family life** — 家庭生活
 
    - A qualified human right to respect for one's family relationships, extending beyond formal or traditional arrangements.
    - *See also:* European Convention on Human Rights; Human Rights Act; qualified right; right to marry
 
-2976. **family name** — 姓氏
+2975. **family name** — 姓氏
 
    - A person's inherited name, commonly the surname shared with relatives.
    - *See also:* surname
 
-2977. **Family net disposable income** — 家庭净可支配收入
+2976. **Family net disposable income** — 家庭净可支配收入
 
    1. **家庭净可支配收入：** The income a household retains after taxes and allowable deductions, used in support formulas.
 
-2978. **family proceedings** — 家庭诉讼
+2977. **family proceedings** — 家庭诉讼
 
    - Cases dealt with by the Family Court and by the High Court's Family Division.
-   - *See also:* Family Court; Family Court; wards of court
+   - *See also:* Family Court; wards of court
 
-2979. **family provision** — 家庭拨款
+2978. **family provision** — 家庭拨款
 
    - Court-ordered provision from a deceased person's estate for family or dependants who were left without reasonable financial support.
    - *See also:* dependants
 
-2980. **FAMILY RECORDS (HEARSAY)** — 家庭记录（传闻）
+2979. **FAMILY RECORDS (HEARSAY)** — 家庭记录（传闻）
 
    1. **家庭记录（传闻）：** Family records such as Bibles or inscriptions admissible as an exception.
    - *Jurisdiction:* US
 
-2981. **family violence** — 家庭暴力 *(n.)*
+2980. **family violence** — 家庭暴力 *(n.)*
 
    1. **家庭暴力：** Violent or threatening conduct by a family member that harms another family member's safety.
 
-2982. **farm business tenancy** — 农场企业租赁
+2981. **farm business tenancy** — 农场企业租赁
 
    - A tenancy of agricultural land granted under statute, without automatic security and terminable on a year's notice.
    - *See also:* agricultural holding
 
-2983. **farmers stock peanuts** — 农户库存花生
+2982. **farmers stock peanuts** — 农户库存花生
 
    1. **农户库存花生：** Peanuts in the farmer's possession that qualify for special tax treatment by statute.
    - *Jurisdiction:* US
 
-2984. **farming** — 农业 *(n.)*
+2983. **farming** — 农业 *(n.)*
 
    - The occupation of land mainly for husbandry, given special treatment in income tax and inheritance tax.
 
-2985. **fast track** — 快速通道
+2984. **fast track** — 快速通道
 
    - The procedural track for civil claims of moderate value, using standard directions and a fixed timetable to keep costs proportionate.
    - *See also:* allocation
 
-2986. **fatal accidents** — 致命事故
+2985. **fatal accidents** — 致命事故
 
    - Claims under statute that let a deceased person's estate and dependants recover damages after a fatal injury.
 
-2987. **Fatal Variance** — 重大差异 *(n.)*
+2986. **Fatal Variance** — 重大差异 *(n.)*
 
    1. **重大差异：** A material discrepancy between the pleading and the proof that defeats the charge.
    - *Jurisdiction:* US
 
-2988. **Fault** — 过错
+2987. **Fault** — 过错
 
    1. **过错：** A standard of blameworthiness based on conduct falling below a required legal duty.
 
-2989. **favor contractus** — 对合同的青睐
+2988. **favor contractus** — 对合同的青睐
 
    - Latin for favour of the contract; the principle that contracts should be upheld where possible.
-   - *Language:* Latin
+   - *Language:* la
 
-2990. **FCA** — 金融行为监管局
+2989. **FCA** — 金融行为监管局
 
    - Short for the Financial Conduct Authority, the body regulating financial services in the UK.
    - *See also:* Financial Conduct Authority
 
-2991. **Federal Child Support Guidelines** — 联邦子女抚养费准则
+2990. **Federal Child Support Guidelines** — 联邦子女抚养费准则
 
    1. **联邦子女抚养费准则：** Canadian regulations setting the formula and tables for calculating child support payments.
    - *Jurisdiction:* CA
 
-2992. **Federal Child Support Tables** — 联邦子女抚养费表
+2991. **Federal Child Support Tables** — 联邦子女抚养费表
 
    1. **联邦子女抚养费表：** Schedules under Canadian guidelines listing monthly child support by income and children.
    - *Jurisdiction:* CA
 
-2993. **federal home loan banks** — 联邦住房贷款银行
+2992. **federal home loan banks** — 联邦住房贷款银行
 
    1. **联邦住房贷款银行：** Government-sponsored banks providing liquidity to member financial institutions for housing.
    - *Jurisdiction:* US
 
-2994. **federal insurance office** — 联邦保险办公室
+2993. **federal insurance office** — 联邦保险办公室
 
    1. **联邦保险办公室：** A federal agency monitoring the insurance industry and advising on national policy.
    - *Jurisdiction:* US
 
-2995. **Federalism** — 联邦主义 *(n.)*
+2994. **Federalism** — 联邦主义 *(n.)*
 
    1. **联邦主义：** A constitutional distribution of governmental authority between a central government and constituent political units.
 
-2996. **Federal Judge** — 联邦法官
+2995. **Federal Judge** — 联邦法官
 
    1. **联邦法官：** A judicial officer appointed to serve on a court within the federal court system.
    - *Jurisdiction:* US
 
-2997. **federal license or permit** — 联邦许可
+2996. **federal license or permit** — 联邦许可
 
    1. **联邦许可：** Government authorization required to engage in a regulated activity under federal law.
    - *Jurisdiction:* US
 
-2998. **Federal Preemption** — 联邦优先权 *(n.)*
+2997. **Federal Preemption** — 联邦优先权 *(n.)*
 
    1. **联邦优先权：** The principle that federal law displaces conflicting state law within its constitutional scope.
    - *Jurisdiction:* US
 
-2999. **Federal Privilege Rule** — 联邦特权规则
+2998. **Federal Privilege Rule** — 联邦特权规则
 
    1. **联邦特权规则：** The rule that federal courts apply state privilege law in diversity cases.
    - *Jurisdiction:* US
 
-3000. **Federal public defender** — 联邦公设辩护人 *(n.)*
+2999. **Federal public defender** — 联邦公设辩护人 *(n.)*
 
    1. **联邦公设辩护人：** A lawyer appointed to represent indigent defendants in federal criminal proceedings.
    - *Jurisdiction:* US
 
-3001. **Federal public defender organization** — 联邦公设辩护人机构 *(n.)*
+3000. **Federal public defender organization** — 联邦公设辩护人机构 *(n.)*
 
    1. **联邦公设辩护人机构：** An office established to provide defense counsel to eligible defendants in federal cases.
    - *Jurisdiction:* US
 
-3002. **Federal Question** — 联邦问题 *(n.)*
+3001. **Federal Question** — 联邦问题 *(n.)*
 
    1. **联邦问题：** A claim arising under the Constitution, laws, or treaties of the United States.
    - *Jurisdiction:* US
 
-3003. **Federal question jurisdiction** — 联邦问题管辖权 *(n.)*
+3002. **Federal question jurisdiction** — 联邦问题管辖权 *(n.)*
 
    1. **联邦问题管辖权：** A federal court's authority over qualifying disputes arising under federal law.
 
-3004. **Federal Sentencing Guidelines** — 联邦量刑指南
+3003. **Federal Sentencing Guidelines** — 联邦量刑指南
 
    1. **联邦量刑指南：** A structured framework advising uniform sentences for federal criminal offenses.
    - *Jurisdiction:* US
 
-3005. **federal share** — 联邦份额
+3004. **federal share** — 联邦份额
 
    1. **联邦份额：** The portion of a funded program's costs borne by the federal government under a grant.
    - *Jurisdiction:* US
 
-3006. **federal state** — 联邦国家
+3005. **federal state** — 联邦国家
 
    - A state formed by uniting previously autonomous states, which gives up sovereignty to the new composite state.
    - *See also:* confederation
 
-3007. **fee** — 费用 *(n.)*
+3006. **fee** — 费用 *(n.)*
 
    - A legal estate in land that can be inherited, mainly significant today as the fee simple absolute in possession.
    - *See also:* fee simple absolute in possession
 
-3008. **fee farm rent** — 农场租金
+3007. **fee farm rent** — 农场租金
 
    - A rentcharge reserving a perpetual rent out of land, often linked to a freehold grant.
    - *See also:* rentcharge
 
-3009. **Fee Simple** — 完全所有权；绝对土地保有权
+3008. **Fee Simple** — 完全所有权；绝对土地保有权
 
    1. **完全所有权；绝对土地保有权：** The most complete form of land ownership, freely transferable and inheritable.
 
-3010. **fee simple absolute in possession** — 简单绝对占有
+3009. **fee simple absolute in possession** — 简单绝对占有
 
    - In land law, the fullest freehold estate, giving the owner indefinite, unconditional and immediate rights over the land.
    - *See also:* term of years absolute; re-entry
 
-3011. **fee tail** — 费尾
+3010. **fee tail** — 费尾
 
    - A former legal estate in land limiting inheritance to a person's direct descendants, abolished and now effective only in equity.
    - *See also:* entailed interest
 
-3012. **Fellow Servant Rule** — 同事过失规则
+3011. **Fellow Servant Rule** — 同事过失规则
 
    1. **同事过失规则：** A doctrine barring an injured worker from suing an employer for a coworker's negligence.
    - *Jurisdiction:* US
 
-3013. **felony** — 重罪 *(n.)*
+3012. **felony** — 重罪 *(n.)*
 
    - A former label for the most serious crimes, abandoned in the twentieth century and replaced by the modern classification of offences.
    - *See also:* misdemeanour; arrestable offence; indictable offence; summary offence
 
-3014. **Felony Murder** — 重罪谋杀 *(n.)*
+3013. **Felony Murder** — 重罪谋杀 *(n.)*
 
    1. **重罪谋杀：** Liability for murder when a death occurs during the commission of a dangerous felony.
 
-3015. **female genital mutilation** — 女性生殖器切割
+3014. **female genital mutilation** — 女性生殖器切割
 
    - The medically unnecessary cutting of female genitalia, criminalised whether performed inside or outside the country by residents.
    - *Expands to:* female genital mutilation
 
-3016. **female genital mutilation/cutting** — 女性生殖器切割
+3015. **female genital mutilation/cutting** — 女性生殖器切割
 
    1. **女性生殖器切割：** The partial or total removal of female genitalia for non-medical cultural reasons, criminalized.
 
-3017. **Female genital mutilation or cutting (FGM/C)** — 女性生殖器残割
+3016. **Female genital mutilation or cutting (FGM/C)** — 女性生殖器残割
 
    1. **女性生殖器残割：** Nonmedical injury to or removal of female genital tissue, which may engage criminal and protection laws.
 
-3018. **feminist legal theory** — 女权主义法律理论
+3017. **feminist legal theory** — 女权主义法律理论
 
    - A body of legal scholarship exposing how supposedly neutral law ignores women's position, with liberal, radical, difference and postmodern strands.
    - *See also:* postmodernist legal thought
 
-3019. **Feoffment** — 封地赠与；地产让与 *(n.)*
+3018. **Feoffment** — 封地赠与；地产让与 *(n.)*
 
    1. **封地赠与；地产让与：** A conveyance of freehold land by livery of seisin under historical common law.
 
-3020. **ferry** — 渡轮 *(n.)*
+3019. **ferry** — 渡轮 *(n.)*
 
    - A public right of passage by boat over water, joining places and usually enjoyed by royal grant or long use.
    - *See also:* prescription
 
-3021. **FET** — 看到公平公正的待遇
+3020. **FET** — 看到公平公正的待遇
 
    - Abbreviation for fair and equitable treatment.
    - *See also:* fair and equitable treatment
 
-3022. **feudal system** — 封建制度
+3021. **feudal system** — 封建制度
 
    - A medieval social and economic order built on land tenure, in which lords granted land in return for service and loyalty.
    - *See also:* copyhold; estate
 
-3023. **FGM** — 女性生殖器切割
+3022. **FGM** — 女性生殖器切割
 
    - Abbreviation for female genital mutilation.
    - *See also:* female genital mutilation
 
-3024. **fiat justicia ruat coelum** — 即使天塌下来，也要伸张正义
+3023. **fiat justicia ruat coelum** — 即使天塌下来，也要伸张正义
 
    - Latin for let justice be done though the heavens fall; right must prevail however severe the cost.
-   - *Language:* Latin
+   - *Language:* la
 
-3025. **fiction** — 虚构 *(n.)*
+3024. **fiction** — 虚构 *(n.)*
 
    - A legally accepted assumption that treats something as true regardless of the facts, once used to expand court remedies and jurisdiction.
    - *See also:* trover
 
-3026. **fiduciary** — 受托人 *(n.)*
+3025. **fiduciary** — 受托人 *(n.)*
 
    1. A person who occupies a position of trust and must act solely in another's interest, such as a trustee.
    2. Of or relating to a relationship of trust, as between trustee and beneficiary or solicitor and client.
-   - *Language:* Latin
+   - *Language:* la
 
-3027. **fiduciary account** — 信托账户；受托账户
+3026. **fiduciary account** — 信托账户；受托账户
 
    1. **信托账户；受托账户：** An account holding funds managed by a fiduciary for the benefit of another person.
 
-3028. **Fiduciary Duty** — 信义义务
+3027. **Fiduciary Duty** — 信义义务
 
    1. **信义义务：** An obligation to act loyally and properly for another within a relationship of entrusted responsibility.
 
-3029. **fiduciary out** — 信义义务例外
+3028. **fiduciary out** — 信义义务例外
 
    1. **信义义务例外：** A contractual exception allowing directors to alter transaction commitments when required to comply with their fiduciary duties.
 
-3030. **fiduciary records** — 受托人记录
+3029. **fiduciary records** — 受托人记录
 
    1. **受托人记录：** Books and documents a fiduciary must keep of acts performed for a beneficiary.
 
-3031. **Field office** — 地方办事处
+3030. **Field office** — 地方办事处
 
    1. **地方办事处：** A geographically based agency office providing interviews, case services, or local administrative operations.
 
-3032. **fieri facias** — 财产扣押令
+3031. **fieri facias** — 财产扣押令
 
    - **财产扣押令：** Latin for 'you should cause to be done'; a High Court writ letting an enforcement officer seize a debtor's property to satisfy a judgment debt.
-   - *Language:* Latin
+   - *Language:* la
    - *Expands to:* fieri facias
    - *See also:* High Court Enforcement Officer
 
-3033. **fieri feci** — 已执行回报
+3032. **fieri feci** — 已执行回报
 
    - **已执行回报：** Latin for 'I have caused it to be done'; an officer's account of sums recovered by execution under a writ.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* High Court Enforcement Officer; fieri facias
 
-3034. **fi. fa.** — 财产扣押执行令
+3033. **fi. fa.** — 财产扣押执行令
 
    - **财产扣押执行令：** Abbreviation for fieri facias.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* fieri facias
 
-3035. **Fifth Amendment** — 第五修正案 *(n.)*
+3034. **Fifth Amendment** — 第五修正案 *(n.)*
 
    1. **第五修正案：** A constitutional guarantee of due process, grand jury, and self-incrimination protections.
    - *Jurisdiction:* US
 
-3036. **Fighting Words** — 挑衅性言论
+3035. **Fighting Words** — 挑衅性言论
 
    1. **挑衅性言论：** Speech directed to provoke an immediate breach of the peace, unprotected by the First Amendment.
    - *Jurisdiction:* US
 
-3037. **File** — 提交申请
+3036. **File** — 提交申请
 
    1. **提交申请：** Lodging a document or application with the competent authority through an accepted procedure.
 
-3038. **Files control office** — 档案管理办公室
+3037. **Files control office** — 档案管理办公室
 
    1. **档案管理办公室：** The agency office recorded as responsible for custody or tracking of an immigration file.
 
-3039. **filicide** — 杀子罪
+3038. **filicide** — 杀子罪
 
    1. **杀子罪：** The unlawful killing of one's own son or daughter by a parent.
 
-3040. **filing** — 归档 *(n.)*
+3039. **filing** — 归档 *(n.)*
 
    - The delivery of a legal document to the official authorised to receive and keep it, such as a court clerk.
 
-3041. **Filing date** — 申请日 *(n.)*
+3040. **Filing date** — 申请日 *(n.)*
 
    1. **申请日：** The date a filing satisfies the legal requirements for recognition as an application.
 
-3042. **final act** — 最后文件
+3041. **final act** — 最后文件
 
    - A paper that formally records what took place at an international conference, not binding unless signed separately and ratified.
    - *See also:* ratification; treaty
 
-3043. **Final Agency Action** — 最终行政行为 *(n.)*
+3042. **Final Agency Action** — 最终行政行为 *(n.)*
 
    1. **最终行政行为：** A definitive agency decision that is reviewable by a court under administrative law.
    - *Jurisdiction:* US
 
-3044. **final award** — 终局裁决
+3043. **final award** — 终局裁决
 
    1. **终局裁决：** An arbitral decision disposing of all remaining matters submitted to the tribunal.
 
-3045. **FINAL DECISION (APPELLATE JURISDICTION)** — 上诉管辖中的终局决定
+3044. **FINAL DECISION (APPELLATE JURISDICTION)** — 上诉管辖中的终局决定
 
    1. **上诉管辖中的终局决定：** A decision ending the litigation on its merits sufficiently to permit ordinary final-decision appellate review.
 
-3046. **Final Decision Rule** — 最终决定规则
+3045. **Final Decision Rule** — 最终决定规则
 
    1. **最终决定规则：** The rule that only a final agency decision may be challenged in court.
    - *Jurisdiction:* US
 
-3047. **final judgment** — 最终判决
+3046. **final judgment** — 最终判决
 
    - In civil proceedings, the decision that concludes the action, normally given at trial and appealable without permission.
    - *See also:* judgment; interim judgment
 
-3048. **Final Judgment Rule** — 终局判决规则
+3047. **Final Judgment Rule** — 终局判决规则
 
    1. **终局判决规则：** The general requirement that appellate review await final disposition, unless an authorized exception permits earlier review.
 
-3049. **Finance Bill** — 财务法案
+3048. **Finance Bill** — 财务法案
 
    - A money bill introduced each year to give effect to the Budget's tax proposals, which the upper house cannot amend.
-   - *See also:* money bill; money bill
+   - *See also:* money bill
 
-3050. **financial activity** — 金融活动 *(n.)*
+3049. **financial activity** — 金融活动 *(n.)*
 
    1. **金融活动：** Conduct involving the provision or transfer of financial products or services for compensation.
    - *Jurisdiction:* US
 
-3051. **financial assistance** — 财务援助
+3050. **financial assistance** — 财务援助
 
    - In company law, the unlawful giving of funds or similar help by a company so that someone can buy its shares, subject to exceptions.
    - *See also:* public company; employees’ share scheme
 
-3052. **Financial Conduct Authority** — 金融行为监管局
+3051. **Financial Conduct Authority** — 金融行为监管局
 
    - A UK body that regulates financial firms and markets, able to investigate insider dealing, market abuse and money laundering.
    - *Expands to:* Financial Conduct Authority; Financial Services Authority; Prudential Regulation Authority
 
-3053. **financial corporation** — 金融公司 *(n.)*
+3052. **financial corporation** — 金融公司 *(n.)*
 
    1. **金融公司：** A corporation engaged principally in financial activities, subject to any narrower statutory definition.
 
-3054. **financial covenant** — 财务约定
+3053. **financial covenant** — 财务约定
 
    1. **财务约定：** A contractual promise requiring a borrower to meet specified financial conditions or limits.
 
-3055. **financial institution** — 金融机构 *(n.)*
+3054. **financial institution** — 金融机构 *(n.)*
 
    1. **金融机构：** An entity principally engaged in banking, lending, or other regulated financial services.
 
-3056. **financial intermediary** — 金融中介 *(n.)*
+3055. **financial intermediary** — 金融中介 *(n.)*
 
    1. **金融中介：** An entity that channels funds between savers and borrowers in return for a fee.
 
-3057. **financial product or service** — 金融产品或服务
+3056. **financial product or service** — 金融产品或服务
 
    1. **金融产品或服务：** A good or service offered to consumers by a covered provider under consumer finance law.
    - *Jurisdiction:* US
 
-3058. **financial provision order** — 财务规定令
+3057. **financial provision order** — 财务规定令
 
    - A court order for maintenance or a lump sum to adjust the finances of divorcing or separating parties and their children.
    - *See also:* property adjustment orders; clean break; maintenance pending suit; property adjustment order
 
-3059. **financial relief** — 经济救济
+3058. **financial relief** — 经济救济
 
    - The range of court orders adjusting money and property between spouses or partners on relationship breakdown, and for children's maintenance.
    - *See also:* maintenance pending suit; financial provision orders; property adjustment orders; child support maintenance; avoidance of disposition order
 
-3060. **Financial Reporting Council** — 财务报告委员会
+3059. **Financial Reporting Council** — 财务报告委员会
 
    - A UK body that promotes sound company governance and reliable financial reporting and sets accounting and audit standards.
    - *Expands to:* Financial Reporting Council
    - *See also:* Financial Reporting Standards
 
-3061. **Financial Reporting Standards** — 财务报告准则
+3060. **Financial Reporting Standards** — 财务报告准则
 
    - UK accounting rules set by the Financial Reporting Council, prescribing how company accounts must be prepared to show a true and fair picture.
    - *Expands to:* Financial Reporting Standards
    - *See also:* Financial Reporting Council; micro-entities; accounting practice
 
-3062. **financial sanctions** — 金融制裁
+3061. **financial sanctions** — 金融制裁
 
    1. **金融制裁：** Restrictions on access to funds, financial services, or financial dealings with designated targets.
 
-3063. **financial services entity** — 金融服务实体 *(n.)*
+3062. **financial services entity** — 金融服务实体 *(n.)*
 
    1. **金融服务实体：** A business regulated as a provider of consumer financial services under federal law.
    - *Jurisdiction:* US
 
-3064. **financial services income** — 金融服务收入
+3063. **financial services income** — 金融服务收入
 
    1. **金融服务收入：** Revenue derived from providing regulated financial services to customers or clients.
    - *Jurisdiction:* US
 
-3065. **financial subsidiary** — 金融子公司 *(n.)*
+3064. **financial subsidiary** — 金融子公司 *(n.)*
 
    1. **金融子公司：** A subordinated company through which a bank conducts permitted financial activities.
    - *Jurisdiction:* US
 
-3066. **financial year** — 财务年度
+3065. **financial year** — 财务年度
 
    1. For corporation tax, the twelve months running from April to the following March, taxed separately each year.
    2. In accounting, any twelve-month span covered by published financial statements.
    - *See also:* tax year
 
-3067. **finding** — 认定；裁定
+3066. **finding** — 认定；裁定
 
    1. **认定；裁定：** A formal conclusion of fact or law made by a judge, jury, or administrative agency.
 
-3068. **Findings Of Fact** — 事实认定
+3067. **Findings Of Fact** — 事实认定
 
    1. **事实认定：** Determinations of what actually occurred, made by the trier of fact in a case.
    - *Jurisdiction:* US
 
-3069. **FINDINGS OF FACT (REQUIREMENT)** — 事实认定（要求）
+3068. **FINDINGS OF FACT (REQUIREMENT)** — 事实认定（要求）
 
    1. **事实认定（要求）：** The obligation to state factual conclusions supporting certain agency or court rulings.
    - *Jurisdiction:* US
 
-3070. **fine** — 罚款 *(n.)*
+3069. **fine** — 罚款 *(n.)*
 
    1. A money penalty imposed on a convicted offender by a court.
    2. A one-off payment from a tenant to a landlord to secure or renew a lease.
    - *See also:* summary offences; premium
 
-3071. **firearm** — 枪支 *(n.)*
+3070. **firearm** — 枪支 *(n.)*
 
    - Any weapon with a barrel able to fire a shot, bullet, or missile, together with anything classed as a prohibited weapon.
    - *See also:* prohibited weapon; burglary; offensive weapon; repeat offender
 
-3072. **fire damage** — 火灾损失
+3071. **fire damage** — 火灾损失
 
    - An occupier is generally free of liability for an accidental blaze on the premises, but is liable if negligence or nuisance caused it.
 
-3073. **First Amendment** — 美国宪法第一修正案 *(n.)*
+3072. **First Amendment** — 美国宪法第一修正案 *(n.)*
 
    1. **美国宪法第一修正案：** The constitutional amendment protecting religious liberty, expression, assembly, and petition against prohibited governmental interference.
 
-3074. **first-lien debt** — 第一顺位担保债务
+3073. **first-lien debt** — 第一顺位担保债务
 
    1. **第一顺位担保债务：** Debt secured by a claim over collateral ranking ahead of competing security interests.
 
-3075. **first offender** — 初犯
+3074. **first offender** — 初犯
 
    - A person who has never previously been convicted by a criminal court.
    - *See also:* sentence
 
-3076. **FIRST SALE (COPYRIGHT)** — 首次销售原则
+3075. **FIRST SALE (COPYRIGHT)** — 首次销售原则
 
    1. **首次销售原则：** A copyright limitation allowing the owner of a lawfully made copy to dispose of that copy, subject to applicable law.
 
-3077. **first-tier corporation** — 第一层公司 *(n.)*
+3076. **first-tier corporation** — 第一层公司 *(n.)*
 
    1. **第一层公司：** A corporation held directly by the relevant shareholder within a corporate ownership chain.
 
-3078. **First-tier Tribunal** — 一级法庭
+3077. **First-tier Tribunal** — 一级法庭
 
    - A tribunal created to absorb the work of many earlier tribunals, organised into chambers and generally appealable to the Upper Tribunal.
    - *See also:* tribunals; Upper Tribunal; judicial review
 
-3079. **First to File** — 先申请原则
+3078. **First to File** — 先申请原则
 
    1. **先申请原则：** A priority system generally favoring the eligible applicant who files before competing applicants for the same invention.
 
-3080. **fiscal year** — 财政年度
+3079. **fiscal year** — 财政年度
 
    - Another term for the tax year.
    - *See also:* tax year
 
-3081. **fishery** — 渔业 *(n.)*
+3080. **fishery** — 渔业 *(n.)*
 
    - A right of fishing, also called piscary.
    - *See also:* piscary
 
-3082. **fishery limits** — 渔业限制
+3081. **fishery limits** — 渔业限制
 
    - The stretch of sea in which a state asserts exclusive fishing rights, except where treaties with other states provide otherwise.
    - *See also:* territorial waters; Common Fisheries Policy; quota; exclusive economic zone
 
-3083. **fit for habitation** — 适合居住
+3082. **fit for habitation** — 适合居住
 
    - A statutory implied covenant applying to very low-rent tenancies, requiring premises to be sound, ventilated and provided with water and drainage.
    - *See also:* covenant to repair; housing health and safety rating system
 
-3084. **fitness for purpose** — 目的适用性
+3083. **fitness for purpose** — 目的适用性
 
    - An implied term that goods bought for a known purpose are reasonably suited to it, unless the buyer did not rely on the seller's skill.
 
-3085. **five-year debt amount** — 五年期债务额
+3084. **five-year debt amount** — 五年期债务额
 
    1. **五年期债务额：** Debt incurred within five years used to test dischargeability in a bankruptcy case.
    - *Jurisdiction:* US
 
-3086. **fixed asset** — 固定资产
+3085. **fixed asset** — 固定资产
 
    - A long-term asset held for use in a business rather than for resale, shown on the balance sheet and including machinery and goodwill.
    - *See also:* asset; goodwill; know-how; Financial Reporting Standards; machinery and plant
 
-3087. **fixed charge** — 固定费用
+3086. **fixed charge** — 固定费用
 
    - A type of security over specific property, explained under charge.
    - *See also:* charge
 
-3088. **fixed-date summons** — 固定日期传票
+3087. **fixed-date summons** — 固定日期传票
 
    - A former county court summons used to start claims for relief other than money, now replaced by the claim form.
    - *See also:* claim form
 
-3089. **fixed net sum** — 固定净额
+3088. **fixed net sum** — 固定净额
 
    - Another name for a statutory legacy.
    - *See also:* statutory legacy
 
-3090. **fixed penalty notice** — 定额罚款通知书
+3089. **fixed penalty notice** — 定额罚款通知书
 
    - A notice allowing a person who commits a minor offence, often a traffic offence, to avoid conviction by paying a set sum.
 
-3091. **fixed-rate mortgage** — 固定利率抵押贷款 *(n.)*
+3090. **fixed-rate mortgage** — 固定利率抵押贷款 *(n.)*
 
    1. **固定利率抵押贷款：** A property loan carrying an interest rate that stays constant for the term.
    - *Jurisdiction:* US
 
-3092. **fixed-sum credit** — 固定金额信贷
+3091. **fixed-sum credit** — 固定金额信贷
 
    - Credit given under a personal-credit agreement as one amount or by instalments, but not running-account credit.
    - *See also:* running-account credit; personal-credit agreement
 
-3093. **fixed term** — 固定期限
+3092. **fixed term** — 固定期限
 
    - A lease or tenancy for a set period, which ends automatically at the term's expiry without any notice to quit.
    - *See also:* future lease; assured tenancy; statutory periodic tenancy; surrender of tenancy; tenancy at will; periodic tenancy; half a year; long tenancy
 
-3094. **fixed trust** — 固定信托
+3093. **fixed trust** — 固定信托
 
    - An express trust in which each beneficiary's share is fixed and predetermined, unlike a discretionary trust.
    - *See also:* express trust; discretionary trust
 
-3095. **fixture** — 固定装置 *(n.)*
+3094. **fixture** — 固定装置 *(n.)*
 
    - An item attached to land or buildings, becoming part of the property and passing with it.
    - *See also:* trade fixtures
 
-3096. **flag of convenience** — 方便旗
+3095. **flag of convenience** — 方便旗
 
    - The flag flown by a vessel registered in a country other than its owner's, often to escape stricter tax or safety rules.
    - *Expands to:* flag of convenience
    - *See also:* flag state jurisdiction
 
-3097. **flagrante delicto** — 犯罪
+3096. **flagrante delicto** — 犯罪
 
    - Latin for during the commission of an offence, describing someone caught in the act.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* arrest; arrestable offence
 
-3098. **flag state jurisdiction** — 船旗国管辖权
+3097. **flag state jurisdiction** — 船旗国管辖权
 
    - The principle that a vessel on the high seas normally comes only under the law of the country whose flag it flies.
    - *See also:* high seas; flag of convenience
 
-3099. **flexible tenancy** — 灵活租赁
+3098. **flexible tenancy** — 灵活租赁
 
    - A type of council letting that runs for a fixed period and gives the tenant no security of tenure.
    - *See also:* secure tenancy; introductory tenancy; demoted tenancy
 
-3100. **flexible working** — 灵活工作
+3099. **flexible working** — 灵活工作
 
    - The right of an employee with qualifying service to request changes to hours or working conditions, which the employer must consider properly.
    - *See also:* continuous employment
 
-3101. **flexicurity** — 灵活性保障 *(n.)*
+3100. **flexicurity** — 灵活性保障 *(n.)*
 
    - A labour market model pairing flexibility for employers with security and protection for workers.
    - *See also:* agency workers; gig economy
 
-3102. **floating charge** — 浮动押记
+3101. **floating charge** — 浮动押记
 
    - A security that hovers over a company's changing assets, described under charge.
    - *See also:* charge
 
-3103. **Floor** — 最低额 *(n.)*
+3102. **Floor** — 最低额 *(n.)*
 
    1. **最低额：** The statutory minimum amount below which an award or payment may not be reduced.
 
-3104. **flotation** — 上市 *(n.)*
+3103. **flotation** — 上市 *(n.)*
 
    - The way a public company raises money from investors by issuing shares or debentures.
    - *See also:* prospectus; rights issue; tender offer; underwriter
 
-3105. **Fmla Leave** — 家庭医疗假
+3104. **Fmla Leave** — 家庭医疗假
 
    1. **家庭医疗假：** Leave entitled under the Family and Medical Leave Act for eligible employees.
    - *Jurisdiction:* US
 
-3106. **Fmla Retaliation** — 家庭医疗假报复 *(n.)*
+3105. **Fmla Retaliation** — 家庭医疗假报复 *(n.)*
 
    1. **家庭医疗假报复：** An employer's adverse action against an employee for taking protected leave.
    - *Jurisdiction:* US
 
-3107. **FNOs** — 查看外国国民罪犯
+3106. **FNOs** — 查看外国国民罪犯
 
    - Abbreviation for foreign national offenders.
    - *See also:* foreign national offenders
 
-3108. **FOB contract** — 船上交货合同
+3107. **FOB contract** — 船上交货合同
 
    - A sale contract in which the seller fulfils its duty by loading goods on board ship, after which the buyer bears cost and risk.
    - *Expands to:* Free On Board contract; Free on Rail
    - *See also:* Incoterm
 
-3109. **FOC** — 方便旗
+3108. **FOC** — 方便旗
 
    - Abbreviation for flag of convenience.
    - *See also:* flag of convenience
 
-3110. **FOIA** — 信息自由法
+3109. **FOIA** — 信息自由法
 
    1. **信息自由法：** Freedom of Information Act.
 
-3111. **folie à deux** — 二联性精神病
+3110. **folie à deux** — 二联性精神病
 
    1. **二联性精神病：** A shared delusional system in which one person influences another to adopt the same false beliefs.
 
-3112. **Follower Notice** — 追随者通知
+3111. **Follower Notice** — 追随者通知
 
    - A tax notice telling a taxpayer that an appeal cannot succeed because the issue has already been decided against them.
    - *See also:* tax avoidance; promoter of tax avoidance schemes; General Anti-Abuse Rule
 
-3113. **following trust property** — 追踪信托财产
+3112. **following trust property** — 追踪信托财产
 
    - A cross-reference to tracing trust property.
    - *See also:* tracing trust property
 
-3114. **follow-on offering** — 后续发行
+3113. **follow-on offering** — 后续发行
 
    1. **后续发行：** A securities offering made after an issuer's initial public offering.
 
-3115. **football hooliganism** — 足球流氓行为
+3114. **football hooliganism** — 足球流氓行为
 
    - Offences connected with alcohol and disorder at designated football matches, which can lead to banning orders and exclusion.
    - *See also:* offences against public order
 
-3116. **footpath** — 人行道 *(n.)*
+3115. **footpath** — 人行道 *(n.)*
 
    - A highway used only on foot by the public, as distinct from a footway.
    - *See also:* highway; footway; bridleway; carriageway; driftway
 
-3117. **footway** — 人行道 *(n.)*
+3116. **footway** — 人行道 *(n.)*
 
    - A way for pedestrians only that forms part of a highway which also carries vehicles.
    - *See also:* footpath
 
-3118. **forbearance** — 宽容 *(n.)*
+3117. **forbearance** — 宽容 *(n.)*
 
    - A deliberate decision not to enforce a legal right, which may itself provide consideration for a promise.
    - *See also:* consideration
 
-3119. **force** — 武力 *(n.)*
+3118. **force** — 武力 *(n.)*
 
    - In international law, action by a state that breaches international norms, which may be military, financial or political.
    - *Jurisdiction:* International
 
-3120. **forced heirship** — 强制继承权
+3119. **forced heirship** — 强制继承权
 
    - A rule in some countries requiring a deceased person's estate to pass to specified relatives in set shares, overriding any will.
    - *See also:* freedom of testation
 
-3121. **forced marriage** — 强迫婚姻
+3120. **forced marriage** — 强迫婚姻
 
    - A marriage entered into without one party's consent and under duress, voidable by the court and distinct from an arranged marriage.
    - *See also:* non-molestation order; occupation order; forced marriage protection order
 
-3122. **forced marriage protection order** — 强迫婚姻保护令
+3121. **forced marriage protection order** — 强迫婚姻保护令
 
    - A court order shielding a real or likely victim of forced marriage, which it is a crime to break.
    - *See also:* forced marriage
 
-3123. **force majeure** — 不可抗力
+3122. **force majeure** — 不可抗力
 
    - French for irresistible compulsion; a contract clause excusing performance when events beyond the parties' control prevent it.
    - *Language:* fr
    - *See also:* acts of God
 
-3124. **force majeure event** — 不可抗力事件
+3123. **force majeure event** — 不可抗力事件
 
    1. **不可抗力事件：** An event within a contractual or legal definition that may excuse, suspend, or alter affected performance obligations.
 
-3125. **force-placed insurance** — 强制代购保险 *(n.)*
+3124. **force-placed insurance** — 强制代购保险 *(n.)*
 
    1. **强制代购保险：** Coverage a lender buys for a borrower who let required property insurance lapse.
    - *Jurisdiction:* US
 
-3126. **forcible entry** — 强行进入
+3125. **forcible entry** — 强行进入
 
    - Using or threatening violence to force a way into premises against the wishes of someone lawfully there.
    - *See also:* residential occupier; adverse occupation
 
-3127. **Forcible Entry And Detainer** — 强行进入与占据 *(n.)*
+3126. **Forcible Entry And Detainer** — 强行进入与占据 *(n.)*
 
    1. **强行进入与占据：** A summary proceeding to recover possession of land wrongly held by another person.
    - *Jurisdiction:* US
 
-3128. **foreclose down** — 止赎下跌
+3127. **foreclose down** — 止赎下跌
 
    - A cross-reference explaining the limits on redeeming and foreclosing mortgages.
    - *See also:* redeem up, foreclose down
 
-3129. **foreclosure** — 止赎 *(n.)*
+3128. **foreclosure** — 止赎 *(n.)*
 
    - A mortgagee's remedy, ordered by the court, by which a defaulting mortgagor loses the mortgaged property to the lender.
    - *See also:* mortgage; power of sale; repossession
 
-3130. **foreign agreement** — 外国协议
+3129. **foreign agreement** — 外国协议
 
    - A contract whose governing law belongs to a country outside England and Wales, Scotland, and Northern Ireland.
    - *Jurisdiction:* England and Wales; Northern Ireland
    - *See also:* foreign law; proper law of a contract
 
-3131. **foreign area** — 外国区域
+3130. **foreign area** — 外国区域
 
    1. **外国区域：** A geographic region outside the United States for purposes of tax or benefit law.
    - *Jurisdiction:* US
 
-3132. **foreign base company shipping income** — 外国基地公司航运收入
+3131. **foreign base company shipping income** — 外国基地公司航运收入
 
    1. **外国基地公司航运收入：** Shipping income of a controlled foreign subsidiary taxed currently under subpart F.
    - *Jurisdiction:* US
 
-3133. **foreign base company shipping operations** — 外国基地公司航运业务
+3132. **foreign base company shipping operations** — 外国基地公司航运业务
 
    1. **外国基地公司航运业务：** Shipping activities of a controlled foreign company subject to current taxation.
    - *Jurisdiction:* US
 
-3134. **foreign bill** — 外国汇票
+3133. **foreign bill** — 外国汇票
 
    - Any bill of exchange that is not an inland bill, a distinction affecting the steps taken when it is dishonoured.
    - *See also:* inland bill; dishonour
 
-3135. **foreign company** — 外国公司
+3134. **foreign company** — 外国公司
 
    - A firm formed abroad that keeps a place of business inside the country.
    - *See also:* overseas company
 
-3136. **foreign direct costs** — 外国直接成本
+3135. **foreign direct costs** — 外国直接成本
 
    1. **外国直接成本：** Costs incurred abroad allocated to qualify for export-related tax benefits.
    - *Jurisdiction:* US
 
-3137. **foreign earned income** — 境外劳动所得
+3136. **foreign earned income** — 境外劳动所得
 
    1. **境外劳动所得：** Income a taxpayer derives from personal services performed outside the taxing country.
 
-3138. **foreign employer** — 外国雇主 *(n.)*
+3137. **foreign employer** — 外国雇主 *(n.)*
 
    1. **外国雇主：** An employer based outside the jurisdiction that employs local or remote workers.
 
-3139. **foreign enlistment** — 外国入伍
+3138. **foreign enlistment** — 外国入伍
 
    - The crime of joining or recruiting for the armed forces of a foreign state at war with a country friendly to the UK.
 
-3140. **foreign futures** — 境外期货
+3139. **foreign futures** — 境外期货
 
    1. **境外期货：** Futures contracts traded on an exchange physically located outside the domestic jurisdiction.
 
-3141. **foreign futures or foreign options customer** — 境外期货或境外期权客户 *(n.)*
+3140. **foreign futures or foreign options customer** — 境外期货或境外期权客户 *(n.)*
 
    1. **境外期货或境外期权客户：** A person maintaining an account to trade futures or options on a foreign exchange.
 
-3142. **foreign government** — 外国政府 *(n.)*
+3141. **foreign government** — 外国政府 *(n.)*
 
    1. **外国政府：** The public authority exercising governmental powers for a country other than the relevant domestic state.
 
-3143. **Foreign government official** — 外国政府官员 *(n.)*
+3142. **Foreign government official** — 外国政府官员 *(n.)*
 
    1. **外国政府官员：** A person serving another country's government in an official capacity.
 
-3144. **foreign income tax** — 外国所得税
+3143. **foreign income tax** — 外国所得税
 
    1. **外国所得税：** An income tax imposed by a foreign government on overseas earnings.
    - *Jurisdiction:* US
 
-3145. **foreign income taxes** — 外国所得税
+3144. **foreign income taxes** — 外国所得税
 
    1. **外国所得税：** Income taxes imposed by foreign governments on overseas earnings.
    - *Jurisdiction:* US
 
-3146. **Foreign information media representative** — 外国新闻媒体代表 *(n.)*
+3145. **Foreign information media representative** — 外国新闻媒体代表 *(n.)*
 
    1. **外国新闻媒体代表：** A foreign journalist or media worker admitted for qualifying professional information activities.
 
-3147. **foreign judgments** — 外国判决
+3146. **foreign judgments** — 外国判决
 
    - Decisions of courts abroad, which may be enforced locally at common law or by registration under statutory schemes.
    - *See also:* Judgments Regulation; Civil Procedure Rules
 
-3148. **foreign law** — 外国法
+3147. **foreign law** — 外国法
 
    - In private international law, the law of any system other than England's, which an English court treats as a question of fact.
    - *Jurisdiction:* International
    - *See also:* private international law; international law; Community law
 
-3149. **foreign material** — 境外材料 *(n.)*
+3148. **foreign material** — 境外材料 *(n.)*
 
    1. **境外材料：** Evidence or substance originating outside the jurisdiction or the domestic official record.
 
-3150. **foreign mineral income** — 境外矿产收入
+3149. **foreign mineral income** — 境外矿产收入
 
    1. **境外矿产收入：** Income derived from extracting or disposing of minerals situated outside the taxing country.
 
-3151. **Foreign national** — 外国国民 *(n.)*
+3150. **Foreign national** — 外国国民 *(n.)*
 
    1. **外国国民：** A person who holds nationality of a state other than the one under consideration.
 
-3152. **foreign national offenders** — 外国国民罪犯
+3151. **foreign national offenders** — 外国国民罪犯
 
    - Overseas nationals jailed for a year or more who face automatic removal from the UK once their sentence ends.
    - *Expands to:* foreign national offenders
    - *See also:* deportation; European Convention on Human Rights
 
-3153. **foreign nonbank financial company** — 外资非银行金融机构
+3152. **foreign nonbank financial company** — 外资非银行金融机构
 
    1. **外资非银行金融机构：** A foreign company principally engaged in financial activity other than taking customer deposits.
 
-3154. **foreign oil extraction loss** — 境外石油开采损失
+3153. **foreign oil extraction loss** — 境外石油开采损失
 
    1. **境外石油开采损失：** A deductible loss incurred from extracting crude oil within a foreign taxing jurisdiction.
 
-3155. **foreign option** — 境外期权 *(n.)*
+3154. **foreign option** — 境外期权 *(n.)*
 
    1. **境外期权：** An option contract traded or exercisable on an exchange outside the domestic market.
 
-3156. **foreign organization** — 外国组织 *(n.)*
+3155. **foreign organization** — 外国组织 *(n.)*
 
    1. **外国组织：** An entity formed or governed under the laws of a country other than the domestic state.
 
-3157. **foreign origin** — 外国来源
+3156. **foreign origin** — 外国来源
 
    1. **外国来源：** The quality of a person, good, or thing coming from outside the country.
 
-3158. **foreign person** — 外国主体
+3157. **foreign person** — 外国主体
 
    1. **外国主体：** An individual, entity, or government not a national or resident of the domestic state.
 
-3159. **foreign public official** — 外国公职人员 *(n.)*
+3158. **foreign public official** — 外国公职人员 *(n.)*
 
    1. **外国公职人员：** A person exercising public functions for another state or, where applicable, a public international organization.
 
-3160. **foreign regulator** — 外国监管机构 *(n.)*
+3159. **foreign regulator** — 外国监管机构 *(n.)*
 
    1. **外国监管机构：** An authority of another country empowered to supervise financial or market conduct.
 
-3161. **foreign risks** — 境外风险
+3160. **foreign risks** — 境外风险
 
    1. **境外风险：** Exposures from political, currency, or legal conditions in a country other than the domestic.
 
-3162. **Foreign Sovereign Immunity** — 外国主权豁免 *(n.)*
+3161. **Foreign Sovereign Immunity** — 外国主权豁免 *(n.)*
 
    1. **外国主权豁免：** Protection of a foreign state from another state's judicial authority, subject to applicable exceptions.
 
-3163. **FOREIGN SOVEREIGN IMMUNITY (JURISDICTION)** — 外国主权管辖豁免
+3162. **FOREIGN SOVEREIGN IMMUNITY (JURISDICTION)** — 外国主权管辖豁免
 
    1. **外国主权管辖豁免：** A jurisdictional bar to proceedings against a foreign state unless an applicable exception permits adjudication.
 
-3164. **Foreign state of chargeability** — 签证配额归属国 *(n.)*
+3163. **Foreign state of chargeability** — 签证配额归属国 *(n.)*
 
    1. **签证配额归属国：** The country against whose immigrant visa allocation a person's application is counted.
 
-3165. **Foreign student** — 外国留学生
+3164. **Foreign student** — 外国留学生
 
    1. **外国留学生：** A noncitizen studying in another country under the applicable educational and immigration arrangements.
 
-3166. **foreign taxes** — 外国税收
+3165. **foreign taxes** — 外国税收
 
    1. **外国税收：** Taxes paid to the government of a country other than the domestic taxing authority.
 
-3167. **foreign tax redetermination** — 境外税额重新确定 *(n.)*
+3166. **foreign tax redetermination** — 境外税额重新确定 *(n.)*
 
    1. **境外税额重新确定：** A later adjustment by a foreign authority that changes a taxpayer's foreign tax liability.
 
-3168. **foreign trading gross receipts** — 境外交易总收入
+3167. **foreign trading gross receipts** — 境外交易总收入
 
    1. **境外交易总收入：** Total gross income received from trading activities conducted on foreign exchanges.
 
-3169. **foreign travel prohibition order requirement** — 外国旅行禁止令要求
+3168. **foreign travel prohibition order requirement** — 外国旅行禁止令要求
 
    - A community order requirement barring an offender from travelling abroad for up to a year.
    - *See also:* community order
 
-3170. **foreign utility company** — 外国公用事业公司
+3169. **foreign utility company** — 外国公用事业公司
 
    1. **外国公用事业公司：** A foreign enterprise supplying public services such as power, water, or communications.
 
-3171. **forensic procedure** — 法证程序
+3170. **forensic procedure** — 法证程序
 
    1. **法证程序：** Scientific methods and processes used to examine evidence for legal proceedings.
 
-3172. **foresight** — 远见 *(n.)*
+3171. **foresight** — 远见 *(n.)*
 
    - Awareness when acting that a particular consequence may follow, which is enough for some offences but not murder.
    - *See also:* wounding with intent; intention; ulterior intent; wounding; recklessness
 
-3173. **forfeiture** — 没收 *(n.)*
+3172. **forfeiture** — 没收 *(n.)*
 
    - The taking away of property or a right following a crime; also a landlord's ending of a lease for breach of covenant.
    - *See also:* controlled drugs; leases; re-entry; confiscation order; relief from forfeiture
 
-3174. **Forfeiture by peaceable re-entry** — 和平收回没收
+3173. **Forfeiture by peaceable re-entry** — 和平收回没收
 
    1. **和平收回没收：** A landlord's lawful retaking of premises without breach of peace upon tenant default.
    - *Jurisdiction:* UK
 
-3175. **Forfeiture By Wrongdoing** — 因不当行为没收
+3174. **Forfeiture By Wrongdoing** — 因不当行为没收
 
    1. **因不当行为没收：** Forfeiture of a right because a party wrongly caused loss of evidence or a witness.
    - *Jurisdiction:* US
 
-3176. **forfeiture rule** — 没收规则
+3175. **forfeiture rule** — 没收规则
 
    - A common law rule barring a person who unlawfully kills another from gaining a benefit from that death.
    - *See also:* joint tenancy
 
-3177. **forgery** — 伪造 *(n.)*
+3176. **forgery** — 伪造 *(n.)*
 
    - Making a false instrument intending it to be accepted as genuine, along with related offences of using or possessing such instruments.
    - *See also:* fine; counterfeiting
 
-3178. **fork-in-the-road clause** — 岔路口条款
+3177. **fork-in-the-road clause** — 岔路口条款
 
    1. **岔路口条款：** A treaty provision making an investor's choice of dispute forum preclude specified alternative proceedings.
 
-3179. **Formal Exception** — 正式异议 *(n.)*
+3178. **Formal Exception** — 正式异议 *(n.)*
 
    1. **正式异议：** A formal objection preserved on the record to challenge a ruling or offered evidence.
 
-3180. **Formalities assessment** — 形式审查评估 *(n.)*
+3179. **Formalities assessment** — 形式审查评估 *(n.)*
 
    1. **形式审查评估：** The full administrative assessment of whether an application meets requirements for registration before substantive validity examination.
 
-3181. **Formalities check (as distinct from formalities assessment)** — 法定形式核查
+3180. **Formalities check (as distinct from formalities assessment)** — 法定形式核查
 
    1. **法定形式核查：** The prescribed checklist of formal filing conditions within a broader formalities assessment.
 
-3182. **Formalities notice** — 形式缺陷通知
+3181. **Formalities notice** — 形式缺陷通知
 
    1. **形式缺陷通知：** A notice identifying formal filing defects and inviting the applicant to correct them.
 
-3183. **Formalities officer** — 形式审查员 *(n.)*
+3182. **Formalities officer** — 形式审查员 *(n.)*
 
    1. **形式审查员：** An official responsible for checking an application's compliance with formal registration requirements.
 
-3184. **formal validity of a will** — 遗嘱的正式有效性
+3183. **formal validity of a will** — 遗嘱的正式有效性
 
    - The rules deciding which country's law governs the formalities for executing a will with a foreign element.
    - *Jurisdiction:* International
    - *See also:* private international law; execution of a will; material and essential validity of a will
 
-3185. **former employee** — 前雇员 *(n.)*
+3184. **former employee** — 前雇员 *(n.)*
 
    1. **前雇员：** A person who previously worked for an employer but is no longer employed.
 
-3186. **Former Testimony** — 先前证词
+3185. **Former Testimony** — 先前证词
 
    1. **先前证词：** Testimony given by a witness at an earlier proceeding that may be received later.
 
-3187. **FORMER TESTIMONY (HEARSAY EXCEPTION)** — 先前证词（传闻例外）
+3186. **FORMER TESTIMONY (HEARSAY EXCEPTION)** — 先前证词（传闻例外）
 
    1. **先前证词（传闻例外）：** An exception allowing prior sworn testimony into evidence when the declarant is unavailable.
 
-3188. **Formula** — 计算公式
+3187. **Formula** — 计算公式
 
    1. **计算公式：** A prescribed mathematical method used to calculate support or income amounts under guidelines.
 
-3189. **Forthwith** — 立即 *(n.)*
+3188. **Forthwith** — 立即 *(n.)*
 
    1. **立即：** A direction requiring action to be taken immediately and without any delay.
 
-3190. **forum** — 论坛 *(n.)*
+3189. **forum** — 论坛 *(n.)*
 
    - The place or country where a case is heard; a case heard in England has England as its forum.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* lex fori
 
-3191. **Forum Defendant Rule** — 被告住所地规则
+3190. **Forum Defendant Rule** — 被告住所地规则
 
    1. **被告住所地规则：** A doctrine limiting venue when no defendant resides in the district chosen by the plaintiff.
    - *Jurisdiction:* US
 
-3192. **forum non conveniens** — 不便法院原则
+3191. **forum non conveniens** — 不便法院原则
 
    - A doctrine letting a court decline jurisdiction so that a case can be tried more suitably elsewhere.
-   - *Language:* Latin
+   - *Language:* la
 
-3193. **forum prorogatum** — 延期管辖权
+3192. **forum prorogatum** — 延期管辖权
 
    - Jurisdiction given to the International Court of Justice by the parties' consent after proceedings have begun.
-   - *Language:* Latin
+   - *Language:* la
 
-3194. **forum rei** — 事物的论坛
+3193. **forum rei** — 事物的论坛
 
    - The forum of the place where the disputed thing is located.
-   - *Language:* Latin
+   - *Language:* la
 
-3195. **Forum Selection Clause** — 法院选择条款
+3194. **Forum Selection Clause** — 法院选择条款
 
    1. **法院选择条款：** A contract term specifying the court or jurisdiction that will resolve disputes.
 
-3196. **forum shopping** — 论坛购物
+3195. **forum shopping** — 论坛购物
 
    - Picking the country in which to sue because its courts or laws seem most favourable.
 
-3197. **forward contract** — 远期合同
+3196. **forward contract** — 远期合同
 
    1. **远期合同：** A bilateral agreement to buy or sell an asset at a specified future time on agreed terms.
 
-3198. **foster child** — 寄养儿童
+3197. **foster child** — 寄养儿童
 
    - A child raised by someone other than a parent or holder of parental responsibility, whose welfare the local authority must oversee.
    - *See also:* parental responsibility; foster parent
 
-3199. **foster parent** — 养父母
+3198. **foster parent** — 养父母
 
    - A person caring for a foster child, who does not gain parental responsibility automatically and is subject to legal controls.
    - *See also:* foster child; parental responsibility; social parent; private foster parents; local authority foster parents
 
-3200. **Foundation** — 基金会 *(n.)*
+3199. **Foundation** — 基金会 *(n.)*
 
    1. **基金会：** A legal entity holding assets for a charitable, family, or other private purpose.
 
-3201. **Fourteenth Amendment** — 第十四修正案 *(n.)*
+3200. **Fourteenth Amendment** — 第十四修正案 *(n.)*
 
    1. **第十四修正案：** The US constitutional amendment guaranteeing due process and equal protection of laws.
    - *Jurisdiction:* US
 
-3202. **Fourth Amendment** — 第四修正案 *(n.)*
+3201. **Fourth Amendment** — 第四修正案 *(n.)*
 
    1. **第四修正案：** The US constitutional amendment protecting against unreasonable search and seizure by government.
    - *Jurisdiction:* US
 
-3203. **Fourth Amendment Search** — 第四修正案意义上的搜查
+3202. **Fourth Amendment Search** — 第四修正案意义上的搜查
 
    1. **第四修正案意义上的搜查：** A government intrusion into a protected area triggering Fourth Amendment scrutiny and limits.
    - *Jurisdiction:* US
 
-3204. **four unities** — 四个单位
+3203. **four unities** — 四个单位
 
    - The requirements for a joint tenancy, explained under joint tenancy.
    - *See also:* joint tenancy
 
-3205. **four-year debt amount** — 四年期债务金额
+3204. **four-year debt amount** — 四年期债务金额
 
    1. **四年期债务金额：** The aggregate unpaid debt attributable to a four-year statutory measurement period.
    - *Jurisdiction:* US
 
-3206. **framework agreement** — 框架协议
+3205. **framework agreement** — 框架协议
 
    1. An agreement recording that the parties have settled enough to proceed, while more details are fixed later.
    2. A long-term procurement arrangement under which individual contracts may be awarded to one or more suppliers.
 
-3207. **franchise** — 特许权 *(n.)*
+3206. **franchise** — 特许权 *(n.)*
 
    1. In constitutional law, a special privilege granted by the Crown to a subject, such as running a market or fair.
       - *Sense labels:* (in constitutional law)
@@ -15190,590 +15216,593 @@
    - *Labels:* (in constitutional law); (in commercial law)
    - *See also:* election; Commonwealth citizen; elector; block exemption; competition law; retained EU law; vertical agreements
 
-3208. **fraud** — 欺诈 *(n.)*
+3207. **fraud** — 欺诈 *(n.)*
 
    - Dishonestly making a false representation, failing to disclose information, or abusing a position, in order to gain or cause loss.
    - *See also:* deception; deceit; misrepresentation; constructive fraud; cheat; conspiracy; cybercrime; defrauding; dishonesty; false pretence; forgery
 
-3209. **Fraud Conspiracy** — 欺诈共谋 *(n.)*
+3208. **Fraud Conspiracy** — 欺诈共谋 *(n.)*
 
    1. **欺诈共谋：** An agreement between parties to pursue an unlawful scheme through deceit or concealment.
 
-3210. **fraud on a power** — 权力欺诈
+3209. **fraud on a power** — 权力欺诈
 
    - A void use of a power of appointment, made to gain a benefit for the appointor or to defeat what the donor intended.
    - *See also:* power of appointment
 
-3211. **Fraud On The Court** — 对法院的欺诈
+3210. **Fraud On The Court** — 对法院的欺诈
 
    1. **对法院的欺诈：** Deceptive conduct that corrupts the integrity of the judicial process itself.
 
-3212. **Fraud On The Market** — 市场欺诈
+3211. **Fraud On The Market** — 市场欺诈
 
    1. **市场欺诈：** A securities fraud theory that false statements distort market price relied on by investors.
    - *Jurisdiction:* US
 
-3213. **fraud on the minority** — 对少数人的欺诈
+3212. **fraud on the minority** — 对少数人的欺诈
 
    - A misuse of majority voting power in a company, with votes cast to harm the company's common interests.
    - *See also:* derivative claim; limited liability partnership
 
-3214. **Fraud Pleading Particularity** — 欺诈主张具体陈述要求 *(n.)*
+3213. **Fraud Pleading Particularity** — 欺诈主张具体陈述要求 *(n.)*
 
    1. **欺诈主张具体陈述要求：** The requirement to plead the circumstances constituting alleged fraud with particularity rather than only general accusations.
 
-3215. **fraudulent conveyance** — 欺诈性转让
+3214. **fraudulent conveyance** — 欺诈性转让
 
    - A land transfer, without valuable consideration, intended to cheat a later purchaser and liable to be set aside by a court.
    - *See also:* consideration
 
-3216. **fraudulent evasion** — 欺诈性逃税
+3215. **fraudulent evasion** — 欺诈性逃税
 
    - Another name for tax evasion.
    - *See also:* tax evasion
 
-3217. **fraudulent misrepresentation** — 欺诈性失实陈述
+3216. **fraudulent misrepresentation** — 欺诈性失实陈述
 
    - A form of misrepresentation, explained under misrepresentation.
    - *See also:* misrepresentation
 
-3218. **fraudulent trading** — 欺诈交易
+3217. **fraudulent trading** — 欺诈交易
 
    - Carrying on business intending to defraud creditors or for another dishonest purpose, both a crime and a ground for personal liability.
    - *See also:* winding-up; wrongful trading
 
-3219. **Fraudulent transfer** — 欺诈性转让 *(n.)*
+3218. **Fraudulent transfer** — 欺诈性转让 *(n.)*
 
    1. **欺诈性转让：** A conveyance made to hinder, delay, or defraud creditors of the transferor.
 
-3220. **FRAUDULENT TRANSFER (BANKRUPTCY)** — 欺诈性转让（破产）
+3219. **FRAUDULENT TRANSFER (BANKRUPTCY)** — 欺诈性转让（破产）
 
    1. **欺诈性转让（破产）：** A transfer made to hinder, delay, or defraud creditors and subject to avoidance.
 
-3221. **FRAUDULENT TRANSFER (CONSTRUCTIVE FRAUD)** — 欺诈性转让（事实欺诈）
+3220. **FRAUDULENT TRANSFER (CONSTRUCTIVE FRAUD)** — 欺诈性转让（事实欺诈）
 
    1. **欺诈性转让（事实欺诈）：** A transfer for inadequate value that renders the debtor insolvent without fraudulent intent.
 
-3222. **FRC** — 财务报告委员会
+3221. **FRC** — 财务报告委员会
 
    - Abbreviation for Financial Reporting Council.
    - *See also:* Financial Reporting Council
 
-3223. **Free Alongside Ship** — 船边交货 *(n.)*
+3222. **Free Alongside Ship** — 船边交货 *(n.)*
 
    1. **船边交货：** An Incoterms rule under which delivery and risk transfer occur when goods are placed alongside the vessel at the named shipment port.
 
-3224. **freeboard** — 干舷 *(n.)*
+3223. **freeboard** — 干舷 *(n.)*
 
    - The vertical gap measured at a vessel's middle from the deck line down to the load line mark.
 
-3225. **Free Carrier** — 货交承运人 *(n.)*
+3224. **Free Carrier** — 货交承运人 *(n.)*
 
    1. **货交承运人：** An Incoterms rule under which the seller delivers to the buyer's nominated carrier at the agreed place.
 
-3226. **freedom from encumbrance** — 免于产权负担
+3225. **freedom from encumbrance** — 免于产权负担
 
    - The state of property being free from other parties' binding rights; in sales of goods this is an implied warranty.
    - *See also:* warranty
 
-3227. **freedom of association** — 结社自由
+3226. **freedom of association** — 结社自由
 
    - A qualified right to assemble peacefully and to form or join associations and trade unions, protected by human rights law.
    - *See also:* European Convention on Human Rights; Human Rights Act; qualified right
 
-3228. **freedom of expression** — 言论自由
+3227. **freedom of expression** — 言论自由
 
    - A qualified right to hold and impart information and ideas, protecting even speech that offends or shocks.
    - *See also:* European Convention on Human Rights; Human Rights Act; qualified right
 
-3229. **freedom of information** — 信息自由 *(n.)*
+3228. **freedom of information** — 信息自由 *(n.)*
 
    1. **信息自由：** The right of public access to records held by government bodies on request.
 
-3230. **Freedom of Information Act** — 信息自由法
+3229. **Freedom of Information Act** — 信息自由法
 
    1. **信息自由法：** United States legislation allowing requests for federal agency records, subject to statutory withholding rules.
 
-3231. **Freedom Of Speech** — 言论自由
+3230. **Freedom Of Speech** — 言论自由
 
    1. **言论自由：** The right to express opinions without prior restraint by the government.
    - *Jurisdiction:* US
 
-3232. **freedom of testation** — 遗嘱自由
+3231. **freedom of testation** — 遗嘱自由
 
    - A person's right to leave their estate by will as they choose, limited by family provision and capacity rules.
    - *See also:* testamentary capacity; reasonable financial provision; forced heirship
 
-3233. **freedom of thought, conscience, and religion** — 思想、良心和宗教自由
+3232. **freedom of thought, conscience, and religion** — 思想、良心和宗教自由
 
    - An absolute right to hold beliefs, with a qualified right to manifest them, protected by human rights law.
    - *See also:* European Convention on Human Rights; Human Rights Act; absolute right; qualified right
 
-3234. **freedom to operate** — 自由实施 *(n.)*
+3233. **freedom to operate** — 自由实施 *(n.)*
 
    1. **自由实施：** The ability to commercially exploit a product or process without infringing relevant enforceable third-party intellectual property rights.
 
-3235. **free elections** — 自由选举
+3234. **free elections** — 自由选举
 
    - A right discussed under voting and free elections.
    - *See also:* voting and free elections
 
-3236. **Free Exercise** — 宗教自由行使 *(n.)*
+3235. **Free Exercise** — 宗教自由行使 *(n.)*
 
    1. **宗教自由行使：** The constitutional right to practice religion without unjustified government interference.
    - *Jurisdiction:* US
 
-3237. **free from average** — 不受平均值影响
+3236. **free from average** — 不受平均值影响
 
    - A term explained under average.
    - *See also:* average
 
-3238. **freehold** — 永久业权 *(n.)*
+3237. **freehold** — 永久业权 *(n.)*
 
    - The fullest form of land ownership, held as a fee simple absolute in possession.
    - *See also:* fee simple absolute in possession
 
-3239. **freeing for adoption** — 自由收养
+3238. **freeing for adoption** — 自由收养
 
    - A former adoption process where parents consented in general terms, later replaced by placement orders.
    - *See also:* placement order
 
-3240. **free movement** — 自由流动
+3239. **free movement** — 自由流动
 
    - A principle allowing goods, people, services and capital to cross borders without legal barriers, central to the European Union.
    - *See also:* European Union; Common External Tariff; exhaustion of rights
 
-3241. **Free On Board** — 船上免费
+3240. **Free On Board** — 船上免费
 
    - The full form of the shipping term FOB, explained under FOB contract.
    - *See also:* FOB contract
 
-3242. **Free Speech** — 言论自由
+3241. **Free Speech** — 言论自由
 
    1. **言论自由：** The freedom to express and receive ideas subject to legally permissible restrictions.
 
-3243. **freezing injunction** — 冻结禁令
+3242. **freezing injunction** — 冻结禁令
 
    - A court order preventing a defendant from removing or disposing of assets, granted only on clear justification.
    - *See also:* Civil Procedure Rules
 
-3244. **Freezing Order** — 资产冻结令 *(n.)*
+3243. **Freezing Order** — 资产冻结令 *(n.)*
 
    1. **资产冻结令：** A court order restraining a party from disposing of assets pending proceedings.
    - *Jurisdiction:* UK
 
-3245. **freight** — 运费 *(n.)*
+3244. **freight** — 运费 *(n.)*
 
    1. The gain a shipowner or hirer makes from using or hiring out the vessel, or from carrying goods.
    2. The sum owed for moving goods by sea under a contract of affreightment.
 
-3246. **Fresh start** — 全新开始
+3245. **Fresh start** — 全新开始
 
    1. **全新开始：** A bankruptcy policy giving a debtor relief from preexisting dischargeable debts.
    - *Jurisdiction:* US
 
-3247. **Frivolous** — 轻率无据 *(adj.)*
+3246. **Frivolous** — 轻率无据 *(adj.)*
 
    1. **轻率无据：** A claim or defense lacking any basis in law or supporting fact.
 
-3248. **frolic of his own** — 自己的嬉戏
+3247. **frolic of his own** — 自己的嬉戏
 
    - An act by an employee outside the scope of employment, which frees the employer from vicarious liability.
    - *See also:* vicarious liability
 
-3249. **FRSs** — 财务报告准则（缩写）
+3248. **FRSs** — 财务报告准则（缩写）
 
    - Abbreviation for Financial Reporting Standards.
    - *See also:* Financial Reporting Standards
 
-3250. **Fruit Of The Poisonous Tree** — 毒树之果 *(n.)*
+3249. **Fruit Of The Poisonous Tree** — 毒树之果 *(n.)*
 
    1. **毒树之果：** Evidence derived from an unlawful search or seizure and therefore excluded.
    - *Jurisdiction:* US
 
-3251. **frustration of contract** — 合同受挫
+3250. **frustration of contract** — 合同受挫
 
    - A contract ending unexpectedly when an event makes performance impossible, unlawful or pointless.
 
-3252. **Frustration Of Purpose** — 目的落空
+3251. **Frustration Of Purpose** — 目的落空
 
    1. **目的落空：** Discharge of a contract when an unforeseen event destroys its essential purpose.
 
-3253. **Frye** — 弗莱标准
+3252. **Frye** — 弗莱标准
 
    1. **弗莱标准：** The US test requiring scientific evidence to be generally accepted in its field.
    - *Jurisdiction:* US
 
-3254. **Frye v. United States** — 美国诉弗赖伊案
+3253. **Frye v. United States** — 美国诉弗赖伊案
 
    1. **美国诉弗赖伊案：** A U.S. decision establishing that novel scientific evidence must gain general acceptance.
    - *Jurisdiction:* US
 
-3255. **FTA** — 自由贸易协定
+3254. **FTA** — 自由贸易协定
 
    1. **自由贸易协定：** A treaty among states reducing barriers to trade in goods and services.
 
-3256. **Fugitive Disentitlement** — 逃犯失权 *(n.)*
+3255. **Fugitive Disentitlement** — 逃犯失权 *(n.)*
 
    1. **逃犯失权：** A doctrine barring a fugitive from invoking court relief while evading justice.
    - *Jurisdiction:* US
 
-3257. **fugitive offender** — 逃犯
+3256. **fugitive offender** — 逃犯
 
    - Someone in the UK accused of a crime in a Commonwealth country or British overseas territory who may be handed over for trial.
    - *See also:* extradition
 
-3258. **full age** — 成年
+3257. **full age** — 成年
 
    - Another way of describing the age of majority.
    - *See also:* majority
 
-3259. **full amount of the delinquent debt** — 违约债务全额
+3258. **full amount of the delinquent debt** — 违约债务全额
 
    1. **违约债务全额：** The entire outstanding obligation including principal, interest, and accrued charges.
    - *Jurisdiction:* US
 
-3260. **Full Faith And Credit** — 完全信任与信用条款
+3259. **Full Faith And Credit** — 完全信任与信用条款
 
    1. **完全信任与信用条款：** The constitutional duty to recognize the public acts of other states.
    - *Jurisdiction:* US
 
-3261. **full powers** — 全权
+3260. **full powers** — 全权
 
    - A document authorising a person to represent a state in negotiating, adopting or authenticating a treaty.
    - *See also:* treaty; signature of treaty
 
-3262. **full protection and security** — 充分保护与安全 *(n.)*
+3261. **full protection and security** — 充分保护与安全 *(n.)*
 
    1. **充分保护与安全：** An investment treaty obligation requiring the host state to provide the level of protection specified by the treaty.
 
-3263. **full representation** — 全面代表
+3262. **full representation** — 全面代表
 
    - A form of legal aid, described under legal aid.
    - *See also:* legal aid
 
-3264. **Full service** — 全程法律服务
+3263. **Full service** — 全程法律服务
 
    1. **全程法律服务：** Complete legal representation by a lawyer from commencement through final resolution of a matter.
 
-3265. **full-time employee** — 全职雇员 *(n.)*
+3264. **full-time employee** — 全职雇员 *(n.)*
 
    1. **全职雇员：** An employee working the standard full schedule set by the employer.
 
-3266. **full title guarantee** — 完整的所有权保证
+3265. **full title guarantee** — 完整的所有权保证
 
    - A set of covenants implied on a sale of land, promising the seller's right to sell and freedom from undisclosed charges.
    - *See also:* charges; encumbrances; rentcharges; limited title guarantee
 
-3267. **fully mutual housing association** — 完全互惠住房协会
+3266. **fully mutual housing association** — 完全互惠住房协会
 
    - A housing association whose members must be tenants or prospective tenants, and which is exempt from assured tenancy rules.
    - *See also:* assured tenancy
 
-3268. **functionally related business** — 功能相关营业 *(n.)*
+3267. **functionally related business** — 功能相关营业 *(n.)*
 
    1. **功能相关营业：** Activities closely connected to a principal business under tax or regulatory rules.
    - *Jurisdiction:* US
 
-3269. **functus officio** — 履行其职责
+3268. **functus officio** — 履行其职责
 
    - Describing an official, such as a judge, whose authority has ended, so their decision cannot be altered.
-   - *Language:* Latin
+   - *Language:* la
 
-3270. **fundamental breach** — 根本违约
+3269. **fundamental breach** — 根本违约
 
    - A serious breach discussed under breach of contract.
    - *See also:* breach of contract; innominate terms
 
-3271. **fundamental breach of contract** — 根本违约
+3270. **fundamental breach of contract** — 根本违约
 
    1. **根本违约：** A breach substantially depriving the other party of its expected contractual benefit, subject to the governing foreseeability limitations.
 
-3272. **Fundamental Right** — 基本权利
+3271. **Fundamental Right** — 基本权利
 
    1. **基本权利：** A right receiving heightened judicial protection against government infringement.
    - *Jurisdiction:* US
 
-3273. **fundamental rights impact assessment** — 基本权利影响评估 *(n.)*
+3272. **fundamental rights impact assessment** — 基本权利影响评估 *(n.)*
 
    1. **基本权利影响评估：** An evaluation of how a system affects the basic rights of persons.
    - *Jurisdiction:* EU
 
-3274. **fundamental warranties** — 根本性保证
+3273. **fundamental warranties** — 根本性保证
 
    1. **根本性保证：** Warranties concerning foundational transaction matters, commonly including authority, ownership, and capacity.
 
-3275. **funeral expenses** — 丧葬费用
+3274. **funeral expenses** — 丧葬费用
 
    - Reasonable burial and gravestone costs, charged first on a deceased person's estate and deductible for inheritance tax.
 
-3276. **Fungible** — 可替代物 *(adj.)*
+3275. **Fungible** — 可替代物 *(adj.)*
 
    1. **可替代物：** Goods or items interchangeable by nature or by trade usage.
 
-3277. **furnished holiday accommodation** — 带家具的度假住宿
+3276. **furnished holiday accommodation** — 带家具的度假住宿
 
    - Let accommodation meeting set letting thresholds, whose income is taxed as trading income with associated reliefs.
    - *See also:* rollover relief; holdover relief
 
-3278. **furnished tenancy** — 带家具租赁
+3277. **furnished tenancy** — 带家具租赁
 
    - A type of tenancy discussed under assured tenancy and protected tenancy.
    - *See also:* assured tenancy; protected tenancy
 
-3279. **further case management hearing** — 进一步的案件管理听证会
+3278. **further case management hearing** — 进一步的案件管理听证会
 
    - An extra hearing held in complex criminal cases, or when needed in the interests of justice, after the plea stage.
    - *See also:* plea and trial preparation hearing
 
-3280. **Further design** — 额外外观设计
+3279. **Further design** — 额外外观设计
 
    1. **额外外观设计：** An additional design disclosed within an application but not separately identified and paid for as required.
 
-3281. **futile** — 徒劳 *(adj.)*
+3280. **futile** — 徒劳 *(adj.)*
 
    - Describing medical treatment unlikely to achieve its intended purpose, so that withholding it may be justified.
 
-3282. **future goods** — 未来货物
+3281. **future goods** — 未来货物
 
    - Goods a seller will make or acquire after the sale contract is agreed, as opposed to goods the seller already owns.
 
-3283. **future interest** — 未来利息
+3282. **future interest** — 未来利息
 
    - A right in property that will arise only later, for instance a remainder following a life interest.
    - *See also:* future leases
 
-3284. **future lease** — 未来租赁
+3283. **future lease** — 未来租赁
 
    - A lease beginning at a future date, which can be a legal estate, but void if starting more than twenty-one years ahead.
 
-3285. **futures contract** — 期货合同
+3284. **futures contract** — 期货合同
 
    1. **期货合同：** A standardized, exchange-traded agreement for future delivery or settlement of an asset at an agreed price.
 
 ## G
 
-3286. **gabella emigrationis** — 移民税
+3285. **gabella emigrationis** — 移民税
 
    - The principle that a departing alien may take property away on the same terms as a national, free of exit tax.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
 
-3287. **gain-based damages** — 基于收益的损害赔偿
+3286. **gain-based damages** — 基于收益的损害赔偿
 
    - Damages measured by the gain the defendant made rather than the claimant's loss, including disgorgement of wrongful profits.
    - *See also:* Damages
 
-3288. **game** — 游戏 *(n.)*
+3287. **game** — 游戏 *(n.)*
 
    - Wild creatures and birds taken for sport or food, the right to which normally rests with whoever occupies the land.
    - *See also:* poaching
 
-3289. **gaming** — 游戏 *(n.)*
+3288. **gaming** — 游戏 *(n.)*
 
    - Playing a game of chance for money or value, regulated according to whether the premises are licensed or uncontrolled.
 
-3290. **gaming contract** — 游戏合同
+3289. **gaming contract** — 游戏合同
 
    - A contract to play a game of chance for money, or a wager between two parties on a future or disputed fact, generally void.
 
-3291. **gaming duty** — 博彩税
+3290. **gaming duty** — 博彩税
 
    - A levy on a gaming firm's profits, charged on top of corporation tax and covering remote gaming winnings.
 
-3292. **garden leave clause** — 花园假条款
+3291. **garden leave clause** — 花园假条款
 
    - An employment clause giving long notice during which the employee is paid but stays away from work to protect the employer.
    - *See also:* restraint of trade
 
-3293. **garnishee order** — 扣押令
+3292. **garnishee order** — 扣押令
 
    - The old term for what is now the Third Party Debt Order, used to recover a debt from a third party.
    - *See also:* Third Party Debt Order
 
-3294. **Gatekeeper** — 守门人 *(n.)*
+3293. **Gatekeeper** — 守门人 *(n.)*
 
    1. **守门人：** A professional or entity obliged to prevent unlawful use of a system.
 
-3295. **Gatekeeping** — 守门
+3294. **Gatekeeping** — 守门
 
    1. **守门：** The function of screening or controlling access to a legal or financial process.
 
-3296. **GATT** — 关贸总协定
+3295. **GATT** — 关贸总协定
 
    - Abbreviation for the General Agreement on Tariffs and Trade, a 1947 pact that cut trade barriers and led to the World Trade Organization.
    - *See also:* General Agreement on Tariffs and Trade
 
-3297. **Gazette** — 公报 *(n.)*
+3296. **Gazette** — 公报 *(n.)*
 
    - An official journal carrying government notices, such as judicial appointments and insolvency matters.
-   - *Language:* Latin
+   - *Language:* la
 
-3298. **gazump** — 抬价毁约 *(vb.)*
+3297. **gazump** — 抬价毁约 *(vb.)*
 
    - To demand more money, or accept a better bid, for property already agreed to be sold but not yet under binding contract.
    - *See also:* exchange of contracts; lock-out agreement
 
-3299. **GBH** — 看到严重的身体伤害
+3298. **GBH** — 看到严重的身体伤害
 
    - Abbreviation for grievous bodily harm.
    - *See also:* grievous bodily harm
 
-3300. **gender pay gap** — 性别工资差距
+3299. **gender pay gap** — 性别工资差距
 
    - The gap between what men and women are paid on average in a workforce, which large employers must report.
    - *See also:* equal pay
 
-3301. **gender reassignment** — 性别重置
+3300. **gender reassignment** — 性别重置
 
    - The process of changing legal gender, recognised by certificate when the applicant has lived in the acquired gender for two years.
    - *See also:* Equality Act 2010
 
-3302. **General Acceptance** — 普遍接受 *(n.)*
+3301. **General Acceptance** — 普遍接受 *(n.)*
 
    1. **普遍接受：** Widespread adoption of a method or standard within a relevant community.
 
-3303. **general act** — 一般法案
+3302. **general act** — 一般法案
 
    - A kind of treaty, explained under treaty.
    - *See also:* treaty
 
-3304. **general agent** — 总代理
+3303. **general agent** — 总代理
 
    - A type of agent, explained under agent.
    - *See also:* agent
 
-3305. **General Agreement on Tariffs and Trade** — 关税与贸易总协定
+3304. **General Agreement on Tariffs and Trade** — 关税与贸易总协定
 
    - A 1947 treaty aiming to free world trade by cutting tariffs, whose later negotiations led to the World Trade Organization.
    - *Expands to:* General Agreement on Tariffs and Trade
    - *See also:* World Trade Organization
 
-3306. **general and special damages** — 一般和特殊损害赔偿
+3305. **general and special damages** — 一般和特殊损害赔偿
 
    1. In tort or breach of contract, general damages cover presumed losses while special damages cover losses that must be proved.
    2. Here general damages cover losses hard to quantify, while special damages cover quantifiable losses such as expenses.
    - *See also:* damages; pain and suffering
 
-3307. **General Anti-Abuse Rule** — 一般反滥用规则
+3306. **General Anti-Abuse Rule** — 一般反滥用规则
 
    - A tax rule that counteracts arrangements whose main purpose is to obtain a tax advantage and that cannot be seen as reasonable.
    - *Expands to:* General Anti-Abuse Rule
    - *See also:* anti-avoidance provisions; purpose; tax advantage; abus de droit; Follower Notice; Promoter of Tax Avoidance Schemes
 
-3308. **General Assembly** — 大会
+3307. **General Assembly** — 大会
 
    - The principal UN body, described under United Nations.
       - *Sense labels:* (of the UN)
    - *Labels:* (of the UN)
    - *See also:* United Nations
 
-3309. **general average** — 共同海损
+3308. **general average** — 共同海损
 
    - A shipping rule explained under average.
    - *See also:* average
 
-3310. **General Council of the Bar of England and Wales** — 英格兰和威尔士律师协会总理事会
+3309. **General Council of the Bar of England and Wales** — 英格兰和威尔士律师协会总理事会
 
    - Another name for the Bar Council.
    - *See also:* Bar Council
 
-3311. **General Court** — 普通法院
+3310. **General Court** — 普通法院
 
    - The court that hears the first appeals against European Commission decisions, with further appeals going to the Court of Justice.
    - *See also:* Single European Act; European Court of Justice; Lisbon Treaty
 
-3312. **general defences** — 一般辩护
+3311. **general defences** — 一般辩护
 
    - Defences available to any crime, such as duress, mistake, necessity or self-defence, unlike special defences tied to particular offences.
    - *See also:* duress; excuse; justification; mistake; necessity; non-insane automatism; self-defence
 
-3313. **general equitable charge** — 一般衡平法押记
+3312. **general equitable charge** — 一般衡平法押记
 
    - A registrable land charge that binds a legal estate but arises neither under a trust nor from deposit of title deeds.
    - *See also:* land charge; registration of encumbrances; legal estate
 
-3314. **general improvement area** — 一般改善区域
+3313. **general improvement area** — 一般改善区域
 
    - A mainly residential area that a housing authority decides should be improved through better dwellings or amenities.
    - *See also:* housing action area
 
-3315. **General Intent** — 一般故意
+3314. **General Intent** — 一般故意
 
    1. **一般故意：** The intent to perform the act without a specific further unlawful purpose.
    - *Jurisdiction:* US
 
-3316. **general issue** — 一般问题
+3315. **general issue** — 一般问题
 
    - A plea denying every allegation; no longer allowed in civil cases, but in criminal cases it means pleading not guilty.
    - *See also:* Civil Procedure Rules; not guilty
 
-3317. **Generalized Grievance** — 一般性受害 *(n.)*
+3316. **Generalized Grievance** — 一般性受害 *(n.)*
 
    1. **一般性受害：** An injury shared broadly with the public lacking particularized standing.
    - *Jurisdiction:* US
 
-3318. **General Jurisdiction** — 一般对人管辖权 *(n.)*
+3317. **General Jurisdiction** — 一般对人管辖权 *(n.)*
 
    1. **一般对人管辖权：** Authority to hear claims against a defendant without requiring those claims to arise from the defendant's forum contacts.
 
-3319. **general legacy** — 一般遗产
+3318. **general legacy** — 一般遗产
 
    - A kind of legacy, explained under legacy.
    - *See also:* legacy
 
-3320. **general lien** — 一般留置权
+3319. **general lien** — 一般留置权
 
    - A type of lien, explained under lien.
    - *See also:* lien
 
-3321. **generally accepted accounting practice** — 公认会计惯例
+3320. **generally accepted accounting practice** — 公认会计惯例
 
    - The standard accounting conventions, described under accounting practice.
    - *Expands to:* generally accepted accounting practice
    - *See also:* accounting practice
 
-3322. **general meeting** — 股东大会
+3321. **general meeting** — 股东大会
 
    - A gathering of a company's members other than the annual general meeting, often replaceable by written resolution.
    - *See also:* annual general meeting; written resolution
 
-3323. **general participation clause** — 一般参与条款
+3322. **general participation clause** — 一般参与条款
 
    - A Hague Conventions clause that binds a warring party only while every other belligerent is also bound.
    - *See also:* Hague Conventions
 
-3324. **general power** — 一般权力
+3323. **general power** — 一般权力
 
    - A broad power discussed under power of appointment.
    - *See also:* power of appointment
 
-3325. **general power of investment** — 一般投资权
+3324. **general power of investment** — 一般投资权
 
-   - A trustee's power to make any investment an absolute owner could make, subject to suitability and diversification duties.
+   1. **一般投资权：** Subject to statutory limits, trustees may invest as an outright owner could. Section 3 covers loans secured on land but leaves other investments in land to separate powers.
+      - *Sense labels:* trusts
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Trustee Act 2000, s 3](https://www.legislation.gov.uk/ukpga/2000/29/section/3) · source-checked · 2026-11-24
    - *See also:* authorized investments
 
-3326. **general principles of law** — 一般法律原则
+3325. **general principles of law** — 一般法律原则
 
    - A subsidiary source of international law, drawn from norms common to national legal systems, used when treaties and custom are inadequate.
    - *Jurisdiction:* International
    - *See also:* International Court of Justice; treaties; customary international law
 
-3327. **general-purpose AI model** — 通用人工智能模型
+3326. **general-purpose AI model** — 通用人工智能模型
 
    1. **通用人工智能模型：** An AI model able to perform a wide range of tasks regardless of intent.
    - *Jurisdiction:* EU
 
-3328. **general purpose credit card** — 通用信用卡
+3327. **general purpose credit card** — 通用信用卡
 
    1. **通用信用卡：** A card usable for a broad range of purchases rather than a single merchant.
    - *Jurisdiction:* US
 
-3329. **general safety requirement** — 一般安全要求
+3328. **general safety requirement** — 一般安全要求
 
    - The duty that consumer goods be reasonably safe, taking account of how they are marketed, any warnings, and relevant standards.
 
-3330. **general verdict** — 一般判决
+3329. **general verdict** — 一般判决
 
    1. A civil-case verdict wholly favouring one side or the other.
       - *Sense labels:* (in a civil case)
@@ -15782,1560 +15811,1574 @@
    - *Labels:* (in a civil case); (in a criminal case)
    - *See also:* verdict; guilty; not guilty; special verdict
 
-3331. **General Verdict With Interrogatories** — 附特别询问的一般裁决
+3330. **General Verdict With Interrogatories** — 附特别询问的一般裁决
 
    1. **附特别询问的一般裁决：** A jury's overall verdict accompanied by answers to specific factual questions submitted by the court.
 
-3332. **general warrant** — 一般搜查令
+3331. **general warrant** — 一般搜查令
 
    - An arrest or search warrant that fails to name the person or specify the premises or property, and is usually unlawful.
    - *See also:* power of search; false imprisonment
 
-3333. **general words** — 一般用语
+3332. **general words** — 一般用语
 
    - Terms in a deed describing incidental rights, such as easements, now included automatically unless excluded.
    - *See also:* conveyance
 
-3334. **genetic fingerprinting** — 基因指纹
+3333. **genetic fingerprinting** — 基因指纹
 
    - Another name for DNA fingerprinting.
    - *See also:* DNA fingerprinting
 
-3335. **Geneva Conventions** — 日内瓦公约
+3334. **Geneva Conventions** — 日内瓦公约
 
    - A series of treaties protecting the sick, wounded, prisoners of war and civilians, now largely reflecting customary international law.
    - *See also:* Hague Conventions; Martens Clause
 
-3336. **genitor** — 孩子的亲生父亲，与法定父亲不同 *(n.)*
+3335. **genitor** — 孩子的亲生父亲，与法定父亲不同 *(n.)*
 
    - The natural father of a child, as opposed to the man who is legally the father.
 
-3337. **genocide** — 种族灭绝 *(n.)*
+3336. **genocide** — 种族灭绝 *(n.)*
 
    - Acts aimed at destroying a group defined by nationality, ethnicity, race, or religion, in whole or in part, an international crime.
    - *See also:* war crimes; humanitarian intervention
 
-3338. **genuine commercial reasons** — 真正的商业原因
+3337. **genuine commercial reasons** — 真正的商业原因
 
    - A test discussed under purpose.
    - *See also:* purpose
 
-3339. **Genuine Dispute Of Material Fact** — 实质性事实的真正争议
+3338. **Genuine Dispute Of Material Fact** — 实质性事实的真正争议
 
    1. **实质性事实的真正争议：** A real factual conflict requiring trial rather than summary judgment.
    - *Jurisdiction:* US
 
-3340. **geoblocking** — 地理封锁 *(n.)*
+3339. **geoblocking** — 地理封锁 *(n.)*
 
    - Restricting internet access to content by nationality or location, used for copyright, licensing or price reasons.
 
-3341. **Geographical indication (GI)** — 地理标志
+3340. **Geographical indication (GI)** — 地理标志
 
    1. **地理标志：** A sign identifying goods whose origin is linked to a particular quality, reputation, or other characteristic.
 
-3342. **Geographic area of chargeability** — 签证配额归属地区 *(n.)*
+3341. **Geographic area of chargeability** — 签证配额归属地区 *(n.)*
 
    1. **签证配额归属地区：** The geographic allocation against which an immigrant visa is counted under the relevant distribution rules.
 
-3343. **Gerrymandering** — 不公正划分选区
+3342. **Gerrymandering** — 不公正划分选区
 
    1. **不公正划分选区：** Drawing electoral boundaries to advantage one party or group.
    - *Jurisdiction:* US
 
-3344. **get** — 犹太宗教离婚 *(n.)*
+3343. **get** — 犹太宗教离婚 *(n.)*
 
    - A Jewish religious divorce, delivered by the husband to his wife before witnesses, recognised in some civil divorce rules.
    - *See also:* divorce order; extrajudicial divorce
 
-3345. **gift** — 赠与 *(n.)*
+3344. **gift** — 赠与 *(n.)*
 
    - **赠与：** A voluntary transfer of property made without payment; formally it needs delivery, a deed or a donatio mortis causa.
    - *See also:* donatio mortis causa; estoppel; capital gains tax; transfer of value; inheritance tax
 
-3346. **gift aid** — 礼品援助
+3345. **gift aid** — 礼品援助
 
    - A tax scheme letting charities reclaim basic-rate tax on donations, with higher-rate relief claimed by the donor.
 
-3347. **gift over** — 赠与
+3346. **gift over** — 赠与
 
    - A clause in a will or settlement that shifts property to another person once an earlier interest ends or fails.
 
-3348. **gift with reservation** — 有保留的赠与
+3347. **gift with reservation** — 有保留的赠与
 
    - A gift where the donor keeps a benefit in the property, so that it is still treated as part of the estate for inheritance tax.
 
-3349. **gig economy** — 零工经济
+3348. **gig economy** — 零工经济
 
    - A labour market built on short-term, freelance, or casual jobs, where workers often miss standard employment protections.
    - *See also:* employee; worker; Taylor Review of Modern Working Practices
 
-3350. **Gillick-competence** — 吉利克能力
+3349. **Gillick-competence** — 吉利克能力
 
    - In medical law, a child below sixteen who is mature enough to agree to a particular treatment without a parent.
    - *See also:* consent; parental responsibility
 
-3351. **gipsy** — 吉普赛人 *(n.)*
+3350. **gipsy** — 吉普赛人 *(n.)*
 
    - Someone leading a wandering life with no settled home, for whom councils once had to provide sites.
    - *See also:* trespass; unauthorized camping
 
-3352. **glebe** — 作为教会慈善财产的一部分拥有的土地 *(n.)*
+3351. **glebe** — 作为教会慈善财产的一部分拥有的土地 *(n.)*
 
    - Land that forms part of the endowment of a church living.
 
-3353. **GLO** — 集体诉讼
+3352. **GLO** — 集体诉讼
 
    - Abbreviation for group litigation order.
    - *See also:* group litigation
 
-3354. **Global amount** — 总额
+3353. **Global amount** — 总额
 
    1. **总额：** A single overall sum of support ordered instead of separately itemized periodic payments.
 
-3355. **glue sniffing** — 嗅胶
+3354. **glue sniffing** — 嗅胶
 
    - A form of intoxication, discussed under intoxication.
    - *See also:* intoxication
 
-3356. **going equipped** — 携带装备
+3355. **going equipped** — 携带装备
 
    - An offence of having an article with you, away from home, for use in a burglary or theft.
 
-3357. **going public** — 上市
+3356. **going public** — 上市
 
    - The act of turning a private company into a public one, whether newly formed or re-registered.
    - *See also:* public company; private company
 
-3358. **golden handshake** — 金握手
+3357. **golden handshake** — 金握手
 
    - A generous payout to a senior executive pushed out before the contract ends, made as compensation for losing the post.
 
-3359. **golden hello** — 金色你好
+3358. **golden hello** — 金色你好
 
    - A lump sum used to lure a senior recruit to a new employer, taxed depending on its nature.
 
-3360. **golden rule** — 黄金法则
+3359. **golden rule** — 黄金法则
 
    - An aid to interpretation, described under interpretation and interpretation of wills.
    - *See also:* interpretation; interpretation of wills
 
-3361. **golden share** — 金股
+3360. **golden share** — 金股
 
    - A special share described under share.
    - *See also:* share
 
-3362. **good behaviour** — 良好行为
+3361. **good behaviour** — 良好行为
 
    - An order requiring a person to behave towards another, backed by a recognizance and possible imprisonment for breach.
    - *See also:* recognizance; bind over; keep the peace
 
-3363. **Good Cause** — 正当理由
+3362. **Good Cause** — 正当理由
 
    1. **正当理由：** A legally sufficient reason justifying an action or an exception.
 
-3364. **GOOD CAUSE EXCEPTION (RULEMAKING)** — 正当理由例外（规则制定）
+3363. **GOOD CAUSE EXCEPTION (RULEMAKING)** — 正当理由例外（规则制定）
 
    1. **正当理由例外（规则制定）：** A waiver of notice-and-comment when an agency shows urgent justification.
    - *Jurisdiction:* US
 
-3365. **good consideration** — 良好的考虑
+3364. **good consideration** — 良好的考虑
 
    - A form of consideration explained under consideration.
    - *See also:* consideration
 
-3366. **good faith** — 诚信
+3365. **good faith** — 诚信
 
    - Honesty; English law implies no general contractual obligation of good faith, though specific rules impose it.
    - *See also:* uberrimae fidei; unfair contract terms
 
-3367. **Good Faith And Fair Dealing** — 善意与公平交易
+3366. **Good Faith And Fair Dealing** — 善意与公平交易
 
    1. **善意与公平交易：** An implied duty to perform a contract honestly and not defeat its purpose.
 
-3368. **Good Faith Exception** — 善意例外 *(n.)*
+3367. **Good Faith Exception** — 善意例外 *(n.)*
 
    1. **善意例外：** An exclusionary-rule exception for searches reasonably relying on later-invalid law.
    - *Jurisdiction:* US
 
-3369. **good leasehold title** — 良好的租赁所有权
+3368. **good leasehold title** — 良好的租赁所有权
 
    - A registered leasehold title equal to absolute title, except that the lessor's authority to grant the lease is unproven.
    - *See also:* land registration; absolute title
 
-3370. **good leaver** — 合格离职者 *(n.)*
+3369. **good leaver** — 合格离职者 *(n.)*
 
    1. **合格离职者：** An equityholder whose departure meets contractual conditions for favorable treatment of their vested or unvested interests.
 
-3371. **good offices** — 斡旋
+3370. **good offices** — 斡旋
 
    - A way to settle an international dispute where a neutral third party helps the states talk, without proposing terms itself.
    - *See also:* conciliation; mediation
 
-3372. **goods** — 货物 *(pl. n.)*
+3371. **goods** — 货物 *(pl. n.)*
 
-   - Personal property other than land, money and choses in action, including items agreed to be severed from land before sale.
+   1. Personal property other than land, money and choses in action, including items agreed to be severed from land before sale.
+   2. **货物：** Under Part 1, movable physical items. Water, gas and electricity fall within the definition when offered in a measured quantity or limited volume.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 2(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/2) · source-checked · 2026-11-24
    - *See also:* choses; emblements; services
 
-3373. **goodwill** — 商誉 *(n.)*
+3372. **goodwill** — 商誉 *(n.)*
 
    - The value of a business's reputation and customer connections, protected on sale and shown in accounts under accounting rules.
    - *See also:* Financial Reporting Standard
 
-3374. **Good Work Plan** — 良好的工作计划
+3373. **Good Work Plan** — 良好的工作计划
 
    - The government's response to the Taylor Review of Modern Working Practices.
    - *See also:* Taylor Review of Modern Working Practices
 
-3375. **go-shop period** — 主动询价期
+3374. **go-shop period** — 主动询价期
 
    1. **主动询价期：** A period during which a transaction target may actively seek competing acquisition proposals.
 
-3376. **governing law clause** — 准据法条款
+3375. **governing law clause** — 准据法条款
 
    1. **准据法条款：** A contractual provision selecting the legal system governing the agreement.
 
-3377. **Government** — 政府 *(n.)*
+3376. **Government** — 政府 *(n.)*
 
    1. **政府：** The institutions and officials through which public authority is exercised over a political community.
 
-3378. **Government Appeal** — 政府上诉 *(n.)*
+3377. **Government Appeal** — 政府上诉 *(n.)*
 
    1. **政府上诉：** An appeal brought by a governmental party where law permits review of the challenged decision.
 
-3379. **government benefit account** — 政府福利账户
+3378. **government benefit account** — 政府福利账户
 
    1. **政府福利账户：** An account established to receive or provide access to government benefit payments.
 
-3380. **Government benefits and refundable credits** — 政府福利与可退还税收抵免
+3379. **Government benefits and refundable credits** — 政府福利与可退还税收抵免
 
    1. **政府福利与可退还税收抵免：** Public payments and tax credits, such as credits, treated as income in support calculations.
 
-3381. **Government Business** — 政府议事事项 *(n.)*
+3380. **Government Business** — 政府议事事项 *(n.)*
 
    1. **政府议事事项：** Parliamentary matters introduced or managed on behalf of the government.
 
-3382. **government circulars** — 政府通告
+3381. **government circulars** — 政府通告
 
    - Documents issued by government departments setting out policy and practice; they bind where they give effect to statute and are reviewable.
    - *See also:* judicial review
 
-3383. **government department** — 政府部门
+3382. **government department** — 政府部门
 
    - A unit of central government handling one area of public administration, staffed by civil servants under a minister.
 
-3384. **government-in-exile** — 流亡政府 *(n.)*
+3383. **government-in-exile** — 流亡政府 *(n.)*
 
    - A government operating from outside its own territory, usually after foreign occupation or defeat.
 
-3385. **Government Orders** — 政府议程
+3384. **Government Orders** — 政府议程
 
    1. **政府议程：** The portion of parliamentary proceedings devoted to government-sponsored business.
 
-3386. **Government Speech** — 政府言论
+3385. **Government Speech** — 政府言论
 
    1. **政府言论：** Expression attributable to the government itself rather than private speakers using a government-controlled forum.
 
-3387. **Governor General** — 总督 *(n.)*
+3386. **Governor General** — 总督 *(n.)*
 
    1. **总督：** The representative of a monarch who performs constitutional and ceremonial functions in a realm.
 
-3388. **Grand Committee** — 大委员会
+3387. **Grand Committee** — 大委员会
 
    1. In the Commons, one of the committees for Scotland, Wales and Northern Ireland that debates matters relating to those nations.
    2. In the Lords, a committee that considers a bill without taking votes, so changes must be unanimous.
    - *Jurisdiction:* Northern Ireland
    - *See also:* Committee of the whole House
 
-3389. **Grand jury** — 大陪审团
+3388. **Grand jury** — 大陪审团
 
    1. **大陪审团：** A panel deciding whether probable cause supports a criminal indictment.
    - *Jurisdiction:* US
 
-3390. **Grand Jury Presence** — 大陪审团在场 *(n.)*
+3389. **Grand Jury Presence** — 大陪审团在场 *(n.)*
 
    1. **大陪审团在场：** The requirement that certain statements occur before the grand jury itself.
    - *Jurisdiction:* US
 
-3391. **grant** — 授予 *(n.)*
+3390. **grant** — 授予 *(n.)*
 
    1. The creation or passing of ownership in property, such as land, by a written document; for instance a lease.
    2. A grant of representation giving personal representatives authority over an estate.
    3. Funds or powers allotted by Parliament or the Crown to serve a defined aim.
    - *See also:* lie in grant; grant of representation
 
-3392. **grant for the use and benefit** — 使用和利益授予
+3391. **grant for the use and benefit** — 使用和利益授予
 
    - A grant of administration made to another person when a minor or incapable person is the appointed executor.
    - *See also:* letters of administration; cessate grant
 
-3393. **grant of representation** — 代表授权
+3392. **grant of representation** — 代表授权
 
    - Probate or letters of administration granted by a court so personal representatives can wind up a dead person's estate.
    - *See also:* probate; letters of administration; personal representatives
 
-3394. **grants in aid** — 援助赠款
+3393. **grants in aid** — 援助赠款
 
    - Central government grants to local authorities, either for particular services or to top up general income.
 
-3395. **grant with the will annexed** — 授予附有遗嘱
+3394. **grant with the will annexed** — 授予附有遗嘱
 
    - A grant of administration with the will annexed, described under cum testamento annexo.
    - *See also:* cum testamento annexo
 
-3396. **gravamen** — 构成诉讼理由的重大不满或投诉 *(n.)*
+3395. **gravamen** — 构成诉讼理由的重大不满或投诉 *(n.)*
 
    - The main grievance or complaint on which a legal action rests.
 
-3397. **grave hardship** — 严重困难
+3396. **grave hardship** — 严重困难
 
    - A former ground on which a spouse could resist divorce after five years' separation, later abolished.
       - *Sense labels:* (in divorce proceedings)
    - *Labels:* (in divorce proceedings)
    - *See also:* decree nisi; divorce
 
-3398. **Gray’s Inn** — 格雷律师学院
+3397. **Gray’s Inn** — 格雷律师学院
 
    - A London Inn of Court, based in Holborn, and one of the four such inns.
    - *See also:* Inns of Court
 
-3399. **Greater London** — 大伦敦
+3398. **Greater London** — 大伦敦
 
    - The local government area covering the London boroughs, the Inner and Middle Temples, and the City of London.
    - *See also:* City of London; local authority; Mayor of London; London Assembly; Greater London Authority
 
-3400. **Greater London Authority** — 大伦敦管理局
+3399. **Greater London Authority** — 大伦敦管理局
 
    - A body comprising the London Assembly together with the Mayor of London, working to improve the capital's economy, society, and environment.
    - *See also:* Mayor of London; London Assembly
 
-3401. **Green Card** — 绿卡
+3400. **Green Card** — 绿卡
 
    1. **绿卡：** The identity card evidencing lawful permanent residence in the United States.
 
-3402. **green form** — 绿色表格
+3401. **green form** — 绿色表格
 
    - A legal aid form, described under legal aid.
    - *See also:* legal aid
 
-3403. **green paper** — 绿皮书
+3402. **green paper** — 绿皮书
 
    - A consultation paper, described under Command Papers.
    - *See also:* Command Papers
 
-3404. **greenshoe option** — 超额配售选择权 *(n.)*
+3403. **greenshoe option** — 超额配售选择权 *(n.)*
 
    1. **超额配售选择权：** An option allowing underwriters to acquire additional offered securities to cover excess allocations.
 
-3405. **grievous bodily harm** — 严重身体伤害
+3404. **grievous bodily harm** — 严重身体伤害
 
    - Really serious physical injury; offences of inflicting or causing it carry different penalties depending on intent.
    - *Expands to:* grievous bodily harm
    - *See also:* wounding with intent
 
-3406. **gross** — 毛额
+3405. **gross** — 毛额
 
    - A term explained under in gross.
    - *See also:* in gross
 
-3407. **Grossed-up amount of child support** — 折算后子女抚养费
+3406. **Grossed-up amount of child support** — 折算后子女抚养费
 
    1. **折算后子女抚养费：** Child support adjusted to reflect its tax treatment so recipients compare amounts on equal footing.
 
-3408. **gross income** — 总收入
+3407. **gross income** — 总收入
 
    1. **总收入：** All income from whatever source derived before allowable deductions.
    - *Jurisdiction:* US
 
-3409. **Gross income difference** — 总收入差额 *(n.)*
+3408. **Gross income difference** — 总收入差额 *(n.)*
 
    1. **总收入差额：** The gap between the parties' gross incomes, relevant to offsetting child support obligations.
 
-3410. **gross indecency** — 严重猥亵
+3409. **gross indecency** — 严重猥亵
 
    - A former category of sexual act beyond ordinary indecency but short of intercourse, largely replaced by modern sexual offences.
    - *See also:* indecency; sexual assault; sexual activity with a child
 
-3411. **gross investment income** — 投资总收入
+3410. **gross investment income** — 投资总收入
 
    1. **投资总收入：** Total investment returns before expenses or allowable deductions.
    - *Jurisdiction:* US
 
-3412. **gross negligence** — 严重疏忽
+3411. **gross negligence** — 严重疏忽
 
    - Negligence far worse than the ordinary reasonable person's, which can found criminal liability such as gross negligence manslaughter.
    - *See also:* negligence; manslaughter
 
-3413. **gross profit** — 毛利
+3412. **gross profit** — 毛利
 
    1. **毛利：** Revenue minus the cost of goods sold before other deductions.
 
-3414. **gross profit percentage** — 毛利率 *(n.)*
+3413. **gross profit percentage** — 毛利率 *(n.)*
 
    1. **毛利率：** The ratio of gross profit to revenue used in markup or allocation.
    - *Jurisdiction:* US
 
-3415. **Ground for revocation** — 撤销理由 *(n.)*
+3414. **Ground for revocation** — 撤销理由 *(n.)*
 
    1. **撤销理由：** A legally recognized defect or circumstance supporting cancellation of an existing intellectual property right.
 
-3416. **ground rent** — 地租
+3415. **ground rent** — 地租
 
    - A modest yearly sum reserved under a long lease, paid for the whole term on top of any premium.
 
-3417. **group** — 集团 *(n.)*
+3416. **group** — 集团 *(n.)*
 
    - In company law, a parent and the entities it controls, which may have to prepare consolidated accounts; tax law defines it differently.
 
-3418. **group accounts** — 集团账户
+3417. **group accounts** — 集团账户
 
    - Company accounts, legally required when the firm has one or more subsidiaries, that present the group's finances as a whole.
    - *See also:* Accounts; subsidiary company
 
-3419. **group litigation** — 集体诉讼
+3418. **group litigation** — 集体诉讼
 
    - A civil procedure in which the court manages many claims that raise shared issues of fact or law under a group litigation order.
    - *See also:* case management; Civil Procedure Rules; representative claim
 
-3420. **Guantanamo Bay** — 关塔那摩湾
+3419. **Guantanamo Bay** — 关塔那摩湾
 
    - A US naval base in Cuba whose military prison has held suspected terrorists without charge, prompting habeas corpus rulings.
    - *See also:* habeas corpus
 
-3421. **guarantee** — 担保 *(n.)*
+3420. **guarantee** — 担保 *(n.)*
 
    1. A secondary agreement by which a guarantor answers for another's debt or default, requiring writing and consideration.
    2. A synonym for warranty in some contexts.
    - *See also:* consideration; indemnity; warranty
 
-3422. **guarantee company** — 担保公司
+3421. **guarantee company** — 担保公司
 
    - A company limited by guarantee, described under limited company.
    - *See also:* limited company
 
-3423. **guarantee payment** — 保证金
+3422. **guarantee payment** — 保证金
 
    - A statutory sum an employer pays an employee for whom no work is available on a working day, subject to limits.
    - *See also:* continuous employment
 
-3424. **Guarantor** — 保证人 *(n.)*
+3423. **Guarantor** — 保证人 *(n.)*
 
    1. **保证人：** A party who promises to answer for another's debt or obligation.
 
-3425. **Guaranty** — 保证
+3424. **Guaranty** — 保证
 
    1. **保证：** A promise by one party to answer for the debt of another.
 
-3426. **guard dog** — 看门狗
+3425. **guard dog** — 看门狗
 
    - A dog kept to protect people or property; using one without securing it or a handler is an offence.
    - *See also:* animals; manslaughter; dangerous animals
 
-3427. **guardian** — 监护人 *(n.)*
+3426. **guardian** — 监护人 *(n.)*
 
    - A person officially chosen to protect a child's interests after the parents die, who gains parental responsibility.
    - *See also:* family proceedings; parental responsibility
 
-3428. **guardian ad litem** — 诉讼监护人
+3427. **guardian ad litem** — 诉讼监护人
 
    - A former name for a children's guardian, now covered by the litigation friend rules.
-   - *Language:* Latin
-   - *See also:* children’s guardian; ad litem; children’s guardian; litigation friend
+   - *Language:* la
+   - *See also:* children’s guardian; ad litem; litigation friend
 
-3429. **guardian (of a child)** — 监护人
+3428. **guardian (of a child)** — 监护人
 
    1. **监护人：** A person lawfully entrusted with the care and decisions for a child's person or property.
 
-3430. **Guardianship order** — 监护令 *(n.)*
+3429. **Guardianship order** — 监护令 *(n.)*
 
    1. **监护令：** A court order appointing a guardian with specified rights and duties over a child.
 
-3431. **Guidelines income** — 准则收入
+3430. **Guidelines income** — 准则收入
 
    1. **准则收入：** The income figure determined under child support guidelines for calculating the table amount.
 
-3432. **guillotine** — 断头台 *(n.)*
+3431. **guillotine** — 断头台 *(n.)*
 
    - A Commons procedure limiting debate on a bill by allocating set time to its stages, after which votes are taken.
    - *See also:* closure
 
-3433. **guilty** — 有罪 *(adj.)*
+3432. **guilty** — 有罪 *(adj.)*
 
    1. In court, a defendant's concession that he did commit the offence charged against him.
    2. A verdict that the accused committed the offence charged, or another offence the evidence supports.
    - *See also:* not guilty; verdict; conviction
 
-3434. **guilty knowledge** — 有罪知识
+3433. **guilty knowledge** — 有罪知识
 
    - The awareness of facts needed for mens rea; deliberately ignoring obvious facts can amount to constructive knowledge.
    - *See also:* mens rea
 
-3435. **guilty mind** — 罪恶心理
+3434. **guilty mind** — 罪恶心理
 
    - Another term for mens rea, the mental element of a crime.
    - *See also:* mens rea
 
-3436. **Guilty Plea** — 有罪答辩
+3435. **Guilty Plea** — 有罪答辩
 
    1. **有罪答辩：** A defendant formal admission in court of guilt to the offense charged.
 
-3437. **Guilty Plea Colloquy** — 有罪答辩讯问程序
+3436. **Guilty Plea Colloquy** — 有罪答辩讯问程序
 
    1. **有罪答辩讯问程序：** The courts questioning ensuring a defendants plea is knowing, voluntary and informed.
 
-3438. **gunboat diplomacy** — 炮舰外交
+3437. **gunboat diplomacy** — 炮舰外交
 
    - Settling quarrels with weaker states by threatening force, once through warships pressuring local rulers.
    - *See also:* use of force
 
-3439. **Gun Control** — 枪支管制
+3438. **Gun Control** — 枪支管制
 
    1. **枪支管制：** Laws regulating the manufacture, sale, and possession of firearms.
    - *Jurisdiction:* US
 
-3440. **gypsy** — 吉普赛人 *(n.)*
+3439. **gypsy** — 吉普赛人 *(n.)*
 
    - An alternative spelling of gipsy.
    - *See also:* gipsy
 
 ## H
 
-3441. **habeas corpus** — 人身保护令
+3440. **habeas corpus** — 人身保护令
 
    - A prerogative writ challenging the lawfulness of a person's detention, requiring the custodian to justify it or release the detainee.
 
-3442. **habeas corpus (writ of)** — 人身保护令
+3441. **habeas corpus (writ of)** — 人身保护令
 
    1. **人身保护令：** A judicial writ requiring justification of detention so the court can examine its legality.
 
-3443. **habendum** — 应拥有的东西 *(n.)*
+3442. **habendum** — 应拥有的东西 *(n.)*
 
    - The clause of a conveyance stating the interest or estate granted to the grantee.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* conveyance; freehold; tenant in tail; tenant for life
 
-3444. **Habit Evidence** — 习惯证据 *(n.)*
+3443. **Habit Evidence** — 习惯证据 *(n.)*
 
    1. **习惯证据：** Evidence of a person's regular practice used to infer conduct on a specific occasion.
 
-3445. **Habitual Offender** — 惯犯 *(n.)*
+3444. **Habitual Offender** — 惯犯 *(n.)*
 
    1. **惯犯：** A person repeatedly convicted whose history triggers enhanced penalty.
    - *Jurisdiction:* US
 
-3446. **habitual residence** — 惯常居住地
+3445. **habitual residence** — 惯常居住地
 
    - The country or place where a person has their home, relevant to establishing domicile.
    - *See also:* domicile
 
-3447. **hacking** — 黑客攻击 *(n.)*
+3446. **hacking** — 黑客攻击 *(n.)*
 
    - Breaking into a computer without permission, a crime made worse when done to commit another offence.
    - *See also:* Copyright; data protection
 
-3448. **Hague Convention on International Adoption 1993** — 1993 年国际收养海牙公约
+3447. **Hague Convention on International Adoption 1993** — 1993 年国际收养海牙公约
 
    - A treaty on cross-border adoption, described under intercountry adoption.
    - *See also:* intercountry adoption
 
-3449. **Hague Convention on the Civil Aspects of International Child Abduction** — 国际儿童诱拐民事方面的海牙公约
+3448. **Hague Convention on the Civil Aspects of International Child Abduction** — 国际儿童诱拐民事方面的海牙公约
 
    - A treaty requiring the prompt return of wrongfully removed children, unless a defence such as serious harm applies.
    - *See also:* child abduction
 
-3450. **Hague Conventions** — 海牙公约
+3449. **Hague Conventions** — 海牙公约
 
    - Treaties on the peaceful settlement of disputes and the laws of war, which established the Permanent Court of Arbitration.
    - *See also:* Permanent Court of Arbitration; International Court of Justice; general participation clause; Geneva Conventions; Martens clause
 
-3451. **Hague Rules** — 海牙规则
+3450. **Hague Rules** — 海牙规则
 
    - Shipping rules discussed under bill of lading and international carriage.
    - *See also:* bill of lading; international carriage
 
-3452. **half a year** — 半年
+3451. **half a year** — 半年
 
    - In a lease, a fixed period running from one quarter day to the following quarter day but one.
       - *Sense labels:* (in a lease)
    - *Labels:* (in a lease)
    - *See also:* fixed term
 
-3453. **half blood** — 混血
+3452. **half blood** — 混血
 
    - A family relationship between people who share only one parent rather than both.
    - *See also:* consanguinity
 
-3454. **half-secret trust** — 半秘密信托
+3453. **half-secret trust** — 半秘密信托
 
    - A trust whose existence a will reveals but whose beneficiaries it leaves unnamed, though the trustee knows who they are.
    - *See also:* secret trust
 
-3455. **Hamburg Rules** — 汉堡规则
+3454. **Hamburg Rules** — 汉堡规则
 
    - International rules on the carriage of goods by sea; see bill of lading and international carriage.
    - *See also:* bill of lading; international carriage
 
-3456. **handguns** — 手枪
+3455. **handguns** — 手枪
 
    - Short firearms designed to be held and fired with one hand; see firearm.
    - *See also:* firearm
 
-3457. **handling stolen goods** — 处理被盗物品
+3456. **handling stolen goods** — 处理被盗物品
 
    - Dishonestly taking, keeping, removing, or disposing of goods known or believed to be stolen, or helping another to do so.
    - *See also:* theft; blackmail; deception; dishonesty
 
-3458. **Hansard** — 议事录 *(n.)*
+3457. **Hansard** — 议事录 *(n.)*
 
    - The official published account of the debates and statements made in the UK Parliament.
    - *See also:* Stationery Office; Journals
 
-3459. **harassment** — 骚扰 *(n.)*
+3458. **harassment** — 骚扰 *(n.)*
 
    1. Conduct that causes alarm, distress, or humiliation, which may be a crime and a ground for a restraining order.
    2. Unwanted conduct that violates a person's dignity or creates an intimidating, hostile, or offensive environment, prohibited as discrimination.
    - *See also:* harassment of debtors; harassment of occupier; nuisance neighbours; stalking; threatening behaviour; discrimination
 
-3460. **harassment of debtors** — 骚扰债务人
+3459. **harassment of debtors** — 骚扰债务人
 
    - Pressure or threats used to make a person pay a debt, which is an offence if it causes alarm, distress, or humiliation.
    - *See also:* blackmail
 
-3461. **harassment of occupier** — 对占用人的骚扰
+3460. **harassment of occupier** — 对占用人的骚扰
 
    - A landlord's use of violence, threats, or pressure to recover possession from a tenant without a court order, which is an offence.
    - *See also:* forcible entry; nuisance neighbours
 
-3462. **harbouring** — 窝藏 *(n.)*
+3461. **harbouring** — 窝藏 *(n.)*
 
    - Sheltering someone who has committed or is suspected of committing a crime, which may itself be an offence.
    - *See also:* impeding apprehension or prosecution; escape
 
-3463. **hard law** — 硬法
+3462. **hard law** — 硬法
 
    - Legally binding rules, as opposed to non-binding soft law; see soft law.
    - *See also:* soft law
 
-3464. **hardship clause** — 艰难情势条款
+3463. **hardship clause** — 艰难情势条款
 
    1. **艰难情势条款：** A provision permitting renegotiation or adjustment when changed circumstances make contractual performance excessively burdensome.
 
-3465. **Harmless Error** — 无害错误 *(n.)*
+3464. **Harmless Error** — 无害错误 *(n.)*
 
    1. **无害错误：** A trial error not affecting substantial rights and not requiring reversal.
    - *Jurisdiction:* US
 
-3466. **harmonization of laws** — 法律协调
+3465. **harmonization of laws** — 法律协调
 
    - The process by which EU member states align their national laws to secure uniformity, especially in commercial matters.
    - *See also:* Community legislation; approximation of laws
 
-3467. **Hate Crime** — 仇恨犯罪
+3466. **Hate Crime** — 仇恨犯罪
 
    1. **仇恨犯罪：** An offense motivated by hostility toward a victims protected group characteristic.
 
-3468. **hay bote** — 篱笆修缮取木权
+3467. **hay bote** — 篱笆修缮取木权
 
    - A tenant's right to take wood for repairing fences; see estovers.
    - *See also:* estovers
 
-3469. **hazardous waste** — 危险废物
+3468. **hazardous waste** — 危险废物
 
    - Waste that endangers people or the natural world because it has one of the listed hazardous properties.
    - *See also:* waste disposal
 
-3470. **headings** — 标题 *(pl. n.)*
+3469. **headings** — 标题 *(pl. n.)*
 
    - Words placed at the beginning of sections of a statute, which may be consulted when resolving an ambiguity.
    - *See also:* preambles
 
-3471. **Health and Safety Executive** — 健康与安全执行官
+3470. **Health and Safety Executive** — 健康与安全执行官
 
    - The UK body that promotes and enforces workplace health and safety and advises on related law.
    - *Expands to:* Health and Safety Executive
    - *See also:* safety at work
 
-3472. **Health and Wellbeing Boards** — 健康和福祉委员会
+3471. **Health and Wellbeing Boards** — 健康和福祉委员会
 
    - Local authority bodies that bring together NHS, social care, and public health commissioners to plan health and care services.
    - *See also:* National Health Service
 
-3473. **Healthcare Commission** — 医疗保健委员会
+3472. **Healthcare Commission** — 医疗保健委员会
 
    - A former NHS regulator; see the Care Quality Commission (England).
    - *See also:* Care Quality Commission for England
 
-3474. **Health Care Proxy** — 医疗代理
+3473. **Health Care Proxy** — 医疗代理
 
    1. **医疗代理：** A document appointing another to make medical decisions for the principal.
    - *Jurisdiction:* US
 
-3475. **health records** — 健康记录
+3474. **health records** — 健康记录
 
    - Records about a patient's physical or mental health kept by the health service, to which the patient may seek access.
    - *See also:* National Health Service
 
-3476. **health savings account** — 健康储蓄账户
+3475. **health savings account** — 健康储蓄账户
 
    1. **健康储蓄账户：** A tax-advantaged account for qualified medical expenses.
    - *Jurisdiction:* US
 
-3477. **Health Service Commissioners** — 卫生服务专员
+3476. **Health Service Commissioners** — 卫生服务专员
 
    - Officials who independently investigate complaints about the health service and about certain health practitioners.
    - *See also:* National Health Service; Parliamentary Ombudsman
 
-3478. **hearing** — 听证会 *(n.)*
+3477. **hearing** — 听证会 *(n.)*
 
    - Any proceeding in which a case comes before a court, including the trial itself.
    - *See also:* trial; European Convention on Human Rights; in camera; Civil Procedure Rules
 
-3479. **Hearing Officer** — 听证官
+3478. **Hearing Officer** — 听证官
 
    - An official of the EU Court of Justice who organizes and chairs hearings in competition cases and protects defendants' interests.
    - *See also:* European Court of Justice; competition law
 
-3480. **hearing on the merits** — 实体问题听证
+3479. **hearing on the merits** — 实体问题听证
 
    1. **实体问题听证：** A hearing devoted to determining the substantive rights and liabilities in dispute.
 
-3481. **hearsay** — 传闻证据
+3480. **hearsay** — 传闻证据
 
-   1. **传闻证据：** An out-of-court statement offered to prove the truth of the matter it asserts.
+   1. **传闻证据：** A statement made outside the declarant’s testimony at the current trial or hearing and offered to establish what it asserts. Rule 801(d) excludes specified prior statements and opposing-party statements from this category.
+      - *Sense labels:* evidence
+      - *Sense jurisdiction:* US federal
+      - *Source:* [Fed. R. Evid. 801(c)–(d)](https://www.uscourts.gov/sites/default/files/document/federal-rules-of-evidence.pdf) · source-checked · 2026-11-24
 
-3482. **hearsay evidence** — 传闻证据
+3481. **hearsay evidence** — 传闻证据
 
    - A statement made out of court by someone other than the testifying witness, offered to prove the truth of its contents.
    - *See also:* testimony; res gestae; previous statements; fair trial
 
-3483. **Hearsay Exception** — 传闻例外 *(n.)*
+3482. **Hearsay Exception** — 传闻例外 *(n.)*
 
    1. **传闻例外：** A rule permitting certain out-of-court statements to be admitted despite the hearsay bar.
 
-3484. **Hearsay Within Hearsay** — 传闻中的传闻
+3483. **Hearsay Within Hearsay** — 传闻中的传闻
 
    1. **传闻中的传闻：** Layered out-of-court statements each requiring an independent basis for admissibility.
 
-3485. **Heck Doctrine** — 赫克原则
+3484. **Heck Doctrine** — 赫克原则
 
    1. **赫克原则：** A bar on challenging a conviction through later civil rights suits.
    - *Jurisdiction:* US
 
-3486. **hedgerow** — 树篱 *(n.)*
+3485. **hedgerow** — 树篱 *(n.)*
 
    - A boundary line of small trees or bushes, whose removal is restricted by law.
 
-3487. **hedonic damages** — 享乐损害赔偿
+3486. **hedonic damages** — 享乐损害赔偿
 
    - Compensation calculated by estimating the future earnings the injured party would otherwise have received.
    - *See also:* Compensation; multiplier; Ogden tables
 
-3488. **Heightened Pleading** — 提高的诉辩具体性要求
+3487. **Heightened Pleading** — 提高的诉辩具体性要求
 
    1. **提高的诉辩具体性要求：** A requirement for more detailed allegations than the ordinary pleading standard demands.
 
-3489. **heir** — 继承人 *(n.)*
+3488. **heir** — 继承人 *(n.)*
 
    - Historically, the person entitled to inherit a dead person's freehold land where no valid will exists.
    - *See also:* entailed interests; heirs of the body
 
-3490. **heir apparent** — 法定继承人
+3489. **heir apparent** — 法定继承人
 
    - The person who will inherit provided they outlive the present holder; see heir.
    - *See also:* heir
 
-3491. **heirloom** — 传家宝 *(n.)*
+3490. **heirloom** — 传家宝 *(n.)*
 
    - A personal possession that passed with the family house to the heir rather than forming part of the estate.
    - *See also:* chattel; tenant for life; capital money
 
-3492. **heir presumptive** — 推定继承人
+3491. **heir presumptive** — 推定继承人
 
    - An heir whose right to inherit may be lost if someone with a stronger claim is born; see heir.
    - *See also:* heir
 
-3493. **heirs of the body** — 身体继承人
+3492. **heirs of the body** — 身体继承人
 
    - In older law, direct descendants who could take freehold land when a person died without a will.
    - *See also:* entailed interest
 
-3494. **Helms-Burton Act** — 赫尔姆斯-伯顿法案
+3493. **Helms-Burton Act** — 赫尔姆斯-伯顿法案
 
    - A US law allowing suits over Cuban property seized from US nationals and barring certain foreign traders from entry.
 
-3495. **help at court** — 法庭帮助
+3494. **help at court** — 法庭帮助
 
    - Assistance with courtroom costs formerly available under legal aid; see legal aid.
    - *See also:* legal aid
 
-3496. **Hemispheric ceilings** — 半球移民配额上限
+3495. **Hemispheric ceilings** — 半球移民配额上限
 
    1. **半球移民配额上限：** Historical immigration ceilings separately limiting admissions associated with the Eastern and Western Hemispheres.
 
-3497. **hereditament** — 继承 *(n.)*
+3496. **hereditament** — 继承 *(n.)*
 
    1. Historically, any interest in land that could descend to an heir, whether tangible or intangible.
    2. A unit of land assessed separately for rating purposes.
    - *See also:* heir
 
-3498. **heritage property** — 遗产财产
+3497. **heritage property** — 遗产财产
 
    - Property certified as important to the nation in scientific, historical, or artistic terms, on which inheritance tax is deferred until sale.
 
-3499. **Her Majesty’s Stationery Office** — 女王陛下文具办公室
+3498. **Her Majesty’s Stationery Office** — 女王陛下文具办公室
 
    - The former official publisher of UK government and parliamentary material, which still handles Crown and parliamentary copyright.
    - *Expands to:* Her Majesty’s Stationery Office
    - *See also:* Stationery Office; Office of Public Sector Information
 
-3500. **HHSRS** — 住房健康和安全评级系统
+3499. **HHSRS** — 住房健康和安全评级系统
 
    - A method for judging whether housing conditions endanger occupiers' health and safety and what action is needed.
    - *See also:* housing health and safety rating system
 
-3501. **High-conflict Manager** — 高冲突案件管理人 *(n.)*
+3500. **High-conflict Manager** — 高冲突案件管理人 *(n.)*
 
    1. **高冲突案件管理人：** A professional who coordinates services and case flow for families in persistent high conflict.
 
-3502. **high contracting parties** — 缔约方
+3501. **high contracting parties** — 缔约方
 
    - The states that are parties to a treaty, acting through their authorized representatives.
    - *Jurisdiction:* International
    - *See also:* treaty
 
-3503. **High Court** — 高等法院
+3502. **High Court** — 高等法院
 
    1. **高等法院：** A superior court of first instance in certain jurisdictions.
    - *Jurisdiction:* UK
 
-3504. **High Court Enforcement Officer** — 高等法院执行官
+3503. **High Court Enforcement Officer** — 高等法院执行官
 
    - An officer who enforces High Court judgments by executing writs of possession, delivery, and fieri facias.
    - *See also:* enforcement of judgments; fieri facias; writs of possession; writs of delivery; sheriff
 
-3505. **High Court of Justice** — 高等法院
+3504. **High Court of Justice** — 高等法院
 
    - A senior court in England and Wales with civil and criminal appellate jurisdiction, divided into three divisions.
    - *Jurisdiction:* England and Wales
    - *See also:* Civil Procedure Rules; appellate jurisdiction; Queen’s Bench Division; Chancery Division; Family Division
 
-3506. **higher-priced mortgage loan** — 较高利率抵押贷款
+3505. **higher-priced mortgage loan** — 较高利率抵押贷款
 
    1. **较高利率抵押贷款：** A mortgage whose annual percentage rate exceeds the applicable benchmark by a prescribed regulatory margin.
 
-3507. **high hedges** — 高树篱
+3506. **high hedges** — 高树篱
 
    - A hedge over two metres high that harms a neighbour's enjoyment of their property, which may prompt action by the local authority.
 
-3508. **high-risk AI system** — 高风险人工智能系统
+3507. **high-risk AI system** — 高风险人工智能系统
 
    1. **高风险人工智能系统：** An AI system posing a significant risk to health, safety or fundamental rights.
    - *Jurisdiction:* EU
 
-3509. **high seas** — 公海
+3508. **high seas** — 公海
 
    - The ocean areas beyond any state's territorial or internal waters, where the freedom of the seas applies.
    - *See also:* territorial waters; internal waters; exclusive economic zone; Biodiversity Treaty; deep seabed area; law of the sea; res communis
 
-3510. **highway** — 高速公路 *(n.)*
+3509. **highway** — 高速公路 *(n.)*
 
    - A route the public may use as of right, including footpaths, bridleways, carriageways, and navigable rivers.
    - *See also:* footpaths; bridleways; driftways; carriageways; obstruction
 
-3511. **hijacking** — 劫持 *(n.)*
+3510. **hijacking** — 劫持 *(n.)*
 
    - Unlawfully seizing a plane while it is airborne through force or threats, which is a serious criminal offence.
 
-3512. **hire** — 雇用 *(vb.)*
+3511. **hire** — 雇用 *(vb.)*
 
    1. To take another person's goods or services for a time in return for payment, the goods being held as a bailee.
    2. The act of hiring, or the sum paid for hiring.
    - *See also:* bailment
 
-3513. **hire purchase** — 租购
+3512. **hire purchase** — 租购
 
    - A way of purchasing goods by instalments in which ownership passes only with the last payment and the exercise of an option to buy.
    - *See also:* credit sale agreement; hire
 
-3514. **Hiring sites** — 招聘地点
+3513. **Hiring sites** — 招聘地点
 
    1. **招聘地点：** Locations where an employer hires employees and completes related employment eligibility procedures.
 
-3515. **historic buildings** — 历史建筑
+3514. **historic buildings** — 历史建筑
 
    - Buildings of special architectural or historic interest; see conservation area, listed building, and building preservation notice.
    - *See also:* building preservation notice; conservation area; heritage property; listed building
 
-3516. **HMOs** — 查看多种用途的房屋
+3515. **HMOs** — 查看多种用途的房屋
 
    - Buildings shared by two or more households that use common facilities, which may need a local authority licence.
    - *See also:* houses in multiple occupation
 
-3517. **HM Procurator General** — 英国总检察长
+3516. **HM Procurator General** — 英国总检察长
 
    - A senior government law officer; see Treasury Solicitor.
    - *See also:* Treasury Solicitor
 
-3518. **HM Revenue and Customs** — 英国税务海关总署
+3517. **HM Revenue and Customs** — 英国税务海关总署
 
    - The UK department responsible for collecting taxes and customs duties.
    - *See also:* Revenue and Customs, HM
 
-3519. **HMSO** — 女王陛下的文具办公室
+3518. **HMSO** — 女王陛下的文具办公室
 
    - The abbreviation for Her Majesty's Stationery Office.
    - *See also:* Her Majesty’s Stationery Office
 
-3520. **Hobbs Act** — 霍布斯法
+3519. **Hobbs Act** — 霍布斯法
 
    1. **霍布斯法：** A US statute punishing extortion affecting interstate or foreign commerce.
    - *Jurisdiction:* US
 
-3521. **holdback amount** — 暂扣金额
+3520. **holdback amount** — 暂扣金额
 
    1. **暂扣金额：** Part of a payment retained temporarily to secure adjustments, claims, or other agreed obligations.
 
-3522. **holder** — 持有人 *(n.)*
+3521. **holder** — 持有人 *(n.)*
 
    - The person entitled to enforce a negotiable instrument, such as a promissory note or a bill of exchange.
    - *See also:* bill of exchange
 
-3523. **Holder In Due Course** — 正当持票人
+3522. **Holder In Due Course** — 正当持票人
 
    1. **正当持票人：** A holder who takes a negotiable instrument in good faith for value.
    - *Jurisdiction:* US
 
-3524. **Hold Harmless** — 免责赔偿
+3523. **Hold Harmless** — 免责赔偿
 
    1. **免责赔偿：** A clause allocating risk by protecting one party from liability.
 
-3525. **holding company** — 控股公司
+3524. **holding company** — 控股公司
 
    - A company that controls another; see subsidiary company.
    - *See also:* subsidiary company
 
-3526. **holding out** — 坚持
+3525. **holding out** — 坚持
 
    - Words or conduct causing someone to believe that a person holds authority which in truth does not exist.
    - *See also:* estoppel
 
-3527. **holding over** — 保留
+3526. **holding over** — 保留
 
    - A tenant's continued occupation of premises after the lease has ended, which may create a new tenancy if rent is accepted.
    - *See also:* mesne profits
 
-3528. **holdover relief** — 滞留减免
+3527. **holdover relief** — 滞留减免
 
    - A capital gains tax relief that postpones the gain on certain gifts until the recipient later disposes of the asset.
    - *See also:* capital gains tax; gift
 
-3529. **holiday pay** — 假期工资
+3528. **holiday pay** — 假期工资
 
    - Pay to which workers are entitled for a period of annual holiday under working time rules.
    - *See also:* Agency workers; zero-hour contracts; working hours
 
-3530. **Hollow Threat** — 空洞威胁
+3529. **Hollow Threat** — 空洞威胁
 
    1. **空洞威胁：** A threat lacking real capacity or intent to cause the harm stated.
 
-3531. **holograph** — 全息图 *(n.)*
+3530. **holograph** — 全息图 *(n.)*
 
    - A document written entirely in its author's own handwriting, such as a will written by the testator.
 
-3532. **Home confinement** — 家庭监禁 *(n.)*
+3531. **Home confinement** — 家庭监禁 *(n.)*
 
    1. **家庭监禁：** A sentence requiring the offender to remain at home under supervision.
    - *Jurisdiction:* US
 
-3533. **Homelessness Reduction Act 2017** — 《2017 年减少无家可归法案》
+3532. **Homelessness Reduction Act 2017** — 《2017 年减少无家可归法案》
 
    - Legislation requiring local housing authorities in England to intervene early to prevent homelessness and to accept referrals from other public bodies.
    - *See also:* council housing; rough sleeping mental health support
 
-3534. **homeless person** — 无家可归者
+3533. **homeless person** — 无家可归者
 
    - A person with no accommodation they are entitled to occupy, or unlawfully excluded from it, or whose mobile home cannot lawfully be placed.
 
-3535. **home-loss payment** — 房屋损失赔偿金
+3534. **home-loss payment** — 房屋损失赔偿金
 
    - Extra compensation paid on compulsory acquisition of a property to a person who lived there as their main home for five years.
    - *See also:* compulsory purchase
 
-3536. **homeowner's insurance** — 房主保险 *(n.)*
+3535. **homeowner's insurance** — 房主保险 *(n.)*
 
    1. **房主保险：** A policy covering a dwelling and its owner against specified losses.
    - *Jurisdiction:* US
 
-3537. **home rights** — 房屋权利
+3536. **home rights** — 房屋权利
 
    - A non-owning husband, wife, or civil partner's entitlement to keep living in the family home.
    - *See also:* matrimonial home; occupation order
 
-3538. **Home Rule** — 地方自治
+3537. **Home Rule** — 地方自治
 
    1. **地方自治：** The authority of a local government to govern itself without state interference.
    - *Jurisdiction:* US
 
-3539. **Homes and Communities Agency** — 住房和社区机构
+3538. **Homes and Communities Agency** — 住房和社区机构
 
    - A former body that funded new and affordable housing and regeneration, split in 2018 between two successor bodies.
    - *See also:* Homes England; Regulator of Social Housing
 
-3540. **Home Secretary** — 内政大臣
+3539. **Home Secretary** — 内政大臣
 
    - The UK minister who heads the Home Office and is responsible for policing, prisons, immigration, nationality, and related matters.
    - *Jurisdiction:* England and Wales
    - *See also:* prerogative of mercy
 
-3541. **Homes England** — 英国家园
+3540. **Homes England** — 英国家园
 
    - A public body created in 2018 to raise the supply of new and affordable homes built in England.
 
-3542. **Home-State Exception** — 本州例外 *(n.)*
+3541. **Home-State Exception** — 本州例外 *(n.)*
 
    1. **本州例外：** A venue rule letting a debtor file bankruptcy in their home state.
    - *Jurisdiction:* US
 
-3543. **Homestead Exemption** — 宅地豁免 *(n.)*
+3542. **Homestead Exemption** — 宅地豁免 *(n.)*
 
    1. **宅地豁免：** A protection shielding a residence's value from creditors or taxes.
    - *Jurisdiction:* US
 
-3544. **homicide** — 凶杀 *(n.)*
+3543. **homicide** — 凶杀 *(n.)*
 
    - The killing of one person by another, covering unlawful killings such as murder and killings treated as lawful.
    - *Jurisdiction:* England and Wales
    - *See also:* murder; manslaughter; infanticide; causation; reasonable force; self-defence; excusable homicide
 
-3545. **homosexual conduct** — 同性恋行为
+3544. **homosexual conduct** — 同性恋行为
 
    - Intimate conduct between two people of the same gender, now regulated by criminal law in the same way as heterosexual conduct.
 
-3546. **honest opinion** — 诚实意见
+3545. **honest opinion** — 诚实意见
 
    - A defamation defence showing the statement was one of opinion, revealed its basis, and could be held honestly.
    - *See also:* defamation; fair comment
 
-3547. **Honest Services Fraud** — 诚实服务欺诈
+3546. **Honest Services Fraud** — 诚实服务欺诈
 
    1. **诚实服务欺诈：** A scheme depriving another of the intangible right to honest services.
    - *Jurisdiction:* US
 
-3548. **honorarium** — 酬金 *(n.)*
+3547. **honorarium** — 酬金 *(n.)*
 
    - A voluntary payment or reward given in return for unpaid work.
 
-3549. **Honourable** — 尊敬的 *(adj.)*
+3548. **Honourable** — 尊敬的 *(adj.)*
 
    1. **尊敬的：** An honorific attached by law or convention to holders of specified public offices.
 
-3550. **honour clause** — 荣誉条款
+3549. **honour clause** — 荣誉条款
 
    - A contract term stating that the agreement binds in honour only, so the courts will not enforce it.
    - *See also:* contract
 
-3551. **horizontal agreements** — 横向协议
+3550. **horizontal agreements** — 横向协议
 
    - Agreements between businesses operating at the same stage of a supply chain, such as competing manufacturers, that may breach competition law.
    - *See also:* vertical agreements; Article 101; cartels
 
-3552. **hornbook** — 主要是美国术语 *(n.)*
+3551. **hornbook** — 主要是美国术语 *(n.)*
 
    - A mainly US term for a single-volume summary of the elementary principles of a branch of law.
 
-3553. **hospital order** — 医院命令
+3552. **hospital order** — 医院命令
 
    - A court order allowing a convicted person with a mental disorder to be detained in a named hospital.
    - *See also:* mental disorder; restriction order; Mental Health Tribunal
 
-3554. **hostage** — 人质 *(n.)*
+3553. **hostage** — 人质 *(n.)*
 
    - A person held as security against their will, usually to force a state or person to act; taking one is an offence.
    - *See also:* hijacking; kidnapping
 
-3555. **hostile witness** — 敌对证人
+3554. **hostile witness** — 敌对证人
 
    - A witness who refuses to testify truthfully for the party calling them, who may then cross-examine them.
    - *See also:* adverse witness; previous statement
 
-3556. **Hostile Work Environment** — 敌意工作环境 *(n.)*
+3555. **Hostile Work Environment** — 敌意工作环境 *(n.)*
 
    1. **敌意工作环境：** Workplace conduct so severe it alters conditions of employment.
    - *Jurisdiction:* US
 
-3557. **hotchpot** — 在分配无遗嘱者的遗产时 *(n.)*
+3556. **hotchpot** — 在分配无遗嘱者的遗产时 *(n.)*
 
    - On distributing an estate left without a will, the bringing into account of benefits already given to a beneficiary.
    - *See also:* rule against double portions; advancement
 
-3558. **Hot Pursuit** — 紧追
+3557. **Hot Pursuit** — 紧追
 
    1. **紧追：** A chase of a suspect giving police warrantless entry to a place.
    - *Jurisdiction:* US
 
-3559. **hot pursuit, right of** — 紧追，权利
+3558. **hot pursuit, right of** — 紧追，权利
 
    - A coastal state's right to chase and seize a foreign ship in its waters for breaking its laws, continuing if the chase is uninterrupted.
    - *See also:* territorial waters; high seas; extradition
 
-3560. **house bote** — 房屋修缮取木权
+3559. **house bote** — 房屋修缮取木权
 
    - A tenant's right to take wood for repairing buildings; see estovers.
    - *See also:* estovers
 
-3561. **housebreaking** — 入室行窃 *(n.)*
+3560. **housebreaking** — 入室行窃 *(n.)*
 
    - Forcing entry into another person's home, which becomes burglary if a specified offence is intended or committed.
    - *See also:* burglary
 
-3562. **House Leader** — 议院党团领袖 *(n.)*
+3561. **House Leader** — 议院党团领袖 *(n.)*
 
    1. **议院党团领袖：** A party official responsible for coordinating its legislative business and negotiating parliamentary arrangements.
 
-3563. **House of Commons** — 下议院
+3562. **House of Commons** — 下议院
 
    - The elected chamber of the UK Parliament, made up of members returned by individual constituencies.
    - *See also:* Parliament; election; franchise; boundary commissions; Chiltern Hundreds
 
-3564. **House of Commons Commission** — 下议院委员会
+3563. **House of Commons Commission** — 下议院委员会
 
    - A body that oversees the staffing and administration of the House of Commons.
 
-3565. **House of Lords** — 上议院
+3564. **House of Lords** — 上议院
 
    - The upper chamber of the UK Parliament, which reviews bills and once sat as a court.
    - *See also:* Parliament; Lord Chancellor; European Court of Justice; Lords of Appeal in Ordinary; Supreme Court of the United Kingdom; Lord Chief Justice
 
-3566. **House of Lords Appointments Commission** — 上议院任命委员会
+3565. **House of Lords Appointments Commission** — 上议院任命委员会
 
    - A body that recommends non-party life peers and screens nominees for the upper house.
 
-3567. **houses in multiple occupation** — 多种用途的房屋
+3566. **houses in multiple occupation** — 多种用途的房屋
 
    - Buildings housing two or more households that share facilities, some of which must be licensed by the local housing authority.
    - *Expands to:* houses in multiple occupation
 
-3568. **housing action area** — 住房行动区
+3567. **housing action area** — 住房行动区
 
    - An area declared by a housing authority where poor living conditions are to be tackled comprehensively over five years.
    - *See also:* general improvement area
 
-3569. **housing association** — 住房协会
+3568. **housing association** — 住房协会
 
    - A non-profit body that exists chiefly to supply housing.
    - *See also:* fully mutual housing association; assured tenancy
 
-3570. **housing association tenancy** — 住房协会租赁
+3569. **housing association tenancy** — 住房协会租赁
 
    - A tenancy whose landlord is a housing body such as an association or trust rather than a private owner.
 
-3571. **housing benefit** — 住房补贴
+3570. **housing benefit** — 住房补贴
 
    - A means-tested benefit paid to people on low incomes to help with the rent for their housing.
    - *See also:* rent rebates; Universal Credit
 
-3572. **housing health and safety rating system** — 住房健康和安全评级系统
+3571. **housing health and safety rating system** — 住房健康和安全评级系统
 
    - A system for judging whether housing conditions pose a hazard to occupiers' health and safety and what action is needed.
    - *Expands to:* housing health and safety rating system
 
-3573. **Housing Ombudsman** — 住房监察员
+3572. **Housing Ombudsman** — 住房监察员
 
    - A body that safeguards tenants of housing associations and investigates complaints about their landlords.
 
-3574. **housing subsidy** — 住房补贴
+3573. **housing subsidy** — 住房补贴
 
    - A yearly grant from central government towards housing supplied by councils and new town bodies.
 
-3575. **housing trust** — 住房信托
+3574. **housing trust** — 住房信托
 
    - A trust that provides housing or devotes most of its funds to doing so.
    - *See also:* fully mutual housing association; assured tenancy; housing action area
 
-3576. **hue and cry** — 色调和哭泣
+3575. **hue and cry** — 色调和哭泣
 
    - Historically, the practice of raising a group of people to pursue suspected felons, with failure to join punishable by fine.
    - *Language:* fr
 
-3577. **Human Fertilization and Embryology Authority** — 人类受精和胚胎学管理局
+3576. **Human Fertilization and Embryology Authority** — 人类受精和胚胎学管理局
 
    - A body that regulates embryo research and assisted reproduction and keeps a register of donors and resulting children.
    - *See also:* assisted reproduction
 
-3578. **humanitarian intervention** — 人道主义干预
+3577. **humanitarian intervention** — 人道主义干预
 
    - One state's use of armed force in another's territory to protect human rights, which the UN Charter does not clearly permit.
    - *See also:* International Criminal Tribunal for the former Yugoslavia
 
-3579. **Humanitarian parole** — 人道主义临时入境许可
+3578. **Humanitarian parole** — 人道主义临时入境许可
 
    1. **人道主义临时入境许可：** Discretionary permission for temporary physical entry based on urgent humanitarian considerations.
 
-3580. **human rights** — 人权
+3579. **human rights** — 人权
 
    - Rights and freedoms to which every person is entitled, protected by international treaties and national law.
    - *See also:* natural law; European Convention on Human Rights; Human Rights Act
 
-3581. **Human Rights Act** — 人权法
+3580. **Human Rights Act** — 人权法
 
    - Legislation that brings most European Convention rights into UK domestic law and requires public authorities to respect them.
    - *See also:* European Convention on Human Rights; public authorities; victim; absolute right; qualified right; declaration of incompatibility; just satisfaction; freedom of expression; freedom of thought, conscience, and religion
 
-3582. **Human Tissue Authority** — 人体组织管理局
+3581. **Human Tissue Authority** — 人体组织管理局
 
    - A UK body that licenses and oversees the taking, keeping, and use of organs and human tissue.
 
-3583. **human trafficking** — 人口贩运
+3582. **human trafficking** — 人口贩运
 
    - The recruitment or movement of people by force, deception, or coercion for exploitation; see exploitation.
    - *See also:* exploitation; Modern Slavery Act 2015
 
-3584. **hung jury** — 悬案陪审团
+3583. **hung jury** — 悬案陪审团
 
    1. **悬案陪审团：** A jury unable to reach the required unanimity on a verdict.
    - *Jurisdiction:* US
 
-3585. **hybrid Bill** — 混合比尔
+3584. **hybrid Bill** — 混合比尔
 
    - A bill combining features of a public bill and a private bill; see Bill.
    - *See also:* Bill
 
-3586. **hybrid power** — 混合权力
+3585. **hybrid power** — 混合权力
 
    - A power of appointment combining features of general and special powers; see power of appointment.
    - *See also:* power of appointment
 
-3587. **hypothecation** — 抵押 *(n.)*
+3586. **hypothecation** — 抵押 *(n.)*
 
    1. A mortgage of a ship, or of its cargo, given by the master to raise money needed during a voyage.
    2. An authority allowing a bank to sell goods pledged to it as loan security while the borrower keeps possession.
    - *See also:* lien
 
-3588. **Hypothetical Jurisdiction** — 假定管辖权 *(n.)*
+3587. **Hypothetical Jurisdiction** — 假定管辖权 *(n.)*
 
    1. **假定管辖权：** The practice of assuming jurisdiction to reach a merits question, constrained by rules requiring judicial authority to be established.
 
 ## I
 
-3589. **I-20** — 学生资格证明表
+3588. **I-20** — 学生资格证明表
 
    1. **学生资格证明表：** Certificate of Eligibility for Nonimmigrant Student Status.
 
-3590. **I-94** — 出入境记录
+3589. **I-94** — 出入境记录
 
    1. **出入境记录：** Arrival-Departure Record.
 
-3591. **ICC** — 国际刑事法院
+3590. **ICC** — 国际刑事法院
 
    1. **国际刑事法院：** The abbreviation for the International Criminal Court.
    2. **国际刑事法院：** International Criminal Court
       - *Sense labels:* abbreviation
    - *See also:* International Criminal Court
 
-3592. **ICE** — 美国移民与海关执法局
+3591. **ICE** — 美国移民与海关执法局
 
    1. **美国移民与海关执法局：** United States Immigration and Customs Enforcement.
 
-3593. **ICSID Convention** — ICSID 公约
+3592. **ICSID Convention** — ICSID 公约
 
    - A treaty establishing a centre for settling investment disputes between states and foreign investors.
    - *See also:* International Centre for the Settlement of International Disputes
 
-3594. **identification parade** — 辨认队列
+3593. **identification parade** — 辨认队列
 
    1. **辨认队列：** A procedure having witnesses identify a suspect among other persons.
    - *Jurisdiction:* UK
 
-3595. **Identifier (in the context of company names)** — 公司名称标识
+3594. **Identifier (in the context of company names)** — 公司名称标识
 
    1. **公司名称标识：** The complete legal name identifying the corporate applicant or owner in an intellectual property record.
 
-3596. **identity** — 身份 *(n.)*
+3595. **identity** — 身份 *(n.)*
 
    - A question in evidence law about whether someone is the person alleged; see evidence of identity.
       - *Sense labels:* (in the law of evidence)
    - *Labels:* (in the law of evidence)
    - *See also:* evidence of identity
 
-3597. **IDPC** — 起诉案件初步详情（缩写）；检方初步详情
+3596. **IDPC** — 起诉案件初步详情（缩写）；检方初步详情
 
    1. **起诉案件初步详情（缩写）；检方初步详情：** Initial Details of the Prosecution Case, the documents setting out what the prosecution alleges.
       - *Sense labels:* abbreviation
    - *See also:* Initial Details of the Prosecution Case
 
-3598. **IER** — 移民与雇员权利科 *(n.)*
+3597. **IER** — 移民与雇员权利科 *(n.)*
 
    1. **移民与雇员权利科：** Immigrant and Employee Rights Section.
 
-3599. **ignorance of the law** — 无知法律
+3598. **ignorance of the law** — 无知法律
 
    - Lack of knowledge of the law, which normally affords no defence; see mistake.
    - *See also:* mistake
 
-3600. **ignorantia juris non excusat** — 不知法律不免责
+3599. **ignorantia juris non excusat** — 不知法律不免责
 
    - A Latin maxim: not knowing the law does not excuse breaking it.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* statutory instrument; mistake
 
-3601. **ignoring traffic signals** — 忽视交通信号
+3600. **ignoring traffic signals** — 忽视交通信号
 
    - Failing to obey signals given by signs, lights, or road markings, which is a motoring offence carrying penalty points.
    - *See also:* endorsement; totting-up; disqualification; careless and inconsiderate driving; dangerous driving; notice of intended prosecution
 
-3602. **IHT** — 遗产税
+3601. **IHT** — 遗产税
 
    - The abbreviation for inheritance tax.
    - *See also:* inheritance tax
 
-3603. **ILC** — 国际法委员会
+3602. **ILC** — 国际法委员会
 
    - The abbreviation for the International Law Commission.
    - *Jurisdiction:* International
    - *See also:* International Law Commission
 
-3604. **illegal contract** — 非法合同
+3603. **illegal contract** — 非法合同
 
    - A contract forbidden by statute or contrary to public policy, which is void and cannot be enforced.
    - *See also:* public policy; ex turpi causa non oritur actio; severance
 
-3605. **illegal practices** — 非法行为
+3604. **illegal practices** — 非法行为
 
    - Electoral wrongdoing; see the entry on corrupt and illegal practices.
    - *See also:* corrupt and illegal practices
 
-3606. **illegal trust** — 非法信托
+3605. **illegal trust** — 非法信托
 
    - A trust offending law, morality, or public policy, which is void.
 
-3607. **illegitimacy** — 非婚生 *(n.)*
+3606. **illegitimacy** — 非婚生 *(n.)*
 
    - The former legal status of a child whose parents were not married to each other.
    - *See also:* child support maintenance; parental responsibility; unmarried father
 
-3608. **illusory appointment** — 虚幻任命
+3607. **illusory appointment** — 虚幻任命
 
    - A distribution made through a power of appointment giving one or more objects almost no real benefit.
    - *See also:* power of appointment
 
-3609. **Illusory Promise** — 虚幻承诺 *(n.)*
+3608. **Illusory Promise** — 虚幻承诺 *(n.)*
 
    1. **虚幻承诺：** A promise imposing no real obligation and thus failing consideration.
 
-3610. **illusory trust** — 虚幻信托
+3609. **illusory trust** — 虚幻信托
 
    - An arrangement that looks like a trust but where the supposed trustee has no real power, the settlor keeping control.
    - *See also:* sham trust
 
-3611. **Illustrative Aids** — 说明性辅助物
+3610. **Illustrative Aids** — 说明性辅助物
 
    1. **说明性辅助物：** Charts or models used to explain evidence to the finder of fact.
 
-3612. **image-based abuse** — 图像滥用
+3611. **image-based abuse** — 图像滥用
 
    1. **图像滥用：** The non-consensual sharing or threat to share intimate images to humiliate or control a person.
 
-3613. **IMCA** — 独立心理能力倡导者
+3612. **IMCA** — 独立心理能力倡导者
 
    - The abbreviation for Independent Mental Capacity Advocate.
    - *See also:* Independent Mental Capacity Advocate
 
-3614. **IME REPORT (WAIVER OF PRIVILEGE)** — 独立医疗检查报告（特权放弃）
+3613. **IME REPORT (WAIVER OF PRIVILEGE)** — 独立医疗检查报告（特权放弃）
 
    1. **独立医疗检查报告（特权放弃）：** A party's report from a court-ordered exam that may waive related privilege.
 
-3615. **immediately lower-tier corporation** — 直接下层公司 *(n.)*
+3614. **immediately lower-tier corporation** — 直接下层公司 *(n.)*
 
    1. **直接下层公司：** A corporation situated one ownership level below another in the relevant corporate chain.
 
-3616. **immediate post-death interest trust** — 死后即时利息信托
+3615. **immediate post-death interest trust** — 死后即时利息信托
 
    - A will trust giving a beneficiary income from the testator's death, whose assets count as the beneficiary's for inheritance tax.
    - *See also:* trust; inheritance tax; life interest
 
-3617. **Immediate relative** — 直系亲属移民 *(n.)*
+3616. **Immediate relative** — 直系亲属移民 *(n.)*
 
    1. **直系亲属移民：** A qualifying close relative of a United States citizen whose immigrant category is exempt from numerical visa ceilings.
 
-3618. **Immigrant and Employee Rights Section (IER)** — 移民与雇员权利科
+3617. **Immigrant and Employee Rights Section (IER)** — 移民与雇员权利科
 
    1. **移民与雇员权利科：** The Justice Department unit enforcing specified protections against immigration-related employment discrimination.
 
-3619. **immigration** — 特别移民上诉委员会 *(n.)*
+3618. **immigration** — 特别移民上诉委员会 *(n.)*
 
    - Moving to a foreign country in order to settle there for good.
    - *Expands to:* Special Immigration Appeals Commission
-   - *See also:* right of abode; British citizenship; Immigration and Asylum Tribunal; asylum; deportation; asylum
+   - *See also:* right of abode; British citizenship; Immigration and Asylum Tribunal; asylum; deportation
 
-3620. **Immigration Act of 1990** — 美国1990年移民法
+3619. **Immigration Act of 1990** — 美国1990年移民法
 
    1. **美国1990年移民法：** United States legislation restructuring immigration quotas, employment categories, and other immigration rules.
 
-3621. **Immigration and Asylum Tribunal** — 移民和庇护法庭
+3620. **Immigration and Asylum Tribunal** — 移民和庇护法庭
 
    - A body that decides appeals on asylum, immigration, and nationality matters, now within the First-tier Tribunal.
    - *See also:* asylum; immigration; First-tier Tribunal
 
-3622. **Immigration and Nationality Act** — 美国移民与国籍法
+3621. **Immigration and Nationality Act** — 美国移民与国籍法
 
    1. **美国移民与国籍法：** The principal United States statutory framework governing immigration and nationality.
 
-3623. **Immigration judge** — 移民法官
+3622. **Immigration judge** — 移民法官
 
    1. **移民法官：** An administrative judge deciding removal cases and related requests for immigration relief.
 
-3624. **Immigration Marriage Fraud Amendments of 1986** — 1986年移民婚姻欺诈修正法
+3623. **Immigration Marriage Fraud Amendments of 1986** — 1986年移民婚姻欺诈修正法
 
    1. **1986年移民婚姻欺诈修正法：** United States legislation addressing marriage-based immigration fraud, including conditional residence requirements.
 
-3625. **Immigration scams** — 移民诈骗
+3624. **Immigration scams** — 移民诈骗
 
    1. **移民诈骗：** Deceptive schemes exploiting people seeking immigration advice, documents, or benefits.
 
-3626. **Imminent Danger** — 紧迫危险 *(n.)*
+3625. **Imminent Danger** — 紧迫危险 *(n.)*
 
    1. **紧迫危险：** A present threat of serious harm justifying immediate protective action.
 
-3627. **immoral contract** — 不道德合同
+3626. **immoral contract** — 不道德合同
 
    - A contract founded on sexual immorality, for instance one for prostitution, void as against public policy.
    - *See also:* illegal contracts; public policy
 
-3628. **immovables** — 不动产 *(pl. n.)*
+3627. **immovables** — 不动产 *(pl. n.)*
 
    - Tangible property that is immovable in practice, especially land and buildings.
 
-3629. **immunity** — 豁免 *(n.)*
+3628. **immunity** — 豁免 *(n.)*
 
    - Exemption from being sued or prosecuted, as enjoyed by diplomats, legislators, and the sovereign.
    - *See also:* royal prerogative; parliamentary privilege; judicial immunity; diplomatic immunity; sovereign immunity
 
-3630. **IMMUNITY (OFFICIAL)** — 官员豁免
+3629. **IMMUNITY (OFFICIAL)** — 官员豁免
 
    1. **官员豁免：** Legal protection of a public official from suit for lawful official acts.
    - *Jurisdiction:* US
 
-3631. **Impeachment** — 弹劾 *(n.)*
+3630. **Impeachment** — 弹劾 *(n.)*
 
    1. **弹劾：** The constitutional process of charging a high officer with misconduct.
    - *Jurisdiction:* US
 
-3632. **Impeachment By Conviction** — 以定罪弹劾 *(n.)*
+3631. **Impeachment By Conviction** — 以定罪弹劾 *(n.)*
 
    1. **以定罪弹劾：** Attacking a witness's credibility through a prior criminal conviction.
    - *Jurisdiction:* US
 
-3633. **Impeachment By Criminal Conviction** — 以刑事定罪弹劾 *(n.)*
+3632. **Impeachment By Criminal Conviction** — 以刑事定罪弹劾 *(n.)*
 
    1. **以刑事定罪弹劾：** Using a witnesses prior conviction to challenge the credibility of that witness.
 
-3634. **IMPEACHMENT (WITNESS)** — 证人弹劾
+3633. **IMPEACHMENT (WITNESS)** — 证人弹劾
 
    1. **证人弹劾：** Attacking a witness's credibility through prior inconsistent statements, bias, or contradiction.
 
-3635. **impeding apprehension or prosecution** — 阻碍逮捕或起诉
+3634. **impeding apprehension or prosecution** — 阻碍逮捕或起诉
 
    - Helping someone known to be guilty of a serious offence, intending to delay or stop their arrest or prosecution.
    - *See also:* indictable offence; compounding an offence; obstructing a police officer; wasting police time; escape
 
-3636. **imperfect gift** — 不完美的礼物
+3635. **imperfect gift** — 不完美的礼物
 
    - A gift that has not been validly completed; see gift.
    - *See also:* gift
 
-3637. **imperfect trust** — 不完美信托
+3636. **imperfect trust** — 不完美信托
 
    - A trust whose terms still require elaboration before they take effect; see executory trust.
    - *See also:* executory trust
 
-3638. **impersonation** — 冒充 *(n.)*
+3637. **impersonation** — 冒充 *(n.)*
 
    - Falsely claiming to be someone else, which is an offence in many situations and may amount to fraud.
    - *See also:* fraud; deception
 
-3639. **Impleader** — 第三人追偿 *(n.)*
+3638. **Impleader** — 第三人追偿 *(n.)*
 
    1. **第三人追偿：** A procedural device joining a liable third party to a pending suit.
    - *Jurisdiction:* US
 
-3640. **implementation** — 实施 *(n.)*
+3639. **implementation** — 实施 *(n.)*
 
    - The process of bringing legislation into force or giving effect to EU directives at national level.
    - *See also:* Community legislation
 
-3641. **implementation period** — 实施期
+3640. **implementation period** — 实施期
 
    - The transitional period after the UK left the EU during which EU rules largely continued to apply.
    - *See also:* Brexit; Article 50; Treaty on the Functioning of the European Union; Single Market; European Court of Justice; European Union (Future Relationship) Act 2020
 
-3642. **implied condition** — 隐含条件
+3641. **implied condition** — 隐含条件
 
    - A contract term implied by law whose breach lets the innocent party end the agreement.
    - *See also:* condition; satisfactory quality
 
-3643. **implied contract** — 默示合同
+3642. **implied contract** — 默示合同
 
    - A contract deduced by the courts from how the parties behaved or dealt with each other rather than from express words.
 
-3644. **implied easement** — 隐含地役权
+3643. **implied easement** — 隐含地役权
 
    - An easement read into a conveyance of land, such as one of necessity or based on the parties' common intention.
    - *See also:* easement; easement of necessity; quasi-easements
 
-3645. **implied malice** — 暗示恶意
+3644. **implied malice** — 暗示恶意
 
    - A state of mind the law treats as sufficient for a crime even without intent to commit it, such as intent to cause serious harm.
    - *See also:* Mens rea; grievous bodily harm; malice aforethought
 
-3646. **IMPLIED PREEMPTION (FIELD AND CONFLICT)** — 默示优先（领域与冲突）
+3645. **IMPLIED PREEMPTION (FIELD AND CONFLICT)** — 默示优先（领域与冲突）
 
    1. **默示优先（领域与冲突）：** Federal law implicitly overrides state law by occupation or contradiction.
    - *Jurisdiction:* US
 
-3647. **implied term** — 默示条款
+3646. **implied term** — 默示条款
 
    - A contract provision the parties did not express but that the courts or statute treat as part of the agreement.
    - *See also:* caveat emptor; condition; express term
 
-3648. **implied trust** — 默示信托
+3647. **implied trust** — 默示信托
 
    - A trust arising from the settlor's presumed intention or imposed by law.
    - *See also:* resulting trusts; constructive trusts
 
-3649. **import declaration** — 进口申报 *(n.)*
+3648. **import declaration** — 进口申报 *(n.)*
 
    1. **进口申报：** A formal statement providing customs with required information about goods entering a customs territory.
 
-3650. **imported taxable product** — 应税进口产品
+3649. **imported taxable product** — 应税进口产品
 
    1. **应税进口产品：** A good brought into the country that is subject to import tax.
 
-3651. **impossibility** — 不可能 *(n.)*
+3650. **impossibility** — 不可能 *(n.)*
 
    - A general defence that applies when it is physically impossible to obey the criminal law.
    - *See also:* general defence; attempt
 
-3652. **impossibility of performance** — 无法履行
+3651. **impossibility of performance** — 无法履行
 
    - The situation where a contract cannot be carried out, for example because its subject matter has ceased to exist.
    - *See also:* mistake; frustration of contract
 
-3653. **impotence** — 阳痿 *(n.)*
+3652. **impotence** — 阳痿 *(n.)*
 
    - Inability to perform normal sexual intercourse, which if permanent and incurable makes a marriage voidable.
    - *See also:* consummation of a marriage; wilful refusal to consummate
 
-3654. **Impracticability** — 履行不能 *(n.)*
+3653. **Impracticability** — 履行不能 *(n.)*
 
    1. **履行不能：** Discharge when unforeseen events make performance excessively difficult or costly.
 
-3655. **imprisonment** — 监禁 *(n.)*
+3654. **imprisonment** — 监禁 *(n.)*
 
    - Confinement in custody as a punishment; see custody, false imprisonment, and sentence.
    - *See also:* custody; false imprisonment; life imprisonment; sentence
 
-3656. **improper advantage** — 不正当利益 *(n.)*
+3655. **improper advantage** — 不正当利益 *(n.)*
 
    1. **不正当利益：** A benefit sought or obtained through conduct contrary to applicable legal or ethical duties.
+
+3656. **improper means** — 不正当手段
+
+   1. **不正当手段：** In acquiring trade secrets, examples include theft, bribery, deception, industrial espionage and breaches or induced breaches of secrecy duties. Independent development, reverse engineering and other lawful acquisition fall outside the definition.
+      - *Sense labels:* trade secrets
+      - *Sense jurisdiction:* US federal
+      - *Source:* [18 U.S.C. § 1839(6)](https://uscode.house.gov/us/usc/119-138/t18/s1839/) · source-checked · 2026-11-24
 
 3657. **Improper Venue** — 审判地点不当
 
@@ -17414,12 +17457,12 @@
 3672. **in bonis** — 在货物中
 
    - A Latin phrase meaning in the goods of, used for cases about a dead person's property.
-   - *Language:* Latin
+   - *Language:* la
 
 3673. **in camera** — 在摄像机内
 
    - A Latin phrase meaning in private, describing a court hearing held without the public present.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Civil Procedure Rules; Criminal Procedure Rules
 
 3674. **incapacity** — 无能力 *(n.)*
@@ -17755,7 +17798,7 @@
 3746. **in dubio mitius** — 在有疑问的情况下更宽松
 
    - A Latin phrase meaning that in case of doubt the less burdensome interpretation of a treaty is preferred.
-   - *Language:* Latin
+   - *Language:* la
 
 3747. **Indubitable Equivalent** — 无可置疑的等值保障
 
@@ -17823,7 +17866,7 @@
 3761. **in extenso** — 完整长度
 
    - A Latin phrase meaning at full length, describing a document quoted or transcribed in full.
-   - *Language:* Latin
+   - *Language:* la
 
 3762. **infant** — 婴儿 *(n.)*
 
@@ -17994,7 +18037,7 @@
 3799. **injuria absque damno** — 有侵权而无损害
 
    - A Latin phrase meaning a legal wrong committed without actual damage, which is still actionable.
-   - *Language:* Latin
+   - *Language:* la
 
 3800. **injurious falsehood** — 伤害性谎言
 
@@ -18031,12 +18074,12 @@
 3807. **in limine** — 预备：例如，用于描述反对意见
 
    - A Latin phrase meaning at the outset, used of a preliminary objection.
-   - *Language:* Latin
+   - *Language:* la
 
 3808. **in loco parentis** — 代替父母
 
    - A Latin phrase meaning acting as a parent, describing someone with parental rights over a child.
-   - *Language:* Latin
+   - *Language:* la
 
 3809. **Inner Temple** — 内殿
 
@@ -18101,18 +18144,18 @@
 3822. **in pari delicto, potior est conditio possidentis** — 在同等过错中，占有者的状况更有利
 
    - A Latin rule that when both sides are equally to blame, the person holding the property has the better position.
-   - *Language:* Latin
+   - *Language:* la
 
 3823. **in pari materia** — 同类事项（应作一致解释）
 
    - **同类事项（应作一致解释）：** A Latin phrase meaning on the same subject, used of statutes read together; see interpretation.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
 3824. **in personam** — 对人
 
    - A Latin phrase meaning against the person, describing an action or a right against a specific individual.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* in rem; maxim of equity
 
 3825. **In Propria Persona** — 自行诉讼
@@ -18154,13 +18197,13 @@
 3832. **in re** — 关于……；就……而言
 
    - A Latin phrase meaning in the matter of, used in case headings for the person or thing concerned.
-   - *Language:* Latin
+   - *Language:* la
 
 3833. **in rem** — 对物
 
    1. A Latin phrase describing a right that others generally must respect, for example ownership.
    2. A Latin phrase describing an action aimed at a piece of property or a status rather than at a person.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* in personam; Admiralty Court
 
 3834. **In Rem Jurisdiction** — 对物管辖权 *(n.)*
@@ -18170,7 +18213,7 @@
 3835. **in rixa** — 愤怒
 
    - A Latin phrase meaning in anger; a slander defence that the words were said impulsively.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* slander
 
 3836. **INS** — 美国移民归化局
@@ -18219,7 +18262,7 @@
 3846. **in specie** — 实物
 
    - A Latin phrase meaning in a specific form, such as enjoying trust property itself rather than its sale proceeds.
-   - *Language:* Latin
+   - *Language:* la
 
 3847. **inspection by judge** — 法官检查
 
@@ -18375,7 +18418,7 @@
 3879. **inter alia** — 除其他外
 
    - Latin for among other things, signalling that the items listed are not the only ones.
-   - *Language:* Latin
+   - *Language:* la
 
 3880. **intercountry adoption** — 跨国收养
 
@@ -18665,7 +18708,7 @@
 3940. **inter partes** — 当事人间
 
    - Latin for between the parties, describing proceedings in which both sides are present.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* with notice
 
 3941. **interpleader** — 调解者 *(n.)*
@@ -18732,7 +18775,7 @@
 3954. **in terrorem** — 恐怖袭击
 
    - Latin for intimidating, describing a threat that is not really meant to be carried out.
-   - *Language:* Latin
+   - *Language:* la
 
 3955. **interstate trade** — 州际贸易
 
@@ -18768,7 +18811,7 @@
 3962. **inter vivos** — 活人之间
 
    - Latin for between living people, describing a gift or trust made during life.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* secret trust
 
 3963. **intestacy** — 无遗嘱 *(n.)*
@@ -18807,7 +18850,7 @@
 3970. **intra vires** — 在权力范围内
 
    - Latin for within the powers, describing conduct that remains inside a body's legal authority.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* ultra vires
 
 3971. **introductory tenancy** — 介绍性租赁
@@ -18925,12 +18968,12 @@
 3996. **ipse dixit** — 武断之词；未证之断言
 
    - **武断之词；未证之断言：** Latin meaning he said it himself, describing a judge's assertion of a rule without citing authority.
-   - *Language:* Latin
+   - *Language:* la
 
 3997. **ipso jure** — 法律本身
 
    - Latin for by the law itself, describing consequences that follow automatically from law.
-   - *Language:* Latin
+   - *Language:* la
 
 3998. **IRCA** — 美国移民改革与控制法
 
@@ -19034,7 +19077,7 @@
 4019. **istisna’a** — 在伊斯兰金融中
 
    - In Islamic finance, a contract to make goods to an agreed specification and price for later delivery.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* alternative finance arrangements
 
 4020. **itemized pay statement** — 逐项工资单
@@ -19164,7 +19207,7 @@
 4047. **joint tenancy** — 联名租赁
 
    - Land held by two or more people with equal interests, subject to survivorship.
-   - *See also:* tenancy in common; undivided shares; title; vest; legal estate; undivided shares; severance; partition; trust of land
+   - *See also:* tenancy in common; undivided shares; title; vest; legal estate; severance; partition; trust of land
 
 4048. **joint tenants** — 联权共有人；共同共有人
 
@@ -19439,15 +19482,15 @@
 4108. **jure gestionis** — 商业行为
 
    - Latin describing a state's commercial transactions, for which it does not claim immunity.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* jure imperii
 
 4109. **jure imperii** — 描述国家机构或代表（例如外交官）的交易
 
    - Latin describing a state's sovereign acts, for which it keeps immunity.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* jure gestionis
 
 4110. **juridical** — 司法 *(adj.)*
@@ -19476,7 +19519,7 @@
 4115. **juris et de jure** — 不可推翻的法律推定
 
    - Latin describing a presumption that the law treats as impossible to rebut.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* presumption
 
 4116. **jurisprudence** — 法理学 *(n.)*
@@ -19558,91 +19601,91 @@
 4134. **jus** — 法律或权利 *(n.)*
 
    - Latin for a law or a right.
-   - *Language:* Latin
+   - *Language:* la
 
 4135. **jus accrescendi** — 生存权
 
    - Latin for the right of survivorship.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* right of survivorship
 
 4136. **jus accrescendi inter mercatores pro beneficio commercii locum non habet** — 为了商业的进步，商人之间没有生存权
 
    - Latin maxim stating that survivorship does not apply between merchants, so a partner's interest passes to his estate.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* tenancy in common; joint tenancy
 
 4137. **jus ad rem** — 对物请求权
 
    - Latin for a right to a thing, a personal right to sue for performance rather than a right over property.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* jus in re
 
 4138. **jus civile** — 市民法
 
    1. Latin for civil law, the municipal law of a state.
    2. The entire corpus of Roman law.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Municipal law
 
 4139. **jus cogens** — 强行法
 
    - Latin for coercive law, a fundamental international rule binding all states without exception.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
 
 4140. **jus gentium** — 万民法
 
    - Latin for the law of peoples, another name for international law.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* international law
 
 4141. **jus in personam** — 对人法
 
    - Latin for a personal right, enforceable against a particular person rather than the world.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* jus ad rem
 
 4142. **jus in re** — 物权
 
    - Latin for a right in a thing, a real right over property that may be asserted against anyone.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* jus ad rem
 
 4143. **jus in re aliena** — 对他人财产的权利（见产权负担
 
    - Latin for a right in another's property, such as an encumbrance.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* encumbrance
 
 4144. **jus naturale** — 自然法
 
    - **自然法：** Latin for natural law, the underlying basis of all legal systems.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* natural law
 
 4145. **jus quaesitum tertio** — 第三方获得的权利
 
    - Latin for a third party's acquired right, the rule that only contract parties may enforce it.
-   - *Language:* Latin
+   - *Language:* la
 
 4146. **jus sanguinis** — 血统主义
 
    - Latin for the law of blood, the rule that nationality follows parentage rather than birthplace.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* jus soli
 
 4147. **jus soli** — 出生地主义
 
    - Latin for the law of the soil, the rule that nationality follows place of birth.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* jus sanguinis; alien
 
 4148. **just and equitable winding-up** — 公正和公平的清盘
 
    - A compulsory winding-up ordered when it is fair to do so, often in deadlocked or small companies.
-   - *See also:* compulsory winding-up; minority protection; unfair prejudice; unfair prejudice
+   - *See also:* compulsory winding-up; minority protection; unfair prejudice
 
 4149. **Just Cause** — 正当理由
 
@@ -19655,7 +19698,7 @@
 4151. **jus tertii** — 第三方的权利
 
    - Latin for a third party's right, a defence that another person owns the disputed property.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* conversion
 
 4152. **just financial obligation** — 正当金钱债务 *(n.)*
@@ -19890,7 +19933,7 @@
 4199. **lapse** — 失效 *(n.)*
 
    - The failure of a will gift because the beneficiary predeceases the testator.
-   - *See also:* accruer; entailed interest; cy-près; accruer; substitutional legacy
+   - *See also:* accruer; entailed interest; cy-près; substitutional legacy
 
 4200. **lapse of offer** — 要约失效
 
@@ -20179,9 +20222,12 @@
    - A legal right over another's land, such as a right of way.
    - *See also:* easement
 
-4263. **legal estate** — 合法财产
+4263. **legal estate** — 法定地产权
 
-   - A form of land ownership recognized at common law, held for an indefinite period or for a fixed span of years.
+   1. **法定地产权：** An estate in land that can exist at law. Section 1 recognises two forms: the fee simple absolute in possession and the term of years absolute.
+      - *Sense labels:* land law
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Law of Property Act 1925, s 1(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/1) · source-checked · 2026-11-24
    - *See also:* fee simple absolute in possession; term of years absolute
 
 4264. **legal ethics** — 法律道德
@@ -20434,22 +20480,22 @@
 4317. **lex causae** — 准据法
 
    - Latin for the applicable law: in conflict of laws, the legal system that governs the dispute.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law; lex fori
 
 4318. **lex domicilii** — 住所法
 
    - Latin for domicile law: in conflict of laws, the legal system of the country where a person is domiciled.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* domicile; private international law; proper law of a contract
 
 4319. **lex fori** — 论坛法
 
    - Latin for forum law: the legal system of the court where a case is heard, governing procedure and evidence.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* forum; private international law; limitation
 
 4320. **Lex Loci** — 行为地法
@@ -20459,60 +20505,60 @@
 4321. **lex loci actus** — 法律行为发生地的法律
 
    - Latin for the law governing where an act is carried out.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law; lex loci celebrationis; lex loci contractus
 
 4322. **lex loci celebrationis** — 婚姻庆祝地点的法律
 
    - Latin for the law governing where a marriage is celebrated, which decides its formalities.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law
 
 4323. **lex loci contractus** — 合同签订地的法律
 
    - Latin for the law governing where a contract is formed, which decides its formal requirements.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law; proper law of a contract
 
 4324. **lex loci delicti commissi** — 不法行为（侵权行为）发生地的法律
 
    - Latin for the law governing where a wrongful act is committed.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law
 
 4325. **lex loci situs** — 物体所在地点的法律
 
    - Latin for the law governing where property is located, which decides title and succession to it.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law
 
 4326. **lex loci solutionis** — 合同履行地或债务偿还地的法律
 
    - Latin for the law governing where performance must occur or a debt must be repaid.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* private international law; bill of exchange
 
 4327. **lex mercatoria** — 商业法
 
    - Latin for mercantile law: the body of commercial customs and usages followed by traders.
-   - *Language:* Latin
+   - *Language:* la
 
 4328. **lex non scripta** — 不成文法
 
    - **不成文法：** Latin for unwritten law: the body of common law, as contrasted with legislation.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* common law
 
 4329. **lex talionis** — 报复法
 
    - Latin for the law of retaliation, allowing an injured person to inflict the same harm in return.
-   - *Language:* Latin
+   - *Language:* la
 
 4330. **liability** — 责任 *(n.)*
 
@@ -20794,7 +20840,7 @@
 4388. **lis alibi pendens** — 在其他地方悬而未决的诉讼
 
    - Latin for a suit pending elsewhere: litigation already underway between the same parties abroad.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* stay of proceedings
 
 4389. **Lisbon Treaty** — 里斯本条约
@@ -20805,12 +20851,12 @@
 4390. **lis mota** — 已启动的法庭诉讼
 
    - Latin for a lawsuit that has already been started.
-   - *Language:* Latin
+   - *Language:* la
 
 4391. **lis pendens** — 待决的土地诉讼
 
    - Latin for a pending legal action concerning land.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* pending land action
 
 4392. **listed building** — 列入名录建筑
@@ -21061,19 +21107,19 @@
 4444. **locus in quo** — 案发地点
 
    - **案发地点：** Latin for the scene of the event: the location where something relevant to a case happened.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* view
 
 4445. **locus sigilli** — 盖章处
 
    - **盖章处：** Latin for place of the seal: the position where a seal is placed on a document.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* deed
 
 4446. **locus standi** — 诉讼资格
 
    - Latin for standing: the entitlement to sue or contest a decision.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* judicial review
 
 4447. **lodger** — 房客 *(n.)*
@@ -21417,7 +21463,7 @@
 4519. **mala fide** — 恶意
 
    - **恶意：** Latin for bad faith: describing conduct carried out dishonestly.
-   - *Language:* Latin
+   - *Language:* la
 
 4520. **male issue** — 男性后代
 
@@ -21969,7 +22015,7 @@
 4636. **melior est conditio possidentis** — 占有一方的条件更好
 
    - Latin for the condition of the one in possession is better: a claimant must prove title against the possessor.
-   - *Language:* Latin
+   - *Language:* la
 
 4637. **member bank** — 联储成员银行
 
@@ -22023,7 +22069,7 @@
 4648. **mens rea** — 犯罪心态；罪过心态
 
    - Latin for a guilty mind: the mental element the state must prove for conviction.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* precedent; intention; recklessness; negligence; strict liability; actus reus; motive
 
 4649. **Mental Anguish** — 精神痛苦 *(n.)*
@@ -22208,13 +22254,13 @@
 4687. **Miller’s case (No. 1)** — 米勒案（第 1 号）
 
    - The decision that parliamentary authorization was needed before the government could begin withdrawing the UK from the European Union.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Act of Parliament; notice; Article 50; Referendum on Continued Membership of the European Union; royal prerogative; Sewel Convention
 
 4688. **Miller’s case (No. 2)** — 米勒案（第 2 号）
 
    - The ruling that a prime minister's power to suspend Parliament is limited and subject to judicial review.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* royal prerogative; Brexit; judicial review; ultra vires; Order in Council
 
 4689. **minerals** — 矿产 *(pl. n.)*
@@ -22424,7 +22470,7 @@
 4733. **mistake** — 错误 *(n.)*
 
    - A mistaken belief about a fact or the law, which may invalidate or make voidable a contract.
-   - *See also:* rescission; consensus ad idem; misrepresentation; non est factum; mens rea; consent; provocation; general defences; general defences; intoxication
+   - *See also:* rescission; consensus ad idem; misrepresentation; non est factum; mens rea; consent; provocation; general defences; intoxication
 
 4734. **Mistaken Designation Of Defense** — 抗辩事项误列
 
@@ -22514,7 +22560,7 @@
 4753. **modus operandi** — 工作方式
 
    - Latin for manner of working; a person's characteristic method of committing a crime.
-   - *Language:* Latin
+   - *Language:* la
 
 4754. **MoJ** — 司法部
 
@@ -22598,295 +22644,295 @@
 
    - A legal pause on enforcing remedies against debtors during a period of widespread financial hardship.
 
-4773. **mortgage** — 抵押 *(n.)*
+4773. **Māori Land Court** — 毛利土地法院
+
+   1. **毛利土地法院：** A New Zealand court exercising specialized jurisdiction over Māori land and related interests.
+
+4774. **mortgage** — 抵押 *(n.)*
 
    - A security interest in property given to a lender to secure a loan, ending when the debt is repaid.
    - *See also:* equity of redemption; power of sale; receiver; foreclosure; cesser; charge; equitable mortgage; land registration; puisne mortgage; registration of encumbrances; priority of mortgages
 
-4774. **mortgage action** — 抵押诉讼
+4775. **mortgage action** — 抵押诉讼
 
    - A court action by a mortgagee to recover possession of mortgaged property or the money owed.
 
-4775. **mortgagee** — 抵押权人 *(n.)*
+4776. **mortgagee** — 抵押权人 *(n.)*
 
    - The lender who takes a security interest in property under a mortgage.
    - *See also:* mortgage
 
-4776. **mortgage insurance or any functional equivalent** — 抵押贷款保险或等效安排
+4777. **mortgage insurance or any functional equivalent** — 抵押贷款保险或等效安排
 
    1. **抵押贷款保险或等效安排：** Coverage protecting a lender against borrower default on a secured home loan.
    - *Jurisdiction:* US
 
-4777. **mortgage loan** — 抵押贷款
+4778. **mortgage loan** — 抵押贷款
 
    1. **抵押贷款：** A loan secured by an interest in real property.
 
-4778. **mortgage subsidy bond** — 抵押补贴债券
+4779. **mortgage subsidy bond** — 抵押补贴债券
 
    1. **抵押补贴债券：** A state or local bond issue funding below-market mortgage loans for homebuyers.
    - *Jurisdiction:* US
 
-4779. **Mortgage suit** — 抵押诉讼
+4780. **Mortgage suit** — 抵押诉讼
 
    1. **抵押诉讼：** A lender's court action to foreclose and recover on a defaulted mortgage.
 
-4780. **mortgagor** — 抵押人 *(n.)*
+4781. **mortgagor** — 抵押人 *(n.)*
 
    - The borrower who gives a security interest in property under a mortgage.
    - *See also:* mortgage
 
-4781. **Mortmain** — 永久法人持地
+4782. **Mortmain** — 永久法人持地
 
    1. **永久法人持地：** Landholding by an enduring corporation, historically restricted because the property escapes ordinary inheritance transfers.
 
-4782. **Mosaicing** — 拼凑对比文件
+4783. **Mosaicing** — 拼凑对比文件
 
    1. **拼凑对比文件：** Combining teachings from multiple prior-art materials when applying a patentability test that permits such combination.
 
-4783. **most-favoured-customer clause** — 最惠客户条款
+4784. **most-favoured-customer clause** — 最惠客户条款
 
    1. **最惠客户条款：** A promise to give a customer terms at least as favorable as those offered to specified other customers.
 
-4784. **most-favoured-nation clause** — 最惠国条款
+4785. **most-favoured-nation clause** — 最惠国条款
 
    1. **最惠国条款：** A provision extending specified treatment or advantages granted to a favored comparator to the beneficiary.
 
-4785. **most favoured nation treatment** — 最惠国待遇
+4786. **most favoured nation treatment** — 最惠国待遇
 
    - A treaty promise to treat a trading partner at least as well as any other state.
    - *Expands to:* most favoured nation treatment
    - *See also:* bilateral investment treaty
 
-4786. **most-favoured-nation treatment** — 最惠国待遇 *(n.)*
+4787. **most-favoured-nation treatment** — 最惠国待遇 *(n.)*
 
    1. **最惠国待遇：** Treatment at least as favorable as that accorded to comparable beneficiaries from another foreign state.
 
-4787. **most recent financial statement available** — 最近可得财务报表 *(n.)*
+4788. **most recent financial statement available** — 最近可得财务报表 *(n.)*
 
    1. **最近可得财务报表：** The latest financial statement available to the person making the relevant assessment.
 
-4788. **motion** — 动议 *(n.)*
+4789. **motion** — 动议 *(n.)*
 
    - Formerly an oral request for judicial relief, now known under modern procedure as an application.
    - *See also:* Civil Procedure Rules
 
-4789. **Motion For New Trial** — 重新审判动议 *(n.)*
+4790. **Motion For New Trial** — 重新审判动议 *(n.)*
 
    1. **重新审判动议：** A request that the court set aside the trial result and conduct a new trial on permitted grounds.
 
-4790. **Motion For Reconsideration** — 复议动议 *(n.)*
+4791. **Motion For Reconsideration** — 复议动议 *(n.)*
 
    1. **复议动议：** A request asking a court to revisit its own ruling on permitted grounds.
 
-4791. **Motion For Summary Judgment** — 简易判决动议 *(n.)*
+4792. **Motion For Summary Judgment** — 简易判决动议 *(n.)*
 
    1. **简易判决动议：** A request for judgment without trial because no genuine dispute of material fact requires factfinding.
 
-4792. **Motion in Limine** — 庭前证据排除动议
+4793. **Motion in Limine** — 庭前证据排除动议
 
    1. **庭前证据排除动议：** A request for an advance ruling restricting or admitting anticipated evidence at trial.
 
-4793. **Motions That Must Be Made Before Trial** — 必须庭前提出的动议 *(n.)*
+4794. **Motions That Must Be Made Before Trial** — 必须庭前提出的动议 *(n.)*
 
    1. **必须庭前提出的动议：** Procedural objections or requests that must be raised before trial under the governing criminal procedure rules.
 
-4794. **Motion To Alter Or Amend Judgment** — 变更或修订判决动议 *(n.)*
+4795. **Motion To Alter Or Amend Judgment** — 变更或修订判决动议 *(n.)*
 
    1. **变更或修订判决动议：** A timely request that the issuing court modify its judgment under the applicable postjudgment rules.
 
-4795. **Motion To Compel** — 强制履行动议
+4796. **Motion To Compel** — 强制履行动议
 
    1. **强制履行动议：** A request for a court order requiring an opposing party to comply with a procedural duty, commonly discovery.
 
-4796. **Motion To Dismiss** — 驳回动议
+4797. **Motion To Dismiss** — 驳回动议
 
    1. **驳回动议：** A request to terminate a claim or proceeding because a recognized legal or procedural ground supports dismissal.
 
-4797. **Motion to lift the automatic stay** — 解除自动中止动议
+4798. **Motion to lift the automatic stay** — 解除自动中止动议
 
    1. **解除自动中止动议：** A request asking the court to end the statutory freeze on collection actions against the debtor.
    - *Jurisdiction:* US
 
-4798. **Motion To Strike** — 删除动议
+4799. **Motion To Strike** — 删除动议
 
    1. **删除动议：** A request to remove legally improper material from a pleading or court record.
 
-4799. **Motion To Suppress** — 排除证据动议
+4800. **Motion To Suppress** — 排除证据动议
 
    1. **排除证据动议：** A request to prevent use of evidence because it was obtained unlawfully or is otherwise subject to exclusion.
 
-4800. **motive** — 动机 *(n.)*
+4801. **motive** — 动机 *(n.)*
 
    - The purpose behind an act; usually irrelevant to guilt but relevant to sentence and sometimes to evidence.
    - *See also:* libel
 
-4801. **motive malice and deceit malice** — 动机恶意和欺骗恶意
+4802. **motive malice and deceit malice** — 动机恶意和欺骗恶意
 
    - The two ways of proving malice in malicious falsehood: intent to harm or knowledge that the statement was false.
    - *See also:* malicious falsehood
 
-4802. **motoring offences** — 驾驶违法行为
+4803. **motoring offences** — 驾驶违法行为
 
    - Criminal offences connected with driving and the use of vehicles on roads.
    - *See also:* offences relating to road traffic
 
-4803. **motor insurance** — 汽车保险
+4804. **motor insurance** — 汽车保险
 
    - Insurance required by law to cover liability for injury or damage caused by motor vehicles.
    - *See also:* third-party insurance
 
-4804. **Motor Insurers’ Bureau** — 汽车保险公司局
+4805. **Motor Insurers’ Bureau** — 汽车保险公司局
 
    - A body funded by insurers that compensates victims of accidents caused by uninsured or unidentified drivers.
 
-4805. **motor vehicle** — 机动车辆
+4806. **motor vehicle** — 机动车辆
 
    - A vehicle driven by mechanical power and designed or suited for road use.
    - *See also:* conveyance
 
-4806. **motorway driving** — 高速公路驾驶
+4807. **motorway driving** — 高速公路驾驶
 
    - Driving on a motorway contrary to the regulations, punishable by penalty points and possible disqualification.
    - *See also:* endorsement; totting-up; disqualification
 
-4807. **MOT test** — MOT测试
+4808. **MOT test** — MOT测试
 
    - The annual safety inspection required for older vehicles to confirm they meet roadworthiness standards.
    - *See also:* road tax; driving without insurance; vehicle construction and maintenance
 
-4808. **movables** — 动产 *(pl. n.)*
+4809. **movables** — 动产 *(pl. n.)*
 
    - Items of physical property that are not land or permanently attached to it.
 
-4809. **Movant** — 动议申请人
+4810. **Movant** — 动议申请人
 
    1. **动议申请人：** A party requesting a court order through a motion.
 
-4810. **MP** — 国会议员
+4811. **MP** — 国会议员
 
    - Member of Parliament.
    - *Expands to:* Member of Parliament
    - *See also:* House of Commons
 
-4811. **mulct** — 施加罚款或其他处罚：该术语现在很少使用 *(n.)*
+4812. **mulct** — 施加罚款或其他处罚：该术语现在很少使用 *(n.)*
 
    - To fine or otherwise penalize someone, a usage now rarely encountered.
 
-4812. **Multi-District Litigation** — 多地区诉讼 *(n.)*
+4813. **Multi-District Litigation** — 多地区诉讼 *(n.)*
 
    1. **多地区诉讼：** Related federal civil actions coordinated or consolidated for pretrial proceedings because they share factual questions.
 
-4813. **MULTIDISTRICT LITIGATION (MDL)** — 多地区诉讼集中程序
+4814. **MULTIDISTRICT LITIGATION (MDL)** — 多地区诉讼集中程序
 
    1. **多地区诉讼集中程序：** A federal procedure transferring related actions to a single district for coordinated or consolidated pretrial management.
 
-4814. **multilateral investment treaty** — 多边投资条约
+4815. **multilateral investment treaty** — 多边投资条约
 
    - An investment treaty among three or more states, generally broader in scope than a bilateral treaty.
    - *Expands to:* multilateral investment treaty; bilateral investment treaty; North American Free Trade Agreement; Energy Charter Treaty; Central American Free Trade Agreement
    - *See also:* investment treaty; bilateral investment treaty; expropriation; fair and equitable treatment; most favoured nation
 
-4815. **multimodal transport document** — 多式联运单据 *(n.)*
+4816. **multimodal transport document** — 多式联运单据 *(n.)*
 
    1. **多式联运单据：** A transport document covering carriage of goods by at least two different modes under the relevant arrangement.
 
-4816. **multiple admissibility** — 多重可采性
+4817. **multiple admissibility** — 多重可采性
 
    - The evidential principle that evidence admissible for one purpose is not excluded merely on the ground that it is inadmissible for another.
    - *See also:* trier of fact
 
-4817. **multiple agreement** — 多重协议
+4818. **multiple agreement** — 多重协议
 
    - A consumer credit agreement whose parts fall into different statutory categories and are treated separately.
       - *Sense labels:* (under the Consumer Credit Act 1974)
    - *Labels:* (under the Consumer Credit Act 1974)
 
-4818. **multiplier** — 乘数 *(n.)*
+4819. **multiplier** — 乘数 *(n.)*
 
    - A figure used to calculate lump-sum damages for future losses by reference to expected lifespan.
    - *See also:* damages; Ogden tables
 
-4819. **multi-tier dispute resolution clause** — 多层次争议解决条款
+4820. **multi-tier dispute resolution clause** — 多层次争议解决条款
 
    1. **多层次争议解决条款：** A contractual clause requiring successive dispute resolution steps before litigation or arbitration.
 
-4820. **multi-track** — 多轨 *(n.)*
+4821. **multi-track** — 多轨 *(n.)*
 
    - The civil procedure track for complex or higher-value claims, managed through conferences and reviews.
    - *See also:* allocation; fast track; small claims track; case management; case management conferences; pretrial reviews
 
-4821. **municipal law** — 市政法
+4822. **municipal law** — 市政法
 
    - The internal law of a single state, as distinct from international law.
    - *Jurisdiction:* International
    - *See also:* doctrine of incorporation; private law; public law
 
-4822. **Municipal Liability** — 地方政府责任 *(n.)*
+4823. **Municipal Liability** — 地方政府责任 *(n.)*
 
    1. **地方政府责任：** Legal responsibility imposed on a local governmental entity for actionable conduct attributable to it.
 
-4823. **muniments** — 军械 *(pl. n.)*
+4824. **muniments** — 军械 *(pl. n.)*
 
    - Title deeds and other documents that establish a person's ownership of land.
 
-4824. **murder** — 谋杀 *(n.)*
+4825. **murder** — 谋杀 *(n.)*
 
    - Unlawful killing with intent to kill or cause serious harm, other than manslaughter or infanticide.
-   - *See also:* homicide; manslaughter; infanticide; malice aforethought; life imprisonment; diminished responsibility; suicide; loss of control; manslaughter
+   - *See also:* homicide; manslaughter; infanticide; malice aforethought; life imprisonment; diminished responsibility; suicide; loss of control
 
-4825. **mute** — 静音 *(adj.)*
+4826. **mute** — 静音 *(adj.)*
 
    - Refusing to plead to a charge; see standing mute.
    - *See also:* standing mute
 
-4826. **mutiny** — 叛变 *(n.)*
+4827. **mutiny** — 叛变 *(n.)*
 
    - A service offence committed by members of the armed forces who combine to resist or overthrow lawful authority.
 
-4827. **Mutual Assent** — 相互合意
+4828. **Mutual Assent** — 相互合意
 
    1. **相互合意：** The parties' objectively manifested agreement to a contractual exchange.
 
-4828. **mutual insurance company** — 相互保险公司
+4829. **mutual insurance company** — 相互保险公司
 
    1. **相互保险公司：** An insurance company owned by its policyholders rather than outside shareholders.
 
-4829. **mutual insurance holding company** — 相互保险控股公司
+4830. **mutual insurance holding company** — 相互保险控股公司
 
    1. **相互保险控股公司：** A policyholder-owned holding company controlling an insurance enterprise organized through subsidiaries.
 
-4830. **mutuality of obligation** — 义务的相互性
+4831. **mutuality of obligation** — 义务的相互性
 
    - The reciprocal duties of employer and employee, viewed as a core element of the employment relationship.
    - *See also:* employee; contract of employment
 
-4831. **mutual mistake** — 相互错误
+4832. **mutual mistake** — 相互错误
 
    - A situation in which each party to a contract misunderstands the other; see mistake.
    - *See also:* mistake
 
-4832. **Mutual Obligation** — 相互义务 *(n.)*
+4833. **Mutual Obligation** — 相互义务 *(n.)*
 
    1. **相互义务：** Reciprocal commitments requiring performance from each party to an arrangement.
 
-4833. **mutual society** — 互助协会
+4834. **mutual society** — 互助协会
 
    - A building society or insurer owned by its members rather than by shareholders.
    - *See also:* building society; demutualization
 
-4834. **mutual trading** — 相互交易
+4835. **mutual trading** — 相互交易
 
    - Trade conducted solely between a members' association and its own members, whose surplus is not taxed as profit.
    - *See also:* building societies; mutual societies
 
-4835. **mutual wills** — 共同遗嘱
+4836. **mutual wills** — 共同遗嘱
 
    - Wills made by two people under an agreement not to revoke them, binding after the first death.
    - *See also:* constructive trust; gift over
-
-4836. **Māori Land Court** — 毛利土地法院
-
-   1. **毛利土地法院：** A New Zealand court exercising specialized jurisdiction over Māori land and related interests.
 
 ## N
 
@@ -22944,8 +22990,8 @@
 4848. **National Health Service** — 国家医疗服务体系
 
    - The publicly funded health service of the UK, providing hospital, primary, and community care.
-   - *Jurisdiction:* England and Wales
    - *Expands to:* National Health Service; Health Education England; Health Research Authority
+   - *Jurisdiction:* England and Wales
    - *See also:* Strategic Health Authorities; Primary Care Trusts; NHS Trusts; Clinical Commissioning Groups; NHS Foundation Trust; Health and Wellbeing Boards; NHS England; Public Health England
 
 4849. **National Insurance** — 国民保险
@@ -23059,7 +23105,7 @@
 4871. **nec clam, nec vi, nec precario** — 既不秘密，也不通过武力，也不经许可
 
    - Latin for neither in secret, nor by violence, nor with permission; describing open and peaceful enjoyment of a right.
-   - *Language:* Latin
+   - *Language:* la
 
 4872. **necessaries** — 必需品 *(pl. n.)*
 
@@ -23169,31 +23215,31 @@
 4894. **nemo dat quod non habet** — 无权处分不得转让
 
    - Latin maxim meaning that a person cannot transfer a title he does not possess.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estoppel
 
 4895. **nemo debet bis vexari** — 任何人都不应两次烦恼
 
    - Latin maxim that nobody should be troubled twice over the same matter.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estoppel; issue estoppel
 
 4896. **nemo est heres viventis** — 没有人是活着的人的继承人
 
    - Latin maxim that a person has no heir until he dies, so an expected inheritance confers no right.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* heir
 
 4897. **nemo judex in causa sua** — 任何人不得审理自己的案件
 
    - Latin maxim that a person must not sit in judgment on a matter in which he has an interest.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* natural justice
 
 4898. **nemo tenetur seipsum accusare** — 没有人一定会自证其罪
 
    - Latin maxim that nobody is obliged to incriminate himself, underpinning the right to remain silent.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* privilege
 
 4899. **neonaticide** — 杀新生儿 *(n.)*
@@ -23320,7 +23366,7 @@
 4926. **nisi** — 暂定的；非终局的（需条件成就） *(adj.)*
 
    - **暂定的；非终局的（需条件成就）：** Latin for not final or absolute; describing an order that takes effect only if not challenged.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* decree nisi
 
 4927. **Nisi Prius** — 初审巡回审判
@@ -23361,7 +23407,7 @@
 4935. **nolle prosequi** — 不愿意起诉
 
    - Latin phrase meaning a refusal to pursue a prosecution; the power to end criminal proceedings.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Attorney General
 
 4936. **Nolo contendere** — 不争辩答辩
@@ -23487,7 +23533,7 @@
 4963. **non est factum** — 非本人行为抗辩
 
    - Latin phrase pleading that a document is not the signer's deed at all.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* statement of case; mistake
 
 4964. **non-exclusive jurisdiction clause** — 非专属管辖权条款
@@ -23546,12 +23592,12 @@
 4976. **non licet** — 非许可证
 
    - Latin for it is not permitted.
-   - *Language:* Latin
+   - *Language:* la
 
 4977. **non liquet** — 我不清楚
 
    - Latin for it is not clear; a situation where the law provides no answer to a dispute.
-   - *Language:* Latin
+   - *Language:* la
 
 4978. **non-molestation order** — 禁止骚扰令
 
@@ -23595,8 +23641,8 @@
 4987. **non-refoulement** — 不驱回 *(n.)*
 
    - French for no forcing back; the rule barring states from returning refugees to a country where they face danger.
-   - *Jurisdiction:* International
    - *Language:* fr
+   - *Jurisdiction:* International
    - *See also:* asylum
 
 4988. **non-reliance clause** — 不依赖条款
@@ -23669,7 +23715,7 @@
 5003. **noscitur a sociis** — 上下文释义规则（词义取决于同列之词）
 
    - **上下文释义规则（词义取决于同列之词）：** Latin maxim that a word's meaning is drawn from the words surrounding it in a text.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
 5004. **no-shop covenant** — 禁止寻求买家约定
@@ -23830,7 +23876,7 @@
 5038. **nova causa interveniens** — 新的干预原因
 
    - Latin for a new intervening cause; see novus actus interveniens.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* novus actus interveniens
 
 5039. **novation** — 更新 *(n.)*
@@ -23849,7 +23895,7 @@
 5042. **novus actus interveniens** — 新介入行为
 
    - Latin for a new intervening act; an event that breaks the chain of causation in tort or crime.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* causation
 
 5043. **no waiver clause** — 不视为弃权条款
@@ -23869,7 +23915,7 @@
 5046. **nudum pactum** — 无对价合意；裸约
 
    - **无对价合意；裸约：** Latin for naked agreement; a promise made without consideration and unenforceable; see consideration.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* consideration
 
 5047. **nuisance** — 滋扰 *(n.)*
@@ -23894,7 +23940,7 @@
 5051. **nulla poena sine lege** — 没有法律就没有惩罚
 
    - Latin maxim that punishment requires a pre-existing legal prohibition.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* punishment
 
 5052. **nullity of marriage** — 婚姻无效
@@ -23905,7 +23951,7 @@
 5053. **nullum crimen sine lege** — 没有法律就没有犯罪
 
    - Latin maxim that conduct is criminal only if a law has already made it so.
-   - *Language:* Latin
+   - *Language:* la
 
 5054. **Number** — 编号 *(n.)*
 
@@ -23926,7 +23972,7 @@
 5058. **nunc pro tunc** — 现在而不是那时
 
    - Latin for now instead of then; describing an order treated as taking effect earlier.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Civil Procedure Rules
 
 5059. **nuncupative will** — 口头遗嘱
@@ -23952,7 +23998,7 @@
 5063. **obiter dictum** — 附带意见
 
    - Latin for a remark in passing; a judge's comment that is not binding precedent.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* ratio decidendi; persuasive authority
 
 5064. **Objection** — 异议 *(n.)*
@@ -24009,7 +24055,7 @@
 5075. **obscene publication** — 淫秽出版物
 
    - Published material tending to deprave or corrupt, whose publication for gain is a criminal offence.
-   - *See also:* offer; strict liability; strict liability; revenge porn
+   - *See also:* offer; strict liability; revenge porn
 
 5076. **obscene telephone calls** — 淫秽电话
 
@@ -24212,7 +24258,7 @@
 5117. **Official Journal** — 官方期刊
 
    - The daily official publication of the European Union, issued in each of its official languages.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Community legislation; public procurement
 
 5118. **official receiver** — 官方接管人
@@ -24281,7 +24327,7 @@
 5131. **omnia praesumuntur rite et solemniter esse acta** — 假定所有事情都已正确且庄严地完成
 
    - Latin maxim that official acts are presumed done properly and in due form.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* presumption
 
 5132. **Omnibus claim** — 综合权利要求
@@ -24317,7 +24363,7 @@
 5139. **onus probandi** — 证明责任
 
    - Latin for the burden of proof.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* burden of proof
 
 5140. **open contract** — 开放式合同
@@ -24386,8 +24432,8 @@
 5154. **opinio juris** — 法律确信
 
    - Latin for the belief that a practice is followed out of legal obligation.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* custom; international law; International Court of Justice
 
 5155. **opinion** — 意见 *(n.)*
@@ -24469,12 +24515,16 @@
 
    1. **口头质询：** Questions asked aloud in a legislature to obtain information or hold officeholders accountable.
 
-5172. **order** — 命令 *(n.)*
+5172. **order** — 命令；行政决定 *(n.)*
 
    1. A court decision that is not a final judgment on a claim.
    2. The sealed document recording a court's decision in a case.
    3. A numbered section of the former Supreme Court and County Court procedural rules.
-   - *See also:* judgment; Civil Procedure Rules; Rules of the Supreme Court; Civil Procedure Rules
+   4. **行政决定：** Under the Administrative Procedure Act, all or part of an agency’s final disposition outside rulemaking. It includes licensing decisions.
+      - *Sense labels:* administrative procedure
+      - *Sense jurisdiction:* US federal
+      - *Source:* [5 U.S.C. § 551(6)](https://uscode.house.gov/us/usc/119-124/t5/s551/) · source-checked · 2026-11-24
+   - *See also:* judgment; Civil Procedure Rules; Rules of the Supreme Court
 
 5173. **order of committal** — 拘留令
 
@@ -24721,14 +24771,14 @@
 5225. **pacta sunt servanda** — 协议必须遵守
 
    - Latin for the principle that agreements, including treaties, must be kept.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* treaties
 
 5226. **pacta tertiis nec nocent nec prosunt** — 条约不拘束第三国原则
 
    - Latin for the rule that treaties bind no third state without its consent.
-   - *Language:* Latin
+   - *Language:* la
 
 5227. **paedophile** — 恋童癖 *(n.)*
 
@@ -24910,14 +24960,14 @@
 5265. **par in parem non habet imperium** — 平等者之间没有权力
 
    - Latin maxim that no sovereign may sit in judgment over another.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
    - *See also:* act of state; sovereign immunity
 
 5266. **pari passu** — 同等受偿；按比例
 
    - **同等受偿；按比例：** Latin for proportionally and without preference among competing claimants.
-   - *Language:* Latin
+   - *Language:* la
 
 5267. **pari passu ranking** — 同等受偿顺位
 
@@ -25026,20 +25076,20 @@
 
    1. **弑亲罪：** The unlawful killing of a parent or other close ascendant by their child.
 
-5290. **Part 8 claim form** — 第 8 部分索赔表
-
-   - An originating process for cases turning on legal questions or the meaning of documents.
-   - *See also:* process; claim form; multi-track
-
-5291. **Part 20 claim** — 第 20 部分索赔
+5290. **Part 20 claim** — 第 20 部分索赔
 
    - A claim by a defendant, such as a counterclaim or a claim for contribution against a third party.
    - *See also:* counterclaim; indemnity; contribution; case management
 
-5292. **Part 36 offers and payments** — 第 36 部分要约和付款
+5291. **Part 36 offers and payments** — 第 36 部分要约和付款
 
    - Pre-trial settlement offers or payments that carry costs consequences if not accepted.
    - *See also:* Civil Procedure Rules
+
+5292. **Part 8 claim form** — 第 8 部分索赔表
+
+   - An originating process for cases turning on legal questions or the meaning of documents.
+   - *See also:* process; claim form; multi-track
 
 5293. **partial award** — 部分裁决
 
@@ -25459,7 +25509,7 @@
 5383. **pendente lite** — 直到审判
 
    - Latin for during litigation, as with an administrator appointed while a probate dispute continues.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* probate action; grant of representation
 
 5384. **Pendent Jurisdiction** — 附属管辖权 *(n.)*
@@ -25515,13 +25565,13 @@
 5395. **per autre vie** — 以他人生存期为限
 
    - Latin describing an estate held for the lifetime of another person.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estate pur (or per) autre vie
 
 5396. **per capita** — 人均
 
    - Latin for per person, as in an equal distribution among all entitled.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* per stirpes
 
 5397. **percipient witness** — 有洞察力的证人
@@ -25536,7 +25586,7 @@
 5399. **per curiam** — 法庭集体（判决）
 
    - **法庭集体（判决）：** Latin for by the court, describing a judgment delivered on behalf of the whole bench.
-   - *Language:* Latin
+   - *Language:* la
 
 5400. **peremptory challenge** — 强制质疑
 
@@ -25601,7 +25651,7 @@
 5413. **per incuriam** — 由于缺乏照顾
 
    - Latin for through lack of care, describing a decision given in ignorance of statute or precedent.
-   - *Language:* Latin
+   - *Language:* la
 
 5414. **periodic reporting** — 定期报告
 
@@ -25765,6 +25815,10 @@
 5449. **personal data** — 个人数据
 
    1. **个人数据：** Information relating to an identified or identifiable natural person.
+   2. **个人数据：** Information that concerns a living person whose identity is known or can be established directly or indirectly.
+      - *Sense labels:* data protection
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Data Protection Act 2018, s 3(2)–(3)](https://www.legislation.gov.uk/ukpga/2018/12/section/3) · source-checked · 2026-11-24
 
 5450. **personal data breach** — 个人数据泄露
 
@@ -25842,7 +25896,7 @@
 5466. **persona non grata** — 不受欢迎的人
 
    - Latin for an unwelcome person, describing a diplomat a host state will not accept.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* diplomatic agent
 
 5467. **Persons Bound By Injunction** — 受禁令约束的人 *(n.)*
@@ -25852,7 +25906,7 @@
 5468. **per stirpes** — 按支继承；依血统
 
    - **按支继承；依血统：** Latin for by the roots, describing distribution according to each branch of descent.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* intestacy; per capita
 
 5469. **persuasive authority** — 说服性权威
@@ -26188,7 +26242,7 @@
 5541. **plene administravit** — 他已完全管理
 
    - Latin for he has fully administered; a defence that a personal representative has completed administering an estate.
-   - *Language:* Latin
+   - *Language:* la
 
 5542. **plight and condition** — 困境和状况
 
@@ -26230,8 +26284,8 @@
 5550. **Police and Crime Commissioner** — 警察和犯罪专员
 
    - An elected official in England and Wales who sets local policing priorities and oversees the police budget.
-   - *Jurisdiction:* England and Wales
    - *Expands to:* Police and Crime Commissioner
+   - *Jurisdiction:* England and Wales
    - *See also:* Police and Crime Panels
 
 5551. **Police and Crime Panels** — 警察和犯罪小组
@@ -26409,7 +26463,7 @@
 5587. **postliminy** — postliminium：返回门槛 *(n.)*
 
    - Latin for return behind one's threshold; the right restoring persons or things seized in war to their former status.
-   - *Language:* Latin
+   - *Language:* la
 
 5588. **postmodernist legal thought** — 后现代主义法律思想
 
@@ -26419,7 +26473,7 @@
 5589. **post-mortem** — 尸检 *(n.)*
 
    - Latin for after death; another name for an autopsy.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* autopsy
 
 5590. **postnuptial settlement** — 婚后结算
@@ -26489,7 +26543,7 @@
 5603. **power of search** — 搜查权
 
    - Authority to search persons or premises, held by police and officials under statute or warrant.
-   - *See also:* public place; offensive weapon; burglary; theft; conveyance; deception; fraud; indictable offence; controlled drugs; terrorism; summary offence; fine; obstructing a police officer; summary offences; fine
+   - *See also:* public place; offensive weapon; burglary; theft; conveyance; deception; fraud; indictable offence; controlled drugs; terrorism; summary offence; fine; obstructing a police officer; summary offences
 
 5604. **power reserved by executor** — 遗嘱执行人保留的权力
 
@@ -26550,7 +26604,7 @@
 
    1. A court document setting out particulars of a document a party wants prepared or issued.
    2. Formerly a writ telling the sheriff to order the defendant to act or explain any failure.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Civil Procedure Rules; writ of execution
 
 5616. **pray a tales** — 祈祷一个故事
@@ -26735,7 +26789,7 @@
 5655. **pregnancy per alium** — 怀孕 per alium
 
    - Latin for pregnancy by another; a bride already pregnant by a man other than her new husband, making the marriage voidable.
-   - *Language:* Latin
+   - *Language:* la
 
 5656. **pre-hearing conference** — 审前会议 *(n.)*
 
@@ -27081,7 +27135,7 @@
 5729. **prima facie** — 初步看来；表面上
 
    - Latin for at first appearance, or judging from how matters initially seem.
-   - *Language:* Latin
+   - *Language:* la
 
 5730. **prima facie case** — 表面证据确凿的案件
 
@@ -27522,7 +27576,7 @@
 
    1. Latin meaning for the public good; legal work given free for the community's benefit.
    2. The principle that courts should interpret statutes for the public good.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* interpretation
 
 5826. **Procedural Default** — 程序失权
@@ -27567,37 +27621,37 @@
 
    1. **处理时长：** The period an agency takes, or estimates it will take, to decide a category of applications.
 
-5835. **procurator fiscal** — 财政检察官
+5835. **procès-verbal** — 在谈判中达成的国际谅解备忘录或非正式记录
+
+   - An informal French-language record of international understandings reached in negotiations.
+   - *Language:* fr
+   - *See also:* treaty
+
+5836. **procurator fiscal** — 财政检察官
 
    - In Scotland, an officer chosen by the Lord Advocate who investigates and prosecutes crime and looks into sudden deaths.
    - *See also:* Lord Advocate
 
-5836. **Procurator General** — 检察长
+5837. **Procurator General** — 检察长
 
    - An office described under Treasury Solicitor.
    - *See also:* Treasury Solicitor
 
-5837. **procure** — 采购 *(vb.)*
+5838. **procure** — 采购 *(vb.)*
 
    1. To bring about by effort; a form of secondary liability in crime.
    2. Formerly, to induce someone into prostitution or prohibited sexual activity, now replaced by newer offences.
    - *See also:* accessory; aid and abet; counsel
 
-5838. **procuring breach of contract** — 促成违约
+5839. **procuring breach of contract** — 促成违约
 
    - Conduct described under inducing breach of contract.
    - *See also:* inducing breach of contract
 
-5839. **procuring disclosure of personal data** — 促使个人数据泄露
+5840. **procuring disclosure of personal data** — 促使个人数据泄露
 
    - An offence of obtaining personal data from a computer knowing one is not authorized to receive it.
    - *See also:* data protection
-
-5840. **procès-verbal** — 在谈判中达成的国际谅解备忘录或非正式记录
-
-   - An informal French-language record of international understandings reached in negotiations.
-   - *Language:* fr
-   - *See also:* treaty
 
 5841. **Product** — 产品
 
@@ -27667,16 +27721,16 @@
    - A summary document showing a company's profit or loss for its financial year in a prescribed format.
    - *See also:* accounts
 
-5856. **profits** — 利润 *(pl. n.)*
+5856. **profit à prendre** — 土地取益权
+
+   - A right to remove soil, minerals, or crops from someone else's land, or to pasture animals there.
+   - *Language:* la
+   - *See also:* appurtenant; prescription; non-user
+
+5857. **profits** — 利润 *(pl. n.)*
 
    - The measure on which income tax and corporation tax are charged, generally computed under accepted accounting practice.
    - *See also:* Financial Reporting Standards; accounting practice
-
-5857. **profit à prendre** — 土地取益权
-
-   - A right to remove soil, minerals, or crops from someone else's land, or to pasture animals there.
-   - *Language:* Latin
-   - *See also:* appurtenant; prescription; non-user
 
 5858. **programme requirement** — 计划要求
 
@@ -27867,7 +27921,7 @@
    1. The individual most directly involved in a question.
    2. A forebear used to trace a line of descent.
    3. A person making a will.
-   - *Language:* Latin
+   - *Language:* la
 
 5897. **propounder** — 发起人 *(n.)*
 
@@ -28421,8 +28475,8 @@
 6014. **punctationes** — 点 *(pl. n.)*
 
    - Latin for points: in international law, negotiations on items to be included in a future treaty, not binding unless set out in a preliminary treaty.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
 
 6015. **punishment** — 惩罚 *(n.)*
 
@@ -28437,13 +28491,13 @@
 6017. **pur autre vie** — 以他人生存期为限
 
    - Latin for for another's life: an estate lasting only as long as the life of a named person.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estate pur (or per) autre vie
 
 6018. **pur cause de vicinage** — 利润 à prendre
 
    - Latin for by reason of neighbourhood: the right of commoners on adjoining commons to let their animals stray.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* profit à prendre; common
 
 6019. **Purchase Money Security Interest** — 购置款担保权益
@@ -28518,7 +28572,7 @@
 6033. **qua** — 以……身份；作为
 
    - **以……身份；作为：** Latin for who: acting in a given role or capacity, for example as a beneficiary.
-   - *Language:* Latin
+   - *Language:* la
 
 6034. **qualified acceptance** — 合格承兑
 
@@ -28643,7 +28697,7 @@
 6061. **quamdiu se bene gesserit** — 只要他表现良好
 
    - Latin for as long as he behaves well: a clause securing an office holder's post during good behaviour.
-   - *Language:* Latin
+   - *Language:* la
 
 6062. **quango** — 准自治非政府组织 *(n.)*
 
@@ -28658,13 +28712,13 @@
 6064. **quantum meruit** — 合理报酬请求
 
    - A claim for a fair payment for goods delivered or services performed, where no price was agreed.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* letters of intent; quasi-contract
 
 6065. **quantum valebat** — 尽可能多的价值
 
    - A claim for the value of goods delivered without any agreed price, based on what they were worth.
-   - *Language:* Latin
+   - *Language:* la
 
 6066. **quarantine** — 检疫 *(n.)*
 
@@ -28720,7 +28774,7 @@
    4. **女王：** The style and titles of the female sovereign, including head of the Commonwealth and Defender of the Faith.
       - *Sense labels:* 大写用法
       - *Sense jurisdiction:* Northern Ireland
-   - *See also:* Crown; Crown
+   - *See also:* Crown
 
 6077. **Queen’s Bench Division** — 王座法庭
 
@@ -28768,19 +28822,19 @@
 6086. **Quia Emptores** — 而购买者（序言的第一句话）
 
    - Latin for whereas purchasers: a statute forbidding the creation of new feudal tenures except by the Crown.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* feudal system
 
 6087. **quia timet** — 因为他害怕
 
    - An injunction sought to prevent a likely future harm to property, granted where the danger is imminent.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* injunction
 
 6088. **quicquid plantatur solo, solo cedit** — 凡附着在土壤上的东西都会被赋予土壤
 
    - Latin for whatever is attached to the soil passes with the soil: the rule that fixtures belong to the land.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* fixture
 
 6089. **Quid Pro Quo** — 对价交换
@@ -28805,7 +28859,7 @@
 6093. **qui facit per alium facit per se** — 通过他人行事的人，通过自己行事
 
    - Latin for whoever acts via another acts personally: the foundation of vicarious liability.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* vicarious liability; frolic of his own
 
 6094. **Quistclose trust** — Quistclose 信托
@@ -28820,7 +28874,7 @@
 6096. **qui tam action** — qui tam 行动
 
    - Latin for who as: a private action to enforce a law in which the claimant shares the fine.
-   - *Language:* Latin
+   - *Language:* la
 
 6097. **Qui Tam Retaliation** — 公益代诉报复 *(n.)*
 
@@ -28906,7 +28960,7 @@
 6113. **Ramsay principle** — 拉姆齐原则
 
    - A tax principle letting courts look at the whole commercial transaction rather than its individual steps.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Westminster
 
 6114. **Ranges** — 数额区间
@@ -28967,7 +29021,7 @@
 6125. **ratio decidendi** — 判决理由
 
    - Latin for the ground of decision: the legal principle underlying a court's ruling, which binds lower courts.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* precedent
 
 6126. **Rational Basis** — 合理基础审查
@@ -29113,7 +29167,7 @@
 6156. **rebus sic stantibus** — 情势不变条款
 
    - **情势不变条款：** Latin for matters so standing: the principle allowing treaty obligations to be avoided when circumstances change fundamentally.
-   - *Language:* Latin
+   - *Language:* la
 
 6157. **rebuttable presumption** — 可反驳的推定
 
@@ -29221,8 +29275,8 @@
 
    - A statutory route letting a union secure collective bargaining rights with an employer.
       - *Sense labels:* (in employment law)
-   - *Labels:* (in employment law)
    - *Expands to:* Central Arbitration Committee
+   - *Labels:* (in employment law)
    - *See also:* collective bargaining; Advisory Conciliation and Arbitration Service; Central Arbitration Committee
 
 6178. **recognizance** — 担保 *(n.)*
@@ -29829,7 +29883,11 @@
 
 6308. **relevant evidence** — 相关证据
 
-   - Evidence that tends to prove or disprove a fact in issue.
+   1. Evidence that tends to prove or disprove a fact in issue.
+   2. **相关证据：** Evidence qualifies as relevant if it changes, even slightly, the probability of a fact that matters to deciding the case.
+      - *Sense labels:* evidence
+      - *Sense jurisdiction:* US federal
+      - *Source:* [Fed. R. Evid. 401](https://www.uscourts.gov/sites/default/files/document/federal-rules-of-evidence.pdf) · source-checked · 2026-11-24
    - *See also:* relevance
 
 6309. **relevant facts** — 相关事实
@@ -30218,7 +30276,7 @@
    - In civil litigation, a written demand by one party for clarification of a disputed matter, made under Part 18.
       - *Sense labels:* (in civil proceedings)
    - *Labels:* (in civil proceedings)
-   - *See also:* Civil Procedure Rules; Civil Procedure Rules
+   - *See also:* Civil Procedure Rules
 
 6390. **Request for hearing** — 听证请求
 
@@ -30273,7 +30331,7 @@
 6400. **res communis** — 共同的事物
 
    - Latin for a common thing; territory such as the high seas that no state may own.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* high seas; common heritage of mankind principle
 
 6401. **rescue** — 救援 *(n.)*
@@ -30281,7 +30339,7 @@
    1. Steps taken to keep people or property safe from harm, which the law encourages but seldom requires.
    2. The forcible removal of someone from lawful custody, which is a crime.
    3. The recovering of goods seized by way of distress, where the distress was unlawful.
-   - *See also:* contributory negligence; social action, responsibility, and heroism; distress; social action, responsibility, and heroism
+   - *See also:* contributory negligence; social action, responsibility, and heroism; distress
 
 6402. **resealed probate** — 重新密封的遗嘱认证
 
@@ -30327,13 +30385,13 @@
 6410. **res extincta** — 已不复存在的物质
 
    - Latin for matter that no longer exists, relevant to mistake in contract.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* mistake
 
 6411. **res gestae** — 所做的事情
 
    - Latin for things done; events or statements forming part of a transaction and admissible as evidence.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* relevance; hearsay evidence
 
 6412. **residence** — 居住地 *(n.)*
@@ -30426,12 +30484,12 @@
 6430. **res inter alios acta alteri nocere non debet** — 陌生人之间的交易不应伤害另一方
 
    - Latin for a deal between strangers should not harm a third party; evidence given in one case cannot be used in another.
-   - *Language:* Latin
+   - *Language:* la
 
 6431. **res ipsa loquitur** — 事实自证
 
    - Latin for 'the thing speaks for itself'; in negligence, a presumption that an accident under the defendant's control was caused by carelessness.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* negligence
 
 6432. **resisting arrest** — 拒捕
@@ -30442,7 +30500,7 @@
 6433. **res judicata** — 既判力
 
    - Latin for a matter already decided; a final ruling cannot be reopened by the same parties.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estoppel
 
 6434. **resolution** — 决议 *(n.)*
@@ -30489,7 +30547,7 @@
 6443. **restitutio in integrum** — 恢复到原来的位置
 
    - Latin for restoration to the original position, a precondition for rescinding a contract.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* damages; rescission
 
 6444. **restitution** — 恢复原状 *(n.)*
@@ -31125,7 +31183,7 @@
 6578. **rubric** — 法规标题 *(n.)*
 
    - Latin for red earth; a statute's title, once printed in red ink, which helps courts interpret the Act.
-   - *Language:* Latin
+   - *Language:* la
 
 6579. **Rule 11** — 规则11
 
@@ -31155,26 +31213,26 @@
 
    1. **组织代表证言录取：** A deposition in which designated witnesses testify about information known or reasonably available to the named organization.
 
-6586. **RULE 54(B) CERTIFICATION** — 部分终局判决认证 *(n.)*
-
-   1. **部分终局判决认证：** A determination allowing immediate appeal of resolved claims or parties when no just reason for delay exists.
-
-6587. **Rule 59** — 规则59
-
-   1. **规则59：** A federal civil-procedure rule governing new trials and motions to alter or amend a judgment.
-
-6588. **Rule 60** — 规则60
-
-   1. **规则60：** A federal civil-procedure rule providing limited grounds for correcting or obtaining relief from judgments and orders.
-
-6589. **Rule 403** — 规则403
+6586. **Rule 403** — 规则403
 
    1. **规则403：** An evidence rule permitting exclusion when specified dangers substantially outweigh evidence's probative value.
 
-6590. **RULE 404(B) (OTHER ACTS EVIDENCE)** — 规则404(b)（其他行为证据）
+6587. **RULE 404(B) (OTHER ACTS EVIDENCE)** — 规则404(b)（其他行为证据）
 
    1. **规则404(b)（其他行为证据）：** A rule permitting evidence of other acts to show motive, intent, or identity.
    - *Jurisdiction:* US
+
+6588. **RULE 54(B) CERTIFICATION** — 部分终局判决认证 *(n.)*
+
+   1. **部分终局判决认证：** A determination allowing immediate appeal of resolved claims or parties when no just reason for delay exists.
+
+6589. **Rule 59** — 规则59
+
+   1. **规则59：** A federal civil-procedure rule governing new trials and motions to alter or amend a judgment.
+
+6590. **Rule 60** — 规则60
+
+   1. **规则60：** A federal civil-procedure rule providing limited grounds for correcting or obtaining relief from judgments and orders.
 
 6591. **rule against bias** — 反对偏见的规则
 
@@ -31209,46 +31267,46 @@
 6597. **rule in Howe v Dartmouth** — 豪诉达特茅斯案中的规则
 
    - A rule requiring trustees to treat successive beneficiaries even-handedly.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* trustees
 
 6598. **rule in Keech v Sandford** — Keech v Sandford 案中的规则
 
    - A rule stopping a trustee from keeping the benefit of a lease he renews in his own name.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* constructive trustee
 
 6599. **rule in Re Hastings Bass** — Re Hastings Bass 案规则
 
    - A principle allowing courts to set aside trustee dispositions made on a mistaken view, now narrowly limited.
-   - *Language:* Latin
+   - *Language:* la
 
 6600. **rule in Re Pettit** — Re Pettit 中的规则
 
    - A tax rule governing free-of-tax payments, grossing up the sum for basic rate tax.
-   - *Language:* Latin
+   - *Language:* la
 
 6601. **rule in Re Rose** — Re Rose 中的规则
 
    - A rule treating a gift as effective once the donor has done all he can to transfer it.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* gift; voluntary settlement
 
 6602. **rule in Rylands v Fletcher** — Rylands v Fletcher 案中的规则
 
    - A strict liability rule for harm caused by dangerous things escaping from land.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* nuisance
 
 6603. **rule in Saunders v Vautier** — Saunders v Vautier 案中的规则
 
    - A rule letting fully entitled, adult, sound-minded beneficiaries end a trust and take the property.
-   - *Language:* Latin
+   - *Language:* la
 
 6604. **rule in Strong v Bird** — Strong v Bird 案中的规则
 
    - A rule that appointing a debtor as executor releases the debt to the deceased's estate.
-   - *Language:* Latin
+   - *Language:* la
 
 6605. **Rule Interpleader** — 规则型互争权利诉讼 *(n.)*
 
@@ -31257,12 +31315,15 @@
 6606. **rule in Wilkinson v Downton** — 《威尔金森诉唐顿案》中的规则
 
    - A rule making it actionable to wilfully cause physical or psychiatric harm by a calculated act or statement.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* trespass
 
 6607. **Rulemaking** — 规则制定
 
-   1. **规则制定：** The process by which an administrative agency creates, amends, or repeals generally applicable rules.
+   1. **规则制定：** The process a federal agency uses to formulate, amend or repeal a rule. The statutory definition of rule encompasses statements of particular as well as general applicability.
+      - *Sense labels:* administrative procedure
+      - *Sense jurisdiction:* US federal
+      - *Source:* [5 U.S.C. § 551(4)–(5)](https://uscode.house.gov/us/usc/119-124/t5/s551/) · source-checked · 2026-11-24
 
 6608. **Rule of 65** — 65规则
 
@@ -31345,7 +31406,7 @@
 6625. **Rylands v Fletcher** — Rylands v Fletcher 中的规则
 
    - A strict liability tort for damage caused by dangerous things escaping from land.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* rule in Rylands v Fletcher
 
 ## S
@@ -31440,7 +31501,7 @@
 6645. **salus rei publicae suprema lex** — 国家的安全（或福利）是最高法律
 
    - Latin for the safety of the state is the highest law; a maxim letting public welfare outweigh private interests in extreme cases.
-   - *Language:* Latin
+   - *Language:* la
 
 6646. **salvage** — 救助 *(n.)*
 
@@ -31453,7 +31514,7 @@
 6648. **salvo** — 保留权利 *(n.)*
 
    - Latin for with the right reserved; a clause that saves or departs from a document's main purpose.
-   - *Language:* Latin
+   - *Language:* la
 
 6649. **same institution debt** — 同一机构债务
 
@@ -31495,7 +31556,7 @@
 6657. **sans recours** — 无追索权
 
    - A bill endorsement meaning without recourse, removing the endorser's liability to the holder.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* bill of exchange
 
 6658. **satisfaction** — 满意 *(n.)*
@@ -31517,7 +31578,7 @@
 6661. **Saunders v Vautier** — Saunders v Vautier 中的规则
 
    - The case giving its name to the rule allowing fully entitled beneficiaries to end a trust.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* rule in Saunders v Vautier
 
 6662. **Savings Clause** — 保留条款
@@ -31567,7 +31628,7 @@
 
    1. A bargain by which a debtor and creditors settle the debtor's financial affairs in order to avoid bankruptcy.
    2. A company's deal with its creditors or members, used in financial trouble or for a takeover, and needing court approval.
-   - *See also:* bankruptcy; deed of arrangement; voluntary arrangement; takeover; voluntary arrangement
+   - *See also:* bankruptcy; deed of arrangement; voluntary arrangement; takeover
 
 6673. **Schengen Agreement** — 申根协议
 
@@ -31787,89 +31848,89 @@
    - To order the compulsory admission of a mental health patient to hospital.
    - *See also:* mental disorder
 
-6720. **section 1(2A) presumption** — 第 1(2A) 条推定
+6720. **SECTION 10(B)** — 证券交易法第10(B)条
+
+   1. **证券交易法第10(B)条：** A federal securities provision prohibiting specified manipulative or deceptive practices connected with securities transactions.
+
+6721. **section 1(2A) presumption** — 第 1(2A) 条推定
 
    - A presumption that each parent's involvement furthers a child's welfare, unless harm is a risk.
    - *See also:* child arrangements order; section 8 orders; welfare principle
 
-6721. **Section 5 Enforcement Power** — 第十四修正案第五款执行权 *(n.)*
-
-   1. **第十四修正案第五款执行权：** Congress's authority to enforce the Fourteenth Amendment through appropriate legislation.
-
-6722. **section 8 orders** — 第 8 条命令
-
-   - Family court orders settling practical arrangements for a child's care and raising.
-   - *See also:* child arrangements orders; prohibited steps orders; specific issues orders
-
-6723. **SECTION 10(B)** — 证券交易法第10(B)条
-
-   1. **证券交易法第10(B)条：** A federal securities provision prohibiting specified manipulative or deceptive practices connected with securities transactions.
-
-6724. **section 12 doctor** — 第 12 条医生
+6722. **section 12 doctor** — 第 12 条医生
 
    - An approved doctor who may give a medical recommendation for compulsory hospital admission.
 
-6725. **section 37 investigation** — 第 37 条调查
+6723. **Section 1519** — 第1519条
+
+   1. **第1519条：** A federal offense covering falsification or destruction of records intended to obstruct qualifying federal matters or bankruptcy administration.
+
+6724. **Section 1782** — 第1782条
+
+   1. **第1782条：** A federal provision authorizing judicial assistance in obtaining evidence for qualifying foreign or international proceedings.
+
+6725. **Section 1927** — 第1927条
+
+   1. **第1927条：** A federal provision permitting personal cost liability for lawyers who unreasonably and vexatiously multiply proceedings.
+
+6726. **Section 1981** — 第1981条
+
+   1. **第1981条：** A federal civil-rights provision protecting equal rights in contracting and other specified legal activities against racial discrimination.
+
+6727. **Section 1982** — 第1982条
+
+   1. **第1982条：** A federal civil-rights provision protecting equal property rights against racial discrimination.
+
+6728. **Section 1983** — 第1983条
+
+   1. **第1983条：** A federal cause of action for deprivation of federal rights under color of state law.
+
+6729. **Section 1985** — 第1985条
+
+   1. **第1985条：** A federal provision addressing specified conspiracies interfering with civil rights or governmental and judicial functions.
+
+6730. **Section 1986** — 第1986条
+
+   1. **第1986条：** A federal provision imposing liability for knowingly failing to prevent specified civil-rights conspiracies when prevention was possible.
+
+6731. **Section 1988** — 第1988条
+
+   1. **第1988条：** A federal provision addressing civil-rights remedies, applicable law, expert fees, and attorney-fee awards in specified proceedings.
+
+6732. **Section 2255** — 第2255条
+
+   1. **第2255条：** A federal procedure allowing prisoners to challenge federal sentences in the sentencing court on specified grounds.
+
+6733. **Section 2255 Motion** — 联邦定罪后撤销刑罚动议 *(n.)*
+
+   1. **联邦定罪后撤销刑罚动议：** A federal prisoner's collateral request to the sentencing court to correct a sentence on specified legal grounds.
+
+6734. **SECTION 301 (LMRA)** — 劳动关系管理法第301条
+
+   1. **劳动关系管理法第301条：** A federal provision governing suits for violations of covered collective bargaining agreements.
+
+6735. **section 37 investigation** — 第 37 条调查
 
    - An investigation ordered into a child's circumstances when the court has serious concerns.
    - *See also:* family proceedings; section 8 orders; care order; supervision order
 
-6726. **section 47 enquiry** — 第 47 节调查
+6736. **section 47 enquiry** — 第 47 节调查
 
    - A local authority enquiry into whether a child needs protection or support.
    - *See also:* emergency protection order; police protection; care order; supervision order; child assessment order
 
-6727. **SECTION 301 (LMRA)** — 劳动关系管理法第301条
+6737. **Section 5 Enforcement Power** — 第十四修正案第五款执行权 *(n.)*
 
-   1. **劳动关系管理法第301条：** A federal provision governing suits for violations of covered collective bargaining agreements.
+   1. **第十四修正案第五款执行权：** Congress's authority to enforce the Fourteenth Amendment through appropriate legislation.
 
-6728. **SECTION 924(C)** — 第924(C)条
+6738. **section 8 orders** — 第 8 条命令
+
+   - Family court orders settling practical arrangements for a child's care and raising.
+   - *See also:* child arrangements orders; prohibited steps orders; specific issues orders
+
+6739. **SECTION 924(C)** — 第924(C)条
 
    1. **第924(C)条：** A federal offense imposing additional punishment for specified firearm involvement in qualifying violent or drug-trafficking crimes.
-
-6729. **Section 1519** — 第1519条
-
-   1. **第1519条：** A federal offense covering falsification or destruction of records intended to obstruct qualifying federal matters or bankruptcy administration.
-
-6730. **Section 1782** — 第1782条
-
-   1. **第1782条：** A federal provision authorizing judicial assistance in obtaining evidence for qualifying foreign or international proceedings.
-
-6731. **Section 1927** — 第1927条
-
-   1. **第1927条：** A federal provision permitting personal cost liability for lawyers who unreasonably and vexatiously multiply proceedings.
-
-6732. **Section 1981** — 第1981条
-
-   1. **第1981条：** A federal civil-rights provision protecting equal rights in contracting and other specified legal activities against racial discrimination.
-
-6733. **Section 1982** — 第1982条
-
-   1. **第1982条：** A federal civil-rights provision protecting equal property rights against racial discrimination.
-
-6734. **Section 1983** — 第1983条
-
-   1. **第1983条：** A federal cause of action for deprivation of federal rights under color of state law.
-
-6735. **Section 1985** — 第1985条
-
-   1. **第1985条：** A federal provision addressing specified conspiracies interfering with civil rights or governmental and judicial functions.
-
-6736. **Section 1986** — 第1986条
-
-   1. **第1986条：** A federal provision imposing liability for knowingly failing to prevent specified civil-rights conspiracies when prevention was possible.
-
-6737. **Section 1988** — 第1988条
-
-   1. **第1988条：** A federal provision addressing civil-rights remedies, applicable law, expert fees, and attorney-fee awards in specified proceedings.
-
-6738. **Section 2255** — 第2255条
-
-   1. **第2255条：** A federal procedure allowing prisoners to challenge federal sentences in the sentencing court on specified grounds.
-
-6739. **Section 2255 Motion** — 联邦定罪后撤销刑罚动议 *(n.)*
-
-   1. **联邦定罪后撤销刑罚动议：** A federal prisoner's collateral request to the sentencing court to correct a sentence on specified legal grounds.
 
 6740. **sectoral sanctions** — 行业制裁
 
@@ -32182,7 +32243,7 @@
 6807. **separatim** — 分开地；分别 *(adv.)*
 
    - **分开地；分别：** Latin for separately, used to introduce a defence distinct from anything already pleaded.
-   - *Language:* Latin
+   - *Language:* la
 
 6808. **separation** — 分居 *(n.)*
 
@@ -32223,7 +32284,7 @@
 6816. **seriatim** — 分别并按顺序 *(adv.)*
 
    - Latin for severally and in order, used to deny each allegation one by one.
-   - *Language:* Latin
+   - *Language:* la
 
 6817. **Serious Fraud Office** — 严重欺诈办公室
 
@@ -32293,7 +32354,7 @@
 6830. **service law** — 服役法
 
    - The body of criminal law governing discipline and conduct in the armed forces.
-   - *See also:* royal prerogative; Orders in Council; desertion; judge advocate; Court Martial; judge advocate; Service Civilian Court
+   - *See also:* royal prerogative; Orders in Council; desertion; judge advocate; Court Martial; Service Civilian Court
 
 6831. **service level agreement** — 服务水平协议 *(n.)*
 
@@ -32562,7 +32623,10 @@
 
 6889. **shadow director** — 影子董事
 
-   - A person whose directions the directors of a company are accustomed to follow, without being a director.
+   1. **影子董事：** A person whose directions the company’s directors habitually follow. Following professional advice alone does not confer this status. Section 251 specifies further qualifications.
+      - *Sense labels:* company law
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Companies Act 2006, s 251](https://www.legislation.gov.uk/ukpga/2006/46/section/251) · source-checked · 2026-11-24
    - *See also:* directors’ duties
 
 6890. **sham marriage** — 假结婚
@@ -32586,7 +32650,7 @@
 6894. **share** — 股 *(n.)*
 
    - A unit measuring a holder's interest and liability in a company.
-   - *See also:* company; capital; limited company; dividend; limited company; fraudulent trading; wrongful trading; authorized capital; class rights; general meeting; capital redemption reserve
+   - *See also:* company; capital; limited company; dividend; fraudulent trading; wrongful trading; authorized capital; class rights; general meeting; capital redemption reserve
 
 6895. **share capital** — 股本
 
@@ -32737,7 +32801,7 @@
 6927. **sic utere tuo ut alienum non laedas** — 以不伤害他人财产的方式使用自己的财产
 
    - Latin for use your own property so as not to harm another's, a maxim applied in nuisance.
-   - *Language:* Latin
+   - *Language:* la
 
 6928. **Sidebar** — 法台旁密议
 
@@ -32810,7 +32874,7 @@
 6943. **simpliciter** — 简单地 *(adj.)*
 
    - Latin for simply, indicating a word is used absolutely and without qualification.
-   - *Language:* Latin
+   - *Language:* la
 
 6944. **simplified due diligence** — 简化尽职调查 *(n.)*
 
@@ -32819,7 +32883,7 @@
 6945. **sine die** — 没有日期
 
    - Latin for without a date, used when a case is adjourned with no future date set.
-   - *Language:* Latin
+   - *Language:* la
 
 6946. **single administrative document** — 单一行政文件
 
@@ -33000,7 +33064,7 @@
 6982. **socius criminis** — 同谋
 
    - Latin for a partner in crime, especially one who testifies against other offenders.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* accomplice; queen’s evidence
 
 6983. **sodomy** — 鸡奸 *(n.)*
@@ -33028,7 +33092,7 @@
 6987. **solatium** — 安慰 *(adj.)*
 
    - Latin for consolation; additional damages awarded as solace for wounded feelings.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* damages
 
 6988. **soldier’s will** — 士兵的意志
@@ -33096,7 +33160,7 @@
 7000. **solus tie** — 一种贸易限制形式
 
    - A restraint of trade in a mortgage or other contract that limits the supplier a borrower may use.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* restraint of trade
 
 7001. **SoND (statement of newness and distinctiveness)** — 新颖性和独特性声明
@@ -33462,7 +33526,7 @@
 7078. **spes successionis** — 继承期待权；继承期待
 
    - **继承期待权；继承期待：** Latin for hope of succeeding; a mere expectation of inheriting, not a present right.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* possibility
 
 7079. **Split custody** — 分拆监护
@@ -33493,7 +33557,7 @@
 7085. **sponte sua** — 自己的意愿
 
    - Latin for on its own initiative, describing an order a court makes without any party asking.
-   - *Language:* Latin
+   - *Language:* la
 
 7086. **Sporadic** — 偶发的 *(adj.)*
 
@@ -33641,7 +33705,7 @@
 7116. **stare decisis** — 遵循先例
 
    - Latin for standing by settled matters; the principle that courts follow earlier decisions.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* precedent
 
 7117. **starter tenancy** — 入门租赁
@@ -34031,7 +34095,7 @@
 7197. **stoppage in transitu** — 运输途中停止
 
    - In sale of goods, an unpaid seller's right to stop goods in transit when the buyer becomes insolvent.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* unpaid seller
 
 7198. **storage limitation** — 存储限制 *(n.)*
@@ -34172,7 +34236,7 @@
 
    1. The rule that limits comment on a case while it is still before a court.
    2. A parliamentary practice that bars debate on matters currently awaiting a court decision.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* contempt of court
 
 7227. **sublease** — 转租
@@ -34200,7 +34264,7 @@
 7232. **sub nomine** — 名字下
 
    - Latin for under the name, used in law reports where a case title changes on appeal.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Director of Public Prosecutions
 
 7233. **subordinate legislation** — 附属立法
@@ -34249,7 +34313,7 @@
 7243. **sub rosa** — 秘密地
 
    - **秘密地：** Latin for under the rose, meaning done secretly or privately.
-   - *Language:* Latin
+   - *Language:* la
 
 7244. **subscribing witness** — 签署证人
 
@@ -34400,12 +34464,12 @@
 7276. **sui generis** — 自成一类；独特
 
    - **自成一类；独特：** Latin for of its own kind, describing something that forms a class by itself.
-   - *Language:* Latin
+   - *Language:* la
 
 7277. **sui juris** — 他自己的权利
 
    - Latin for of one's own right, describing a person of full age and legal capacity.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* alieni juris
 
 7278. **suit** — 诉讼 *(n.)*
@@ -34445,9 +34509,16 @@
    - In company law, an abbreviated version of the annual accounts sent to members instead of the full accounts.
    - *See also:* accounts; Listed companies
 
-7286. **summary judgment** — 即决判决
+7286. **summary judgment** — 简易判决；即决判决
 
-   - In civil procedure, a judgment given without trial where a party's case has no realistic chance of success.
+   1. **简易判决：** A court may decide a claim or issue without trial if the party facing judgment has no real prospect of success on it and no other compelling reason calls for a trial.
+      - *Sense labels:* civil procedure
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Civil Procedure Rules, r 24.3](https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part24) · source-checked · 2026-11-24
+   2. **简易判决：** Judgment on all or part of a claim or defence when the moving party shows that no material fact is genuinely disputed and the governing law entitles that party to judgment.
+      - *Sense labels:* civil procedure
+      - *Sense jurisdiction:* US federal
+      - *Source:* [Fed. R. Civ. P. 56(a)](https://www.uscourts.gov/sites/default/files/document/federal-rules-of-civil-procedure.pdf) · source-checked · 2026-11-24
    - *See also:* Civil Procedure Rules
 
 7287. **summary offence** — 即决犯罪
@@ -34572,7 +34643,7 @@
 7313. **supra protest** — （第三人）参加承兑
 
    - **（第三人）参加承兑：** In negotiable instruments, an acceptance of a protested bill made by a third party to protect a party's credit.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* acceptance supra protest
 
 7314. **supremacy** — 至高无上 *(n.)*
@@ -34837,13 +34908,13 @@
 7369. **talaq** — 伊斯兰离婚 *(n.)*
 
    - In family law, a form of divorce under Islamic law pronounced by the husband.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* extrajudicial divorce
 
 7370. **tales de circumstantibus** — 候补陪审员
 
    - **候补陪审员：** Latin for such of the bystanders, describing jurors summoned from nearby to make up a shortage.
-   - *Language:* Latin
+   - *Language:* la
 
 7371. **tangible property** — 有形财产
 
@@ -35035,7 +35106,7 @@
 7413. **tenancy at will** — 随意租赁
 
    - A tenancy that either party, landlord or tenant, may end at any time.
-   - *See also:* fixed term; periodic tenancy; licence; holding over; periodic tenancy; assured tenancy; statutory periodic tenancy; business tenancy; eviction
+   - *See also:* fixed term; periodic tenancy; licence; holding over; assured tenancy; statutory periodic tenancy; business tenancy; eviction
 
 7414. **tenancy by estoppel** — 禁止反言租赁
 
@@ -35089,7 +35160,7 @@
 7424. **tenant pur autre vie** — 租户 pur autre vie
 
    - In land law, a tenant whose interest lasts only for the life of another person.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* estate pur (or per) autre vie
 
 7425. **tenant’s fixtures** — 租户的固定装置
@@ -35182,7 +35253,7 @@
 7444. **terra nullius** — 无主之地
 
    - Latin for land belonging to no one, used for territory with no recognised sovereign.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* discovery
 
 7445. **Territorial authority** — 属地机关 *(n.)*
@@ -35307,7 +35378,10 @@
 
 7470. **theft** — 盗窃 *(n.)*
 
-   - In criminal law, the dishonest taking of someone else's property with intent to keep it permanently.
+   1. **盗窃：** Dishonestly assuming rights over property belonging to someone else with the intention that the other person permanently lose it.
+      - *Sense labels:* criminal law
+      - *Sense jurisdiction:* England and Wales
+      - *Source:* [Theft Act 1968, s 1](https://www.legislation.gov.uk/ukpga/1968/60/section/1) · source-checked · 2026-11-24
    - *See also:* dishonesty; poaching; making off without payment; shoplifting; deception; fraud; robbery; burglary; conveyance
 
 7471. **therapeutic privilege** — 治疗特权
@@ -35396,12 +35470,12 @@
 7489. **threat** — 威胁 *(n.)*
 
    - In criminal law, a statement of intent to harm someone in order to make them act.
-   - *See also:* intimidation; blackmail; bomb hoax; criminal damage; duress; forcible entry; intimidation; racial hatred; rape; sending distressing letters; threatening behaviour; violent disorder
+   - *See also:* intimidation; blackmail; bomb hoax; criminal damage; duress; forcible entry; racial hatred; rape; sending distressing letters; threatening behaviour; violent disorder
 
 7490. **threatening behaviour** — 威胁行为
 
    - In criminal law, the offence of using abusive, threatening, or insulting language or conduct toward another person.
-   - *See also:* intoxication; arrest; burden of proof; arrest; racial hatred; racist abuse; stalking; violent disorder
+   - *See also:* intoxication; arrest; burden of proof; racial hatred; racist abuse; stalking; violent disorder
 
 7491. **three certainties** — 三个确定性
 
@@ -35698,206 +35772,217 @@
 
    1. **贸易或服务应收款：** An amount owed to a business for goods sold or services rendered.
 
-7554. **trade sanctions** — 贸易制裁
+7554. **trader** — 经营者
+
+   1. **经营者：** For Part 1 consumer contracts, a person acting for a business or professional purpose, either directly or through someone acting in that person’s name or on their behalf.
+      - *Sense labels:* consumer contracts
+      - *Sense jurisdiction:* United Kingdom
+      - *Source:* [Consumer Rights Act 2015, s 2(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/2) · source-checked · 2026-11-24
+
+7555. **trade sanctions** — 贸易制裁
 
    1. **贸易制裁：** Restrictions on imports, exports, or commercial dealings involving specified countries, goods, or persons.
 
-7555. **trade secret** — 商业秘密
+7556. **trade secret** — 商业秘密
 
-   - In intellectual property, confidential business information whose disclosure would harm the owner.
+   1. In intellectual property, confidential business information whose disclosure would harm the owner.
+   2. **商业秘密：** Information its owner reasonably safeguards as secret and whose secrecy gives it actual or potential independent economic value because those who could profit from its use or disclosure neither generally know it nor can readily discover it by proper means.
+      - *Sense labels:* trade secrets
+      - *Sense jurisdiction:* US federal
+      - *Source:* [18 U.S.C. § 1839(3)](https://uscode.house.gov/us/usc/119-138/t18/s1839/) · source-checked · 2026-11-24
    - *See also:* restraint of trade; unfair dismissal
 
-7556. **trade secret misappropriation** — 商业秘密侵占 *(n.)*
+7557. **trade secret misappropriation** — 商业秘密侵占 *(n.)*
 
    1. **商业秘密侵占：** Improper acquisition, disclosure, or use of another's protected confidential commercial information.
 
-7557. **trade union** — 工会
+7558. **trade union** — 工会
 
    - An organisation of workers formed to regulate relations with employers and protect members' interests.
    - *See also:* strike; employment tribunal; Certification Officer
 
-7558. **trade union official** — 工会官员
+7559. **trade union official** — 工会官员
 
    - Someone chosen or appointed to represent a union's members or hold office in it.
 
-7559. **trading stamps** — 贸易邮票
+7560. **trading stamps** — 贸易邮票
 
    - In trading law, stamps a retailer gives to customers that may later be exchanged for goods.
 
-7560. **trafficking** — 贩运
+7561. **trafficking** — 贩运
 
    - In criminal law, the movement or exploitation of people for forced labour or similar purposes.
    - *See also:* exploitation; Modern Slavery Act 2015
 
-7561. **traffic offences** — 交通违法行为
+7562. **traffic offences** — 交通违法行为
 
    - In criminal law, offences connected with the use of vehicles on roads.
    - *See also:* offences relating to road traffic
 
-7562. **Transaction Causation** — 交易因果关系 *(n.)*
+7563. **Transaction Causation** — 交易因果关系 *(n.)*
 
    1. **交易因果关系：** US securities showing a misstatement caused the plaintiff's trade.
    - *Jurisdiction:* US
 
-7563. **transaction expenses** — 交易费用
+7564. **transaction expenses** — 交易费用
 
    1. **交易费用：** Costs incurred in negotiating, documenting, financing, and completing a transaction.
 
-7564. **transaction monitoring** — 交易监测
+7565. **transaction monitoring** — 交易监测
 
    1. **交易监测：** Ongoing examination of transactions to detect unusual patterns or activity requiring investigation or reporting.
 
-7565. **transaction value method** — 成交价格法
+7566. **transaction value method** — 成交价格法
 
    1. **成交价格法：** The customs valuation method based on the price actually paid or payable for imported goods, with prescribed adjustments.
 
-7566. **transcript** — 庭审记录
+7567. **transcript** — 庭审记录
 
    1. **庭审记录：** The official written record of spoken proceedings in a case.
 
-7567. **transfer** — 转让 *(n.)*
+7568. **transfer** — 转让 *(n.)*
 
    - In land law, the deed that conveys ownership of registered land to another.
       - *Sense labels:* (in land law)
    - *Labels:* (in land law)
    - *See also:* conveyancing
 
-7568. **transfer direction** — 转移指示
+7569. **transfer direction** — 转移指示
 
    - In mental health law, an order moving a prisoner with a mental disorder to hospital for treatment.
 
-7569. **Transferee Court** — 受让法院
+7570. **Transferee Court** — 受让法院
 
    1. **受让法院：** A court to which a case or proceeding is transferred from another court.
 
-7570. **transfer impact assessment** — 传输影响评估 *(n.)*
+7571. **transfer impact assessment** — 传输影响评估 *(n.)*
 
    1. **传输影响评估：** An evaluation of whether a foreign recipient ensures adequate data protection.
 
-7571. **transfer of proceedings** — 诉讼移交
+7572. **transfer of proceedings** — 诉讼移交
 
    - In civil procedure, the moving of a case from one court to another that is more appropriate.
    - *See also:* Civil Procedure Rules
 
-7572. **transfer of risk** — 风险转移
+7573. **transfer of risk** — 风险转移
 
    - In sale of goods, the point at which the buyer rather than the seller bears the risk of loss.
 
-7573. **transfer of shares** — 股份转让
+7574. **transfer of shares** — 股份转让
 
    - In company law, the sale or transfer of shares from one holder to another.
    - *See also:* share warrant; share transfer; stamp duty; stamp duty reserve tax; transmission of shares
 
-7574. **transfer of undertakings** — 事业转让
+7575. **transfer of undertakings** — 事业转让
 
    - In employment law, the transfer of a business that carries employees' rights over to the new owner.
    - *See also:* relevant transfer
 
-7575. **transfer of value** — 价值转移
+7576. **transfer of value** — 价值转移
 
    - In inheritance tax, a disposal that reduces the value of a person's estate.
    - *See also:* Inheritance tax
 
-7576. **Transfer Of Venue** — 审判地点移转
+7577. **Transfer Of Venue** — 审判地点移转
 
    1. **审判地点移转：** Sending a case to another court location under the applicable venue-transfer authority.
 
-7577. **transfer or transferred** — 转让
+7578. **transfer or transferred** — 转让
 
    1. **转让：** The conveyance of right, property, or obligation from one party to another.
 
-7578. **transfer pricing** — 转让定价
+7579. **transfer pricing** — 转让定价
 
    - In tax law, the prices set for transactions between parts of the same business group.
    - *See also:* group
 
-7579. **transferred malice** — 转移恶意
+7580. **transferred malice** — 转移恶意
 
    - In criminal law, the rule that intent to harm one person can support a charge over harm to another.
    - *See also:* malice
 
-7580. **Transfers** — 转让
+7581. **Transfers** — 转让
 
    1. **转让：** The conveyance of property, rights, or interests from one person or entity to another.
 
-7581. **Transfer To Cure Want Of Jurisdiction** — 为补正管辖欠缺而移送 *(n.)*
+7582. **Transfer To Cure Want Of Jurisdiction** — 为补正管辖欠缺而移送 *(n.)*
 
    1. **为补正管辖欠缺而移送：** Transfer to a court capable of hearing the case where law permits transfer to cure lack of jurisdiction.
 
-7582. **transfer vehicle** — 转让载体
+7583. **transfer vehicle** — 转让载体
 
    1. **转让载体：** An entity or instrument used to move assets or rights between parties.
 
-7583. **transform** — 转换 *(vb.)*
+7584. **transform** — 转换 *(vb.)*
 
    - In constitutional law, to turn a treaty rule into domestic law through legislation so that courts can apply it.
    - *See also:* European Convention; doctrine of incorporation
 
-7584. **Transient Jurisdiction** — 临时在境管辖权 *(n.)*
+7585. **Transient Jurisdiction** — 临时在境管辖权 *(n.)*
 
    1. **临时在境管辖权：** Personal jurisdiction over an individual based on service during physical presence in the forum, subject to governing limitations.
 
-7585. **Transit Alien** — 过境外国人 *(n.)*
+7586. **Transit Alien** — 过境外国人 *(n.)*
 
    1. **过境外国人：** A noncitizen passing through a country while traveling to another destination.
 
-7586. **transition period** — 过渡期
+7587. **transition period** — 过渡期
 
    - Another name for the implementation period.
    - *See also:* implementation period
 
-7587. **transit passage** — 过境通道
+7588. **transit passage** — 过境通道
 
    - The right of vessels to pass through straits used for international navigation.
    - *See also:* international strait
 
-7588. **Transit without visa** — 免签过境
+7589. **Transit without visa** — 免签过境
 
    1. **免签过境：** Transit permitted under an exemption from ordinary visa requirements where the applicable program allows it.
 
-7589. **transmission of shares** — 股份转让
+7590. **transmission of shares** — 股份转让
 
    - In company law, the automatic passing of shares by operation of law on the holder's bankruptcy or death.
-   - *See also:* transfer of shares; transfer of shares
+   - *See also:* transfer of shares
 
-7590. **transnational corporation** — 跨国公司
+7591. **transnational corporation** — 跨国公司
 
    - A business group with entities in several countries that follows one common policy across them.
 
-7591. **transparency** — 透明度 *(n.)*
+7592. **transparency** — 透明度 *(n.)*
 
    - In regulation, the condition in which the rules governing market participants are clear and publicly known.
 
-7592. **trans people** — 跨性别者
+7593. **trans people** — 跨性别者
 
    - Persons who identify with a gender different from the sex recorded at birth.
    - *See also:* gender reassignment
 
-7593. **transpose** — 转置 *(vb.)*
+7594. **transpose** — 转置 *(vb.)*
 
    - In EU law, to bring EU obligations into domestic law, a term preferred over transform.
    - *See also:* transform
 
-7594. **travaux préparatoires** — 构成立法颁布背景的准备工作
+7595. **travaux préparatoires** — 构成立法颁布背景的准备工作
 
    - French for preparatory works; background documents behind a statute that courts generally cannot use to interpret it.
    - *Language:* fr
    - *See also:* interpretation
 
-7595. **Travel Act** — 旅行法
+7596. **Travel Act** — 旅行法
 
    1. **旅行法：** A federal law barring travel or use of commerce to promote certain unlawful activities.
    - *Jurisdiction:* US
 
-7596. **Travel Documents** — 旅行证件
+7597. **Travel Documents** — 旅行证件
 
    1. **旅行证件：** Official documents establishing identity, travel authorization, or eligibility to seek entry or return.
 
-7597. **travel rule** — 转账信息随行规则
+7598. **travel rule** — 转账信息随行规则
 
    1. **转账信息随行规则：** A requirement that specified transfers carry or transmit identifying information about their originators and beneficiaries.
 
-7598. **traverse** — 穿越 *(vb.)*
+7599. **traverse** — 穿越 *(vb.)*
 
    1. In civil procedure, to deny a factual allegation set out in a pleading.
    2. In civil procedure, the denial itself, which a defence must specify with reasons under the rules.
@@ -35905,164 +35990,167 @@
    - *Labels:* (in civil proceedings)
    - *See also:* statement of case; Civil Procedure Rules; particulars
 
-7599. **treachery** — 背叛 *(n.)*
+7600. **treachery** — 背叛 *(n.)*
 
    - Conduct aiding an enemy; formerly a wartime offence, now usually prosecuted under official secrets or treason law.
    - *See also:* Official Secrets; treason
 
-7600. **treason** — 叛国罪 *(n.)*
+7601. **treason** — 叛国罪 *(n.)*
 
    - The breach of allegiance to the sovereign or state, including levying war or aiding enemies.
    - *See also:* riot; violent disorder
 
-7601. **treasure trove** — 宝藏
+7602. **treasure trove** — 宝藏
 
    - Formerly, hidden gold or silver whose owner was unknown and which belonged to the Crown.
 
-7602. **Treasury Counsel** — 财务顾问
+7603. **Treasury Counsel** — 财务顾问
 
    - Barristers who handle civil government work and are chosen by the Attorney General.
 
-7603. **Treasury Solicitor** — 财政部律师
+7604. **Treasury Solicitor** — 财政部律师
 
    - The government's senior solicitor, who gives legal advice to the Treasury and represents the Crown in civil litigation.
    - *See also:* Queen’s Proctor; Director of Public Prosecutions
 
-7604. **treaty** — 条约 *(n.)*
+7605. **treaty** — 条约 *(n.)*
 
    - A written international agreement between states, binding in international law.
    - *See also:* conventions; protocols; final acts; ratification; high contracting parties; reservation; signature of treaty
 
-7605. **Treaty of Nice** — 尼斯条约
+7606. **Treaty of Nice** — 尼斯条约
 
    - An EU treaty that prepared the institutions for enlargement and extended the codecision procedure.
    - *See also:* codecision procedure; Constitutional Treaty of the European Union
 
-7606. **Treaty of Paris** — 巴黎条约
+7607. **Treaty of Paris** — 巴黎条约
 
    - Another name for the Paris Treaty.
    - *See also:* Paris Treaty
 
-7607. **Treaty of Rome** — 罗马条约
+7608. **Treaty of Rome** — 罗马条约
 
    - The founding treaty of the European Economic Community, later replaced by subsequent European Union treaties.
    - *See also:* European Community; European Union; Single European Act; Maastricht Treaty; Amsterdam Treaty; Lisbon Treaty; Treaty on the Functioning of the European Union
 
-7608. **Treaty on European Union** — 欧盟条约
+7609. **Treaty on European Union** — 欧盟条约
 
    - The amended Maastricht Treaty in its current form, now included in the Lisbon Treaty.
    - *Expands to:* Treaty on European Union
    - *See also:* Maastricht Treaty; Lisbon Treaty
 
-7609. **Treaty on the Functioning of the European Union** — 欧盟运作条约
+7610. **Treaty on the Functioning of the European Union** — 欧盟运作条约
 
    - The modern text of the Rome Treaty, which now underpins European law.
    - *Expands to:* Treaty on the Functioning of the European Union
    - *See also:* Treaty of Rome; Lisbon Treaty
 
-7610. **Treaty Power** — 条约权 *(n.)*
+7611. **Treaty Power** — 条约权 *(n.)*
 
    1. **条约权：** The constitutional authority of the national government to enter into binding international agreements.
    - *Jurisdiction:* US
 
-7611. **Treble Damages** — 三倍损害赔偿
+7612. **Treble Damages** — 三倍损害赔偿
 
-   1. **三倍损害赔偿：** A statutory award of triple the actual loss to deter willful violations.
+   1. **三倍损害赔偿：** In a private federal antitrust action under this provision, the claimant generally recovers three times the damages sustained through injury to business or property caused by an antitrust violation, subject to subsection (b).
+      - *Sense labels:* antitrust
+      - *Sense jurisdiction:* US federal
+      - *Source:* [15 U.S.C. § 15(a)](https://uscode.house.gov/us/usc/119-136/t15/s15/) · source-checked · 2026-11-24
    - *Jurisdiction:* US
 
-7612. **tree preservation order** — 树木保护令
+7613. **tree preservation order** — 树木保护令
 
    - An order from a planning authority that bans cutting down a tree without permission.
    - *See also:* town and country planning; conservation area
 
-7613. **trespass** — 侵入 *(n.)*
+7614. **trespass** — 侵入 *(n.)*
 
    - In tort, a direct wrongful interference with a person, land, or goods.
    - *See also:* tort; negligence; assault; battery; false imprisonment; inevitable accident; adverse occupation; weapon of offence; firearm; unauthorized camping; airspace; burglary; trespassory assembly
 
-7614. **trespass ab initio** — 从一开始
+7615. **trespass ab initio** — 从一开始
 
    - Latin for from the beginning; entry lawfully authorized that becomes wrongful from the outset once the authority is misused.
-   - *Language:* Latin
+   - *Language:* la
 
-7615. **trespass by relation** — 关系侵入
+7616. **trespass by relation** — 关系侵入
 
    - A doctrine under which a person's possession is backdated to when he became entitled, so he can sue for earlier intrusions.
 
-7616. **Trespass On The Case** — 间接侵害之诉
+7617. **Trespass On The Case** — 间接侵害之诉
 
    1. **间接侵害之诉：** A common law form of action for indirect harms not amounting to direct forcible injury.
 
-7617. **trespassory assembly** — 侵入性集会
+7618. **trespassory assembly** — 侵入性集会
 
    - A gathering of more than twenty people on land without public access that risks serious disruption, which may be banned in advance.
    - *See also:* summary offences; fine
 
-7618. **trial** — 审判 *(n.)*
+7619. **trial** — 审判 *(n.)*
 
    - The public hearing in which a court decides the law and the facts of a dispute.
    - *See also:* in camera; summary trial; trial on indictment
 
-7619. **trial at bar** — 律师审判
+7620. **trial at bar** — 律师审判
 
    - A former jury trial before several senior judges, used for unusually important cases.
    - *See also:* Trial on indictment; Queen’s Bench Division
 
-7620. **Trial By Consent** — 经同意审理未提出争点
+7621. **Trial By Consent** — 经同意审理未提出争点
 
    1. **经同意审理未提出争点：** Treating an unpleaded issue as properly before the court because the parties expressly or impliedly consented to trying it.
 
-7621. **trial on indictment** — 起诉审判
+7622. **trial on indictment** — 起诉审判
 
    - The Crown Court jury trial of someone accused of an indictable offence.
    - *See also:* indictable offence; Crown Court; indictment; summary trial
 
-7622. **tribunal** — 法庭 *(n.)*
+7623. **tribunal** — 法庭 *(n.)*
 
    - A body that decides disputes outside the ordinary courts.
    - *See also:* administrative tribunal; domestic tribunal; employment tribunal
 
-7623. **tribunal of inquiry** — 调查法庭
+7624. **tribunal of inquiry** — 调查法庭
 
    - A panel set up to investigate a matter of public concern.
    - *See also:* inquiry panels
 
-7624. **tribunal secretary** — 仲裁庭秘书 *(n.)*
+7625. **tribunal secretary** — 仲裁庭秘书 *(n.)*
 
    1. **仲裁庭秘书：** A person assisting an arbitral tribunal with administrative or permitted support tasks without assuming its decision-making function.
 
-7625. **Tribunals Service** — 法庭服务
+7626. **Tribunals Service** — 法庭服务
 
    - The agency that administers the courts and tribunals system.
    - *See also:* Courts and Tribunals Service, HM
 
-7626. **trier of fact** — 事实审判者
+7627. **trier of fact** — 事实审判者
 
    - The person or body, such as a jury or judge, whose role is to decide disputed facts.
 
-7627. **TRIPS** — 与贸易有关的知识产权协定（TRIPS）
+7628. **TRIPS** — 与贸易有关的知识产权协定（TRIPS）
 
    - An international accord obliging participating countries to protect copyright, patents, trade marks, and designs.
    - *See also:* intellectual property; General Agreement on Tariffs and Trade; World Trade Organization; Berne Convention
 
-7628. **trolling** — 网络挑衅
+7629. **trolling** — 网络挑衅
 
    1. **网络挑衅：** Posting provocative or inflammatory material online to provoke emotional responses from others.
 
-7629. **trover** — 现代侵权行为中货物转换的原始形式 *(n.)*
+7630. **trover** — 现代侵权行为中货物转换的原始形式 *(n.)*
 
    - A former action for conversion of goods, based on a fictional finding of lost property; the name still sometimes means conversion.
    - *See also:* conversion
 
-7630. **True Bill** — 真实控告
+7631. **True Bill** — 真实控告
 
    1. **真实控告：** A grand jury's finding that sufficient evidence exists to indict the accused.
 
-7631. **True Threats** — 真实威胁
+7632. **True Threats** — 真实威胁
 
    1. **真实威胁：** Statements intended to communicate a serious expression of intent to commit unlawful violence.
 
-7632. **trust** — 信托 *(n.)*
+7633. **trust** — 信托 *(n.)*
 
    1. A relationship in which a trustee holds property for beneficiaries who can enforce their rights in court.
    2. In the health service, a reference to an NHS Trust or a Primary Care Trust.
@@ -36070,1075 +36158,1075 @@
    - *Labels:* (in the National Health Service)
    - *See also:* settlor; trustees; use; equity; tracing; Express trusts; active trust; charitable trust; discretionary trust; executed trust; express trust; implied trust; protective trust; secret trust; statutory trust; National Health Service; NHS Trust; Primary Care Trust
 
-7633. **trust account** — 信托账户
+7634. **trust account** — 信托账户
 
    1. **信托账户：** A segregated account holding funds held in trust for a client or beneficiary.
 
-7634. **trust corporation** — 信托公司
+7635. **trust corporation** — 信托公司
 
    - A corporation eligible to act as trustee and to exercise powers normally requiring two trustees.
    - *See also:* Public Trustee
 
-7635. **trust deed** — 信托契约
+7636. **trust deed** — 信托契约
 
    - A deed recording the terms on which a trust is created.
 
-7636. **trustee** — 受托人 *(n.)*
+7637. **trustee** — 受托人 *(n.)*
 
    - A person who holds property for the benefit of others and must act with care and loyalty.
-   - *See also:* trust; trust corporation; judicial trustees; custodian trustees; Public Trustee; trust instrument; Public Trustees; judicial trustees; custodian trustees; advancement
+   - *See also:* trust; trust corporation; judicial trustees; custodian trustees; Public Trustee; trust instrument; Public Trustees; advancement
 
-7637. **trustee de son tort** — 无权代理人（信托）
+7638. **trustee de son tort** — 无权代理人（信托）
 
    - **无权代理人（信托）：** Latin for of his own wrongdoing; someone who acts as a trustee without authority and becomes liable as though appointed.
-   - *Language:* Latin
+   - *Language:* la
 
-7638. **trustee in bankruptcy** — 破产受托人
+7639. **trustee in bankruptcy** — 破产受托人
 
    - The person who collects and distributes a bankrupt's assets for creditors.
    - *See also:* insolvency practitioner; official receiver; preferential debts
 
-7639. **trustee investments** — 受托投资
+7640. **trustee investments** — 受托投资
 
    - The kinds of investment a trustee is permitted by law to make.
    - *See also:* authorized investments
 
-7640. **trusteeship** — 托管 *(n.)*
+7641. **trusteeship** — 托管 *(n.)*
 
    - A reference to trust territory.
    - *See also:* trust territory
 
-7641. **trustees of the settlement** — 和解受托人
+7642. **trustees of the settlement** — 和解受托人
 
    - The persons appointed to hold settled land on trust as provided by statute.
    - *See also:* Settled Land Act trustees
 
-7642. **trust for sale** — 出售信托
+7643. **trust for sale** — 出售信托
 
    - A trust under which trustees must sell the property and preserve the proceeds for the beneficiaries.
    - *See also:* trusts of land
 
-7643. **trust instrument** — 信托文书
+7644. **trust instrument** — 信托文书
 
    - A deed that vests property in trustees to apply it for stated beneficiaries.
    - *See also:* settled land
 
-7644. **trust of imperfect obligation** — 不完全义务的信托
+7645. **trust of imperfect obligation** — 不完全义务的信托
 
    - A trust for a purpose that cannot be enforced by any beneficiary.
    - *See also:* purpose trust
 
-7645. **trust of land** — 土地信托
+7646. **trust of land** — 土地信托
 
    - A statutory trust through which co-owned land is held by trustees for beneficiaries.
    - *See also:* trusts for sale; settled land; overreaching; joint tenancy; tenancy in common
 
-7646. **trust power** — 信托权力
+7647. **trust power** — 信托权力
 
    - A power of appointment that trustees must consider exercising, unlike a mere power.
    - *See also:* power of appointment
 
-7647. **trust property** — 信托财产
+7648. **trust property** — 信托财产
 
    - Property held on trust for beneficiaries, which can be recovered if wrongly disposed of.
    - *See also:* trust; tracing trust property
 
-7648. **trust territory** — 托管领土
+7649. **trust territory** — 托管领土
 
    - A territory formerly administered under United Nations trusteeship until ready for independence.
    - *See also:* mandate
 
-7649. **truth** — 真相 *(n.)*
+7650. **truth** — 真相 *(n.)*
 
    - In defamation, a defence that requires the defendant to prove the statement is substantially true.
    - *See also:* defamation; justification
 
-7650. **TSO** — 文具办公室
+7651. **TSO** — 文具办公室
 
    - The Stationery Office.
    - *See also:* Stationery Office, The
 
-7651. **TUPE** — 2006 年事业转让（就业保护）条例
+7652. **TUPE** — 2006 年事业转让（就业保护）条例
 
    - Transfer of Undertakings (Protection of Employment) Regulations 2006, safeguarding staff rights when a business is transferred.
    - *See also:* relevant transfer
 
-7652. **turbary** — 泥炭采掘权 *(n.)*
+7653. **turbary** — 泥炭采掘权 *(n.)*
 
    - A right or common to cut peat or turf on another person's land for fuel.
    - *See also:* profit à prendre; common
 
-7653. **turning Queen’s evidence** — 翻转女王的证据
+7654. **turning Queen’s evidence** — 翻转女王的证据
 
    - Giving evidence for the prosecution against fellow accused persons.
    - *See also:* Queen’s evidence
 
-7654. **turpis causa** — 一个声名狼藉的原因
+7655. **turpis causa** — 一个声名狼藉的原因
 
    - Latin for a disreputable or base cause.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* ex turpi causa non oritur actio; illegal contract
 
-7655. **twin-track planning** — 双轨规划
+7656. **twin-track planning** — 双轨规划
 
    - A reference to concurrent planning.
    - *See also:* concurrent planning
 
-7656. **two-counsel rule** — 两位律师规则
+7657. **two-counsel rule** — 两位律师规则
 
    - A former bar etiquette rule requiring a junior to assist Queen's Counsel; now abolished.
 
-7657. **Two-Dismissal Rule** — 两次撤诉规则
+7658. **Two-Dismissal Rule** — 两次撤诉规则
 
    1. **两次撤诉规则：** A rule giving a second qualifying voluntary dismissal preclusive effect when its specified conditions are satisfied.
 
-7658. **Tying Arrangement** — 搭售安排 *(n.)*
+7659. **Tying Arrangement** — 搭售安排 *(n.)*
 
    1. **搭售安排：** An agreement conditioning the sale of one product on buying a separate product.
 
-7659. **Typicality** — 典型性 *(n.)*
+7660. **Typicality** — 典型性 *(n.)*
 
    1. **典型性：** The class action requirement that a representative's claims are typical of the class.
 
-7660. **TYPICALITY (CLASS ACTION)** — 集体诉讼典型性
+7661. **TYPICALITY (CLASS ACTION)** — 集体诉讼典型性
 
    1. **集体诉讼典型性：** The requirement that the proposed representatives' claims or defenses sufficiently align with those of the class.
 
-7661. **Typing service** — 打字服务
+7662. **Typing service** — 打字服务
 
    1. **打字服务：** A business that prepares typed legal or other documents for clients for a fee.
 
 ## U
 
-7662. **uberrimae fidei** — 最大诚信
+7663. **uberrimae fidei** — 最大诚信
 
    - Latin for of the utmost good faith; describes contracts, such as insurance, that require one party to reveal important facts.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* Non-disclosure; voidable contract; insurance
 
-7663. **ubi jus ibi remedium** — 有权利即有救济
+7664. **ubi jus ibi remedium** — 有权利即有救济
 
    - Latin for wherever a right exists a remedy exists; a person whose right is infringed may sue for relief.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* tort
 
-7664. **ubuntu** — 乌班图（人性与博爱）
+7665. **ubuntu** — 乌班图（人性与博爱）
 
    - A Bantu term meaning humanity or compassion, expressing community values such as reconciliation and restorative justice.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* restorative justice
 
-7665. **ulterior intent** — 别有用心
+7666. **ulterior intent** — 别有用心
 
    - In criminal law, the intent to cause a further result beyond the prohibited act itself.
    - *See also:* mens rea; actus reus; burglary; wounding with intent; basic intent; specific intent
 
-7666. **ultimate beneficial owner** — 最终受益所有人 *(n.)*
+7667. **ultimate beneficial owner** — 最终受益所有人 *(n.)*
 
    1. **最终受益所有人：** The natural person who ultimately owns or controls an entity or receives the benefit of an arrangement.
 
-7667. **Ultimate Issue** — 最终争议点
+7668. **Ultimate Issue** — 最终争议点
 
    1. **最终争议点：** An opinion on the decisive question of fact or law presented for determination.
 
-7668. **ULTIMATE ISSUE (CRIMINAL EXCEPTION)** — 终极问题（刑事例外）
+7669. **ULTIMATE ISSUE (CRIMINAL EXCEPTION)** — 终极问题（刑事例外）
 
    1. **终极问题（刑事例外）：** A rule barring experts from stating opinions on a legal conclusion to be drawn.
    - *Jurisdiction:* US
 
-7669. **ultra vires** — 越权
+7670. **ultra vires** — 越权
 
    - Latin for beyond the powers; describing conduct that exceeds an authority's limits and is therefore invalid.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* intra vires; delegated; subdelegated legislation; delegatus non potest delegare; administrative power; quashing orders; prohibiting orders; declaration; injunction; objects; articles of association; capacity to contract
 
-7670. **umbrella clause** — 保护伞条款
+7671. **umbrella clause** — 保护伞条款
 
    - In investment treaties, a clause bringing a state's commitments toward an investor within the treaty's protection.
    - *See also:* bilateral investment treaty
 
-7671. **umpire** — 裁判 *(n.)*
+7672. **umpire** — 裁判 *(n.)*
 
    - A third arbitrator who resolves disagreement among the other arbitrators.
    - *See also:* arbitration
 
-7672. **UN** — 联合国
+7673. **UN** — 联合国
 
    - United Nations.
    - *See also:* United Nations
 
-7673. **unaffiliated domestic corporation** — 非合并集团本国公司 *(n.)*
+7674. **unaffiliated domestic corporation** — 非合并集团本国公司 *(n.)*
 
    1. **非合并集团本国公司：** A domestic corporation outside a consolidated tax group for the applicable tax rule.
 
-7674. **unaffiliated domestic owner** — 无关联国内所有人 *(n.)*
+7675. **unaffiliated domestic owner** — 无关联国内所有人 *(n.)*
 
    1. **无关联国内所有人：** A domestic owner neither affiliated with nor controlled by the reporting party.
 
-7675. **Unanimous Verdict** — 一致裁决
+7676. **Unanimous Verdict** — 一致裁决
 
    1. **一致裁决：** A verdict on which all required jurors agree, subject to any legally permitted alternative arrangement.
 
-7676. **unascertained goods** — 特定货物
+7677. **unascertained goods** — 特定货物
 
    - Goods not identified when a sale contract is made, ownership passing only once they are set aside.
    - *See also:* specific goods
 
-7677. **unauthorized camping** — 未经授权的露营
+7678. **unauthorized camping** — 未经授权的露营
 
    - The minor offence of living in a vehicle on land without the owner's consent and ignoring a direction to leave.
    - *See also:* fine; gipsies; trespass
 
-7678. **unauthorized electronic fund transfer** — 未经授权电子资金转账 *(n.)*
+7679. **unauthorized electronic fund transfer** — 未经授权电子资金转账 *(n.)*
 
    1. **未经授权电子资金转账：** An electronic transfer of funds made without the consumer's actual authority.
    - *Jurisdiction:* US
 
-7679. **Unauthorized practice of immigration law** — 未经授权从事移民法律业务
+7680. **Unauthorized practice of immigration law** — 未经授权从事移民法律业务
 
    1. **未经授权从事移民法律业务：** Providing immigration legal advice or representation without the professional or administrative authorization required by law.
 
-7680. **Unavailability** — 不可得性 *(n.)*
+7681. **Unavailability** — 不可得性 *(n.)*
 
    1. **不可得性：** The condition of a witness who cannot testify for legal or practical reasons.
 
-7681. **UNAVAILABILITY (HEARSAY)** — 不能出庭（传闻）
+7682. **UNAVAILABILITY (HEARSAY)** — 不能出庭（传闻）
 
    1. **不能出庭（传闻）：** A declarant's absence through death, illness, or privilege triggering hearsay exceptions.
 
-7682. **unchastity** — 对不贞洁的指责 *(n.)*
+7683. **unchastity** — 对不贞洁的指责 *(n.)*
 
    - A reference to imputation of unchastity.
    - *See also:* imputation of unchastity
 
-7683. **UNCID** — 电话传输贸易数据交换统一行为规则
+7684. **UNCID** — 电话传输贸易数据交换统一行为规则
 
    - Uniform Rules of Conduct for Interchange of Trade Data by Teletransmission, a code for electronic trade messaging that parties may adopt in contracts.
    - *See also:* electronic data interchange
 
-7684. **UNCITRAL** — 联合国国际贸易法委员会
+7685. **UNCITRAL** — 联合国国际贸易法委员会
 
    - United Nations Commission on International Trade Law, the UN body that harmonises rules for cross-border trade.
    - *See also:* United Nations Commission on International Trade Law
 
-7685. **Unclean Hands** — 不洁之手
+7686. **Unclean Hands** — 不洁之手
 
    1. **不洁之手：** An equitable defense barring relief to a party who acted unfairly in the matter.
 
-7686. **uncollected goods** — 未收取货物的处置
+7687. **uncollected goods** — 未收取货物的处置
 
    - A reference to the disposal of uncollected goods.
    - *See also:* disposal of uncollected goods
 
-7687. **unconditional surrender** — 投降
+7688. **unconditional surrender** — 投降
 
    - A total surrender without conditions by a state or armed force.
    - *See also:* capitulation
 
-7688. **unconscionable bargain** — 讨价还价
+7689. **unconscionable bargain** — 讨价还价
 
    - A bargain so unfair that equity may set it aside.
    - *See also:* catching bargain
 
-7689. **undefended cause** — 民事诉讼规则
+7690. **undefended cause** — 民事诉讼规则
 
    1. In civil procedure, a case in which the defendant does not acknowledge service, defend, or appear.
    2. Formerly, a divorce, nullity, or separation claim that the respondent did not contest.
    - *See also:* acknowledgment of service; defence; default; Civil Procedure Rules; setting aside
 
-7690. **Under examination** — 实质审查中 *(n.)*
+7691. **Under examination** — 实质审查中 *(n.)*
 
    1. **实质审查中：** The procedural status of an application undergoing assessment by an examiner.
 
-7691. **Under formalities** — 形式审查中
+7692. **Under formalities** — 形式审查中
 
    1. **形式审查中：** The procedural status of a filing undergoing checks of its formal registration requirements.
 
-7692. **underlease** — 转租 *(n.)*
+7693. **underlease** — 转租 *(n.)*
 
    - A lease granted by a tenant out of his own leasehold interest.
    - *See also:* sublease
 
-7693. **Undersecured claim** — 担保不足债权
+7694. **Undersecured claim** — 担保不足债权
 
    1. **担保不足债权：** A secured claim whose collateral value falls short of the amount of the debt.
 
-7694. **undertaking** — 第 101 条 *(n.)*
+7695. **undertaking** — 第 101 条 *(n.)*
 
    1. A promise that creates an obligation, especially one given in legal proceedings.
    2. A business entity subject to competition law, such as a company, a partnership, or a sole trader.
    - *See also:* Article 101
 
-7695. **underwriter** — 承保人 *(n.)*
+7696. **underwriter** — 承保人 *(n.)*
 
    1. A person at an insurance company or Lloyd's syndicate who decides whether to accept a risk.
    2. A party who agrees, for a commission, to buy unsold shares in a company flotation.
    - *See also:* Lloyd; flotation
 
-7696. **underwriting agreement** — 承销协议 *(n.)*
+7697. **underwriting agreement** — 承销协议 *(n.)*
 
    1. **承销协议：** A contract governing an underwriter's purchase, distribution, or placement of an issuer's securities.
 
-7697. **underwriting syndicate** — 承销团 *(n.)*
+7698. **underwriting syndicate** — 承销团 *(n.)*
 
    1. **承销团：** A group of financial intermediaries jointly arranging and distributing a securities offering.
 
-7698. **undischarged bankrupt** — 破产
+7699. **undischarged bankrupt** — 破产
 
    - A person made bankrupt who has not yet been discharged by the court and faces legal restrictions.
    - *See also:* bankruptcy
 
-7699. **undisclosed principal** — 未公开的委托人
+7700. **undisclosed principal** — 未公开的委托人
 
    - A principal whose existence is not revealed to the other contracting party.
    - *See also:* agent
 
-7700. **undistributed capital gains** — 未分配资本利得
+7701. **undistributed capital gains** — 未分配资本利得
 
    1. **未分配资本利得：** Realized gains retained by a fund and taxed to shareholders without distribution.
    - *Jurisdiction:* US
 
-7701. **undistributed income** — 未分配收入
+7702. **undistributed income** — 未分配收入
 
    1. **未分配收入：** Income earned by a trust or entity that has not yet been distributed to beneficiaries.
 
-7702. **undivided shares** — 不可分割的股份
+7703. **undivided shares** — 不可分割的股份
 
    - In co-ownership, the separate equitable stakes in land held by tenants in common.
    - *See also:* trust of land; tenancy in common
 
-7703. **Undue hardship** — 过度困难 *(n.)*
+7704. **Undue hardship** — 过度困难 *(n.)*
 
    1. **过度困难：** A level of difficulty or expense that is excessively burdensome in the circumstances.
 
-7704. **UNDUE HARDSHIP (ADA)** — 过度困难（美国残疾人法）
+7705. **UNDUE HARDSHIP (ADA)** — 过度困难（美国残疾人法）
 
    1. **过度困难（美国残疾人法）：** An accommodation requiring significant difficulty or expense that an employer need not provide.
    - *Jurisdiction:* US
 
-7705. **undue influence** — 不当影响
+7706. **undue influence** — 不当影响
 
    - Pressure that prevents a person from exercising independent judgment in a transaction, allowing it to be set aside.
    - *See also:* testamentary intention
 
-7706. **unduly lenient sentence** — 过度宽大的判决
+7707. **unduly lenient sentence** — 过度宽大的判决
 
    - A sentence the Attorney General may refer to the Court of Appeal as too lenient in serious cases.
    - *See also:* Criminal Procedure Rules
 
-7707. **unemployment benefit** — 失业救济金
+7708. **unemployment benefit** — 失业救济金
 
    - A reference to jobseeker's allowance.
    - *See also:* jobseeker’s allowance
 
-7708. **unenforceable contract** — 无法执行的合同
+7709. **unenforceable contract** — 无法执行的合同
 
    - A valid contract that cannot be sued upon because it lacks the required written evidence or part performance.
    - *See also:* part performance
 
-7709. **unenforceable trust** — 不可执行的信托
+7710. **unenforceable trust** — 不可执行的信托
 
    - A valid trust that a beneficiary cannot directly enforce, such as a trust of land lacking required writing.
    - *See also:* purpose trust
 
-7710. **Unexpired Lease** — 未到期租约
+7711. **Unexpired Lease** — 未到期租约
 
    1. **未到期租约：** A lease still in force at the time a bankruptcy petition is filed.
 
-7711. **unfair consumer practices** — 不公平的消费者行为
+7712. **unfair consumer practices** — 不公平的消费者行为
 
    - A reference to consumer protection rules against unfair practices.
    - *See also:* consumer protection
 
-7712. **unfair contract terms** — 不公平合同条款
+7713. **unfair contract terms** — 不公平合同条款
 
    1. In commercial contracts, terms excluding or restricting liability that are ineffective or valid only if reasonable.
    2. In consumer contracts, terms contrary to good faith that create a significant imbalance to the consumer's detriment and are not binding.
    - *See also:* good faith; Competition and Markets Authority; exclusion and restriction of negligence liability; exemption clause; international supply contract
 
-7713. **unfair dismissal** — 不公平解雇
+7714. **unfair dismissal** — 不公平解雇
 
    - A dismissal an employment tribunal finds unfair because the employer lacked a fair reason or acted unreasonably.
    - *See also:* employee; continuous employment; inadmissible reason; effective date of termination; reinstatement; re-engagement; compensation
 
-7714. **Unfair Labor Practice** — 不当劳动行为
+7715. **Unfair Labor Practice** — 不当劳动行为
 
    1. **不当劳动行为：** Conduct by an employer or union that violates established labor relations law.
    - *Jurisdiction:* US
 
-7715. **Unfair Methods Of Competition** — 不公平竞争方法 *(n.)*
+7716. **Unfair Methods Of Competition** — 不公平竞争方法 *(n.)*
 
    1. **不公平竞争方法：** Practices that injure competition and are prohibited under competition law.
 
-7716. **unfair prejudice** — 不公平偏见
+7717. **unfair prejudice** — 不公平偏见
 
    - Unfair conduct by company controllers toward members, allowing a member to petition the court for a remedy.
    - *See also:* company members; minority protection
 
-7717. **UNFAIR PREJUDICE (RULE 403)** — 不公平偏见（证据规则403）
+7718. **UNFAIR PREJUDICE (RULE 403)** — 不公平偏见（证据规则403）
 
    1. **不公平偏见（证据规则403）：** The risk that evidence will improperly sway the jury apart from its probative value.
    - *Jurisdiction:* US
 
-7718. **unfavourable witness** — 不利证人
+7719. **unfavourable witness** — 不利证人
 
    - A witness whose evidence is adverse to the party calling him but who is not hostile.
    - *See also:* adverse witness; hostile witness
 
-7719. **UNFCCC** — 《联合国气候变化框架公约》
+7720. **UNFCCC** — 《联合国气候变化框架公约》
 
    - United Nations Framework Convention on Climate Change, the treaty committing states to tackle global warming.
    - *See also:* United Nations Framework Convention on Climate Change
 
-7720. **unfitness or incompetence** — 不适合或不称职
+7721. **unfitness or incompetence** — 不适合或不称职
 
    - A reference to the imputation of being unfit or incompetent.
    - *See also:* imputation of unfitness or incompetence
 
-7721. **unfit to plead** — 不适合答辩
+7722. **unfit to plead** — 不适合答辩
 
    - Describing an accused whose mental disability prevents him from understanding proceedings and making a defence.
 
-7722. **Unification** — 统一 *(n.)*
+7723. **Unification** — 统一 *(n.)*
 
    1. **统一：** The process of combining separate systems, entities, or laws into one.
 
-7723. **Unified Patent Court** — 统一专利法院
+7724. **Unified Patent Court** — 统一专利法院
 
    - A reference to the European Patent Court.
    - *See also:* European Patent Court
 
-7724. **Uniform Business Rate** — 统一商业费率
+7725. **Uniform Business Rate** — 统一商业费率
 
    - A uniform national rate of business property tax; see rates.
    - *Expands to:* Uniform Business Rate
    - *See also:* rates
 
-7725. **unilateral contract** — 单方合同
+7726. **unilateral contract** — 单方合同
 
    - A contract in which only the promisor undertakes an obligation, such as a reward offer.
    - *See also:* bilateral contract
 
-7726. **unilateral discharge** — 单方放电
+7727. **unilateral discharge** — 单方放电
 
    - A reference to accord and satisfaction discharging one party's obligation.
    - *See also:* accord and satisfaction
 
-7727. **unilateral mistake** — 单方面错误
+7728. **unilateral mistake** — 单方面错误
 
    - A reference to mistake by one party to a contract.
    - *See also:* mistake
 
-7728. **unincorporated body** — 非法人团体
+7729. **unincorporated body** — 非法人团体
 
    - An association without separate legal personality, such as a partnership or club.
    - *See also:* corporation; partnerships; clubs
 
-7729. **union membership agreement** — 工会会员协议
+7730. **union membership agreement** — 工会会员协议
 
    - A reference to a closed-shop agreement.
    - *See also:* closed-shop agreement
 
-7730. **unitary authority** — 统一当局
+7731. **unitary authority** — 统一当局
 
    - A single-tier local authority that replaced county and district councils in some areas.
    - *See also:* local authority; county; district councils
 
-7731. **Unitary Patent** — 统一专利
+7732. **Unitary Patent** — 统一专利
 
    - A reference to the Community Patent.
    - *See also:* Community Patent
 
-7732. **United Kingdom Internal Market Act 2020** — 英国《2020 年内部市场法》
+7733. **United Kingdom Internal Market Act 2020** — 英国《2020 年内部市场法》
 
    - A reference to the Internal Market Act 2020.
    - *See also:* Internal Market Act 2020
 
-7733. **United Nations** — 联合国
+7734. **United Nations** — 联合国
 
    - An international organization founded to maintain peace and security and promote cooperation among states.
    - *Expands to:* United Nations; United Nations High Commissioner for Refugees; United Nations Children’s Fund
    - *See also:* International Court of Justice; human rights; European Convention on Human Rights; European Court of Human Rights
 
-7734. **United Nations Commission on International Trade Law** — 联合国国际贸易法委员会
+7735. **United Nations Commission on International Trade Law** — 联合国国际贸易法委员会
 
    - An international body that promotes harmonized rules for international trade, including arbitration rules.
    - *Expands to:* United Nations Commission on International Trade Law; International Centre for the Settlement of International Disputes
    - *See also:* International Centre for the Settlement of International Disputes
 
-7735. **United Nations Convention on Contracts for the International Sale of Goods** — 联合国国际货物销售合同公约
+7736. **United Nations Convention on Contracts for the International Sale of Goods** — 联合国国际货物销售合同公约
 
    - A convention harmonizing rules on international sales contracts between businesses in contracting states.
    - *See also:* favor contractus
 
-7736. **United Nations Framework Convention on Climate Change** — 联合国气候变化框架公约
+7737. **United Nations Framework Convention on Climate Change** — 联合国气候变化框架公约
 
    - A treaty under which states cooperate to cut greenhouse emissions and counter global warming.
    - *Expands to:* United Nations Framework Convention on Climate Change
 
-7737. **United States** — 美国
+7738. **United States** — 美国
 
    1. **美国：** The federal country whose geographic coverage for immigration purposes follows the applicable statutory definition.
 
-7738. **United States - Canada Free-Trade Agreement** — 美国与加拿大自由贸易协定 *(n.)*
+7739. **United States - Canada Free-Trade Agreement** — 美国与加拿大自由贸易协定 *(n.)*
 
    1. **美国与加拿大自由贸易协定：** The bilateral trade agreement that preceded the later North American trilateral trade arrangements.
 
-7739. **united states corporation or other entity** — 美国公司或其他实体 *(n.)*
+7740. **united states corporation or other entity** — 美国公司或其他实体 *(n.)*
 
    1. **美国公司或其他实体：** A corporation, partnership, or other entity organized within the United States or under applicable United States law.
 
-7740. **united states tax** — 美国税
+7741. **united states tax** — 美国税
 
    1. **美国税：** The system of taxation imposed by the federal government of the United States.
    - *Jurisdiction:* US
 
-7741. **Uniting for Peace Resolution** — 联合国大会
+7742. **Uniting for Peace Resolution** — 联合国大会
 
    - A General Assembly resolution letting it recommend collective action when the Security Council is deadlocked.
    - *Expands to:* General Assembly
    - *See also:* United Nations
 
-7742. **Unit of service** — 服务单位
+7743. **Unit of service** — 服务单位
 
    1. **服务单位：** A discrete measurable measure by which support services are delivered, recorded, and funded.
 
-7743. **unit trust** — 单位信托
+7744. **unit trust** — 单位信托
 
    - A trust letting small investors buy units in a diversified fund managed by professionals.
    - *See also:* trust
 
-7744. **unity of personality** — 人格统一
+7745. **unity of personality** — 人格统一
 
    - A former rule treating a married couple as a single legal person, now largely abolished.
 
-7745. **unity of seisin** — seisin的统一
+7746. **unity of seisin** — seisin的统一
 
    - Owning two pieces of land at once, which extinguishes easements benefiting one over the other.
    - *See also:* servient tenement; dominant tenement
 
-7746. **Universal Credit** — 通用信贷
+7747. **Universal Credit** — 通用信贷
 
    - A single social security payment replacing several working-age benefits and tax credits.
    - *See also:* jobseeker’s allowance; income support; tax credit; housing benefit
 
-7747. **unjust enrichment** — 不当得利
+7748. **unjust enrichment** — 不当得利
 
    - A reference to a claim in quasi-contract to recover a benefit unjustly obtained.
    - *See also:* quasi-contract
 
-7748. **unlawful act notice** — 非法行为通知
+7749. **unlawful act notice** — 非法行为通知
 
    - A notice the equality commission may serve after finding a breach of equality legislation, requiring remedial action.
    - *See also:* Equality and Human Rights Commission
 
-7749. **unlawful assembly** — 非法集会
+7750. **unlawful assembly** — 非法集会
 
    - A reference to the offence replaced by violent disorder.
    - *See also:* violent disorder
 
-7750. **Unlawful detainer action** — 非法滞留诉讼 *(n.)*
+7751. **Unlawful detainer action** — 非法滞留诉讼 *(n.)*
 
    1. **非法滞留诉讼：** A summary proceeding to recover possession of property from a tenant holding over.
    - *Jurisdiction:* US
 
-7751. **unlawful interference with trade** — 非法干扰贸易
+7752. **unlawful interference with trade** — 非法干扰贸易
 
    - A reference to the wrong of deliberately harming another's trade or business.
    - *See also:* interfering with trade or business; causing loss by unlawful means
 
-7752. **unlawful possession of drugs** — 非法持有毒品
+7753. **unlawful possession of drugs** — 非法持有毒品
 
    - A reference to offences involving controlled drugs.
    - *See also:* controlled drugs
 
-7753. **unlawful sexual intercourse** — 非法性交
+7754. **unlawful sexual intercourse** — 非法性交
 
    - Sexual intercourse in any of the offences involving it, such as with a child under sixteen.
    - *See also:* sexual offences
 
-7754. **unlawful trust** — 非法信托
+7755. **unlawful trust** — 非法信托
 
    - A reference to a void trust.
    - *See also:* void trust
 
-7755. **unlawful wounding** — 非法伤人
+7756. **unlawful wounding** — 非法伤人
 
    - A wounding not justified by self-defence or statutory powers, prosecuted as a crime.
    - *See also:* Wounding; wounding with intent
 
-7756. **unless order** — 除非命令
+7757. **unless order** — 除非命令
 
    - A court order requiring compliance with directions by a set time and stating the penalty for default.
 
-7757. **unlimited company** — 无限公司
+7758. **unlimited company** — 无限公司
 
    - A company whose members bear unlimited liability for its debts when it is wound up.
    - *See also:* registered company; accounts; authorized capital
 
-7758. **unliquidated amount** — 未确定金额
+7759. **unliquidated amount** — 未确定金额
 
    1. **未确定金额：** An amount that has not yet been fixed, determined, or ascertained.
 
-7759. **Unliquidated claim** — 未确定债权
+7760. **Unliquidated claim** — 未确定债权
 
    1. **未确定债权：** A claim whose amount has not been determined or fixed at the relevant time.
 
-7760. **unliquidated damages** — 未违约赔偿金
+7761. **unliquidated damages** — 未违约赔偿金
 
    - A reference to damages assessed by the court rather than fixed in advance.
    - *See also:* damages
 
-7761. **unmarried father** — 未婚父亲
+7762. **unmarried father** — 未婚父亲
 
    - A man who fathered a child without being married to the mother or joined to her in a civil partnership.
    - *See also:* declaration of parentage; parental responsibility; parental responsibility agreement; parental responsibility order; child support maintenance; registration of birth
 
-7762. **U Nonimmigrant Status (U Visa)** — U类非移民身份
+7763. **U Nonimmigrant Status (U Visa)** — U类非移民身份
 
    1. **U类非移民身份：** A temporary immigration classification for qualifying victims of specified crimes who assist relevant authorities.
 
-7763. **unopposed proceedings** — 无异议程序
+7764. **unopposed proceedings** — 无异议程序
 
    - Proceedings where anyone entitled to object does not respond after being given the chance.
 
-7764. **unpaid seller** — 未付款卖方
+7765. **unpaid seller** — 未付款卖方
 
    - A seller not fully paid who retains rights over the goods, including a lien, stoppage, and resale.
    - *See also:* negotiable instrument; lien; stoppage in transitu; right of resale
 
-7765. **unpaid vendor’s lien** — 未付的卖方留置权
+7766. **unpaid vendor’s lien** — 未付的卖方留置权
 
    - An equitable right letting a land vendor who has not been fully paid seek a court sale of the property.
    - *See also:* volunteers; possession; lien
 
-7766. **unpaid work requirement** — 无偿工作要求
+7767. **unpaid work requirement** — 无偿工作要求
 
    - A sentencing requirement to perform between forty and three hundred hours of unpaid work in the community.
    - *See also:* community order; suspended sentence; youth rehabilitation order
 
-7767. **Unreasonable Application** — 不合理适用 *(n.)*
+7768. **Unreasonable Application** — 不合理适用 *(n.)*
 
    1. **不合理适用：** The application of a legal standard in a manner no reasonable person would accept.
 
-7768. **unreasonable behaviour** — 不合理行为
+7769. **unreasonable behaviour** — 不合理行为
 
    - A former inaccurate label for the behaviour fact relied on in divorce proceedings.
    - *See also:* behaviour
 
-7769. **Unreasonable Determination Of Facts** — 不合理事实认定
+7770. **Unreasonable Determination Of Facts** — 不合理事实认定
 
    1. **不合理事实认定：** A factual finding that no reasonable adjudicator could have reached on the evidence.
 
-7770. **unreasonableness** — 不合理
+7771. **unreasonableness** — 不合理
 
    - In administrative law, a ground for challenging a decision so unreasonable that no reasonable authority would make it.
       - *Sense labels:* (of administrative action)
    - *Labels:* (of administrative action)
    - *See also:* Wednesbury unreasonableness; irrationality
 
-7771. **unregistered company** — 未注册公司
+7772. **unregistered company** — 未注册公司
 
    - A company incorporated other than by registration, such as a statutory or foreign company.
    - *See also:* company; statutory companies; foreign companies; registered company
 
-7772. **unregistered land** — 未注册土地
+7773. **unregistered land** — 未注册土地
 
    - Land whose title is not recorded at the land registry.
    - *See also:* registered land; registration of encumbrances
 
-7773. **Unrepresented accused (self-represented)** — 无代理被告人（自辩）
+7774. **Unrepresented accused (self-represented)** — 无代理被告人（自辩）
 
    1. **无代理被告人（自辩）：** A defendant who conducts their own defense in criminal proceedings without retained counsel.
 
-7774. **Unscheduled debt** — 未列明债务
+7775. **Unscheduled debt** — 未列明债务
 
    1. **未列明债务：** A debt that the debtor failed to list in the bankruptcy schedules.
 
-7775. **Unsecured claim** — 无担保债权
+7776. **Unsecured claim** — 无担保债权
 
    1. **无担保债权：** A claim not backed by a security interest in the debtor's property.
 
-7776. **unsecured creditor** — 无担保债权人
+7777. **unsecured creditor** — 无担保债权人
 
    - A creditor who lent money without taking any security over the debtor's assets.
    - *See also:* secured creditor
 
-7777. **unsolicited goods** — 未经请求的货物
+7778. **unsolicited goods** — 未经请求的货物
 
    - Goods sent to someone who did not request them, which he may treat as his own after a set period.
    - *See also:* bailment
 
-7778. **unsworn evidence** — 未经宣誓的证据
+7779. **unsworn evidence** — 未经宣誓的证据
 
    - Evidence given in a criminal case without an oath, typically by a young child tested for intelligibility.
    - *See also:* testimony
 
-7779. **unsworn statement** — 未宣誓的陈述
+7780. **unsworn statement** — 未宣誓的陈述
 
    - A former statement an accused could make from the dock without being sworn; the right was abolished.
 
-7780. **unused foreign tax** — 未用尽外国税收
+7781. **unused foreign tax** — 未用尽外国税收
 
    1. **未用尽外国税收：** Foreign tax credits exceeding the allowable limit that may be carried to other years.
    - *Jurisdiction:* US
 
-7781. **Uphold** — 维持
+7782. **Uphold** — 维持
 
    1. **维持：** To affirm a lower court's decision as correct on appellate review.
 
-7782. **uplift** — 加价 *(n.)*
+7783. **uplift** — 加价 *(n.)*
 
    - An increase a solicitor may add to a costs bill above the basic charge.
    - *See also:* costs; conditional fee agreement
 
-7783. **Upper Tribunal** — 上级法庭
+7784. **Upper Tribunal** — 上级法庭
 
    - A senior court created by statute to hear appeals from lower tribunals, with judicial review powers.
    - *See also:* court of record; judicial review; Lands Chamber; error of law on the face of the record; procedural impropriety
 
-7784. **urine specimen** — 尿液样本
+7785. **urine specimen** — 尿液样本
 
    - A reference to a specimen of urine.
    - *See also:* specimen of urine
 
-7785. **usage** — 用法 *(n.)*
+7786. **usage** — 用法 *(n.)*
 
    - A long-established practice in a market or trade that shapes how a contract there is interpreted.
    - *See also:* implied terms
 
-7786. **U.S. attorney** — 美国联邦检察官
+7787. **U.S. attorney** — 美国联邦检察官
 
    1. **美国联邦检察官：** A federal prosecutor appointed to represent the government in a judicial district.
    - *Jurisdiction:* US
 
-7787. **USCIS** — 美国公民及移民服务局
+7788. **USCIS** — 美国公民及移民服务局
 
    1. **美国公民及移民服务局：** United States Citizenship and Immigration Services.
 
-7788. **USCIS Immigrant Fee** — 美国移民局移民费 *(n.)*
+7789. **USCIS Immigrant Fee** — 美国移民局移民费 *(n.)*
 
    1. **美国移民局移民费：** A fee associated with processing certain immigrant visa holders' records and producing their permanent resident cards.
 
-7789. **USCIS Number** — 美国移民局个人编号 *(n.)*
+7790. **USCIS Number** — 美国移民局个人编号 *(n.)*
 
    1. **美国移民局个人编号：** The agency identifier corresponding to a person's alien registration number.
 
-7790. **USCIS Online Account Number** — 美国移民局在线账户编号 *(n.)*
+7791. **USCIS Online Account Number** — 美国移民局在线账户编号 *(n.)*
 
    1. **美国移民局在线账户编号：** The identifier linking a person's immigration filings to a USCIS online account.
 
-7791. **U.S. Citizenship and Immigration Services** — 美国公民及移民服务局
+7792. **U.S. Citizenship and Immigration Services** — 美国公民及移民服务局
 
    1. **美国公民及移民服务局：** The federal agency administering naturalization and many applications for immigration benefits.
 
-7792. **U.S. Customs and Border Protection (CBP)** — 美国海关与边境保护局
+7793. **U.S. Customs and Border Protection (CBP)** — 美国海关与边境保护局
 
    1. **美国海关与边境保护局：** The federal agency responsible for border inspection, customs administration, and major entry-control functions.
 
-7793. **use** — 使用 *(n.)*
+7794. **use** — 使用 *(n.)*
 
    - A former equitable right of a beneficiary against the holder of the legal title to land, later replaced by the trust.
    - *See also:* use upon a use
 
-7794. **use and occupation** — 使用和占领
+7795. **use and occupation** — 使用和占领
 
    - The unlawful use or possession of land, for which the owner may claim payment.
 
-7795. **use classes** — 使用类
+7796. **use classes** — 使用类
 
    - A reference to the categories of land use relevant to planning permission.
    - *See also:* development
 
-7796. **use of force** — 使用武力
+7797. **use of force** — 使用武力
 
    - In international law, offensive military action, which is prohibited except in self-defence or under Security Council enforcement.
    - *See also:* enforcement action; Chapter VII; self-defence; customary international law; war crimes
 
-7797. **user** — 用户 *(n.)*
+7798. **user** — 用户 *(n.)*
 
    - Enjoyment or use of land or other property.
 
-7798. **use upon a use** — 一次使用后的使用
+7799. **use upon a use** — 一次使用后的使用
 
    - A former equitable interest recognized after the Statute of Uses, where one person held property to the benefit of another; it evolved into the trust.
    - *See also:* use; trust
 
-7799. **Usher of the Black Rod** — 黑杖礼仪官
+7800. **Usher of the Black Rod** — 黑杖礼仪官
 
    1. **黑杖礼仪官：** A parliamentary officer performing ceremonial and security functions associated with an upper chamber.
 
-7800. **U.S. Immigration and Customs Enforcement** — 美国移民与海关执法局 *(n.)*
+7801. **U.S. Immigration and Customs Enforcement** — 美国移民与海关执法局 *(n.)*
 
    1. **美国移民与海关执法局：** The federal agency carrying out interior immigration enforcement and specified customs and transnational investigations.
 
-7801. **U.S. territories** — 美国属地
+7802. **U.S. territories** — 美国属地
 
    1. **美国属地：** Territories under United States sovereignty whose inclusion in particular immigration rules depends on the governing statutory definition.
 
-7802. **U.S. trustee** — 美国破产受托人 *(n.)*
+7803. **U.S. trustee** — 美国破产受托人 *(n.)*
 
    1. **美国破产受托人：** A federal official overseeing bankruptcy administration and the conduct of private trustees.
    - *Jurisdiction:* US
 
-7803. **usual covenants** — 通常契约
+7804. **usual covenants** — 通常契约
 
    - The covenants customarily included in a lease, such as the tenant's duty to pay rent and repair.
    - *See also:* lease; agreement for a lease; quiet enjoyment; re-entry
 
-7804. **usufruct** — 用益权 *(n.)*
+7805. **usufruct** — 用益权 *(n.)*
 
    - The right to take the fruits or produce of another's property without destroying it.
 
-7805. **utilitarianism** — 功利主义
+7806. **utilitarianism** — 功利主义
 
    - A moral theory judging actions and rules by their consequences for overall human happiness.
    - *See also:* punishment; classical school of criminology; economic analysis of law; legal positivism
 
-7806. **utility model** — 实用新型
+7807. **utility model** — 实用新型
 
    - A short-term patent protecting minor inventions, available in many countries but not the United Kingdom.
    - *See also:* patent
 
-7807. **uti possidetis** — 保持占有原则
+7808. **uti possidetis** — 保持占有原则
 
    - Latin for as you possess; the principle that a new state keeps its former colonial boundaries.
+   - *Language:* la
    - *Jurisdiction:* International
-   - *Language:* Latin
 
-7808. **utter Bar** — 话语栏
+7809. **utter Bar** — 话语栏
 
    - The outer Bar; junior barristers who are not Queen's Counsel.
    - *See also:* outer Bar
 
 ## V
 
-7809. **vacantia bona** — 无主财产
+7810. **vacantia bona** — 无主财产
 
    - **无主财产：** Latin for empty goods; an alternative form of bona vacantia.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* bona vacantia
 
-7810. **vacant possession** — 空置占有
+7811. **vacant possession** — 空置占有
 
    - Exclusive use of land on completion of a purchase, free of any occupant's rights.
 
-7811. **vacations** — 假期 *(pl. n.)*
+7812. **vacations** — 假期 *(pl. n.)*
 
    - The breaks between the sessions of the senior courts, when only limited court business is heard.
    - *See also:* sittings; Civil Procedure Rules
 
-7812. **Vacatur** — 撤销
+7813. **Vacatur** — 撤销
 
    1. **撤销：** The setting aside or annulment of a judgment or order by a court.
 
-7813. **vaccine damage payment** — 疫苗损害赔偿金
+7814. **vaccine damage payment** — 疫苗损害赔偿金
 
    - A tax-free payment compensating people left severely disabled by a government vaccination programme.
 
-7814. **vagrant** — 流浪者 *(n.)*
+7815. **vagrant** — 流浪者 *(n.)*
 
    - A person formerly classed by statute as idle and disorderly, a rogue, or an incorrigible rogue.
 
-7815. **valid** — 有效
+7816. **valid** — 有效
 
    1. **有效：** Legally sufficient and in force according to applicable law.
 
-7816. **valuable consideration** — 有价值的对价
+7817. **valuable consideration** — 有价值的对价
 
    - A reference to consideration, something of value exchanged in a contract.
    - *See also:* consideration
 
-7817. **value** — 价值 *(n.)*
+7818. **value** — 价值 *(n.)*
 
    - Something of value given in exchange; a short term for valuable consideration.
    - *See also:* consideration
 
-7818. **value-added tax** — 增值税
+7819. **value-added tax** — 增值税
 
    - A tax charged on most business supplies of goods or services and ultimately paid by the consumer.
    - *Expands to:* value-added tax
    - *See also:* tax point; exempt supply; zero-rated supply
 
-7819. **valued policy** — 定值保单
+7820. **valued policy** — 定值保单
 
    - An insurance policy fixing an agreed value for the insured property, recoverable in full on loss.
 
-7820. **value received** — 收到的价值
+7821. **value received** — 收到的价值
 
    - A phrase sometimes written on a draft to confirm that value was given, though it is not needed.
    - *See also:* bill of exchange
 
-7821. **vandalism** — 故意破坏 *(n.)*
+7822. **vandalism** — 故意破坏 *(n.)*
 
    - Defacing or damaging property, usually prosecuted as criminal damage rather than a distinct offence.
    - *See also:* criminal damage
 
-7822. **variance** — 方差 *(n.)*
+7823. **variance** — 方差 *(n.)*
 
    - In civil procedure, a mismatch between a pleaded statement and the evidence given at trial.
    - *See also:* statements of case; amendment
 
-7823. **Variation** — 变更 *(n.)*
+7824. **Variation** — 变更 *(n.)*
 
    1. **变更：** A court-approved change to an existing order, such as a custody or support arrangement.
 
-7824. **variation of trust** — 信托的变更
+7825. **variation of trust** — 信托的变更
 
    - A change to a trust's terms, which the court may approve when it benefits those on whose behalf it acts.
 
-7825. **variation order** — 变更令 *(n.)*
+7826. **variation order** — 变更令 *(n.)*
 
    1. **变更令：** An instruction authorizing a change to the scope, price, or timing of contracted work.
 
-7826. **variation to an estate** — 遗产变更
+7827. **variation to an estate** — 遗产变更
 
    - A reference to a deed of variation of an estate.
    - *See also:* deed of variation
 
-7827. **VAT** — 增值税
+7828. **VAT** — 增值税
 
    - Value-added tax.
    - *See also:* value-added tax
 
-7828. **VC** — 副校长
+7829. **VC** — 副校长
 
    - Vice Chancellor.
    - *See also:* Vice Chancellor
 
-7829. **VCT** — 风险投资信托
+7830. **VCT** — 风险投资信托
 
    - Venture capital trust.
    - *See also:* venture capital trust
 
-7830. **VDU** — 视觉显示单元
+7831. **VDU** — 视觉显示单元
 
    - Visual display unit.
    - *See also:* visual display unit
 
-7831. **vehicle** — 车辆 *(n.)*
+7832. **vehicle** — 车辆 *(n.)*
 
    - A reference to a motor vehicle.
    - *See also:* motor vehicle
 
-7832. **vehicle construction and maintenance** — 车辆构造和维护
+7833. **vehicle construction and maintenance** — 车辆构造和维护
 
    - Rules on how motor vehicles must be built and kept, breach of which can be a criminal offence.
    - *See also:* endorsement; totting-up; MOT test
 
-7833. **vehicle insurance** — 车辆保险
+7834. **vehicle insurance** — 车辆保险
 
    - A reference to compulsory third-party insurance for motor vehicles.
    - *See also:* third-party insurance; driving without insurance
 
-7834. **vehicle interference** — 车辆干扰
+7835. **vehicle interference** — 车辆干扰
 
    - A reference to the offence of interfering with vehicles.
    - *See also:* interfering with vehicles
 
-7835. **vehicle loan** — 车辆贷款
+7836. **vehicle loan** — 车辆贷款
 
    1. **车辆贷款：** A loan secured by a motor vehicle as collateral.
 
-7836. **vendor** — 供应商 *(n.)*
+7837. **vendor** — 供应商 *(n.)*
 
    - A seller, especially of land.
 
-7837. **venire de novo** — 重新审判令
+7838. **venire de novo** — 重新审判令
 
    - Latin for to come anew; a fresh trial may be ordered after a fundamental procedural irregularity.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* new trial
 
-7838. **venture capital trust** — 风险投资信托
+7839. **venture capital trust** — 风险投资信托
 
    - A listed investment company investing in qualifying trading companies and offering tax reliefs.
    - *Expands to:* venture capital trust
    - *See also:* investment company; Enterprise Investment Scheme
 
-7839. **Venue** — 审判地点
+7840. **Venue** — 审判地点
 
    1. **审判地点：** The legally proper geographic location for hearing a case within a court system.
 
-7840. **Venue Transfer** — 诉讼地点移送 *(n.)*
+7841. **Venue Transfer** — 诉讼地点移送 *(n.)*
 
    1. **诉讼地点移送：** Relocation of pending litigation to another permitted venue by judicial order.
 
-7841. **verdict** — 判决 *(n.)*
+7842. **verdict** — 判决 *(n.)*
 
    1. A jury's answer to the issues put to it at a trial.
    2. A coroner's conclusion reached at an inquest.
    - *See also:* jury; majority verdict; alternative verdict; general verdict; perverse verdict; special verdict; inquisition
 
-7842. **Verdict Impeachment Exceptions** — 质疑陪审团裁决的例外
+7843. **Verdict Impeachment Exceptions** — 质疑陪审团裁决的例外
 
    1. **质疑陪审团裁决的例外：** Limited circumstances permitting juror evidence about external influence, extraneous information, or other legally recognized grounds affecting a verdict.
 
-7843. **vergens ad inopiam** — 处于破产边缘
+7844. **vergens ad inopiam** — 处于破产边缘
 
    - Latin for on the verge of insolvency, a concept used in Scots bankruptcy law.
+   - *Language:* la
    - *Jurisdiction:* Scotland
-   - *Language:* Latin
 
-7844. **vertical agreements** — 纵向协议
+7845. **vertical agreements** — 纵向协议
 
    - Deals between firms operating at separate stages of a supply chain, such as suppliers and distributors.
    - *See also:* horizontal agreements; block exemption; retained EU law
 
-7845. **very large online platform** — 超大型在线平台
+7846. **very large online platform** — 超大型在线平台
 
    1. **超大型在线平台：** An online platform exceeding a user threshold subject to heightened regulatory duties.
 
-7846. **vest** — 马甲 *(vb.)*
+7847. **vest** — 马甲 *(vb.)*
 
    1. To give someone legal title to land.
    2. To give someone legal rights.
 
-7847. **vested in interest** — 归属权益
+7848. **vested in interest** — 归属权益
 
    - Describing an existing entitlement to property that will be enjoyed later.
    - *See also:* vested in possession
 
-7848. **vested in possession** — 归属占有
+7849. **vested in possession** — 归属占有
 
    - Describing an immediate right to enjoy an interest in property.
    - *See also:* vested in interest
 
-7849. **vested remainder** — 既得余额
+7850. **vested remainder** — 既得余额
 
    - A reference to an interest vested in interest.
    - *See also:* vested in interest
 
-7850. **vested rights** — 既得权利
+7851. **vested rights** — 既得权利
 
    - Rights that have already accrued to a person, which statutes are presumed not to interfere with.
    - *See also:* interpretation
 
-7851. **vesting assent** — 归属同意书
+7852. **vesting assent** — 归属同意书
 
    - A document by which personal representatives pass settled land to the beneficiary entitled under the settlement.
    - *See also:* settled land
 
-7852. **vesting declaration** — 归属声明
+7853. **vesting declaration** — 归属声明
 
    - Wording in a deed that names new trustees and states that the trust property passes to them.
 
-7853. **vesting deed** — 归属契约
+7854. **vesting deed** — 归属契约
 
    - A reference to the deed used in settled land conveyancing.
    - *See also:* settled land
 
-7854. **vesting order** — 归属令
+7855. **vesting order** — 归属令
 
    1. An order that returns assets a dissolved company held for someone back to that person.
    2. An order that creates or shifts a legal interest in land, such as when an equitable mortgagee sells.
    - *See also:* bona vacantia
 
-7855. **vesting schedule** — 归属时间表
+7856. **vesting schedule** — 归属时间表
 
    1. **归属时间表：** A timetable specifying when conditional equity or benefit entitlements become earned or nonforfeitable.
 
-7856. **veto** — 否决权 *(n.)*
+7857. **veto** — 否决权 *(n.)*
 
    1. In international law, a permanent Security Council member's right to block a non-procedural proposal.
       - *Sense labels:* (in international law)
@@ -37148,383 +37236,383 @@
    - *Jurisdiction:* European Union; International
    - *See also:* United Nations; Uniting for Peace Resolution; Council of the European Union; European Parliament; codecision procedure
 
-7857. **vexatious** — 缠讼的 *(adj.)*
+7858. **vexatious** — 缠讼的 *(adj.)*
 
    1. **缠讼的：** Characterized by litigation instituted without reasonable grounds to annoy or harass.
 
-7858. **Vexatious Multiplication Of Proceedings** — 缠讼性重复诉讼
+7859. **Vexatious Multiplication Of Proceedings** — 缠讼性重复诉讼
 
    1. **缠讼性重复诉讼：** The filing of numerous proceedings to harass or oppress an opposing party.
 
-7859. **vexatious proceeding** — 缠讼
+7860. **vexatious proceeding** — 缠讼
 
    1. **缠讼：** A legal proceeding brought without merit chiefly to harass the other side.
 
-7860. **vexatious proceedings** — 无理取闹的诉讼
+7861. **vexatious proceedings** — 无理取闹的诉讼
 
    - Proceedings brought without reasonable prospects and to annoy the other side, which may lead to a restriction order.
    - *See also:* Civil Procedure Rules
 
-7861. **viable** — 可行 *(adj.)*
+7862. **viable** — 可行 *(adj.)*
 
    - In medical law, able to survive birth and live independently; the legal threshold is twenty-four weeks.
       - *Sense labels:* (in medical law)
    - *Labels:* (in medical law)
    - *See also:* abortion; child destruction
 
-7862. **vicarious liability** — 替代责任
+7863. **vicarious liability** — 替代责任
 
    - Responsibility placed on one person, such as an employer, for wrongs done by another during work.
    - *See also:* independent contractor; strict liability
 
-7863. **vicarious performance** — 替代履行
+7864. **vicarious performance** — 替代履行
 
    - A reference to performance of a contract through another person.
    - *See also:* performance of contract
 
-7864. **vicarious responsibility** — 替代责任
+7865. **vicarious responsibility** — 替代责任
 
    - Another name for vicarious liability.
    - *See also:* vicarious liability
 
-7865. **Vice Chancellor** — 副校长
+7866. **Vice Chancellor** — 副校长
 
    1. Formerly the judge who led the Chancery Division in practice, a role later called Chancellor of the High Court.
    2. Formerly a palatine court judge; the title is still used for the Chancery judge sitting in Lancashire.
    - *Expands to:* Vice Chancellor
    - *See also:* Chancery Division; Lord Chancellor; palatine courts
 
-7866. **victim** — 受害者 *(n.)*
+7867. **victim** — 受害者 *(n.)*
 
    - In human rights law, someone directly harmed or at risk of harm by conduct breaching the Convention, who may bring proceedings.
       - *Sense labels:* (in human rights law)
    - *Labels:* (in human rights law)
    - *See also:* Human Rights Act
 
-7867. **victim adviser** — 被害人顾问 *(n.)*
+7868. **victim adviser** — 被害人顾问 *(n.)*
 
    1. **被害人顾问：** A person who advises and supports a crime victim through the justice process.
 
-7868. **Victim Impact** — 被害人影响
+7869. **Victim Impact** — 被害人影响
 
    1. **被害人影响：** The physical, emotional, or financial effect of a crime upon its victim.
 
-7869. **victim impact statement** — 被害人影响陈述 *(n.)*
+7870. **victim impact statement** — 被害人影响陈述 *(n.)*
 
    1. **被害人影响陈述：** A statement by a crime victim describing the harm suffered from the offense.
 
-7870. **victimisation rate** — 受害率 *(n.)*
+7871. **victimisation rate** — 受害率 *(n.)*
 
    1. **受害率：** The proportion of a population that has experienced a particular form of victimization.
 
-7871. **victimization** — 受害 *(n.)*
+7872. **victimization** — 受害 *(n.)*
 
    - Detriment suffered because a person complained about discrimination or helped another to do so.
    - *See also:* discrimination; Equality Act 2010; employment tribunal
 
-7872. **victim personal statement** — 受害者个人陈述
+7873. **victim personal statement** — 受害者个人陈述
 
    - A written account from a crime victim or relative about how the offence affected their life.
 
-7873. **Victims’ Right to Review Scheme** — 受害人审查权计划
+7874. **Victims’ Right to Review Scheme** — 受害人审查权计划
 
    - A scheme allowing a victim to ask for review of a prosecutor's decision not to bring or continue a prosecution.
    - *See also:* Crown Prosecution Service
 
-7874. **video evidence** — 视频证据
+7875. **video evidence** — 视频证据
 
    - Testimony given by video recording or live link, used under court rules and special measures.
    - *See also:* live link; Civil Procedure Rules; special measures; Criminal Procedure Rules
 
-7875. **view** — 查看 *(n.)*
+7876. **view** — 查看 *(n.)*
 
    - In court proceedings, a judge or jury going to examine a place or object that is not brought to court.
       - *Sense labels:* (in court proceedings)
    - *Labels:* (in court proceedings)
 
-7876. **View (as in perspective)** — 视图
+7877. **View (as in perspective)** — 视图
 
    1. **视图：** A representation of a product from a particular angle used to disclose a design's appearance.
 
-7877. **Viewpoint Discrimination** — 观点歧视 *(n.)*
+7878. **Viewpoint Discrimination** — 观点歧视 *(n.)*
 
    1. **观点歧视：** Government bias against speech based on the speaker's ideology or perspective.
    - *Jurisdiction:* US
 
-7878. **Views (or Voice) of the Child Report** — 儿童意见（或心声）报告
+7879. **Views (or Voice) of the Child Report** — 儿童意见（或心声）报告
 
    1. **儿童意见（或心声）报告：** A report relaying a child's expressed preferences to assist the court in parenting decisions.
    - *Jurisdiction:* CA
 
-7879. **vindictive damages** — 报复性损害赔偿
+7880. **vindictive damages** — 报复性损害赔偿
 
    - Another name for exemplary damages, awarded to punish the defendant.
    - *See also:* exemplary damages
 
-7880. **Vindictive Prosecution** — 报复性起诉 *(n.)*
+7881. **Vindictive Prosecution** — 报复性起诉 *(n.)*
 
    1. **报复性起诉：** Charging a defendant to punish the exercise of a protected legal right.
 
-7881. **violence for securing entry** — 为确保进入而采取的暴力
+7882. **violence for securing entry** — 为确保进入而采取的暴力
 
    - A reference to the offence of using violence to secure entry to premises.
    - *See also:* forcible entry
 
-7882. **Violent Crime** — 暴力犯罪
+7883. **Violent Crime** — 暴力犯罪
 
    1. **暴力犯罪：** An offense that causes or risks serious bodily harm to another person.
 
-7883. **violent disorder** — 暴力骚乱
+7884. **violent disorder** — 暴力骚乱
 
    - A public order offence where at least three people, gathered together, threaten or use unlawful force.
    - *See also:* riot; affray; power of search; picketing
 
-7884. **violent offender order** — 暴力罪犯令
+7885. **violent offender order** — 暴力罪犯令
 
    - A civil preventive order restricting a violent offender to protect the public from serious harm.
    - *Expands to:* violent offender order
    - *See also:* hospital order; community order
 
-7885. **virtual asset** — 虚拟资产
+7886. **virtual asset** — 虚拟资产
 
    1. **虚拟资产：** A digitally transferable representation of value used for payment or investment, excluding assets separately covered by applicable financial rules.
 
-7886. **virtual asset service provider** — 虚拟资产服务提供商 *(n.)*
+7887. **virtual asset service provider** — 虚拟资产服务提供商 *(n.)*
 
    1. **虚拟资产服务提供商：** A business conducting regulated virtual-asset exchange, transfer, custody, or related financial services for others.
 
-7887. **visa** — 签证
+7888. **visa** — 签证
 
    1. **签证：** A government endorsement permitting its holder to seek entry for a specified purpose, without guaranteeing admission.
 
-7888. **Visa Bulletin** — 签证公告
+7889. **Visa Bulletin** — 签证公告
 
    1. **签证公告：** The United States monthly publication reporting immigrant visa availability and relevant priority-date cutoffs.
 
-7889. **Visa Lottery** — 多元化移民签证抽签
+7890. **Visa Lottery** — 多元化移民签证抽签
 
    1. **多元化移民签证抽签：** The random selection process used in administering the diversity immigrant visa program.
 
-7890. **Visa Retrogression** — 签证排期倒退 *(n.)*
+7891. **Visa Retrogression** — 签证排期倒退 *(n.)*
 
    1. **签证排期倒退：** Movement of visa availability cutoffs to earlier priority dates, delaying previously eligible applicants.
 
-7891. **Visa Waiver Program** — 免签证计划
+7892. **Visa Waiver Program** — 免签证计划
 
    1. **免签证计划：** A program allowing qualifying travelers from participating countries to seek short visits without obtaining an ordinary visitor visa.
 
-7892. **Visegrad Group** — 维谢格拉德集团
+7893. **Visegrad Group** — 维谢格拉德集团
 
    - A grouping of four Central European states that cooperate on shared political and economic interests.
 
-7893. **visiting forces** — 来访部队
+7894. **visiting forces** — 来访部队
 
    - Foreign forces, including civilian staff, stationed in the United Kingdom and given limited immunity from local courts and tax.
 
-7894. **visitor** — 访客 *(n.)*
+7895. **visitor** — 访客 *(n.)*
 
    1. A person appointed to inspect an institution and inquire into internal irregularities, as in universities or prisons.
    2. Someone who comes onto land or premises with the occupier's permission or at his invitation.
    - *See also:* occupier’s liability
 
-7895. **visual display unit** — 视觉显示单元
+7896. **visual display unit** — 视觉显示单元
 
    - A computer screen; employees who regularly use one are entitled to safety assessments and eye tests.
    - *Expands to:* visual display unit
    - *See also:* telework
 
-7896. **Visual feature** — 视觉特征
+7897. **Visual feature** — 视觉特征
 
    1. **视觉特征：** A perceptible aspect of a product's appearance, such as shape, configuration, pattern, or ornamentation.
 
-7897. **Vital Statistics Record** — 生命统计记录
+7898. **Vital Statistics Record** — 生命统计记录
 
    1. **生命统计记录：** An official record of births, deaths, marriages, and similar life events.
 
-7898. **vitiate** — 破坏 *(vb.)*
+7899. **vitiate** — 破坏 *(vb.)*
 
    - To remove or weaken a document's legal force, as fraud can do to a contract.
 
-7899. **vocation** — 职业 *(n.)*
+7900. **vocation** — 职业 *(n.)*
 
    - A calling or occupation, whose income is taxed like that of a profession.
    - *See also:* profession
 
-7900. **Voice Identification** — 声音辨认 *(n.)*
+7901. **Voice Identification** — 声音辨认 *(n.)*
 
    1. **声音辨认：** The identification of a speaker by the characteristics of the voice.
 
-7901. **void** — 无效 *(adj.)*
+7902. **void** — 无效 *(adj.)*
 
    - Having no legal effect.
 
-7902. **voidable** — 可无效 *(adj.)*
+7903. **voidable** — 可无效 *(adj.)*
 
    - Capable of being set aside.
 
-7903. **voidable contract** — 可撤销合同
+7904. **voidable contract** — 可撤销合同
 
    - A contract valid when made but liable to be set aside for misrepresentation, mistake, duress, or non-disclosure.
    - *See also:* void contract; misrepresentation; mistake; non-disclosure; economic duress; undue influence; capacity to contract; rescission
 
-7904. **voidable marriage** — 可撤销的婚姻
+7905. **voidable marriage** — 可撤销的婚姻
 
    - A marriage that may be annulled at the election of one party.
    - *See also:* nullity of marriage
 
-7905. **Voidable Preference** — 可撤销优惠 *(n.)*
+7906. **Voidable Preference** — 可撤销优惠 *(n.)*
 
    1. **可撤销优惠：** A preferential transfer by a debtor that the trustee may avoid and recover.
 
-7906. **voidable trust** — 可撤销的信托
+7907. **voidable trust** — 可撤销的信托
 
    - A trust liable to be cancelled, such as one made by an infant or obtained by fraud.
    - *See also:* infant
 
-7907. **void contract** — 无效合同
+7908. **void contract** — 无效合同
 
    - A contract with no legal effect from the moment it is made.
    - *See also:* voidable contract; capacity to contract; mistake; illegal contract; gaming; public policy; competition law; severance
 
-7908. **Void For Vagueness** — 因模糊而无效 *(n.)*
+7909. **Void For Vagueness** — 因模糊而无效 *(n.)*
 
    1. **因模糊而无效：** A doctrine invalidating laws so indefinite that persons cannot discern prohibited conduct.
    - *Jurisdiction:* US
 
-7909. **void marriage** — 无效婚姻
+7910. **void marriage** — 无效婚姻
 
    - A marriage that is legally invalid from the start.
    - *See also:* nullity of marriage
 
-7910. **void trust** — 无效信托
+7911. **void trust** — 无效信托
 
    - A trust the law refuses to enforce, such as one breaching the rule against perpetuities.
    - *See also:* rule against perpetuities; rule against inalienability; resulting trust
 
-7911. **voir dire** — 案中审查；预备审查
+7912. **voir dire** — 案中审查；预备审查
 
    1. Norman French for to speak the truth; a preliminary hearing of a witness's competence or a juror's qualification.
    2. A hearing held without the jury to decide whether a piece of evidence is admissible.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* confession
 
-7912. **volenti non fit injuria** — 自愿者不受损害
+7913. **volenti non fit injuria** — 自愿者不受损害
 
    - Latin for no injury is done to a person who consents; a defence that the claimant accepted the risk of harm.
-   - *Language:* Latin
+   - *Language:* la
 
-7913. **voluntary** — 自愿 *(adj.)*
+7914. **voluntary** — 自愿 *(adj.)*
 
    - Without valuable consideration.
    - *See also:* consideration
 
-7914. **voluntary accommodation** — 自愿住宿
+7915. **voluntary accommodation** — 自愿住宿
 
    - Local authority housing for children whose parents cannot care for them, without transferring parental responsibility.
    - *See also:* care order; children in need; parental responsibility
 
-7915. **voluntary arrangement** — 个人自愿安排
+7916. **voluntary arrangement** — 个人自愿安排
 
    1. A deal by which a debtor and creditors agree how debts will be repaid, often instead of bankruptcy.
    2. A comparable deal for a company in financial trouble, binding once the required meetings approve it.
    - *Expands to:* individual voluntary arrangement; company voluntary arrangement
-   - *See also:* scheme of arrangement; composition; bankruptcy; undischarged bankrupt; deed of arrangement; insolvency practitioner; preferential debts; insolvency practitioner; administration order
+   - *See also:* scheme of arrangement; composition; bankruptcy; undischarged bankrupt; deed of arrangement; insolvency practitioner; preferential debts; administration order
 
-7916. **voluntary assumption of risk** — 自愿承担风险
+7917. **voluntary assumption of risk** — 自愿承担风险
 
    - A reference to the defence of consenting to the risk of injury.
    - *See also:* volenti non fit injuria
 
-7917. **voluntary bill procedure** — 自愿法案程序
+7918. **voluntary bill procedure** — 自愿法案程序
 
    - A procedure letting the prosecution obtain a High Court judge's consent to a bill of indictment, avoiding committal.
    - *See also:* bill of indictment
 
-7918. **voluntary confession** — 自愿认罪
+7919. **voluntary confession** — 自愿认罪
 
    - A reference to a confession made freely rather than under pressure.
    - *See also:* confession
 
-7919. **voluntary conveyance** — 自愿转让
+7920. **voluntary conveyance** — 自愿转让
 
    - A reference to a voluntary disposition of property.
    - *See also:* voluntary disposition
 
-7920. **Voluntary departure** — 自愿离境
+7921. **Voluntary departure** — 自愿离境
 
    1. **自愿离境：** Permission to leave at one's own expense within an authorized period instead of departure under a removal order.
 
-7921. **Voluntary Dismissal** — 自愿撤诉 *(n.)*
+7922. **Voluntary Dismissal** — 自愿撤诉 *(n.)*
 
    1. **自愿撤诉：** Termination of an action at the claimant's initiative through an authorized notice, stipulation, or court order.
 
-7922. **voluntary disposition** — 自愿处置
+7923. **voluntary disposition** — 自愿处置
 
    - A transfer of land not made for valuable consideration, which may be set aside if it defrauds a purchaser.
    - *See also:* consideration
 
-7923. **voluntary employee contributions** — 自愿雇员缴款
+7924. **voluntary employee contributions** — 自愿雇员缴款
 
    1. **自愿雇员缴款：** Amounts an employee chooses to pay into a benefit or retirement plan.
 
-7924. **voluntary liquidation** — 自愿清算
+7925. **voluntary liquidation** — 自愿清算
 
    - A reference to a voluntary winding-up.
    - *See also:* voluntary winding-up
 
-7925. **voluntary manslaughter** — 故意杀人
+7926. **voluntary manslaughter** — 故意杀人
 
    - A reference to manslaughter with a partial defence reducing murder liability.
    - *See also:* manslaughter
 
-7926. **voluntary patient** — 自愿患者
+7927. **voluntary patient** — 自愿患者
 
    - A psychiatric patient admitted without being detained under compulsory powers.
    - *See also:* informal patient
 
-7927. **Voluntary request for examination** — 主动请求审查 *(n.)*
+7928. **Voluntary request for examination** — 主动请求审查 *(n.)*
 
    1. **主动请求审查：** An applicant's or owner's request to begin examination without waiting for an official direction to do so.
 
-7928. **voluntary self-disclosure** — 主动自我披露
+7929. **voluntary self-disclosure** — 主动自我披露
 
    1. **主动自我披露：** An organization's voluntary report to authorities of its own potential legal or regulatory violations.
 
-7929. **voluntary settlement** — 自愿和解
+7930. **voluntary settlement** — 自愿和解
 
    - A settlement made without consideration, which stays unenforceable until fully constituted.
    - *See also:* settlement; consideration; constitution of trusts; maxims of equity
 
-7930. **Voluntary transfer** — 自愿转让 *(n.)*
+7931. **Voluntary transfer** — 自愿转让 *(n.)*
 
    1. **自愿转让：** A transfer of property made by the debtor of the debtor's own free will.
 
-7931. **voluntary waste** — 自愿浪费
+7932. **voluntary waste** — 自愿浪费
 
    - Waste caused by a tenant's positive act that damages the leased land.
    - *See also:* waste
 
-7932. **voluntary winding-up** — 自愿清盘
+7933. **voluntary winding-up** — 自愿清盘
 
    - A winding-up started by the company's own resolution, either as a members' or a creditors' process.
    - *See also:* winding-up; liquidator; liquidation committee
 
-7933. **volunteer** — 志愿者 *(n.)*
+7934. **volunteer** — 志愿者 *(n.)*
 
    1. Someone who provided no valuable consideration in a transaction.
    2. A person who gives time and services unpaid for others' benefit, generally without employment protection.
    - *See also:* consideration; employees; workers; Equality Act 2010
 
-7934. **VOO** — 暴力犯罪者命令
+7935. **VOO** — 暴力犯罪者命令
 
    - Violent offender order.
    - *See also:* violent offender order
 
-7935. **vote** — 表决
+7936. **vote** — 表决
 
    1. **表决：** A formal expression of choice counted toward a collective decision.
 
-7936. **voting** — 投票 *(n.)*
+7937. **voting** — 投票 *(n.)*
 
    1. For a registered company, the casting of votes at a meeting, first by show of hands and later by poll on demand.
       - *Sense labels:* (in a registered company)
@@ -37533,185 +37621,185 @@
    - *Labels:* (in a registered company); (in a parliamentary or local-government election)
    - *See also:* proxy; shares; articles of association; election; franchise
 
-7937. **voting and free elections** — 投票和自由选举
+7938. **voting and free elections** — 投票和自由选举
 
    - The right under human rights law to free elections by secret ballot at reasonable intervals.
    - *See also:* Human Rights Act; elections; absolute right
 
-7938. **voting capital** — 表决资本 *(n.)*
+7939. **voting capital** — 表决资本 *(n.)*
 
    1. **表决资本：** Capital stock that carries the right to vote on corporate matters.
 
-7939. **voting security** — 有表决权证券 *(n.)*
+7940. **voting security** — 有表决权证券 *(n.)*
 
    1. **有表决权证券：** A security carrying rights to vote on corporate governance or other specified matters.
 
-7940. **Voucher Rule** — 凭证规则
+7941. **Voucher Rule** — 凭证规则
 
    1. **凭证规则：** A rule that a party who sponsors a witness vouches for credibility and may not impeach.
 
-7941. **voyage charter** — 航次租船
+7942. **voyage charter** — 航次租船
 
    - A reference to a charterparty for a single voyage.
    - *See also:* charterparty
 
-7942. **voyage policy** — 航次政策
+7943. **voyage policy** — 航次政策
 
    - An insurance policy covering goods or a ship for a specified voyage.
    - *See also:* time policy
 
-7943. **voyeurism** — 窥淫癖 *(n.)*
+7944. **voyeurism** — 窥淫癖 *(n.)*
 
    - The offence of watching or recording a private act for sexual gratification without the other person's consent.
    - *See also:* revenge porn
 
-7944. **vulnerable adult** — 弱势成人
+7945. **vulnerable adult** — 弱势成人
 
    - An adult with capacity who nevertheless needs protection, often because of disability, learning difficulty, or age.
    - *See also:* competent patient; incompetent patient
 
-7945. **vulnerable beneficiary** — 弱势受益人
+7946. **vulnerable beneficiary** — 弱势受益人
 
    - A beneficiary in a protected category, such as a mentally disabled person or a bereaved minor, given special tax treatment.
 
-7946. **vulnerable groups** — 弱势群体
+7947. **vulnerable groups** — 弱势群体
 
    1. **弱势群体：** Persons at heightened risk of harm or disadvantage requiring special legal or social protection.
 
 ## W
 
-7947. **Wage garnishment** — 工资扣押 *(n.)*
+7948. **Wage garnishment** — 工资扣押 *(n.)*
 
    1. **工资扣押：** A court-ordered deduction from earnings to satisfy a debt or obligation.
    - *Jurisdiction:* US
 
-7948. **wagering contract** — 投注合同
+7949. **wagering contract** — 投注合同
 
    - A reference to a gaming contract, a wager.
    - *See also:* gaming contract
 
-7949. **wait and see principle** — 观望原则
+7950. **wait and see principle** — 观望原则
 
    - A reference to the rule against perpetuities as applied by waiting to see how events unfold.
    - *See also:* rule against perpetuities
 
-7950. **Waitangi Tribunal** — 怀唐伊审裁处 *(n.)*
+7951. **Waitangi Tribunal** — 怀唐伊审裁处 *(n.)*
 
    1. **怀唐伊审裁处：** A New Zealand inquiry body investigating Māori claims concerning Crown breaches of Treaty of Waitangi principles and recommending remedies.
 
-7951. **waive** — 放弃 *(v.)*
+7952. **waive** — 放弃 *(v.)*
 
    1. **放弃：** To intentionally relinquish a known right or privilege.
 
-7952. **waiver** — 放弃 *(n.)*
+7953. **waiver** — 放弃 *(n.)*
 
    1. The act of giving up or not asserting a legal right.
    2. The document recording the giving up of a right.
    3. A variation of a contract.
 
-7953. **Waiver Of Jury Trial** — 陪审团审判权放弃 *(n.)*
+7954. **Waiver Of Jury Trial** — 陪审团审判权放弃 *(n.)*
 
    1. **陪审团审判权放弃：** A legally effective relinquishment of the right to have a dispute determined by a jury.
 
-7954. **waiver of privilege** — 放弃特权
+7955. **waiver of privilege** — 放弃特权
 
    - The voluntary surrender of a legal protection that keeps certain communications confidential.
    - *See also:* absolute privilege
 
-7955. **waiver of sovereign immunity** — 主权豁免放弃 *(n.)*
+7956. **waiver of sovereign immunity** — 主权豁免放弃 *(n.)*
 
    1. **主权豁免放弃：** A state's consent to specified jurisdiction or enforcement measures despite otherwise available immunity.
 
-7956. **waiver of tort** — 放弃侵权行为
+7957. **waiver of tort** — 放弃侵权行为
 
    - In tort law, choosing another remedy instead of damages for a wrong, such as recovering the wrongdoer's gains.
 
-7957. **war** — 战争 *(n.)*
+7958. **war** — 战争 *(n.)*
 
    - In international law, the legal condition between states that resort to force to settle disputes or enforce rights.
    - *See also:* self-defence; use of force; belligerent communities, recognition of; insurgency; self-determination; aggression; humanitarian intervention; martens clause; occupation; offences against international law and order; war crimes
 
-7958. **war crimes** — 战争罪
+7959. **war crimes** — 战争罪
 
    - Serious violations of the laws and customs of war, such as killing civilians or prisoners, punishable as crimes.
-   - *See also:* sovereignty; humanitarian intervention; Chapter VII; International Criminal Court; homicide; International Criminal Court; International Criminal Tribunal for the former Yugoslavia; International Criminal Tribunal for Rwanda
+   - *See also:* sovereignty; humanitarian intervention; Chapter VII; International Criminal Court; homicide; International Criminal Tribunal for the former Yugoslavia; International Criminal Tribunal for Rwanda
 
-7959. **ward of court** — 法院监护
+7960. **ward of court** — 法院监护
 
    1. A minor entrusted to a guardian selected by the parents or by the court, whose authority stays under the court's supervision.
    2. A minor subject to a wardship order, whose parental rights and duties the court exercises.
    - *See also:* guardian; wardship
 
-7960. **wardship** — 监护权 *(n.)*
+7961. **wardship** — 监护权 *(n.)*
 
    - The High Court's power to place a child under its protection and to take responsibility for that child's welfare.
    - *See also:* ward of court; specific issue order; prohibited steps order
 
-7961. **war injuries** — 战争伤害
+7962. **war injuries** — 战争伤害
 
    - In wartime, injuries caused by weapons, missiles, or explosives, for which the state may exclude civil liability.
 
-7962. **warned list** — 候审案件表
+7963. **warned list** — 候审案件表
 
    - **候审案件表：** A court list of cases liable to be called for hearing at short notice.
    - *See also:* Cause List
 
-7963. **warning of caveat** — 催告解除中止通知
+7964. **warning of caveat** — 催告解除中止通知
 
    - **催告解除中止通知：** A notice requiring a person who has lodged a caveat to appear and explain the interest claimed.
    - *See also:* caveat
 
-7964. **warrant** — 授权令 *(n.)*
+7965. **warrant** — 授权令 *(n.)*
 
    1. A written authority allowing an act, in particular the payment of money or the release of warehoused goods.
    2. A written order by a magistrate allowing a person's arrest or the search of their property.
    - *See also:* enforcement of judgment; share warrant; arrest; power of search; general warrant
 
-7965. **warrant backed for bail** — 保释保证书
+7966. **warrant backed for bail** — 保释保证书
 
    - An arrest warrant endorsed so that the person named may be released on bail.
    - *See also:* backed for bail
 
-7966. **warrant coverage** — 认股权证覆盖比例 *(n.)*
+7967. **warrant coverage** — 认股权证覆盖比例 *(n.)*
 
    1. **认股权证覆盖比例：** The amount of warrant entitlement granted relative to an associated investment or financing commitment.
 
-7967. **Warrantless Search** — 无令状搜查
+7968. **Warrantless Search** — 无令状搜查
 
    1. **无令状搜查：** A search of persons or property conducted without a prior judicial warrant.
 
-7968. **Warrant of arrest** — 逮捕令
+7969. **Warrant of arrest** — 逮捕令
 
    1. **逮捕令：** A formal order directing officers to apprehend a specifically named person.
 
-7969. **warrant of commitment** — 承诺书
+7970. **warrant of commitment** — 承诺书
 
    - A court order directing that a person be sent to prison.
 
-7970. **warrant of detention** — 拘留令
+7971. **warrant of detention** — 拘留令
 
    - An order from a court that permits an arrested person to be kept in custody.
    - *See also:* detention
 
-7971. **warrant of distress** — 扣押令
+7972. **warrant of distress** — 扣押令
 
    - A court order allowing goods to be seized from a debtor to satisfy a debt.
    - *See also:* distress
 
-7972. **warrant of execution** — 执行令
+7973. **warrant of execution** — 执行令
 
    - A document by which a county court enforces a judgment, usually through its bailiff.
    - *See also:* writ of execution
 
-7973. **warrant to arrest** — 逮捕证
+7974. **warrant to arrest** — 逮捕证
 
    1. **逮捕证：** A judicial command authorising the taking into custody of a suspect.
 
-7974. **warrant to seize** — 查封令 *(n.)*
+7975. **warrant to seize** — 查封令 *(n.)*
 
    1. **查封令：** A judicial order authorizing officers to seize specified property.
 
-7975. **warranty** — 保证 *(n.)*
+7976. **warranty** — 保证 *(n.)*
 
    1. For contracts, a term that, if broken, gives the other party compensation but not the right to treat the deal as ended.
       - *Sense labels:* (in contract law)
@@ -37719,373 +37807,373 @@
       - *Sense labels:* (in insurance law)
    3. Loosely, a manufacturer's promise to repair, replace, or compensate for defective goods.
    - *Labels:* (in contract law); (in insurance law)
-   - *See also:* condition; innominate terms; condition; guarantee
+   - *See also:* condition; innominate terms; guarantee
 
-7976. **warranty and indemnity insurance** — 保证与赔偿保险 *(n.)*
+7977. **warranty and indemnity insurance** — 保证与赔偿保险 *(n.)*
 
    1. **保证与赔偿保险：** Insurance covering specified transaction losses arising from breaches of warranties or covered indemnities.
 
-7977. **Warranty Deed** — 产权担保契据 *(n.)*
+7978. **Warranty Deed** — 产权担保契据 *(n.)*
 
    1. **产权担保契据：** A conveyance containing assurances about title and protection against specified competing ownership claims.
 
-7978. **Warranty Of Habitability** — 适居性保证 *(n.)*
+7979. **Warranty Of Habitability** — 适居性保证 *(n.)*
 
    1. **适居性保证：** A landlord's obligation to provide premises meeting legally required standards for residential occupation.
 
-7979. **war risks** — 战争险
+7980. **war risks** — 战争险
 
    - Insurance cover for losses caused by hostilities, rebellion, revolution, or civil war.
 
-7980. **waste** — 浪费 *(n.)*
+7981. **waste** — 浪费 *(n.)*
 
    1. In land law, damage to or alteration of rented property caused by a tenant's acts or neglect.
    2. Unwanted material or refuse whose handling and disposal is regulated to protect the environment.
    - *See also:* ameliorating waste; permissive waste; voluntary waste; Fixed-term; periodic tenancy; pollution
 
-7981. **wasted costs order** — 浪费费用令
+7982. **wasted costs order** — 浪费费用令
 
    - A court order requiring a legal representative to bear costs caused by improper, unreasonable, or negligent conduct.
 
-7982. **waste disposal** — 报废车辆
+7983. **waste disposal** — 报废车辆
 
    - The supervised collection and treatment of waste from homes, businesses, and industry, allowed only at licensed sites.
    - *Expands to:* End Of Life Vehicles; Waste Incineration Directive
    - *See also:* Environment Agency; hazardous waste; pollution
 
-7983. **wasting assets** — 浪费资产
+7984. **wasting assets** — 浪费资产
 
    - Assets in a deceased's estate that lose value over time, such as leaseholds, which personal representatives must normally sell.
 
-7984. **wasting police time** — 浪费警察时间
+7985. **wasting police time** — 浪费警察时间
 
    - An offence of wasting police resources by giving a false account of a crime or of information.
 
-7985. **water** — 水 *(n.)*
+7986. **water** — 水 *(n.)*
 
    - A right to take or use water from another's land, recognised as a form of easement.
    - *See also:* right of water
 
-7986. **Water Framework Directive** — 水框架指令
+7987. **Water Framework Directive** — 水框架指令
 
    - An EU measure establishing rules to protect and sustainably use rivers, lakes, and other water bodies.
    - *See also:* pollution
 
-7987. **water pollution** — 水污染
+7988. **water pollution** — 水污染
 
    - The contamination of rivers, lakes, and other waters, controlled by law to protect aquatic life.
    - *See also:* pollution; Water Framework Directive
 
-7988. **waybill** — 运单 *(n.)*
+7989. **waybill** — 运单 *(n.)*
 
    - A transport document naming the goods carried and the person entitled to receive them.
    - *See also:* sea waybill
 
-7989. **weapon of offence** — 犯罪武器
+7990. **weapon of offence** — 犯罪武器
 
    - An offensive weapon, or any item made, adapted, or kept to disable another person.
    - *See also:* offensive weapon; burglary; trespass; firearm
 
-7990. **wear and tear** — 磨损
+7991. **wear and tear** — 磨损
 
    - The ordinary deterioration of property through normal use, for which a tenant is usually not liable.
    - *See also:* fair wear and tear
 
-7991. **Wednesbury unreasonableness** — 温斯伯里不合理性
+7992. **Wednesbury unreasonableness** — 温斯伯里不合理性
 
    - In administrative law, a ground for judicial review where a public authority's decision is so unreasonable that no sensible authority could make it.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* judicial review; irrationality
 
-7992. **weekly tenancy** — 每周租赁
+7993. **weekly tenancy** — 每周租赁
 
    - A periodic tenancy that runs from week to week.
    - *See also:* periodic tenancy
 
-7993. **welfare law** — 福利法
+7994. **welfare law** — 福利法
 
    - Law that reflects society's responsibility for individuals' well-being, covering benefits, employment protection, and housing.
    - *See also:* National Insurance; Universal Credit
 
-7994. **welfare principle** — 福利原则
+7995. **welfare principle** — 福利原则
 
    - The rule that a child's welfare is the court's paramount consideration when deciding on the child's upbringing.
    - *See also:* section 8 orders; care orders; non-intervention principle; section 8 order; parental responsibility; section 1(2A) presumption; adoption
 
-7995. **well** — 井 *(n.)*
+7996. **well** — 井 *(n.)*
 
    - The area of a court between the judge's bench and the lawyers' tables, which only court staff may normally enter.
 
-7996. **well-known mark** — 驰名商标
+7997. **well-known mark** — 驰名商标
 
    1. **驰名商标：** A mark recognized sufficiently widely among the relevant public to qualify for enhanced protection under applicable law.
 
-7997. **Welsh company** — 威尔士公司
+7998. **Welsh company** — 威尔士公司
 
    - A company whose registered office is in Wales, which may use Welsh names and file documents in Welsh.
    - *See also:* registered office
 
-7998. **Welsh Parliament** — 威尔士议会
+7999. **Welsh Parliament** — 威尔士议会
 
    - The elected law-making body for Wales, formerly the National Assembly and now known as the Senedd.
    - *See also:* devolution
 
-7999. **Welsh rate** — 威尔士税率
+8000. **Welsh rate** — 威尔士税率
 
    - The income tax percentage that the Welsh Parliament may set for people living in Wales.
    - *See also:* Welsh Parliament; Dividend tax
 
-8000. **Westminster doctrine** — 威斯敏斯特原则
+8001. **Westminster doctrine** — 威斯敏斯特原则
 
    - The rule allowing a person to organise their affairs lawfully so that less tax is payable.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* General Anti-Abuse Rule; Ramsay principle; tax avoidance
 
-8001. **wharf** — 码头 *(n.)*
+8002. **wharf** — 码头 *(n.)*
 
    - A place, including quays and docks, where goods unloaded from ships may lawfully be stored.
 
-8002. **whip** — 党鞭
+8003. **whip** — 党鞭
 
    1. **党鞭：** A party official who coordinates legislators' attendance and voting discipline.
 
-8003. **Whistleblower** — 举报人 *(n.)*
+8004. **Whistleblower** — 举报人 *(n.)*
 
    1. **举报人：** A person who reports unlawful or unethical conduct within an organization.
 
-8004. **whistleblower protection** — 举报人保护 *(n.)*
+8005. **whistleblower protection** — 举报人保护 *(n.)*
 
    1. **举报人保护：** Legal safeguards against retaliation or other prohibited treatment for reporting qualifying wrongdoing.
 
-8005. **whistle-blowing** — 举报 *(n.)*
+8006. **whistle-blowing** — 举报 *(n.)*
 
    - An employee's report of wrongdoing by their employer, which in some cases attracts legal protection.
    - *See also:* inadmissible reason
 
-8006. **white paper** — 白皮书
+8007. **white paper** — 白皮书
 
    - A government report setting out policy proposals for future legislation.
    - *See also:* Command Papers
 
-8007. **whole blood** — 全血
+8008. **whole blood** — 全血
 
    - A family relationship in which two people share both parents, as opposed to half blood.
    - *See also:* consanguinity
 
-8008. **whole life order** — 终身监禁
+8009. **whole life order** — 终身监禁
 
    - A prison sentence requiring the offender to remain in custody for the rest of their life.
    - *See also:* life imprisonment
 
-8009. **wild animals** — 野生动物
+8010. **wild animals** — 野生动物
 
    - Animals living naturally in the wild, which are generally unowned but may be protected by law.
    - *See also:* animals; dangerous animals; poaching
 
-8010. **wilful** — 故意 *(adj.)*
+8011. **wilful** — 故意 *(adj.)*
 
    - Deliberate or intended, usually describing wrongful conduct carried out by choice.
 
-8011. **wilful default** — 故意违约
+8012. **wilful default** — 故意违约
 
    - A failure to do what one ought to do, whether deliberate or through recklessness, such as not attending court.
 
-8012. **wilful misconduct** — 故意不当行为
+8013. **wilful misconduct** — 故意不当行为
 
    - Intentionally doing a wrong, failing to act, or acting with reckless indifference to the consequences.
 
-8013. **wilful neglect** — 故意疏忽
+8014. **wilful neglect** — 故意疏忽
 
    - An intentional or deliberate omission to perform a duty.
 
-8014. **wilful neglect to maintain** — 故意忽视维护
+8015. **wilful neglect to maintain** — 故意忽视维护
 
    - The deliberate failure to provide financial support for a spouse or dependant.
    - *See also:* failure to maintain
 
-8015. **wilful refusal to consummate** — 故意拒绝圆房
+8016. **wilful refusal to consummate** — 故意拒绝圆房
 
    - A ground for annulment where one spouse refuses, without good reason, to consummate the marriage.
    - *See also:* consummation of a marriage
 
-8016. **Wilkinson v Downton** — 威尔金森诉唐顿
+8017. **Wilkinson v Downton** — 威尔金森诉唐顿
 
    - The tort of intentionally causing distress by making a false statement of fact.
-   - *Language:* Latin
+   - *Language:* la
    - *See also:* rule in Wilkinson v Downton
 
-8017. **will** — 遗嘱 *(n.)*
+8018. **will** — 遗嘱 *(n.)*
 
    - A document in which a person appoints executors and directs how their estate should be distributed after death.
    - *See also:* executors; execution of will; testamentary capacity; undue influence; codicil; obliteration; probate; interpretation of wills; joint will; mutual wills; nuncupative will; privileged will; revocation of will
 
-8018. **Willful Blindness** — 故意视而不见 *(n.)*
+8019. **Willful Blindness** — 故意视而不见 *(n.)*
 
    1. **故意视而不见：** Deliberate avoidance of knowledge of facts that one should have known.
 
-8019. **Willful misrepresentation** — 故意虚假陈述 *(n.)*
+8020. **Willful misrepresentation** — 故意虚假陈述 *(n.)*
 
    1. **故意虚假陈述：** Knowingly providing a false material representation to obtain an immigration or other legal benefit.
 
-8020. **Willfulness** — 故意 *(n.)*
+8021. **Willfulness** — 故意 *(n.)*
 
    1. **故意：** The state of acting with knowledge and intent rather than by accident.
 
-8021. **winding-up** — 清盘
+8022. **winding-up** — 清盘
 
    - The process by which a company is dissolved, its assets collected and its debts paid before any surplus is shared.
    - *See also:* voluntary winding-up; compulsory winding-up; liquidator
 
-8022. **win employee** — 胜诉雇员 *(n.)*
+8023. **win employee** — 胜诉雇员 *(n.)*
 
    1. **胜诉雇员：** An employee who prevails in a claim or qualifies as a winner under a plan.
 
-8023. **WIPO** — 世界知识产权组织
+8024. **WIPO** — 世界知识产权组织
 
    1. **世界知识产权组织：** World Intellectual Property Organization.
 
-8024. **Wire Fraud** — 电汇欺诈
+8025. **Wire Fraud** — 电汇欺诈
 
    1. **电汇欺诈：** A scheme to defraud using wire, radio, or electronic communications in furtherance.
    - *Jurisdiction:* US
 
-8025. **Wiretap Act** — 窃听法
+8026. **Wiretap Act** — 窃听法
 
    1. **窃听法：** A federal statute regulating the interception and disclosure of wire and electronic communications.
    - *Jurisdiction:* US
 
-8026. **With child support** — 含子女抚养费
+8027. **With child support** — 含子女抚养费
 
    1. **含子女抚养费：** A descriptive category for an assessment or household that includes child support obligations.
 
-8027. **Withdrawal** — 撤回 *(n.)*
+8028. **Withdrawal** — 撤回 *(n.)*
 
    1. **撤回：** Voluntarily discontinuing an application, request, or claim before its completion.
 
-8028. **Withdrawal Agreement** — 脱欧协议
+8029. **Withdrawal Agreement** — 脱欧协议
 
    - The international agreement that fixed how the UK would leave the European Union, dealing with money, citizens' rights, and disputes.
    - *See also:* Brexit; Northern Ireland Protocol; implementation period
 
-8029. **withdrawal of issue from jury** — 从陪审团中撤回问题
+8030. **withdrawal of issue from jury** — 从陪审团中撤回问题
 
    - A judge's power, when one party has produced too little evidence, to dismiss the jury and rule on the issue.
    - *See also:* burden of proof
 
-8030. **Withdraw (as in withdraw a design)** — 撤回外观设计申请
+8031. **Withdraw (as in withdraw a design)** — 撤回外观设计申请
 
    1. **撤回外观设计申请：** Discontinuing the relevant design application by the applicant's voluntary request.
 
-8031. **with notice** — 带通知
+8032. **with notice** — 带通知
 
    - Describing a court hearing that both parties attend, one having told the other when and where it will be held.
 
-8032. **Without child support** — 不含子女抚养费
+8033. **Without child support** — 不含子女抚养费
 
    1. **不含子女抚养费：** A descriptive category for an assessment or household that excludes child support considerations.
 
-8033. **without notice** — 未经通知
+8034. **without notice** — 未经通知
 
    - Describing a request made by one side to a court while the other side is absent and unaware.
    - *See also:* judicial review; search order; freezing injunction
 
-8034. **without prejudice** — 无偏见
+8035. **without prejudice** — 无偏见
 
    - A label for settlement talks that prevents the offers made from being used as evidence in court.
 
-8035. **without recourse to me** — 无需向我求助
+8036. **without recourse to me** — 无需向我求助
 
    - Words on a bill of exchange meaning the endorser accepts no liability if the instrument is not paid.
    - *See also:* sans recours
 
-8036. **witness** — 证人 *(n.)*
+8037. **witness** — 证人 *(n.)*
 
    1. A person who observes a legal document being signed and adds their own signature so the signature can later be checked.
    2. Someone who provides testimony in court, whether by a written statement or by speaking.
    - *See also:* deed; will; evidence; oath; affirm; competence; unsworn evidence; contempt of court; incriminate; adverse witness; compellable witness; hostile witness
 
-8037. **Witness Exclusion** — 证人隔离 *(n.)*
+8038. **Witness Exclusion** — 证人隔离 *(n.)*
 
    1. **证人隔离：** A court order removing witnesses from the courtroom during others' testimony.
 
-8038. **Witness Impeachment** — 证人弹劾 *(n.)*
+8039. **Witness Impeachment** — 证人弹劾 *(n.)*
 
    1. **证人弹劾：** Challenging a testifying witness's truthfulness by contradictory or character evidence.
 
-8039. **witness (in court)** — 法庭证人
+8040. **witness (in court)** — 法庭证人
 
    1. **法庭证人：** A person who gives sworn testimony concerning facts within their knowledge.
 
-8040. **witnessing part** — 证部分
+8041. **witnessing part** — 证部分
 
    - The part of a deed recording the signatures of those who witnessed its execution.
    - *See also:* deed
 
-8041. **witness’s oath** — 证人宣誓
+8042. **witness’s oath** — 证人宣誓
 
    - The sworn undertaking a witness gives to tell the truth when giving evidence.
    - *See also:* oath
 
-8042. **witness statement** — 证人陈述书 *(n.)*
+8043. **witness statement** — 证人陈述书 *(n.)*
 
    1. **证人陈述书：** A written account of facts that a witness offers as evidence in proceedings.
 
-8043. **witness summons** — 证人传票
+8044. **witness summons** — 证人传票
 
    1. In a civil case, a court paper ordering a witness to come to court to testify or to hand over documents.
    2. In a criminal case, a paper given to a witness that orders them to appear in court and testify.
    - *See also:* Civil Procedure Rules
 
-8044. **Witness Tampering** — 干扰证人
+8045. **Witness Tampering** — 干扰证人
 
    1. **干扰证人：** Improperly influencing, harming, or preventing a witness from giving truthful testimony.
 
-8045. **Woolf Reforms** — 伍尔夫改革
+8046. **Woolf Reforms** — 伍尔夫改革
 
    - The reforms that introduced the Civil Procedure Rules and reshaped the conduct of civil litigation.
    - *See also:* Civil Procedure Rules
 
-8046. **words of art** — 艺术字
+8047. **words of art** — 艺术字
 
    - Words whose legal meaning is settled, so their effect when used is known.
 
-8047. **words of limitation** — 限制用语
+8048. **words of limitation** — 限制用语
 
    - Phrases in a transfer of land that specify which interest is granted, such as a fee simple.
 
-8048. **words of procreation** — 生育之言
+8049. **words of procreation** — 生育之言
 
    - Phrases in a land settlement, such as to the heirs of the body, which brought about an entailed interest.
    - *See also:* entailed interest
 
-8049. **words of purchase** — 购买字词
+8050. **words of purchase** — 购买字词
 
    - Phrases in a transfer of land that identify who is to receive the property.
 
-8050. **words of severance** — 遣散之言
+8051. **words of severance** — 遣散之言
 
    - Words that divide property among beneficiaries in distinct shares rather than as a joint tenancy.
    - *See also:* severance
 
-8051. **work done and materials supplied, contract for** — 已完成的工作和已供应的材料，合同
+8052. **work done and materials supplied, contract for** — 已完成的工作和已供应的材料，合同
 
    - A contract mainly requiring skill and labour, such as painting a portrait, rather than the sale of a finished product.
 
-8052. **worker** — 工人 *(n.)*
+8053. **worker** — 工人 *(n.)*
 
    - In employment law, a person who works under a contract personally to perform work, a wider category than employee.
    - *See also:* employee; contract of employment; unfair dismissal
 
-8053. **work-in** — 上班 *(n.)*
+8054. **work-in** — 上班 *(n.)*
 
    - A form of industrial action where staff keep working but occupy the premises against the employer's will.
    - *See also:* trespass
 
-8054. **working capital adjustment** — 营运资金调整 *(n.)*
+8055. **working capital adjustment** — 营运资金调整 *(n.)*
 
    1. **营运资金调整：** A purchase-price change reflecting the difference between measured working capital and an agreed target.
 
-8055. **working day** — 工作日
+8056. **working day** — 工作日
 
    1. In banking and finance, a day that is not a weekend or a public holiday.
    2. For a court, any day on which legal business may be done, other than Sundays and holidays.
@@ -38093,266 +38181,281 @@
    - *Labels:* (of a court)
    - *See also:* bank holidays; Sunday trading
 
-8056. **working hours** — 工作时间
+8057. **working hours** — 工作时间
 
    - The limits on employees' working time set by law, including a maximum week, rest breaks, and paid leave.
    - *See also:* holiday pay; workers
 
-8057. **working tax credit** — 工作税收抵免
+8058. **working tax credit** — 工作税收抵免
 
    - A state benefit paid to people in low-paid work to top up their earnings.
    - *See also:* tax credit
 
-8058. **work made for hire** — 雇佣作品
+8059. **work made for hire** — 雇佣作品
 
    1. **雇佣作品：** A United States copyright category treating an employer or qualifying commissioning party as author under statutory conditions.
 
-8059. **workout loan** — 重组贷款
+8060. **workout loan** — 重组贷款
 
    1. **重组贷款：** A loan extended to a borrower during negotiation of a debt restructuring.
 
-8060. **Work Product** — 工作成果
+8061. **Work Product** — 工作成果
 
    1. **工作成果：** Materials prepared by an attorney in anticipation of litigation and protected from disclosure.
 
-8061. **Work-Product** — 工作成果
+8062. **Work-Product** — 工作成果
 
    1. **工作成果：** Documents and tangible things prepared in anticipation of litigation or for trial.
 
-8062. **Work-Product Protection** — 工作成果保护 *(n.)*
+8063. **Work-Product Protection** — 工作成果保护 *(n.)*
 
    1. **工作成果保护：** The doctrine shielding litigation materials from compelled disclosure to opponents.
 
-8063. **World Bank** — 世界银行
+8064. **World Bank** — 世界银行
 
    - An international institution that provides loans to states for development projects.
    - *See also:* International Bank for Reconstruction and Development
 
-8064. **World Trade Organization** — 世界贸易组织
+8065. **World Trade Organization** — 世界贸易组织
 
    - An international body that sets and enforces rules on trade between its member states.
    - *Expands to:* World Trade Organization; General Agreement on Tariffs and Trade
    - *See also:* General Agreement on Tariffs and Trade; trips
 
-8065. **wounding** — 伤口 *(n.)*
+8066. **wounding** — 伤口 *(n.)*
 
    - In criminal law, a breaking of the skin or a membrane, which can amount to an offence if done maliciously.
    - *See also:* assault; battery
 
-8066. **wounding with intent** — 故意伤害
+8067. **wounding with intent** — 故意伤害
 
    - Causing a wound intending serious harm or to resist lawful arrest, an offence carrying a maximum of life imprisonment.
    - *See also:* wounding; grievous bodily harm
 
-8067. **wrap-around mortgage** — 包裹式抵押贷款 *(n.)*
+8068. **wrap-around mortgage** — 包裹式抵押贷款 *(n.)*
 
    1. **包裹式抵押贷款：** A new loan wrapping an existing mortgage, with the lender servicing both.
    - *Jurisdiction:* US
 
-8068. **wreck** — 沉船 *(n.)*
+8069. **wreck** — 沉船 *(n.)*
 
    1. The loss of a vessel at sea, for instance after sinking in a storm or hitting rocks.
    2. What is left of a sunken or broken vessel, along with goods discovered on the sea or tidal shores.
    3. Cargo washed ashore from a vessel that has broken up.
    - *See also:* salvage
 
-8069. **writ** — 令状 *(n.)*
+8070. **writ** — 令状 *(n.)*
 
    - A court order issued in the sovereign's name directing a person to do or refrain from something.
 
-8070. **Writing Used To Refresh Memory** — 用于唤起记忆的书面材料
+8071. **Writing Used To Refresh Memory** — 用于唤起记忆的书面材料
 
    1. **用于唤起记忆的书面材料：** A writing a witness consults to revive recollection while testifying.
 
-8071. **Writ of certiorari** — 调卷令
+8072. **Writ of certiorari** — 调卷令
 
    1. **调卷令：** A reviewing court's discretionary order accepting a lower-court decision for examination.
 
-8072. **writ of delivery** — 交付令状
+8073. **writ of delivery** — 交付令状
 
    - An enforcement writ ordering an officer to take goods and give them to the winning party, or recover their value.
    - *See also:* writ of execution; High Court Enforcement Officer; Civil Procedure Rules
 
-8073. **Writ Of Error** — 纠错令 *(n.)*
+8074. **Writ Of Error** — 纠错令 *(n.)*
 
    1. **纠错令：** A historical writ through which a higher court reviewed legal errors appearing in a lower court's record.
 
-8074. **writ of execution** — 执行令
+8075. **writ of execution** — 执行令
 
    - A writ used to enforce a judgment, such as one for seizing goods or recovering possession of land.
    - *See also:* enforcement of judgment; fieri facias; writ of possession; writ of delivery; sequestration; Civil Procedure Rules
 
-8075. **Writ Of Habeas Corpus** — 人身保护令
+8076. **Writ Of Habeas Corpus** — 人身保护令
 
    1. **人身保护令：** A court order requiring a custodian to justify a person's detention so its legality can be reviewed.
 
-8076. **writ of possession** — 占有令
+8077. **writ of possession** — 占有令
 
    - A writ directing an officer to enter land and give the claimant vacant possession.
    - *See also:* High Court Enforcement Officer; Civil Procedure Rules
 
-8077. **Writ Of Prohibition** — 禁止令 *(n.)*
+8078. **Writ Of Prohibition** — 禁止令 *(n.)*
 
    1. **禁止令：** An order directing a lower court or tribunal not to exceed its lawful jurisdiction.
 
-8078. **writ of summons** — 传票
+8079. **writ of summons** — 传票
 
    - Formerly, the document used to begin a civil action in the High Court, now replaced by a claim form.
    - *See also:* claim form; Civil Procedure Rules
 
-8079. **Written charge** — 书面指控
+8080. **Written charge** — 书面指控
 
    1. **书面指控：** A formal written accusation of an offense issued by a competent authority.
 
-8080. **written description requirement** — 书面描述要求 *(n.)*
+8081. **written description requirement** — 书面描述要求 *(n.)*
 
    1. **书面描述要求：** The requirement that a patent application demonstrate the inventor's possession of the claimed invention through its original disclosure.
 
-8081. **written off** — 核销
+8082. **written off** — 核销
 
    1. **核销：** A debt or asset recorded as having no recoverable value.
 
-8082. **written resolution** — 书面决议
+8083. **written resolution** — 书面决议
 
    - A company resolution passed by members in writing instead of at a general meeting.
    - *See also:* general meeting; ordinary resolution; special resolution
 
-8083. **wrong** — 错误 *(n.)*
+8084. **wrong** — 错误 *(n.)*
 
    - An unlawful or immoral deed, whether it is a crime harming society or a civil injury to one person.
    - *See also:* Crimes; torts; breaches of contract
 
-8084. **wrongful dismissal** — 不当解雇
+8085. **wrongful dismissal** — 不当解雇
 
    - Ending an employee's contract without the notice or terms it requires, giving the employee a right to damages.
    - *See also:* unfair dismissal
 
-8085. **wrongful interference with goods** — 对货物的不当干扰
+8086. **wrongful interference with goods** — 对货物的不当干扰
 
    - A group of torts affecting goods, including conversion, trespass to goods, and negligence causing damage to goods.
    - *See also:* conversion; trespass
 
-8086. **wrongful trading** — 不当交易
+8087. **wrongful trading** — 不当交易
 
    - Continuing to trade when a director knows the company cannot avoid insolvent liquidation, exposing the director to liability.
    - *See also:* winding-up; fraudulent trading
 
-8087. **WTO** — 世贸组织
+8088. **WTO** — 世贸组织
 
    - The international organization that administers rules on trade between states.
    - *See also:* World Trade Organization
 
 ## Y
 
-8088. **Year And A Day Rule** — 一年零一日规则
+8089. **Year And A Day Rule** — 一年零一日规则
 
    1. **一年零一日规则：** A common law rule barring homicide liability when death occurs beyond a year and a day.
 
-8089. **year and thereafter from year to year** — 年及此后每年
+8090. **year and thereafter from year to year** — 年及此后每年
 
    - Words in a tenancy giving a fixed term for the first year and a yearly periodic tenancy afterwards.
    - *See also:* fixed-term; periodic tenancy
 
-8090. **Year Books** — 年鉴
+8091. **Year Books** — 年鉴
 
    - Early collections of English cases recording arguments and judgments.
    - *See also:* law reports
 
-8091. **yearly tenancy** — 每年租赁
+8092. **yearly tenancy** — 每年租赁
 
    - A periodic tenancy that runs from year to year.
    - *See also:* periodic tenancy
 
-8092. **yield grade lamb carcass reporting** — 羔羊胴体等级报告
+8093. **yield grade lamb carcass reporting** — 羔羊胴体等级报告
 
    1. **羔羊胴体等级报告：** A reporting requirement for grades and yields of lamb carcasses in commerce.
    - *Jurisdiction:* US
 
-8093. **yielding and paying** — 屈服和支付
+8094. **yielding and paying** — 屈服和支付
 
    - Phrases that begin the part of a lease setting out the rent.
    - *See also:* lease; reddendum
 
-8094. **York-Antwerp rules** — 约克-安特卫普规则
+8095. **York-Antwerp rules** — 约克-安特卫普规则
 
    - Rules for sharing losses between ship and cargo when general average is declared.
    - *See also:* average
 
-8095. **Younger Abstention** — 杨格弃权 *(n.)*
+8096. **Younger Abstention** — 杨格弃权 *(n.)*
 
    1. **杨格弃权：** A doctrine counseling federal courts to abstain from enjoining pending state proceedings.
    - *Jurisdiction:* US
 
-8096. **young offender** — 少年犯
+8097. **young offender** — 少年犯
 
    - A person under eighteen who commits a crime and is dealt with by a youth court.
    - *See also:* juvenile offender
 
-8097. **young person** — 未成年人
+8098. **young person** — 未成年人
 
    1. **未成年人：** An individual below the age of criminal responsibility or majority in juvenile law.
 
-8098. **young workers** — 年轻工人
+8099. **young workers** — 年轻工人
 
    - Workers over school-leaving age but under eighteen, given special protection by law.
    - *See also:* child employee
 
-8099. **youth advocate** — 青少年权益倡导人 *(n.)*
+8100. **youth advocate** — 青少年权益倡导人 *(n.)*
 
    1. **青少年权益倡导人：** A person appointed to represent the interests of a child or youth in proceedings.
 
-8100. **youth court** — 青少年法庭
+8101. **youth court** — 青少年法庭
 
    - A magistrates' court that deals with offences committed by children and young people under eighteen.
    - *See also:* magistrates’ court; juvenile offenders; magistrates; district judge
 
-8101. **youth custody** — 青少年监护
+8102. **youth custody** — 青少年监护
 
    - A custodial sentence for young offenders that combines detention with training.
    - *See also:* detention and training order
 
-8102. **youth rehabilitation order** — 青少年康复令
+8103. **youth rehabilitation order** — 青少年康复令
 
    - A community sentence for offenders aged eighteen or under, imposing requirements such as supervision, curfew, or unpaid work.
    - *See also:* activity requirement; curfew requirement; exclusion requirement; mental health treatment requirement; unpaid work requirement; supervision requirement; drug; residence requirement; programme requirement; prohibited activity requirement; attendance centre; community order
 
 ## Z
 
-8103. **zealous witness** — 热心证人
+8104. **zealous witness** — 热心证人
 
    - A witness who displays excessive partiality to one side in a case.
    - *See also:* witness
 
-8104. **zebra crossing** — 斑马线
+8105. **zebra crossing** — 斑马线
 
    - A pedestrian road crossing marked by alternating stripes, where pedestrians have priority over vehicles.
 
-8105. **zero-hours contract** — 零工时合同
+8106. **zero-hours contract** — 零工时合同
 
    - A contract with no guaranteed working hours, under which the employer offers work as needed and the worker may refuse.
    - *See also:* mutuality of obligation; employees; gig economy; self-employed; worker
 
-8106. **zero-rated supply** — 零税率供应
+8107. **zero-rated supply** — 零税率供应
 
    - A taxable deal in goods or services charged at zero percent, which unlike an exempt supply permits input tax credit.
    - *See also:* value-added tax; exempt supply; input tax
 
-8107. **Zone Of Interests** — 利益范围
+8108. **Zone Of Interests** — 利益范围
 
    1. **利益范围：** The limitation that a plaintiff must be within the class a statute is meant to protect.
    - *Jurisdiction:* US
 
-8108. **Zoning** — 区划；用途管制
+8109. **Zoning** — 区划；用途管制
 
    1. **区划；用途管制：** Local regulation dividing land into districts with permitted uses and densities.
    - *Jurisdiction:* US
 
 ## OTHER
 
-8109. **18–25 trust** — 18–25 信托
+8110. **18–25 trust** — 18–25 信托
 
    - A trust giving a young person the property by his 25th birthday.
    - *See also:* trust; discretionary trust; inheritance tax
+
+8111. **“but for” test** — “但是”测试
+
+   - The test asking whether harm would have occurred without the defendant's act.
+   - *See also:* causation
+
+8112. **“dog-leg” claim** — “狗腿”索赔
+
+   - A beneficiary's attempt to sue a trust corporation's directors directly for breach of trust.
+   - *See also:* breach of trust; trust corporation; fiduciary
+
+8113. **“Dutch courage”** — “荷兰勇气”
+
+   - Courage gained from drinking alcohol, relevant to the defence of intoxication.
+   - *See also:* intoxication
 
 ## Abbreviations
 

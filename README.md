@@ -4,21 +4,26 @@ OpenLexicon is an English-first bilingual legal lexicon drafted for learning leg
 
 **[Read the dictionary → OpenLexicon.md](OpenLexicon.md)**
 
-## Version 2
+## Version 2.1 · 2026-11-24
 
-- **Date:** 2026-10-11
-- **Entries:** 8,227 — 8,109 main entries and 118 abbreviations.
-- **Senses:** 8,633.
-- **Cross-references:** 8,790.
-- **License:** CC BY-SA 4.0, subject to the qualifications below.
+8,231 headwords (8,113 main entries and 118 abbreviations), 8,646 senses and 8,764 cross-references. The release contains 26 individually source-checked senses. The other senses await provenance and legal review. Read [source and licence notes](SOURCES.md) before reuse.
 
-## Files
+## Find and cite an entry
 
-- `README.md` — this introduction.
-- `OpenLexicon.md` — the complete human-readable dictionary, alphabetically grouped. Internal record IDs are not displayed.
-- `OpenLexicon.jsonl` — one JSON object per line for search, analysis, and reuse. Stable `id` values connect `cross_references[].target_id` to dictionary records.
+[OpenLexicon.jsonl](OpenLexicon.jsonl) is the master dictionary. Browse the Markdown above or download the raw JSONL if GitHub's preview is limited. With a local checkout, the following commands require only Python 3:
 
-For ordinary reading, open `OpenLexicon.md`. Use an editor's search function to find an English headword or Chinese term. Use `OpenLexicon.jsonl` when exact fields, stable IDs, sense metadata, or reference links are needed.
+```sh
+git rev-parse HEAD
+python3 tools/lookup.py "summary judgment"
+python3 tools/lookup.py lex-4331
+python3 tools/lookup.py 商业秘密
+```
+
+The lookup returns the JSONL line number and original record, including all senses. Cite the commit printed by Git, the stable ID and the sense number. For example, **OpenLexicon 2.1, lex-4331, sense 2** identifies the U.S. federal summary-judgment sense. Its legal authority is Fed. R. Civ. P. 56(a). Sense 1 is the England and Wales rule.
+
+[AI retrieval and editing rules](AGENTS.md) · [Sources and reuse](SOURCES.md) · [Change history](CHANGELOG.md) · [Development plan](DEVELOPMENT_PLAN.md)
+
+Edit the JSONL and run `python3 tools/render.py` to refresh the reading copy. Run `python3 tools/render.py --check` to verify that the copy matches the master.
 
 ## What changed in Version 2
 
